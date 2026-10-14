@@ -10,13 +10,18 @@ FTP=$(awk -F'\t' -v a="$ACC" '$1==a{print $7}' "$HERE/config/assemblies.tsv")
 [ -n "$FTP" ] || { echo "REFUSED: $ACC not in config/assemblies.tsv" >&2; exit 1; }
 BASE=$(basename "$FTP")
 D="$OUT/$ACC"; mkdir -p "$D"
-curl -sfL --retry 3 -o "$D/md5checksums.txt" "${FTP}md5checksums.txt"
-curl -sfL --retry 3 -o "$D/$ACC.assembly_report.txt" "${FTP}${BASE}_assembly_report.txt"
+# every download says why it failed; a stalled transfer (< 1 kB/s for 2 min) is aborted and retried
+get () {
+    curl -sSfL --retry 5 --retry-delay 10 --retry-all-errors --speed-limit 1000 --speed-time 120 -o "$1" "$2" \
+        || { echo "FAILED $ACC download $2" >&2; return 1; }
+}
+get "$D/md5checksums.txt" "${FTP}md5checksums.txt"
+get "$D/$ACC.assembly_report.txt" "${FTP}${BASE}_assembly_report.txt"
 if [ ! -s "$D/$ACC.fna.gz" ]; then
     # unique temp name + atomic rename: a concurrent fetch of the same accession cannot clobber it
     part=$(mktemp "$D/.$ACC.fna.gz.XXXXXX")
-    curl -sfL --retry 3 -o "$part" "${FTP}${BASE}_genomic.fna.gz" || { /bin/rm -f "$part"; exit 1; }
-    /bin/mv -f "$part" "$D/$ACC.fna.gz"
+    get "$part" "${FTP}${BASE}_genomic.fna.gz" || { /bin/rm -f "$part"; exit 1; }
+    chmod 644 "$part"; /bin/mv -f "$part" "$D/$ACC.fna.gz"
 fi
 want=$(awk -v f="./${BASE}_genomic.fna.gz" '$2==f{print $1}' "$D/md5checksums.txt")
 have=$(md5sum < "$D/$ACC.fna.gz" | cut -d' ' -f1)
