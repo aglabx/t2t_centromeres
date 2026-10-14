@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use these annotations or the pipeline, please cite this repository."
+title: "t2t_centromeres: centromeric satellite arrays for 33 T2T assemblies from satellome catalogues"
+type: dataset
+authors:
+  - family-names: Komissarov
+    given-names: Aleksey
+repository-code: "https://github.com/aglabx/t2t_centromeres"
+license: MIT
+date-released: 2026-10-15
+keywords: [centromere, satellite DNA, T2T, alpha satellite, FasTAN, satellome]

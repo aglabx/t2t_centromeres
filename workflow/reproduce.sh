@@ -16,5 +16,5 @@ HERE=$(cd "$(dirname "$0")" && pwd)
 bash "$HERE/satellome_all.sh" "$W" "$JOBS" "$THREADS"
 reports=$(ls "$W"/inputs/GCA_028878055.3/*.assembly_report.txt "$W"/inputs/GCA_028878085.3/*.assembly_report.txt)
 bash "$HERE/fetch_official.sh" "$W/official" $reports || exit 1
-bash "$HERE/call_all.sh" "$W" "$W/official" "$W/annotations" "$THREADS"
+bash "$HERE/call_all.sh" "$W" "$W/official" "$W/annotations" 16   # the thread count the published run used
 bash "$HERE/verify.sh" "$W/annotations"

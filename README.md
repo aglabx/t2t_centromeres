@@ -24,6 +24,7 @@ inputs by one script (`workflow/reproduce.sh`) and checked by md5 (`workflow/ver
 | `MANIFEST.md5` | md5 of the above |
 
 Panel tables: `annotations/SUMMARY.tsv`, `ALL_centromeres.tsv`, `ALL_official_overlap.tsv`, `STATUS.tsv`.
+Every GFF attribute and relation is defined in [`docs/OUTPUT_FORMAT.md`](docs/OUTPUT_FORMAT.md).
 
 **The locus is the centromeric satellite zone, not the active array.** In apes and orangutans it can be
 several times wider than the active HOR; the largest array inside it is the candidate active array.
@@ -75,7 +76,8 @@ join on accession or molecule, never on that name.
 conda env create -f environment.yml && conda activate t2t_centromeres
 python -m satellome --install-fastan --install-tanbed --install-rust-tools
 bash workflow/check_env.sh               # versions vs config/toolchain.tsv
-bash workflow/reproduce.sh work/ 5 10    # 5 assemblies at a time, 10 threads each
+bash tests/smoke_test.sh work_smoke/      # ~15 min: one small assembly end to end, md5 vs annotations/
+bash workflow/reproduce.sh work/ 5 10    # all 33: 5 assemblies at a time, 10 threads each
 ```
 
 `reproduce.sh` downloads each GenBank assembly from NCBI (md5-checked), runs satellome

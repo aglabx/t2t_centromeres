@@ -4,9 +4,10 @@
 # otherwise silently run against a different release). Then extracts the two supplementary-table
 # sheets that carry coordinates and normalises everything for build_gff.py.
 #
-#   fetch_official.sh OFFICIAL_DIR      -> OFFICIAL_DIR/raw/*, OFFICIAL_DIR/norm/*, OFFICIAL_DIR/LEDGER.tsv
+#   fetch_official.sh OFFICIAL_DIR SIAMANG_REPORT... -> OFFICIAL_DIR/raw/*, norm/*, LEDGER.tsv
+#   (the NCBI assembly reports of the siamang assemblies fill one name the T2T-Browser alias table lacks)
 set -uo pipefail
-O=${1:?official dir}; HERE=$(cd "$(dirname "$0")/.." && pwd)
+O=${1:?official dir}; shift; HERE=$(cd "$(dirname "$0")/.." && pwd)
 mkdir -p "$O/raw"
 L="$O/LEDGER.tsv"; printf 'name\turl\texpected_md5\tobserved_md5\tstatus\n' > "$L"
 fail=0

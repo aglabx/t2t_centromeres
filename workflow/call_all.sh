@@ -2,17 +2,18 @@
 # Call centromeric arrays and build the GFF (with every published set from config/official_sources.tsv)
 # for every assembly in config/assemblies.tsv; then write the panel tables and md5 manifests.
 #
-#   call_all.sh WORKDIR OFFICIAL_DIR OUTDIR [THREADS]
+#   call_all.sh WORKDIR OFFICIAL_DIR OUTDIR [THREADS] [ACC,ACC,...]
 #     WORKDIR       from satellome_all.sh (inputs/<acc>/ + satellome/<acc>/)
 #     OFFICIAL_DIR  from fetch_official.sh (raw/ + norm/)
 #     OUTDIR        OUTDIR/<acc>/ annotations + OUTDIR/{SUMMARY,ALL_*,STATUS}.tsv + MANIFEST.md5
 set -uo pipefail
-W=${1:?workdir}; O=${2:?official dir}; OUT=${3:?outdir}; THREADS=${4:-16}
+W=${1:?workdir}; O=${2:?official dir}; OUT=${3:?outdir}; THREADS=${4:-16}; ONLY=${5:-}
 HERE=$(cd "$(dirname "$0")/.." && pwd); SRC="$HERE/src/t2t_centromeres"
 mkdir -p "$OUT"
 FILES="centromeres.gff3 centromeres.tsv centromeric_arrays.tsv centromeric_arrays.bed official_overlap.tsv family_breadth.tsv outliers.tsv exceptions.tsv"
 ST="$OUT/STATUS.tsv"; printf 'accession\tasm_name\tcatalogue\tstatus\tsummary\n' > "$ST"
 tail -n +2 "$HERE/config/assemblies.tsv" | while IFS=$'\t' read -r acc asm _; do
+    [ -n "$ONLY" ] && [[ ",$ONLY," != *",$acc,"* ]] && continue
     cat_dir="$W/satellome/$acc"; rep="$W/inputs/$acc/$acc.assembly_report.txt"; d="$OUT/$acc"
     if [ ! -f "$cat_dir/.complete" ]; then
         printf '%s\t%s\t\tpending\tno satellome catalogue\n' "$acc" "$asm" >> "$ST"; continue
