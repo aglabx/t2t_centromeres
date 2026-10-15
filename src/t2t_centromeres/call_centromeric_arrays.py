@@ -5,8 +5,10 @@
   2. sequence families: monomer consensus vs a doubled + rc-doubled target set (rotation- and
      strand-aware), BLASTN word 7, single linkage at identity >= --ident and query cover >= --cov;
      consensus shorter than --short-len grouped by canonical rotation
-  3. superfamilies: sequence families whose base monomer periods are equal or 2x (+- --period-tol)
-  4. centromeric superfamily: carries >= --chrom-min-bp on the most chromosomes, ties by bp;
+  3. superfamilies: sequence families whose base monomer period is equal to or 2x that of the
+     superfamily founder, its largest family (+- --period-tol); no chaining member to member
+  4. centromeric superfamily: among those with a base period (a consensus >= --short-len), present
+     (>= --breadth-min-bp) on the most chromosomes, ties by bp;
      co-families = broad superfamilies co-located with it (--cofamily-breadth, --cofamily-coloc)
   5. per chromosome: its arrays (plus monomer-period-class arrays, k = 1..4) merged across gaps
      < --merge-gap; the cluster with the most bp is the locus. Cap mode (the superfamily also sits in
@@ -39,7 +41,10 @@ ap.add_argument("--min-array", type=int, default=10_000)
 ap.add_argument("--ident", type=float, default=0.70)
 ap.add_argument("--cov", type=float, default=0.80)
 ap.add_argument("--short-len", type=int, default=30)
-ap.add_argument("--chrom-min-bp", type=int, default=100_000)
+ap.add_argument("--chrom-min-bp", type=int, default=100_000,
+                help="bp of a superfamily that counts for co-location, both-ends (cap mode) and co-located families")
+ap.add_argument("--breadth-min-bp", type=int, default=10_000,
+                help="bp of a superfamily on a chromosome for it to count toward breadth (default: one array of --min-array)")
 ap.add_argument("--merge-gap", type=int, default=1_000_000)
 ap.add_argument("--ambiguous-frac", type=float, default=0.50)
 ap.add_argument("--end-frac", type=float, default=0.01)
@@ -211,17 +216,25 @@ def _k_of(p, q, kmax):
 # ---- superfamilies: sequence families whose base monomer periods are equal or 2x (+-period_tol) ----
 # Breadth on raw sequence families is unstable: in bonobo mat alpha split into 18 families, the largest
 # on 18 chromosomes - the same breadth as the 32-bp subterminal satellite, which then won on bp.
+# Each family is compared with a superfamily's founder (its largest family by bp), never with another
+# member: single linkage on period drifts. bonobo pri: subterminal families of 62..141 bp chained in
+# 3 % steps up to ~86 bp, 2 x 86 ~ 171, and a 70-bp satellite joined alpha (loci moved to 0.4 Mb).
 fam_base = {fam_name[r]: _base(fam_members[r]) for r in fam_order}
 suf = UF()
 for fn in fam_base:
     suf.find(fn)
-long_fams = sorted((fn for fn, b in fam_base.items() if b >= args.short_len), key=lambda fn: fam_base[fn])
-for i, x in enumerate(long_fams):
-    for y in long_fams[i + 1:]:
-        if fam_base[y] > 2.2 * fam_base[x]:
+founders = []
+for fn in (fam_name[r] for r in fam_order):          # largest family first
+    b = fam_base[fn]
+    if b < args.short_len:
+        continue
+    for f0 in founders:
+        b0 = fam_base[f0]
+        if _k_of(max(b, b0), min(b, b0), 2):
+            suf.union(f0, fn)
             break
-        if _k_of(fam_base[y], fam_base[x], 2):
-            suf.union(x, y)
+    else:
+        founders.append(fn)
 sup_members = defaultdict(list)
 for a in arrays:
     sup_members[suf.find(a["family"])].append(a)
@@ -256,14 +269,23 @@ for r in sup_order:
     sn = sup_name[r]
     mem = sup_members[r]
     rep = max(mem, key=lambda a: a["len"])
-    n_ch = sum(1 for bp in sup_chrom_bp[sn].values() if bp >= args.chrom_min_bp)
+    # Breadth = chromosomes carrying the superfamily at all. At >= 100 kb bonobo mat alpha (present on
+    # 24 chromosomes, centromeres as small as 93 kb) tied the 32-bp subterminal satellite 18 vs 18.
+    n_ch = sum(1 for bp in sup_chrom_bp[sn].values() if bp >= args.breadth_min_bp)
+    n_big = sum(1 for bp in sup_chrom_bp[sn].values() if bp >= args.chrom_min_bp)
     fams = sorted({a["family"] for a in mem})
     breadth.append({"family": sn, "n_arrays": len(mem), "total_bp": sum(a["len"] for a in mem),
-                    "n_chrom": n_ch, "rep": rep, "n_families": len(fams),
+                    "n_chrom": n_ch, "n_chrom_big": n_big, "rep": rep, "n_families": len(fams),
                     "families": ",".join(fams[:20]) + ("..." if len(fams) > 20 else ""),
                     "base_period": _base(mem), "both_ends": _both_ends(sn)})
 breadth.sort(key=lambda b: (-b["n_chrom"], -b["total_bp"]))
-cen = breadth[0]
+# A superfamily without a base period (every consensus < --short-len: microsatellites, the telomeric
+# repeat) is never the centromeric one. Under breadth = presence the telomere, >= 10 kb on all 28 sheep
+# chromosomes, outranked SatI (26) and moved every sheep locus to a chromosome end.
+eligible = [b for b in breadth if b["base_period"] > 0]
+if not eligible:
+    die(f"no superfamily has a monomer consensus >= --short-len {args.short_len}; none can be centromeric")
+cen = eligible[0]
 cen_fam = cen["family"]
 
 
@@ -282,8 +304,8 @@ def _largest_cluster(sf, chrom):
 # goat: SatI (816) and SatII (703) are both on ~every chromosome at the same end; breadth alone flipped
 # between assemblies of one individual (goat1.0 816, goat2.0 703 by 30 vs 29 chromosomes).
 cofams, coloc_note = [], {}
-for b in breadth[1:]:
-    if b["n_chrom"] < args.cofamily_breadth * cen["n_chrom"] or b["base_period"] == 0:
+for b in breadth:
+    if b is cen or b["n_chrom"] < args.cofamily_breadth * cen["n_chrom"] or b["base_period"] == 0:
         continue
     shared = [c for c in sup_chrom_bp[cen_fam] if sup_chrom_bp[cen_fam][c] >= args.chrom_min_bp
               and sup_chrom_bp[b["family"]].get(c, 0) >= args.chrom_min_bp]
@@ -333,15 +355,19 @@ if cap_mode:
 for f in cofams:
     exceptions.append(("cofamily_joined_locus", "*", f, f"co-located on {coloc_note[f]} shared chromosomes",
                        "arrays of this superfamily are part of the centromeric locus"))
-for b in breadth[1:]:
-    if b["family"] in cofams:
+for b in breadth:
+    if b is cen or b["family"] in cofams:
         continue
     if b["n_chrom"] >= cen["n_chrom"] - 1:
-        kind = "breadth_tie_broken_by_bp" if b["n_chrom"] == cen["n_chrom"] else "breadth_near_tie"
+        if b["base_period"] == 0:
+            kind, applied = "short_consensus_family_as_broad", "not eligible: no consensus >= --short-len"
+        else:
+            kind = "breadth_tie_broken_by_bp" if b["n_chrom"] == cen["n_chrom"] else "breadth_near_tie"
+            applied = "kept the broader family; see colocated_families"
         exceptions.append((kind, "*", b["family"],
                            f"{b['n_chrom']} chromosomes, {b['total_bp']} bp, mono {b['rep']['mono_period']} vs "
                            f"{cen['n_chrom']} chromosomes, {cen['total_bp']} bp, mono {cen['rep']['mono_period']}",
-                           "kept the broader family; see colocated_families"))
+                           applied))
 rows, loci_arrays, chrom_rows_missing = [], [], []
 for ch in chrom_list:
     mine = sorted((a for a in arrays if a["chrom"] == ch["name"] and a["membership"]),
@@ -434,10 +460,10 @@ with open(os.path.join(args.out, "centromeric_arrays.bed"), "w") as fh:
         fh.write(f"{a['seq']}\t{a['start']}\t{a['end']}\t{a['chrom']}|{a['sfam']}|p{a['period']}"
                  f"|m{a['mono_period']}\t0\t.\n")
 write("family_breadth.tsv",
-      ["family", "n_arrays", "total_bp", "n_chrom_ge_min_bp", "chosen", "base_period", "n_seq_families",
+      ["family", "n_arrays", "total_bp", "n_chrom_breadth", "n_chrom_ge_chrom_min_bp", "chosen", "base_period", "n_seq_families",
        "chroms_both_ends", "rep_seq", "rep_start", "rep_len", "rep_fastan_period", "rep_mono_period",
        "rep_mono_consensus", "seq_families"],
-      [[b["family"], b["n_arrays"], b["total_bp"], b["n_chrom"], (1 if b["family"] == cen_fam else (2 if b["family"] in cofams else 0)),
+      [[b["family"], b["n_arrays"], b["total_bp"], b["n_chrom"], b["n_chrom_big"], (1 if b["family"] == cen_fam else (2 if b["family"] in cofams else 0)),
         b["base_period"], b["n_families"], b["both_ends"], b["rep"]["seq"], b["rep"]["start"],
         b["rep"]["len"], b["rep"]["period"], b["rep"]["mono_period"], b["rep"]["cons"], b["families"]]
        for b in breadth])

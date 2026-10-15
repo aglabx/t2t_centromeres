@@ -1,0 +1,26 @@
+kind	chromosome	family	magnitude	default_applied
+breadth_near_tie	*	S001	24 chromosomes, 227119150 bp, mono 32 vs 25 chromosomes, 109667523 bp, mono 169	kept the broader family; see colocated_families
+other_family_larger_on_chromosome	chr1_pat_hsa1	S001	6589330 bp vs 3973249 bp	centromeric family kept
+other_family_larger_on_chromosome	chr2_pat_hsa3	S001	8503025 bp vs 3665587 bp	centromeric family kept
+other_family_larger_on_chromosome	chr3_pat_hsa4	S006	11399933 bp vs 3168260 bp	centromeric family kept
+other_family_larger_on_chromosome	chr4_pat_hsa17x5	S001	16625032 bp vs 6527287 bp	centromeric family kept
+other_family_larger_on_chromosome	chr5_mat_hsa6	S001	14322719 bp vs 5367240 bp	centromeric family kept
+other_family_larger_on_chromosome	chr7_pat_hsa8	S001	10112868 bp vs 3341248 bp	centromeric family kept
+other_family_larger_on_chromosome	chr8_pat_hsa10	S001	11329189 bp vs 6703028 bp	centromeric family kept
+other_family_larger_on_chromosome	chr9_pat_hsa11	S001	6461636 bp vs 5642160 bp	centromeric family kept
+other_family_larger_on_chromosome	chr10_mat_hsa12	S001	15400266 bp vs 3017096 bp	centromeric family kept
+other_family_larger_on_chromosome	chr11_mat_hsa2b	S001	14226792 bp vs 237860 bp	centromeric family kept
+other_family_larger_on_chromosome	chr12_pat_hsa2a	S002	16013812 bp vs 2674133 bp	centromeric family kept
+other_family_larger_on_chromosome	chr13_pat_hsa9	S002	9803609 bp vs 4752549 bp	centromeric family kept
+other_family_larger_on_chromosome	chr14_pat_hsa13	S002	14088060 bp vs 2674492 bp	centromeric family kept
+other_family_larger_on_chromosome	chr15_pat_hsa14	S002	16770678 bp vs 6157170 bp	centromeric family kept
+other_family_larger_on_chromosome	chr16_pat_hsa15	S002	7282105 bp vs 1523026 bp	centromeric family kept
+other_family_larger_on_chromosome	chr17_mat_hsa18	S002	19540267 bp vs 2232098 bp	centromeric family kept
+other_family_larger_on_chromosome	chr18_pat_hsa16	S002	26055143 bp vs 5164311 bp	centromeric family kept
+other_family_larger_on_chromosome	chr19_pat_hsa5x17	S001	11631500 bp vs 5529213 bp	centromeric family kept
+other_family_larger_on_chromosome	chr20_mat_hsa19	S001	11000187 bp vs 7715125 bp	centromeric family kept
+other_family_larger_on_chromosome	chr21_pat_hsa20	S001	13867228 bp vs 6260999 bp	centromeric family kept
+other_family_larger_on_chromosome	chr22_mat_hsa21	S001	9996393 bp vs 3275644 bp	centromeric family kept
+other_family_larger_on_chromosome	chr23_mat_hsa22	S001	4601235 bp vs 4376279 bp	centromeric family kept
+other_family_larger_on_chromosome	chrX_mat_hsaX	S001	14619621 bp vs 5620064 bp	centromeric family kept
+other_family_larger_on_chromosome	chrY_pat_hsaY	S002	9992356 bp vs 4313781 bp	centromeric family kept

@@ -1,0 +1,42 @@
+kind	chromosome	family	magnitude	default_applied
+cap_mode	*	S001	22 of 24 chromosomes carry it in both terminal 10%	interior clusters preferred over terminal ones on every chromosome
+subterminal_cap_skipped	chr1_hap2	S001	terminal 8838247 bp at 155659573-165977661; interior 328784 bp chosen	cap mode
+second_locus_comparable	chr1_hap2	S001	second 8838247 bp vs first 328784 bp	kept the larger
+subterminal_cap_skipped	chr2_hap2	S001	terminal 10764244 bp at 264681-13515558; interior 273423 bp chosen	cap mode
+second_locus_comparable	chr2_hap2	S001	second 10764244 bp vs first 273423 bp	kept the larger
+subterminal_cap_skipped	chr3_hap2	S001	terminal 7986600 bp at 153003965-163370731; interior 503504 bp chosen	cap mode
+second_locus_comparable	chr3_hap2	S001	second 7986600 bp vs first 503504 bp	kept the larger
+subterminal_cap_skipped	chr4_hap2	S001	terminal 5242556 bp at 292472-6784860; interior 341329 bp chosen	cap mode
+second_locus_comparable	chr4_hap2	S001	second 5242556 bp vs first 341329 bp	kept the larger
+subterminal_cap_skipped	chr5_hap2	S001	terminal 5612597 bp at 157856918-164781943; interior 1523637 bp chosen	cap mode
+subterminal_cap_skipped	chr6_hap2	S001	terminal 9746159 bp at 286825-11513879; interior 264452 bp chosen	cap mode
+subterminal_cap_skipped	chr7_hap2	S001	terminal 7929344 bp at 135122-9199143; interior 791582 bp chosen	cap mode
+second_locus_comparable	chr7_hap2	S001	second 7929344 bp vs first 791582 bp	kept the larger
+subterminal_cap_skipped	chr8_hap2	S001	terminal 5273158 bp at 290037-6430825; interior 577148 bp chosen	cap mode
+second_locus_comparable	chr8_hap2	S001	second 5273158 bp vs first 577148 bp	kept the larger
+subterminal_cap_skipped	chr9_hap2	S001	terminal 6444659 bp at 81664-7735266; interior 459239 bp chosen	cap mode
+subterminal_cap_skipped	chr10_hap2	S001	terminal 7076741 bp at 263274-8375791; interior 548438 bp chosen	cap mode
+subterminal_cap_skipped	chr11_hap2	S001	terminal 7983830 bp at 294776-9765504; interior 1403972 bp chosen	cap mode
+second_locus_comparable	chr19_hap2	S001	second 9399923 bp vs first 12356189 bp	kept the larger
+subterminal_cap_skipped	chr13_hap2	S001	terminal 14081642 bp at 288425-17661561; interior 1375413 bp chosen	cap mode
+second_locus_comparable	chr13_hap2	S001	second 14081642 bp vs first 1375413 bp	kept the larger
+subterminal_cap_skipped	chr14_hap2	S001	terminal 7520240 bp at 115071319-123520080; interior 141917 bp chosen	cap mode
+second_locus_comparable	chr14_hap2	S001	second 7520240 bp vs first 141917 bp	kept the larger
+locus_at_chromosome_end	chr15_hap2	S001	106637482-133747096 of 134005234	informative: telocentric
+subterminal_cap_skipped	chr16_hap2	S001	terminal 11942782 bp at 95878179-109099684; interior 157241 bp chosen	cap mode
+subterminal_cap_skipped	chr17_hap2	S001	terminal 11235422 bp at 289757-14937786; interior 1224606 bp chosen	cap mode
+second_locus_comparable	chr17_hap2	S001	second 11235422 bp vs first 1224606 bp	kept the larger
+subterminal_cap_skipped	chr18_hap2	S001	terminal 6236106 bp at 140460-8510066; interior 2788939 bp chosen	cap mode
+second_locus_comparable	chr18_hap2	S001	second 6236106 bp vs first 2788939 bp	kept the larger
+subterminal_cap_skipped	chr12_hap2	S001	terminal 8639676 bp at 277959-9952548; interior 1080616 bp chosen	cap mode
+second_locus_comparable	chr12_hap2	S001	second 8639676 bp vs first 1080616 bp	kept the larger
+subterminal_cap_skipped	chr20_hap2	S001	terminal 10405462 bp at 185971-12784839; interior 4069791 bp chosen	cap mode
+second_locus_comparable	chr20_hap2	S001	second 10405462 bp vs first 4069791 bp	kept the larger
+subterminal_cap_skipped	chr21_hap2	S001	terminal 6104226 bp at 88464878-96526480; interior 41776 bp chosen	cap mode
+second_locus_comparable	chr21_hap2	S001	second 6104226 bp vs first 41776 bp	kept the larger
+subterminal_cap_skipped	chr22_hap2	S001	terminal 5599055 bp at 76746669-84340335; interior 1926305 bp chosen	cap mode
+second_locus_comparable	chr22_hap2	S001	second 5599055 bp vs first 1926305 bp	kept the larger
+subterminal_cap_skipped	chr23_hap2	S001	terminal 5696174 bp at 256936-7340189; interior 559743 bp chosen	cap mode
+second_locus_comparable	chr23_hap2	S001	second 5696174 bp vs first 559743 bp	kept the larger
+subterminal_cap_skipped	chr24_hap2	S001	terminal 6147787 bp at 67434329-75264358; interior 2933212 bp chosen	cap mode
+second_locus_comparable	chr24_hap2	S001	second 6147787 bp vs first 2933212 bp	kept the larger

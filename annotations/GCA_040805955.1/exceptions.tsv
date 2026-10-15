@@ -1,0 +1,24 @@
+kind	chromosome	family	magnitude	default_applied
+short_consensus_family_as_broad	*	S008	28 chromosomes, 692714 bp, mono 6 vs 26 chromosomes, 126523972 bp, mono 816	not eligible: no consensus >= --short-len
+other_family_larger_on_chromosome	1	S002	5577821 bp vs 17462 bp	centromeric family kept
+other_family_larger_on_chromosome	3	S002	1429806 bp vs 1038985 bp	centromeric family kept
+second_locus_comparable	4	S001	second 2563129 bp vs first 3683631 bp	kept the larger
+locus_at_chromosome_end	6	S001	12992-6533584 of 128157979	informative: telocentric
+second_locus_comparable	7	S001	second 2320994 bp vs first 3923341 bp	kept the larger
+second_locus_comparable	8	S001	second 1218281 bp vs first 2221059 bp	kept the larger
+locus_at_chromosome_end	9	S001	12999-5425655 of 100758638	informative: telocentric
+locus_at_chromosome_end	11	S001	13001-1267910 of 63867408	informative: telocentric
+second_locus_comparable	12	S001	second 3054624 bp vs first 3473630 bp	kept the larger
+locus_at_chromosome_end	13	S001	640653-7238786 of 91233457	informative: telocentric
+locus_at_chromosome_end	14	S001	12999-1936109 of 69910971	informative: telocentric
+locus_at_chromosome_end	17	S001	12998-7136944 of 80095079	informative: telocentric
+locus_at_chromosome_end	18	S001	697125-1432114 of 72527752	informative: telocentric
+other_family_larger_on_chromosome	19	S004	1060807 bp vs 978062 bp	centromeric family kept
+locus_at_chromosome_end	20	S001	12999-3311320 of 58727623	informative: telocentric
+locus_includes_period_class_arrays	22	S001	13871 of 1233166 bp	joined by monomer period, not by sequence
+locus_at_chromosome_end	22	S001	153729-1814615 of 53548810	informative: telocentric
+locus_at_chromosome_end	23	S001	12998-14165316 of 79069306	informative: telocentric
+second_locus_comparable	26	S001	second 4827481 bp vs first 5975479 bp	kept the larger
+locus_includes_period_class_arrays	X	S001	21959 of 21959 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	X	S002	1135074 bp vs 21959 bp	centromeric family kept
+locus_includes_period_class_arrays	Y	S001	179755 of 179755 bp	joined by monomer period, not by sequence

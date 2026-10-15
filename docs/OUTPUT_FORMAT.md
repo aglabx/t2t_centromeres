@@ -55,8 +55,11 @@ k × base period, not by sequence), `fastan_period`, `mono_period`, `hor_period`
 - `centromeres.tsv` — one row per chromosome with a call (same fields as the locus, plus the largest array and its monomer consensus).
 - `centromeric_arrays.tsv` / `.bed` — every array of every locus, with HOR consensus.
 - `official_overlap.tsv` — one row per chromosome × published set (all relations above, with coordinates).
-- `family_breadth.tsv` — every superfamily; `chosen` = 1 centromeric, 2 co-family.
+- `family_breadth.tsv` — every superfamily; `n_chrom_breadth` = chromosomes with ≥ `--breadth-min-bp` (10 kb) of it,
+  the breadth the choice uses; `n_chrom_ge_chrom_min_bp` = chromosomes with ≥ `--chrom-min-bp` (100 kb);
+  `base_period` 0 = no consensus ≥ 30 bp (not eligible); `chosen` = 1 centromeric, 2 co-family.
 - `outliers.tsv` — chromosomes without an array of the centromeric family; arrays without a usable consensus.
-- `exceptions.tsv` — `breadth_near_tie`, `breadth_tie_broken_by_bp`, `cofamily_joined_locus`, `cap_mode`,
+- `exceptions.tsv` — `breadth_near_tie`, `breadth_tie_broken_by_bp`, `short_consensus_family_as_broad`
+  (a superfamily without a consensus ≥ 30 bp, at least as broad as the chosen one minus one), `cofamily_joined_locus`, `cap_mode`,
   `subterminal_cap_skipped`, `cap_mode_no_interior_cluster`, `locus_at_chromosome_end`,
   `second_locus_comparable`, `locus_includes_period_class_arrays`, `other_family_larger_on_chromosome`.

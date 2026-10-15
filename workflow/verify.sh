@@ -9,6 +9,7 @@ set -uo pipefail
 F=${1:?fresh annotations dir}; HERE=$(cd "$(dirname "$0")/.." && pwd); A="$HERE/annotations"
 [ -s "$A/MANIFEST.md5" ] || { echo "FAIL: $A/MANIFEST.md5 missing or empty (nothing to verify against)" >&2; exit 1; }
 [ -d "$F" ] || { echo "FAIL: $F is not a directory" >&2; exit 1; }
+[ -f "$F/CALLER_FLAGS.txt" ] && { echo "FAIL: $F was called with non-default flags: $(cat "$F/CALLER_FLAGS.txt")" >&2; exit 1; }
 same=0; diff=0; missing=0; extra=0
 while read -r md5 path; do
     f="$F/$path"

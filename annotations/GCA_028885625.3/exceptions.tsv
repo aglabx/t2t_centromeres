@@ -1,0 +1,10 @@
+kind	chromosome	family	magnitude	default_applied
+short_consensus_family_as_broad	*	S014	24 chromosomes, 480875 bp, mono 6 vs 25 chromosomes, 122398700 bp, mono 171	not eligible: no consensus >= --short-len
+second_locus_comparable	chr6_hap1_hsa7	S001	second 918761 bp vs first 1460843 bp	kept the larger
+other_family_larger_on_chromosome	chr12_hap1_hsa2a	S002	4839064 bp vs 3768572 bp	centromeric family kept
+second_locus_comparable	chr14_hap1_hsa13	S001	second 1200086 bp vs first 2242605 bp	kept the larger
+other_family_larger_on_chromosome	chr16_hap1_hsa15	S002	3503427 bp vs 3426136 bp	centromeric family kept
+other_family_larger_on_chromosome	chr22_hap1_hsa21	S002	4294909 bp vs 3088134 bp	centromeric family kept
+second_locus_comparable	chr23_hap1_hsa22	S001	second 1336825 bp vs first 2138880 bp	kept the larger
+other_family_larger_on_chromosome	chr23_hap1_hsa22	S002	5213983 bp vs 4489273 bp	centromeric family kept
+other_family_larger_on_chromosome	chrY_hap2_hsaY	S002	3937683 bp vs 2066718 bp	centromeric family kept

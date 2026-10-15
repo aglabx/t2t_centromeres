@@ -1,0 +1,8 @@
+kind	chromosome	family	magnitude	default_applied
+short_consensus_family_as_broad	*	S008	16 chromosomes, 2732869 bp, mono 6 vs 15 chromosomes, 20415902 bp, mono 329	not eligible: no consensus >= --short-len
+other_family_larger_on_chromosome	chr8_mat	S006	2348090 bp vs 1527621 bp	centromeric family kept
+other_family_larger_on_chromosome	chr9_mat	S002	6613293 bp vs 2417340 bp	centromeric family kept
+other_family_larger_on_chromosome	chr11_pat	S007	1932514 bp vs 1399002 bp	centromeric family kept
+locus_at_chromosome_end	chr14_pat	S001	53284-858559 of 72936098	informative: telocentric
+other_family_larger_on_chromosome	chr14_pat	S004	5205230 bp vs 805275 bp	centromeric family kept
+other_family_larger_on_chromosome	chrX_mat	S003	5552395 bp vs 1184301 bp	centromeric family kept
