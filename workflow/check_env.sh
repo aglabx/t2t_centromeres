@@ -11,6 +11,10 @@ declare -A have=(
   [blastn]=$(blastn -version 2>&1 | head -1 | awk '{print $2}')
   [fastan_git]=$(sha fastan)
   [tanbed_git]=$(sha tanbed)
+  [python]=$(python -c "import sys;print('%d.%d' % sys.version_info[:2])")
+  [numpy]=$(python -c "import numpy;print(numpy.__version__)" 2>/dev/null || echo missing)
+  [zstandard]=$(python -c "import zstandard;print(zstandard.__version__)" 2>/dev/null || echo missing)
+  [pyyaml]=$(python -c "import yaml;print(yaml.__version__)" 2>/dev/null || echo missing)
 )
 bad=0
 while IFS=$'\t' read -r tool want note; do

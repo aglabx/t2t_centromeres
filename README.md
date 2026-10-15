@@ -163,10 +163,11 @@ join on accession or molecule, never on that name.
 ## Reproduce
 
 ```bash
-conda env create -f environment.yml && conda activate t2t_centromeres
+export PYTHONNOUSERSITE=1                # else pip skips packages it finds in ~/.local (arraysplitter's binary goes missing)
+conda env create -f environment.yml && conda activate t2t_centromeres   # mamba env create: 1.5 min vs > 12 min
 python -m satellome --install-fastan --install-tanbed --install-rust-tools
 bash workflow/check_env.sh               # versions vs config/toolchain.tsv
-bash tests/smoke_test.sh work_smoke/      # ~15 min: one small assembly end to end, md5 vs annotations/
+bash tests/smoke_test.sh work_smoke/      # ~2 min: one small assembly end to end, md5 vs annotations/
 bash workflow/reproduce.sh work/ 5 10    # all 33: 5 assemblies at a time, 10 threads each
 ```
 

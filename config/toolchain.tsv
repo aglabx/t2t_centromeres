@@ -4,3 +4,7 @@ arraysplitter	1.7.4	arraysplitter_rs
 blastn	2.12.0+	BLAST+
 fastan_git	e4953e9	github.com/ad3002/FASTAN (FasTAN 0.8, satellome fork); our binary md5 23bf4af9a3b18e5fc525c51b62e8cdb7
 tanbed_git	1fb9f4f	github.com/richarddurbin/alntools; our binary md5 12cc8457a34fc6e696beadf186e3ccca
+python	3.10	CPython major.minor
+numpy	1.26.4	pip; satellome imports it
+zstandard	0.25.0	pip
+pyyaml	6.0.3	pip PyYAML

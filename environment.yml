@@ -1,4 +1,6 @@
 # Environment the published annotations were produced in (Linux 5.15, 2026-10-14/15).
+# Create it with PYTHONNOUSERSITE=1 exported: otherwise pip treats packages in ~/.local as installed and
+# leaves them out of the environment.
 # After creating it:  python -m satellome --install-fastan --install-tanbed --install-rust-tools
 # then run workflow/check_env.sh — it compares tool versions and the FasTAN / tanbed source commits.
 name: t2t_centromeres

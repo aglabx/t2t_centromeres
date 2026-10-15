@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Quick end-to-end check on the smallest assembly (T2T-MFA8v1.1 chrY, GCA_048601705.1, 17 Mb, ~15 min):
+# Quick end-to-end check on the smallest assembly (T2T-MFA8v1.1 chrY, GCA_048601705.1, 17 Mb; 1 min 40 s measured):
 # NCBI download -> satellome -> call -> GFF with the published MFA8 sets, then md5 against annotations/.
 #
 #   tests/smoke_test.sh WORKDIR
