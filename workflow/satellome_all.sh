@@ -8,7 +8,7 @@ set -uo pipefail
 W=${1:?workdir}; JOBS=${2:-5}; THREADS=${3:-10}
 HERE=$(cd "$(dirname "$0")" && pwd)
 mkdir -p "$W/inputs" "$W/satellome" "$W/logs"
-tail -n +2 "$HERE/../config/assemblies.tsv" | cut -f1 > "$W/logs/accessions.txt"
+tail -n +2 "${ASSEMBLIES:-$HERE/../config/assemblies.tsv}" | cut -f1 > "$W/logs/accessions.txt"
 one () {
     acc=$1
     bash "$HERE/fetch_assembly.sh" "$acc" "$W/inputs" >> "$W/logs/$acc.log" 2>&1 || { echo "$acc FETCH_FAILED"; return; }

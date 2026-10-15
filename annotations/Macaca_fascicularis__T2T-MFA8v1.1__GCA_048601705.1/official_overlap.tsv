@@ -1,3 +1,0 @@
-accession	chromosome	molecule	seqid	our_locus_start	our_locus_end	set	relation	agreement	official_start	official_end	official_n	n_official_inside_our_locus	official_bp	overlap_bp	official_frac_in_our_locus	our_locus_frac_official	largest_array_overlap_bp	gap_bp
-GCA_048601705.1	Y	Y	CP168063.1	13378600	17050509	T2T-MFA8_Nature2025_S39:presumed_active_array	no_official_on_chromosome	not_compared			0		0	0				
-GCA_048601705.1	Y	Y	CP168063.1	13378600	17050509	T2T-MFA8_release_v1.1:centromere_region	ours_within_official	agrees	13371397	17104368	1		3732971	3671909	0.9836	1.0000	429749	

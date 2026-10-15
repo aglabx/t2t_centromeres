@@ -15,15 +15,13 @@
 <text x="194.0" y="134" font-size="12" fill="#334155">S004 1,047 bp, 5.26 Mb</text>
 <rect x="363.4" y="125" width="16" height="10" rx="2" fill="#b45309"/>
 <text x="385.4" y="134" font-size="12" fill="#334155">S005 6,101 bp, 3.19 Mb</text>
-<rect x="554.8" y="125" width="16" height="10" rx="2" fill="#cbd5e1"/>
+<rect x="554.8" y="125" width="16" height="10" rx="2" fill="#8b95a5"/>
 <text x="576.8" y="134" font-size="12" fill="#334155">other satellite arrays</text>
 <text x="40" y="160" font-size="11" font-weight="bold" fill="#64748b" letter-spacing="0.6">CALLS</text>
 <rect x="174.0" y="149" width="12" height="14" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"/>
-<text x="194.0" y="160" font-size="12" fill="#334155">our centromeric locus</text>
-<path d="M370.7,156 l-8,-5 v10 z" fill="#0f172a"/>
-<text x="378.7" y="160" font-size="12" fill="#334155">its largest array (candidate active array)</text>
-<rect x="686.1" y="149" width="8" height="14" rx="4" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"/>
-<text x="704.1" y="160" font-size="12" fill="#334155">no array of the centromeric family</text>
+<text x="194.0" y="160" font-size="12" fill="#334155">our centromeric locus (satellite zone)</text>
+<rect x="474.6" y="149" width="8" height="14" rx="4" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"/>
+<text x="492.6" y="160" font-size="12" fill="#334155">no array of the centromeric family</text>
 <text x="40" y="202" font-size="14" fill="#0f172a"><tspan font-weight="bold">a</tspan><tspan dx="10">Whole chromosomes, one scale</tspan></text>
 <line x1="72" y1="224.0" x2="964" y2="224.0" stroke="#e2e8f0" stroke-width="1"/>
 <text x="66" y="228.0" font-size="10" fill="#64748b" text-anchor="end">0</text>
@@ -37,61 +35,57 @@
 <text x="66" y="631.0" font-size="10" fill="#64748b" text-anchor="end">200</text>
 <text x="66" y="214" font-size="10" fill="#64748b" text-anchor="end">Mb</text>
 <rect x="95.0" y="224" width="14" height="457.4" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr1_mat: 227,015,169 bp</title></rect>
-<rect x="96.0" y="545.9" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 159.78-159.79 Mb (12 kb), S015, monomer 1662 bp, HOR 1662 bp</title></rect>
-<rect x="96.0" y="681.4" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 227.00-227.02 Mb (14 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="96.0" y="433.8" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 104.11-104.12 Mb (14 kb), S007, monomer 4693 bp, HOR 13961 bp</title></rect>
-<rect x="96.0" y="430.4" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 102.43-102.45 Mb (14 kb), S007, monomer 4715 bp, HOR 4664 bp</title></rect>
+<rect x="96.0" y="545.9" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 159.78-159.79 Mb (12 kb), S015, monomer 1662 bp, HOR 1662 bp</title></rect>
+<rect x="96.0" y="681.4" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 227.00-227.02 Mb (14 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="96.0" y="433.8" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 104.11-104.12 Mb (14 kb), S007, monomer 4693 bp, HOR 13961 bp</title></rect>
+<rect x="96.0" y="430.4" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 102.43-102.45 Mb (14 kb), S007, monomer 4715 bp, HOR 4664 bp</title></rect>
 <rect x="96.0" y="661.1" width="12" height="1.0" fill="#f97316"><title>chr1_mat 216.93-216.95 Mb (22 kb), S002, monomer 5832 bp, HOR 22280 bp</title></rect>
-<rect x="96.0" y="512.7" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 143.30-143.32 Mb (22 kb), S036, monomer 4296 bp, HOR 4296 bp</title></rect>
-<rect x="96.0" y="435.3" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 104.86-104.89 Mb (23 kb), S007, monomer 4717 bp, HOR 4717 bp</title></rect>
-<rect x="96.0" y="432.7" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 103.60-103.64 Mb (33 kb), S007, monomer 4711 bp, HOR 4707 bp</title></rect>
-<rect x="96.0" y="431.9" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 103.20-103.24 Mb (38 kb), S007, monomer 4708 bp, HOR 4713 bp</title></rect>
-<rect x="96.0" y="225.4" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 0.71-0.74 Mb (38 kb), S006, monomer 3854 bp, HOR 3858 bp</title></rect>
-<rect x="96.0" y="439.6" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 106.99-107.05 Mb (55 kb), S011, monomer 13876 bp, HOR 55087 bp</title></rect>
-<rect x="96.0" y="592.4" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 182.84-182.91 Mb (73 kb), S020, monomer 26687 bp, HOR 72576 bp</title></rect>
+<rect x="96.0" y="512.7" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 143.30-143.32 Mb (22 kb), S036, monomer 4296 bp, HOR 4296 bp</title></rect>
+<rect x="96.0" y="435.3" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 104.86-104.89 Mb (23 kb), S007, monomer 4717 bp, HOR 4717 bp</title></rect>
+<rect x="96.0" y="432.7" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 103.60-103.64 Mb (33 kb), S007, monomer 4711 bp, HOR 4707 bp</title></rect>
+<rect x="96.0" y="431.9" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 103.20-103.24 Mb (38 kb), S007, monomer 4708 bp, HOR 4713 bp</title></rect>
+<rect x="96.0" y="225.4" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 0.71-0.74 Mb (38 kb), S006, monomer 3854 bp, HOR 3858 bp</title></rect>
+<rect x="96.0" y="439.6" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 106.99-107.05 Mb (55 kb), S011, monomer 13876 bp, HOR 55087 bp</title></rect>
+<rect x="96.0" y="592.4" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 182.84-182.91 Mb (73 kb), S020, monomer 26687 bp, HOR 72576 bp</title></rect>
 <rect x="96.0" y="436.3" width="12" height="1.0" fill="#1d4ed8"><title>chr1_mat 105.36-105.43 Mb (78 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
-<rect x="96.0" y="443.9" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 109.15-109.23 Mb (82 kb), S011, monomer 13881 bp, HOR 81978 bp</title></rect>
-<rect x="96.0" y="440.4" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 107.39-107.47 Mb (82 kb), S011, monomer 13881 bp, HOR 81997 bp</title></rect>
-<rect x="96.0" y="447.4" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 110.90-110.99 Mb (91 kb), S011, monomer 13866 bp, HOR 90977 bp</title></rect>
-<rect x="96.0" y="445.0" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 109.66-109.78 Mb (118 kb), S011, monomer 13850 bp, HOR 118430 bp</title></rect>
-<rect x="96.0" y="441.4" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 107.90-108.02 Mb (118 kb), S011, monomer 13850 bp, HOR 118436 bp</title></rect>
-<rect x="96.0" y="442.3" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 108.37-108.56 Mb (188 kb), S011, monomer 13856 bp, HOR 187710 bp</title></rect>
-<rect x="96.0" y="445.9" width="12" height="1.0" fill="#cbd5e1"><title>chr1_mat 110.13-110.32 Mb (188 kb), S011, monomer 13856 bp, HOR 187710 bp</title></rect>
+<rect x="96.0" y="443.9" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 109.15-109.23 Mb (82 kb), S011, monomer 13881 bp, HOR 81978 bp</title></rect>
+<rect x="96.0" y="440.4" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 107.39-107.47 Mb (82 kb), S011, monomer 13881 bp, HOR 81997 bp</title></rect>
+<rect x="96.0" y="447.4" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 110.90-110.99 Mb (91 kb), S011, monomer 13866 bp, HOR 90977 bp</title></rect>
+<rect x="96.0" y="445.0" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 109.66-109.78 Mb (118 kb), S011, monomer 13850 bp, HOR 118430 bp</title></rect>
+<rect x="96.0" y="441.4" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 107.90-108.02 Mb (118 kb), S011, monomer 13850 bp, HOR 118436 bp</title></rect>
+<rect x="96.0" y="442.3" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 108.37-108.56 Mb (188 kb), S011, monomer 13856 bp, HOR 187710 bp</title></rect>
+<rect x="96.0" y="445.9" width="12" height="1.0" fill="#8b95a5"><title>chr1_mat 110.13-110.32 Mb (188 kb), S011, monomer 13856 bp, HOR 187710 bp</title></rect>
 <rect x="96.0" y="511.5" width="12" height="1.0" fill="#b45309"><title>chr1_mat 142.68-143.19 Mb (510 kb), S005, monomer 12200 bp, HOR 509620 bp</title></rect>
 <rect x="96.0" y="436.4" width="12" height="2.0" fill="#1d4ed8"><title>chr1_mat 105.43-106.43 Mb (992 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <rect x="92.0" y="434.9" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr1_mat locus 105.36-106.43 Mb (1.07 Mb): 1.07 Mb of S001 in 2 arrays; largest array 105.43-106.43 Mb (992 kb), monomer 328 bp</title></rect>
-<path d="M90.0,437.4 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="106.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 106.0 720)">chr1_mat</text>
 <rect x="139.0" y="224" width="14" height="480.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr2_pat: 238,229,697 bp</title></rect>
 <rect x="140.0" y="394.2" width="12" height="1.0" fill="#b45309"><title>chr2_pat 84.49-84.50 Mb (14 kb), S005, monomer 6116 bp, HOR 13629 bp</title></rect>
-<rect x="140.0" y="704.0" width="12" height="1.0" fill="#cbd5e1"><title>chr2_pat 238.21-238.23 Mb (19 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="140.0" y="388.8" width="12" height="1.0" fill="#cbd5e1"><title>chr2_pat 81.82-81.83 Mb (19 kb), S017, monomer 9623 bp, HOR 19250 bp</title></rect>
-<rect x="140.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chr2_pat 0.00-0.02 Mb (22 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="140.0" y="382.9" width="12" height="1.0" fill="#cbd5e1"><title>chr2_pat 78.87-78.90 Mb (31 kb), S006, monomer 15507 bp, HOR 31023 bp</title></rect>
-<rect x="140.0" y="444.1" width="12" height="1.0" fill="#cbd5e1"><title>chr2_pat 109.23-109.28 Mb (47 kb), S032, monomer 17899 bp, HOR 46815 bp</title></rect>
-<rect x="140.0" y="382.7" width="12" height="1.0" fill="#cbd5e1"><title>chr2_pat 78.76-78.82 Mb (64 kb), S006, monomer 15528 bp, HOR 63597 bp</title></rect>
+<rect x="140.0" y="704.0" width="12" height="1.0" fill="#8b95a5"><title>chr2_pat 238.21-238.23 Mb (19 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="140.0" y="388.8" width="12" height="1.0" fill="#8b95a5"><title>chr2_pat 81.82-81.83 Mb (19 kb), S017, monomer 9623 bp, HOR 19250 bp</title></rect>
+<rect x="140.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chr2_pat 0.00-0.02 Mb (22 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="140.0" y="382.9" width="12" height="1.0" fill="#8b95a5"><title>chr2_pat 78.87-78.90 Mb (31 kb), S006, monomer 15507 bp, HOR 31023 bp</title></rect>
+<rect x="140.0" y="444.1" width="12" height="1.0" fill="#8b95a5"><title>chr2_pat 109.23-109.28 Mb (47 kb), S032, monomer 17899 bp, HOR 46815 bp</title></rect>
+<rect x="140.0" y="382.7" width="12" height="1.0" fill="#8b95a5"><title>chr2_pat 78.76-78.82 Mb (64 kb), S006, monomer 15528 bp, HOR 63597 bp</title></rect>
 <rect x="140.0" y="448.6" width="12" height="1.0" fill="#1d4ed8"><title>chr2_pat 111.47-111.90 Mb (431 kb), S001, monomer 329 bp, HOR 329 bp</title></rect>
 <rect x="140.0" y="449.5" width="12" height="1.6" fill="#1d4ed8"><title>chr2_pat 111.90-112.70 Mb (799 kb), S001, monomer 329 bp, HOR 329 bp</title></rect>
 <rect x="136.0" y="447.3" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr2_pat locus 111.47-112.70 Mb (1.23 Mb): 1.23 Mb of S001 in 2 arrays; largest array 111.90-112.70 Mb (799 kb), monomer 329 bp</title></rect>
-<path d="M134.0,450.3 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="150.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 150.0 720)">chr2_pat</text>
 <rect x="183.0" y="224" width="14" height="388.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr3_mat: 192,562,917 bp</title></rect>
-<rect x="184.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chr3_mat 0.00-0.01 Mb (13 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="184.0" y="357.9" width="12" height="1.0" fill="#cbd5e1"><title>chr3_mat 66.46-66.48 Mb (20 kb), S006, monomer 6178 bp, HOR 19828 bp</title></rect>
-<rect x="184.0" y="611.9" width="12" height="1.0" fill="#cbd5e1"><title>chr3_mat 192.54-192.56 Mb (27 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="184.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chr3_mat 0.00-0.01 Mb (13 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="184.0" y="357.9" width="12" height="1.0" fill="#8b95a5"><title>chr3_mat 66.46-66.48 Mb (20 kb), S006, monomer 6178 bp, HOR 19828 bp</title></rect>
+<rect x="184.0" y="611.9" width="12" height="1.0" fill="#8b95a5"><title>chr3_mat 192.54-192.56 Mb (27 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="184.0" y="348.8" width="12" height="1.8" fill="#1d4ed8"><title>chr3_mat 61.93-62.83 Mb (896 kb), S001, monomer 329 bp, HOR 329 bp</title></rect>
 <rect x="180.0" y="347.2" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr3_mat locus 61.93-62.83 Mb (896 kb): 896 kb of S001 in 1 arrays; largest array 61.93-62.83 Mb (896 kb), monomer 329 bp</title></rect>
-<path d="M178.0,349.7 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="194.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 194.0 720)">chr3_mat</text>
 <rect x="227.0" y="224" width="14" height="428.6" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr4_mat: 212,706,620 bp</title></rect>
-<rect x="228.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chr4_mat 0.00-0.01 Mb (12 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="228.0" y="652.5" width="12" height="1.0" fill="#cbd5e1"><title>chr4_mat 212.69-212.71 Mb (13 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="228.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chr4_mat 0.00-0.01 Mb (12 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="228.0" y="652.5" width="12" height="1.0" fill="#8b95a5"><title>chr4_mat 212.69-212.71 Mb (13 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="228.0" y="428.2" width="12" height="1.0" fill="#1d4ed8"><title>chr4_mat 101.34-101.36 Mb (15 kb), S001, monomer 328 bp, HOR 657 bp</title></rect>
-<rect x="228.0" y="366.2" width="12" height="1.0" fill="#cbd5e1"><title>chr4_mat 70.55-70.57 Mb (22 kb), S006, monomer 3743 bp, HOR 3743 bp</title></rect>
-<rect x="228.0" y="508.0" width="12" height="1.0" fill="#cbd5e1"><title>chr4_mat 140.96-141.00 Mb (39 kb), S035, monomer 21 bp, HOR 4920 bp</title></rect>
+<rect x="228.0" y="366.2" width="12" height="1.0" fill="#8b95a5"><title>chr4_mat 70.55-70.57 Mb (22 kb), S006, monomer 3743 bp, HOR 3743 bp</title></rect>
+<rect x="228.0" y="508.0" width="12" height="1.0" fill="#8b95a5"><title>chr4_mat 140.96-141.00 Mb (39 kb), S035, monomer 21 bp, HOR 4920 bp</title></rect>
 <rect x="228.0" y="428.2" width="12" height="3.8" fill="#1d4ed8"><title>chr4_mat 101.36-103.22 Mb (1.87 Mb), S001, monomer 328 bp, HOR 985 bp</title></rect>
 <rect x="224.0" y="427.6" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr4_mat locus 101.34-103.22 Mb (1.88 Mb): 1.88 Mb of S001 in 2 arrays; largest array 101.36-103.22 Mb (1.87 Mb), monomer 328 bp</title></rect>
-<path d="M222.0,430.1 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="238.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 238.0 720)">chr4_mat</text>
 <rect x="271.0" y="224" width="14" height="391.2" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr5_mat: 194,161,901 bp</title></rect>
 <rect x="272.0" y="381.6" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.24-78.25 Mb (10 kb), S001, monomer 328 bp, HOR 2297 bp</title></rect>
@@ -104,7 +98,7 @@
 <rect x="272.0" y="381.5" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.16-78.17 Mb (11 kb), S001, monomer 328 bp, HOR 3281 bp</title></rect>
 <rect x="272.0" y="381.7" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.28-78.29 Mb (11 kb), S001, monomer 328 bp, HOR 2953 bp</title></rect>
 <rect x="272.0" y="383.0" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.89-78.90 Mb (11 kb), S001, monomer 328 bp, HOR 2625 bp</title></rect>
-<rect x="272.0" y="364.0" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 69.46-69.47 Mb (11 kb), S013, monomer 1965 bp, HOR 2172 bp</title></rect>
+<rect x="272.0" y="364.0" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 69.46-69.47 Mb (11 kb), S013, monomer 1965 bp, HOR 2172 bp</title></rect>
 <rect x="272.0" y="381.6" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.20-78.21 Mb (11 kb), S001, monomer 328 bp, HOR 3281 bp</title></rect>
 <rect x="272.0" y="382.9" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.88-78.89 Mb (11 kb), S001, monomer 328 bp, HOR 2625 bp</title></rect>
 <rect x="272.0" y="381.6" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.23-78.24 Mb (11 kb), S001, monomer 328 bp, HOR 3281 bp</title></rect>
@@ -129,15 +123,15 @@
 <rect x="272.0" y="381.1" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 77.97-77.98 Mb (13 kb), S001, monomer 328 bp, HOR 3281 bp</title></rect>
 <rect x="272.0" y="383.9" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 79.35-79.36 Mb (13 kb), S001, monomer 328 bp, HOR 2296 bp</title></rect>
 <rect x="272.0" y="384.0" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 79.40-79.41 Mb (13 kb), S001, monomer 328 bp, HOR 2953 bp</title></rect>
-<rect x="272.0" y="601.1" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 187.14-187.16 Mb (13 kb), S007, monomer 4510 bp, HOR 4487 bp</title></rect>
-<rect x="272.0" y="427.7" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 101.09-101.10 Mb (13 kb), S012, monomer 4463 bp, HOR 4463 bp</title></rect>
-<rect x="272.0" y="427.8" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 101.15-101.17 Mb (13 kb), S012, monomer 4463 bp, HOR 4463 bp</title></rect>
+<rect x="272.0" y="601.1" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 187.14-187.16 Mb (13 kb), S007, monomer 4510 bp, HOR 4487 bp</title></rect>
+<rect x="272.0" y="427.7" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 101.09-101.10 Mb (13 kb), S012, monomer 4463 bp, HOR 4463 bp</title></rect>
+<rect x="272.0" y="427.8" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 101.15-101.17 Mb (13 kb), S012, monomer 4463 bp, HOR 4463 bp</title></rect>
 <rect x="272.0" y="383.6" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 79.22-79.24 Mb (14 kb), S001, monomer 328 bp, HOR 1969 bp</title></rect>
 <rect x="272.0" y="381.8" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.29-78.31 Mb (14 kb), S001, monomer 328 bp, HOR 2953 bp</title></rect>
 <rect x="272.0" y="381.9" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.39-78.40 Mb (14 kb), S001, monomer 328 bp, HOR 3281 bp</title></rect>
 <rect x="272.0" y="382.8" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.81-78.82 Mb (14 kb), S001, monomer 328 bp, HOR 3281 bp</title></rect>
-<rect x="272.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 0.00-0.01 Mb (14 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="272.0" y="615.2" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 194.15-194.16 Mb (14 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="272.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 0.00-0.01 Mb (14 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="272.0" y="615.2" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 194.15-194.16 Mb (14 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="272.0" y="381.2" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.04-78.06 Mb (15 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <rect x="272.0" y="382.5" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.64-78.66 Mb (16 kb), S001, monomer 328 bp, HOR 2296 bp</title></rect>
 <rect x="272.0" y="382.0" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.42-78.43 Mb (16 kb), S001, monomer 328 bp, HOR 2953 bp</title></rect>
@@ -148,58 +142,55 @@
 <rect x="272.0" y="383.4" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 79.12-79.13 Mb (17 kb), S001, monomer 328 bp, HOR 4593 bp</title></rect>
 <rect x="272.0" y="383.5" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 79.15-79.16 Mb (18 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <rect x="272.0" y="381.7" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.25-78.27 Mb (18 kb), S001, monomer 328 bp, HOR 3281 bp</title></rect>
-<rect x="272.0" y="428.4" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 101.45-101.47 Mb (18 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
-<rect x="272.0" y="428.8" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 101.65-101.67 Mb (18 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="428.4" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 101.45-101.47 Mb (18 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="428.8" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 101.65-101.67 Mb (18 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
 <rect x="272.0" y="383.2" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 79.02-79.04 Mb (19 kb), S001, monomer 328 bp, HOR 984 bp</title></rect>
 <rect x="272.0" y="383.8" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 79.33-79.35 Mb (20 kb), S001, monomer 328 bp, HOR 2296 bp</title></rect>
 <rect x="272.0" y="380.9" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 77.89-77.91 Mb (21 kb), S001, monomer 328 bp, HOR 3937 bp</title></rect>
 <rect x="272.0" y="382.0" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.43-78.45 Mb (21 kb), S001, monomer 328 bp, HOR 4593 bp</title></rect>
-<rect x="272.0" y="428.3" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 101.38-101.40 Mb (23 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
-<rect x="272.0" y="428.9" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 101.72-101.74 Mb (23 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
-<rect x="272.0" y="429.1" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 101.79-101.81 Mb (23 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
-<rect x="272.0" y="429.2" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 101.87-101.89 Mb (23 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="428.3" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 101.38-101.40 Mb (23 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="428.9" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 101.72-101.74 Mb (23 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="429.1" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 101.79-101.81 Mb (23 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="429.2" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 101.87-101.89 Mb (23 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
 <rect x="272.0" y="382.8" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 78.84-78.86 Mb (23 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <rect x="272.0" y="380.8" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 77.81-77.84 Mb (23 kb), S001, monomer 328 bp, HOR 2953 bp</title></rect>
 <rect x="272.0" y="383.2" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 79.00-79.02 Mb (25 kb), S001, monomer 328 bp, HOR 2296 bp</title></rect>
 <rect x="272.0" y="384.1" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 79.44-79.47 Mb (27 kb), S001, monomer 328 bp, HOR 2950 bp</title></rect>
-<rect x="272.0" y="428.1" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 101.30-101.33 Mb (27 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
-<rect x="272.0" y="429.8" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 102.15-102.18 Mb (27 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="428.1" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 101.30-101.33 Mb (27 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="429.8" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 102.15-102.18 Mb (27 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
 <rect x="272.0" y="381.1" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 77.98-78.01 Mb (29 kb), S001, monomer 328 bp, HOR 2953 bp</title></rect>
 <rect x="272.0" y="383.7" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 79.27-79.30 Mb (30 kb), S001, monomer 328 bp, HOR 2296 bp</title></rect>
-<rect x="272.0" y="427.9" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 101.22-101.25 Mb (32 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="427.9" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 101.22-101.25 Mb (32 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
 <rect x="272.0" y="383.6" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 79.24-79.27 Mb (35 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
-<rect x="272.0" y="516.7" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 145.25-145.29 Mb (38 kb), S017, monomer 18793 bp, HOR 37586 bp</title></rect>
-<rect x="272.0" y="430.4" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 102.42-102.47 Mb (40 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
-<rect x="272.0" y="430.0" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 102.23-102.27 Mb (40 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="516.7" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 145.25-145.29 Mb (38 kb), S017, monomer 18793 bp, HOR 37586 bp</title></rect>
+<rect x="272.0" y="430.4" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 102.42-102.47 Mb (40 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="430.0" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 102.23-102.27 Mb (40 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
 <rect x="272.0" y="380.4" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 77.63-77.67 Mb (45 kb), S001, monomer 328 bp, HOR 329 bp</title></rect>
-<rect x="272.0" y="429.4" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 101.94-101.99 Mb (50 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
-<rect x="272.0" y="430.2" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 102.32-102.37 Mb (54 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
-<rect x="272.0" y="429.6" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 102.04-102.10 Mb (59 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
-<rect x="272.0" y="428.6" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 101.52-101.60 Mb (77 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="429.4" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 101.94-101.99 Mb (50 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="430.2" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 102.32-102.37 Mb (54 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="429.6" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 102.04-102.10 Mb (59 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
+<rect x="272.0" y="428.6" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 101.52-101.60 Mb (77 kb), S012, monomer 4503 bp, HOR 4503 bp</title></rect>
 <rect x="272.0" y="380.5" width="12" height="1.0" fill="#1d4ed8"><title>chr5_mat 77.69-77.78 Mb (89 kb), S001, monomer 328 bp, HOR 2953 bp</title></rect>
-<rect x="272.0" y="399.6" width="12" height="1.0" fill="#cbd5e1"><title>chr5_mat 87.16-87.49 Mb (332 kb), S014, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="272.0" y="399.6" width="12" height="1.0" fill="#8b95a5"><title>chr5_mat 87.16-87.49 Mb (332 kb), S014, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="268.0" y="379.8" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr5_mat locus 77.63-79.47 Mb (1.85 Mb): 1.02 Mb of S001 in 61 arrays; largest array 77.69-77.78 Mb (89 kb), monomer 328 bp</title></rect>
-<path d="M266.0,380.6 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="282.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 282.0 720)">chr5_mat</text>
 <rect x="315.0" y="224" width="14" height="360.9" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr6_mat: 179,095,304 bp</title></rect>
-<rect x="316.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chr6_mat 0.00-0.01 Mb (12 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="316.0" y="584.8" width="12" height="1.0" fill="#cbd5e1"><title>chr6_mat 179.08-179.10 Mb (12 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="316.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chr6_mat 0.00-0.01 Mb (12 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="316.0" y="584.8" width="12" height="1.0" fill="#8b95a5"><title>chr6_mat 179.08-179.10 Mb (12 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="316.0" y="380.0" width="12" height="1.0" fill="#1d4ed8"><title>chr6_mat 77.42-77.48 Mb (64 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <rect x="316.0" y="379.2" width="12" height="1.0" fill="#1d4ed8"><title>chr6_mat 77.01-77.42 Mb (402 kb), S001, monomer 329 bp, HOR 329 bp</title></rect>
 <rect x="316.0" y="380.1" width="12" height="2.5" fill="#1d4ed8"><title>chr6_mat 77.48-78.73 Mb (1.25 Mb), S001, monomer 329 bp, HOR 3271 bp</title></rect>
 <rect x="312.0" y="378.4" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr6_mat locus 77.01-78.73 Mb (1.72 Mb): 1.72 Mb of S001 in 3 arrays; largest array 77.48-78.73 Mb (1.25 Mb), monomer 329 bp</title></rect>
-<path d="M310.0,381.4 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="326.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 326.0 720)">chr6_mat</text>
 <rect x="359.0" y="224" width="14" height="326.6" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr7_pat: 162,115,330 bp</title></rect>
-<rect x="360.0" y="550.6" width="12" height="1.0" fill="#cbd5e1"><title>chr7_pat 162.10-162.12 Mb (19 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="360.0" y="330.9" width="12" height="1.0" fill="#cbd5e1"><title>chr7_pat 53.07-53.09 Mb (24 kb), S024, monomer 10919 bp, HOR 24476 bp</title></rect>
-<rect x="360.0" y="451.2" width="12" height="1.0" fill="#cbd5e1"><title>chr7_pat 112.77-112.79 Mb (28 kb), S025, monomer 7908 bp, HOR 28249 bp</title></rect>
-<rect x="360.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chr7_pat 0.00-0.03 Mb (29 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="360.0" y="353.4" width="12" height="1.0" fill="#cbd5e1"><title>chr7_pat 64.21-64.40 Mb (197 kb), S006, monomer 7639 bp, HOR 196551 bp</title></rect>
-<rect x="360.0" y="350.5" width="12" height="1.4" fill="#cbd5e1"><title>chr7_pat 62.78-63.47 Mb (693 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="360.0" y="550.6" width="12" height="1.0" fill="#8b95a5"><title>chr7_pat 162.10-162.12 Mb (19 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="360.0" y="330.9" width="12" height="1.0" fill="#8b95a5"><title>chr7_pat 53.07-53.09 Mb (24 kb), S024, monomer 10919 bp, HOR 24476 bp</title></rect>
+<rect x="360.0" y="451.2" width="12" height="1.0" fill="#8b95a5"><title>chr7_pat 112.77-112.79 Mb (28 kb), S025, monomer 7908 bp, HOR 28249 bp</title></rect>
+<rect x="360.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chr7_pat 0.00-0.03 Mb (29 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="360.0" y="353.4" width="12" height="1.0" fill="#8b95a5"><title>chr7_pat 64.21-64.40 Mb (197 kb), S006, monomer 7639 bp, HOR 196551 bp</title></rect>
+<rect x="360.0" y="350.5" width="12" height="1.4" fill="#8b95a5"><title>chr7_pat 62.78-63.47 Mb (693 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="360.0" y="345.5" width="12" height="4.4" fill="#1d4ed8"><title>chr7_pat 60.32-62.51 Mb (2.19 Mb), S001, monomer 329 bp, HOR 1973 bp</title></rect>
 <rect x="356.0" y="345.2" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr7_pat locus 60.32-62.51 Mb (2.19 Mb): 2.19 Mb of S001 in 1 arrays; largest array 60.32-62.51 Mb (2.19 Mb), monomer 329 bp</title></rect>
-<path d="M354.0,347.7 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="370.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 370.0 720)">chr7_pat</text>
 <rect x="403.0" y="224" width="14" height="332.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr8_mat: 164,781,490 bp
 exception: other_family_larger_on_chromosome</title></rect>
@@ -209,12 +200,12 @@ exception: other_family_larger_on_chromosome</title></rect>
 <rect x="404.0" y="365.6" width="12" height="1.0" fill="#b45309"><title>chr8_mat 70.28-70.30 Mb (18 kb), S005, monomer 6106 bp, HOR 18115 bp</title></rect>
 <rect x="404.0" y="367.9" width="12" height="1.0" fill="#b45309"><title>chr8_mat 71.41-71.43 Mb (18 kb), S005, monomer 6106 bp, HOR 18115 bp</title></rect>
 <rect x="404.0" y="364.6" width="12" height="1.0" fill="#b45309"><title>chr8_mat 69.81-69.82 Mb (18 kb), S005, monomer 6106 bp, HOR 18116 bp</title></rect>
-<rect x="404.0" y="370.0" width="12" height="1.0" fill="#cbd5e1"><title>chr8_mat 72.45-72.48 Mb (23 kb), S007, monomer 4564 bp, HOR 4614 bp</title></rect>
+<rect x="404.0" y="370.0" width="12" height="1.0" fill="#8b95a5"><title>chr8_mat 72.45-72.48 Mb (23 kb), S007, monomer 4564 bp, HOR 4614 bp</title></rect>
 <rect x="404.0" y="363.2" width="12" height="1.0" fill="#b45309"><title>chr8_mat 69.08-69.11 Mb (24 kb), S005, monomer 6105 bp, HOR 23956 bp</title></rect>
-<rect x="404.0" y="556.0" width="12" height="1.0" fill="#cbd5e1"><title>chr8_mat 164.75-164.78 Mb (27 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="404.0" y="556.0" width="12" height="1.0" fill="#8b95a5"><title>chr8_mat 164.75-164.78 Mb (27 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="404.0" y="369.3" width="12" height="1.0" fill="#b45309"><title>chr8_mat 72.11-72.15 Mb (36 kb), S005, monomer 12135 bp, HOR 35960 bp</title></rect>
 <rect x="404.0" y="369.4" width="12" height="1.0" fill="#b45309"><title>chr8_mat 72.18-72.21 Mb (36 kb), S005, monomer 12135 bp, HOR 36197 bp</title></rect>
-<rect x="404.0" y="282.2" width="12" height="1.0" fill="#cbd5e1"><title>chr8_mat 28.91-28.95 Mb (41 kb), S016, monomer 2718 bp, HOR 2720 bp</title></rect>
+<rect x="404.0" y="282.2" width="12" height="1.0" fill="#8b95a5"><title>chr8_mat 28.91-28.95 Mb (41 kb), S016, monomer 2718 bp, HOR 2720 bp</title></rect>
 <rect x="404.0" y="364.8" width="12" height="1.0" fill="#b45309"><title>chr8_mat 69.89-69.94 Mb (43 kb), S005, monomer 6107 bp, HOR 42538 bp</title></rect>
 <rect x="404.0" y="367.0" width="12" height="1.0" fill="#b45309"><title>chr8_mat 70.99-71.03 Mb (43 kb), S005, monomer 6107 bp, HOR 42538 bp</title></rect>
 <rect x="404.0" y="363.0" width="12" height="1.0" fill="#b45309"><title>chr8_mat 68.98-69.02 Mb (43 kb), S005, monomer 6106 bp, HOR 42542 bp</title></rect>
@@ -222,63 +213,60 @@ exception: other_family_larger_on_chromosome</title></rect>
 <rect x="404.0" y="362.5" width="12" height="1.0" fill="#b45309"><title>chr8_mat 68.72-68.79 Mb (67 kb), S005, monomer 6106 bp, HOR 66966 bp</title></rect>
 <rect x="404.0" y="361.6" width="12" height="1.0" fill="#b45309"><title>chr8_mat 68.31-68.48 Mb (177 kb), S005, monomer 6102 bp, HOR 176817 bp</title></rect>
 <rect x="404.0" y="351.2" width="12" height="1.0" fill="#1d4ed8"><title>chr8_mat 63.13-63.33 Mb (198 kb), S001, monomer 328 bp, HOR 656 bp</title></rect>
-<rect x="404.0" y="461.3" width="12" height="1.0" fill="#cbd5e1"><title>chr8_mat 117.76-118.06 Mb (300 kb), S015, monomer 3292 bp, HOR 3294 bp</title></rect>
+<rect x="404.0" y="461.3" width="12" height="1.0" fill="#8b95a5"><title>chr8_mat 117.76-118.06 Mb (300 kb), S015, monomer 3292 bp, HOR 3294 bp</title></rect>
 <rect x="404.0" y="351.6" width="12" height="2.7" fill="#1d4ed8"><title>chr8_mat 63.33-64.66 Mb (1.33 Mb), S001, monomer 328 bp, HOR 328 bp</title></rect>
-<rect x="404.0" y="356.6" width="12" height="4.7" fill="#cbd5e1"><title>chr8_mat 65.80-68.14 Mb (2.35 Mb), S006, monomer 7643 bp, HOR 2348090 bp</title></rect>
+<rect x="404.0" y="356.6" width="12" height="4.7" fill="#8b95a5"><title>chr8_mat 65.80-68.14 Mb (2.35 Mb), S006, monomer 7643 bp, HOR 2348090 bp</title></rect>
 <rect x="400.0" y="350.2" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr8_mat locus 63.13-64.66 Mb (1.53 Mb): 1.53 Mb of S001 in 2 arrays; largest array 63.33-64.66 Mb (1.33 Mb), monomer 328 bp</title></rect>
-<path d="M398.0,352.9 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="414.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 414.0 720)">chr8_mat</text>
 <rect x="447.0" y="224" width="14" height="335.8" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr9_mat: 166,642,423 bp
 exception: other_family_larger_on_chromosome</title></rect>
-<rect x="448.0" y="226.5" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 1.25-1.26 Mb (12 kb), S046, monomer 67 bp, HOR 108 bp</title></rect>
-<rect x="448.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 0.00-0.01 Mb (13 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="448.0" y="366.2" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 70.57-70.59 Mb (14 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="448.0" y="342.2" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 58.65-58.66 Mb (15 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="448.0" y="559.7" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 166.63-166.64 Mb (16 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="448.0" y="543.6" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 158.61-158.62 Mb (16 kb), S045, monomer 9 bp, HOR 60 bp</title></rect>
-<rect x="448.0" y="226.8" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 1.41-1.43 Mb (17 kb), S018, monomer 2298 bp, HOR 1994 bp</title></rect>
-<rect x="448.0" y="226.9" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 1.44-1.47 Mb (24 kb), S018, monomer 1993 bp, HOR 1994 bp</title></rect>
-<rect x="448.0" y="227.2" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 1.57-1.59 Mb (25 kb), S018, monomer 108 bp, HOR 1994 bp</title></rect>
-<rect x="448.0" y="227.0" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 1.51-1.53 Mb (26 kb), S018, monomer 108 bp, HOR 1994 bp</title></rect>
-<rect x="448.0" y="226.8" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 1.38-1.40 Mb (26 kb), S018, monomer 108 bp, HOR 1995 bp</title></rect>
+<rect x="448.0" y="226.5" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 1.25-1.26 Mb (12 kb), S046, monomer 67 bp, HOR 108 bp</title></rect>
+<rect x="448.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 0.00-0.01 Mb (13 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="448.0" y="366.2" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 70.57-70.59 Mb (14 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="448.0" y="342.2" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 58.65-58.66 Mb (15 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="448.0" y="559.7" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 166.63-166.64 Mb (16 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="448.0" y="543.6" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 158.61-158.62 Mb (16 kb), S045, monomer 9 bp, HOR 60 bp</title></rect>
+<rect x="448.0" y="226.8" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 1.41-1.43 Mb (17 kb), S018, monomer 2298 bp, HOR 1994 bp</title></rect>
+<rect x="448.0" y="226.9" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 1.44-1.47 Mb (24 kb), S018, monomer 1993 bp, HOR 1994 bp</title></rect>
+<rect x="448.0" y="227.2" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 1.57-1.59 Mb (25 kb), S018, monomer 108 bp, HOR 1994 bp</title></rect>
+<rect x="448.0" y="227.0" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 1.51-1.53 Mb (26 kb), S018, monomer 108 bp, HOR 1994 bp</title></rect>
+<rect x="448.0" y="226.8" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 1.38-1.40 Mb (26 kb), S018, monomer 108 bp, HOR 1995 bp</title></rect>
 <rect x="448.0" y="342.3" width="12" height="1.0" fill="#f97316"><title>chr9_mat 58.69-58.73 Mb (32 kb), S002, monomer 5880 bp, HOR 32465 bp</title></rect>
-<rect x="448.0" y="227.1" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 1.53-1.57 Mb (33 kb), S037, monomer 8 bp, HOR 1994 bp</title></rect>
-<rect x="448.0" y="366.0" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 70.46-70.49 Mb (34 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="448.0" y="226.5" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 1.26-1.31 Mb (42 kb), S018, monomer 108 bp, HOR 1994 bp</title></rect>
+<rect x="448.0" y="227.1" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 1.53-1.57 Mb (33 kb), S037, monomer 8 bp, HOR 1994 bp</title></rect>
+<rect x="448.0" y="366.0" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 70.46-70.49 Mb (34 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="448.0" y="226.5" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 1.26-1.31 Mb (42 kb), S018, monomer 108 bp, HOR 1994 bp</title></rect>
 <rect x="448.0" y="365.7" width="12" height="1.0" fill="#f97316"><title>chr9_mat 70.33-70.40 Mb (67 kb), S002, monomer 5881 bp, HOR 67095 bp</title></rect>
 <rect x="448.0" y="253.0" width="12" height="1.0" fill="#b45309"><title>chr9_mat 14.41-14.48 Mb (76 kb), S005, monomer 12242 bp, HOR 76147 bp</title></rect>
-<rect x="448.0" y="342.9" width="12" height="1.0" fill="#cbd5e1"><title>chr9_mat 59.03-59.24 Mb (205 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="448.0" y="342.9" width="12" height="1.0" fill="#8b95a5"><title>chr9_mat 59.03-59.24 Mb (205 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="448.0" y="356.8" width="12" height="1.7" fill="#1d4ed8"><title>chr9_mat 65.93-66.76 Mb (826 kb), S001, monomer 329 bp, HOR 1313 bp</title></rect>
 <rect x="448.0" y="354.5" width="12" height="2.1" fill="#f97316"><title>chr9_mat 64.77-65.84 Mb (1.07 Mb), S002, monomer 5877 bp, HOR 1065323 bp</title></rect>
 <rect x="448.0" y="358.5" width="12" height="3.2" fill="#1d4ed8"><title>chr9_mat 66.76-68.35 Mb (1.59 Mb), S001, monomer 329 bp, HOR 986 bp</title></rect>
 <rect x="448.0" y="343.5" width="12" height="5.2" fill="#f97316"><title>chr9_mat 59.31-61.91 Mb (2.60 Mb), S002, monomer 5877 bp, HOR 2595161 bp</title></rect>
 <rect x="448.0" y="348.7" width="12" height="5.7" fill="#f97316"><title>chr9_mat 61.91-64.76 Mb (2.85 Mb), S002, monomer 5877 bp, HOR 2853249 bp</title></rect>
 <rect x="444.0" y="356.8" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr9_mat locus 65.93-68.35 Mb (2.42 Mb): 2.42 Mb of S001 in 2 arrays; largest array 66.76-68.35 Mb (1.59 Mb), monomer 329 bp</title></rect>
-<path d="M442.0,360.1 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="458.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 458.0 720)">chr9_mat</text>
 <rect x="491.0" y="224" width="14" height="326.4" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr10_mat: 162,004,231 bp</title></rect>
-<rect x="492.0" y="442.6" width="12" height="1.0" fill="#cbd5e1"><title>chr10_mat 108.48-108.49 Mb (11 kb), S047, monomer 12 bp, HOR 21 bp</title></rect>
-<rect x="492.0" y="502.6" width="12" height="1.0" fill="#cbd5e1"><title>chr10_mat 138.25-138.27 Mb (12 kb), S010, monomer 4114 bp, HOR 12240 bp</title></rect>
-<rect x="492.0" y="446.1" width="12" height="1.0" fill="#cbd5e1"><title>chr10_mat 110.23-110.24 Mb (13 kb), S006, monomer 3867 bp, HOR 3867 bp</title></rect>
-<rect x="492.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chr10_mat 0.00-0.02 Mb (16 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="492.0" y="247.0" width="12" height="1.0" fill="#cbd5e1"><title>chr10_mat 11.40-11.42 Mb (17 kb), S011, monomer 6825 bp, HOR 17258 bp</title></rect>
-<rect x="492.0" y="550.4" width="12" height="1.0" fill="#cbd5e1"><title>chr10_mat 161.99-162.00 Mb (18 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="492.0" y="502.6" width="12" height="1.0" fill="#cbd5e1"><title>chr10_mat 138.27-138.29 Mb (26 kb), S007, monomer 4522 bp, HOR 4522 bp</title></rect>
-<rect x="492.0" y="335.9" width="12" height="1.0" fill="#cbd5e1"><title>chr10_mat 55.56-55.59 Mb (28 kb), S011, monomer 14131 bp, HOR 28266 bp</title></rect>
-<rect x="492.0" y="502.5" width="12" height="1.0" fill="#cbd5e1"><title>chr10_mat 138.21-138.25 Mb (41 kb), S010, monomer 4114 bp, HOR 4114 bp</title></rect>
+<rect x="492.0" y="442.6" width="12" height="1.0" fill="#8b95a5"><title>chr10_mat 108.48-108.49 Mb (11 kb), S047, monomer 12 bp, HOR 21 bp</title></rect>
+<rect x="492.0" y="502.6" width="12" height="1.0" fill="#8b95a5"><title>chr10_mat 138.25-138.27 Mb (12 kb), S010, monomer 4114 bp, HOR 12240 bp</title></rect>
+<rect x="492.0" y="446.1" width="12" height="1.0" fill="#8b95a5"><title>chr10_mat 110.23-110.24 Mb (13 kb), S006, monomer 3867 bp, HOR 3867 bp</title></rect>
+<rect x="492.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chr10_mat 0.00-0.02 Mb (16 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="492.0" y="247.0" width="12" height="1.0" fill="#8b95a5"><title>chr10_mat 11.40-11.42 Mb (17 kb), S011, monomer 6825 bp, HOR 17258 bp</title></rect>
+<rect x="492.0" y="550.4" width="12" height="1.0" fill="#8b95a5"><title>chr10_mat 161.99-162.00 Mb (18 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="492.0" y="502.6" width="12" height="1.0" fill="#8b95a5"><title>chr10_mat 138.27-138.29 Mb (26 kb), S007, monomer 4522 bp, HOR 4522 bp</title></rect>
+<rect x="492.0" y="335.9" width="12" height="1.0" fill="#8b95a5"><title>chr10_mat 55.56-55.59 Mb (28 kb), S011, monomer 14131 bp, HOR 28266 bp</title></rect>
+<rect x="492.0" y="502.5" width="12" height="1.0" fill="#8b95a5"><title>chr10_mat 138.21-138.25 Mb (41 kb), S010, monomer 4114 bp, HOR 4114 bp</title></rect>
 <rect x="492.0" y="321.1" width="12" height="1.0" fill="#1d4ed8"><title>chr10_mat 48.21-48.27 Mb (52 kb), S001, monomer 329 bp, HOR 329 bp</title></rect>
 <rect x="492.0" y="321.0" width="12" height="1.0" fill="#1d4ed8"><title>chr10_mat 48.15-48.21 Mb (55 kb), S001, monomer 329 bp, HOR 329 bp</title></rect>
-<rect x="492.0" y="501.9" width="12" height="1.0" fill="#cbd5e1"><title>chr10_mat 137.94-138.21 Mb (271 kb), S010, monomer 4106 bp, HOR 4106 bp</title></rect>
+<rect x="492.0" y="501.9" width="12" height="1.0" fill="#8b95a5"><title>chr10_mat 137.94-138.21 Mb (271 kb), S010, monomer 4106 bp, HOR 4106 bp</title></rect>
 <rect x="492.0" y="318.2" width="12" height="2.8" fill="#1d4ed8"><title>chr10_mat 46.75-48.15 Mb (1.40 Mb), S001, monomer 328 bp, HOR 329 bp</title></rect>
 <rect x="488.0" y="317.2" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr10_mat locus 46.75-48.27 Mb (1.51 Mb): 1.50 Mb of S001 in 3 arrays; largest array 46.75-48.15 Mb (1.40 Mb), monomer 328 bp</title></rect>
-<path d="M486.0,319.6 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="502.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 502.0 720)">chr10_mat</text>
 <rect x="535.0" y="224" width="14" height="304.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr11_pat: 150,900,226 bp
 exception: other_family_larger_on_chromosome</title></rect>
 <rect x="536.0" y="373.5" width="12" height="1.0" fill="#1d4ed8"><title>chr11_pat 74.18-74.19 Mb (11 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
-<rect x="536.0" y="392.9" width="12" height="1.0" fill="#cbd5e1"><title>chr11_pat 83.81-83.82 Mb (14 kb), S016, monomer 5139 bp, HOR 3802 bp</title></rect>
-<rect x="536.0" y="383.0" width="12" height="1.0" fill="#cbd5e1"><title>chr11_pat 78.93-78.95 Mb (15 kb), S006, monomer 7647 bp, HOR 15314 bp</title></rect>
-<rect x="536.0" y="468.9" width="12" height="1.0" fill="#cbd5e1"><title>chr11_pat 121.56-121.57 Mb (17 kb), S036, monomer 8457 bp, HOR 16991 bp</title></rect>
+<rect x="536.0" y="392.9" width="12" height="1.0" fill="#8b95a5"><title>chr11_pat 83.81-83.82 Mb (14 kb), S016, monomer 5139 bp, HOR 3802 bp</title></rect>
+<rect x="536.0" y="383.0" width="12" height="1.0" fill="#8b95a5"><title>chr11_pat 78.93-78.95 Mb (15 kb), S006, monomer 7647 bp, HOR 15314 bp</title></rect>
+<rect x="536.0" y="468.9" width="12" height="1.0" fill="#8b95a5"><title>chr11_pat 121.56-121.57 Mb (17 kb), S036, monomer 8457 bp, HOR 16991 bp</title></rect>
 <rect x="536.0" y="371.7" width="12" height="1.0" fill="#b45309"><title>chr11_pat 73.32-73.34 Mb (18 kb), S005, monomer 6099 bp, HOR 18054 bp</title></rect>
 <rect x="536.0" y="371.2" width="12" height="1.0" fill="#b45309"><title>chr11_pat 73.06-73.08 Mb (18 kb), S005, monomer 6100 bp, HOR 18055 bp</title></rect>
 <rect x="536.0" y="371.5" width="12" height="1.0" fill="#b45309"><title>chr11_pat 73.19-73.20 Mb (18 kb), S005, monomer 6100 bp, HOR 18055 bp</title></rect>
@@ -290,7 +278,7 @@ exception: other_family_larger_on_chromosome</title></rect>
 <rect x="536.0" y="364.3" width="12" height="1.0" fill="#b45309"><title>chr11_pat 69.61-69.63 Mb (18 kb), S005, monomer 6100 bp, HOR 18073 bp</title></rect>
 <rect x="536.0" y="364.5" width="12" height="1.0" fill="#b45309"><title>chr11_pat 69.75-69.77 Mb (18 kb), S005, monomer 6100 bp, HOR 18074 bp</title></rect>
 <rect x="536.0" y="364.0" width="12" height="1.0" fill="#b45309"><title>chr11_pat 69.48-69.50 Mb (18 kb), S005, monomer 6101 bp, HOR 18075 bp</title></rect>
-<rect x="536.0" y="528.0" width="12" height="1.0" fill="#cbd5e1"><title>chr11_pat 150.88-150.90 Mb (20 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="536.0" y="528.0" width="12" height="1.0" fill="#8b95a5"><title>chr11_pat 150.88-150.90 Mb (20 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="536.0" y="370.4" width="12" height="1.0" fill="#b45309"><title>chr11_pat 72.67-72.70 Mb (24 kb), S005, monomer 6100 bp, HOR 24156 bp</title></rect>
 <rect x="536.0" y="365.2" width="12" height="1.0" fill="#b45309"><title>chr11_pat 70.06-70.08 Mb (24 kb), S005, monomer 6101 bp, HOR 24158 bp</title></rect>
 <rect x="536.0" y="365.8" width="12" height="1.0" fill="#b45309"><title>chr11_pat 70.39-70.42 Mb (24 kb), S005, monomer 6101 bp, HOR 24158 bp</title></rect>
@@ -300,52 +288,50 @@ exception: other_family_larger_on_chromosome</title></rect>
 <rect x="536.0" y="370.0" width="12" height="1.0" fill="#b45309"><title>chr11_pat 72.46-72.49 Mb (30 kb), S005, monomer 6101 bp, HOR 30258 bp</title></rect>
 <rect x="536.0" y="363.8" width="12" height="1.0" fill="#b45309"><title>chr11_pat 69.37-69.40 Mb (30 kb), S005, monomer 6101 bp, HOR 30259 bp</title></rect>
 <rect x="536.0" y="369.8" width="12" height="1.0" fill="#b45309"><title>chr11_pat 72.38-72.41 Mb (30 kb), S005, monomer 6101 bp, HOR 30259 bp</title></rect>
-<rect x="536.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chr11_pat 0.00-0.03 Mb (31 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="536.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chr11_pat 0.00-0.03 Mb (31 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="536.0" y="367.1" width="12" height="1.0" fill="#b45309"><title>chr11_pat 71.01-71.05 Mb (42 kb), S005, monomer 6101 bp, HOR 42459 bp</title></rect>
 <rect x="536.0" y="364.9" width="12" height="1.0" fill="#b45309"><title>chr11_pat 69.94-69.99 Mb (49 kb), S005, monomer 6101 bp, HOR 48580 bp</title></rect>
 <rect x="536.0" y="369.3" width="12" height="1.0" fill="#b45309"><title>chr11_pat 72.09-72.15 Mb (61 kb), S005, monomer 6101 bp, HOR 60722 bp</title></rect>
 <rect x="536.0" y="368.3" width="12" height="1.0" fill="#b45309"><title>chr11_pat 71.61-71.67 Mb (61 kb), S005, monomer 6101 bp, HOR 60762 bp</title></rect>
 <rect x="536.0" y="367.3" width="12" height="1.0" fill="#b45309"><title>chr11_pat 71.14-71.21 Mb (67 kb), S005, monomer 6101 bp, HOR 66865 bp</title></rect>
-<rect x="536.0" y="377.0" width="12" height="1.0" fill="#cbd5e1"><title>chr11_pat 75.91-75.98 Mb (69 kb), S006, monomer 7618 bp, HOR 68693 bp</title></rect>
+<rect x="536.0" y="377.0" width="12" height="1.0" fill="#8b95a5"><title>chr11_pat 75.91-75.98 Mb (69 kb), S006, monomer 7618 bp, HOR 68693 bp</title></rect>
 <rect x="536.0" y="365.4" width="12" height="1.0" fill="#b45309"><title>chr11_pat 70.17-70.26 Mb (91 kb), S005, monomer 6101 bp, HOR 91268 bp</title></rect>
 <rect x="536.0" y="366.5" width="12" height="1.0" fill="#b45309"><title>chr11_pat 70.74-70.84 Mb (103 kb), S005, monomer 6101 bp, HOR 103468 bp</title></rect>
 <rect x="536.0" y="363.4" width="12" height="1.0" fill="#b45309"><title>chr11_pat 69.20-69.31 Mb (103 kb), S005, monomer 6101 bp, HOR 103481 bp</title></rect>
-<rect x="536.0" y="383.1" width="12" height="1.0" fill="#cbd5e1"><title>chr11_pat 78.95-79.08 Mb (135 kb), S006, monomer 7638 bp, HOR 135389 bp</title></rect>
-<rect x="536.0" y="376.5" width="12" height="1.0" fill="#cbd5e1"><title>chr11_pat 75.68-75.91 Mb (236 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="536.0" y="383.1" width="12" height="1.0" fill="#8b95a5"><title>chr11_pat 78.95-79.08 Mb (135 kb), S006, monomer 7638 bp, HOR 135389 bp</title></rect>
+<rect x="536.0" y="376.5" width="12" height="1.0" fill="#8b95a5"><title>chr11_pat 75.68-75.91 Mb (236 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="536.0" y="373.5" width="12" height="2.8" fill="#1d4ed8"><title>chr11_pat 74.19-75.58 Mb (1.39 Mb), S001, monomer 328 bp, HOR 328 bp</title></rect>
-<rect x="536.0" y="359.1" width="12" height="3.9" fill="#cbd5e1"><title>chr11_pat 67.07-69.00 Mb (1.93 Mb), S007, monomer 4642 bp, HOR 4642 bp</title></rect>
+<rect x="536.0" y="359.1" width="12" height="3.9" fill="#8b95a5"><title>chr11_pat 67.07-69.00 Mb (1.93 Mb), S007, monomer 4642 bp, HOR 4642 bp</title></rect>
 <rect x="532.0" y="372.4" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr11_pat locus 74.18-75.58 Mb (1.40 Mb): 1.40 Mb of S001 in 2 arrays; largest array 74.19-75.58 Mb (1.39 Mb), monomer 328 bp</title></rect>
-<path d="M530.0,374.9 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="546.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 546.0 720)">chr11_pat</text>
 <rect x="579.0" y="224" width="14" height="302.6" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr12_pat: 150,165,456 bp</title></rect>
-<rect x="580.0" y="364.7" width="12" height="1.0" fill="#cbd5e1"><title>chr12_pat 69.82-69.83 Mb (10 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="580.0" y="524.9" width="12" height="1.0" fill="#cbd5e1"><title>chr12_pat 149.34-149.35 Mb (11 kb), S031, monomer 45 bp, HOR 45 bp</title></rect>
+<rect x="580.0" y="364.7" width="12" height="1.0" fill="#8b95a5"><title>chr12_pat 69.82-69.83 Mb (10 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="580.0" y="524.9" width="12" height="1.0" fill="#8b95a5"><title>chr12_pat 149.34-149.35 Mb (11 kb), S031, monomer 45 bp, HOR 45 bp</title></rect>
 <rect x="580.0" y="362.5" width="12" height="1.0" fill="#1d4ed8"><title>chr12_pat 68.75-68.76 Mb (11 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <rect x="580.0" y="362.6" width="12" height="1.0" fill="#1d4ed8"><title>chr12_pat 68.76-68.78 Mb (11 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
-<rect x="580.0" y="300.3" width="12" height="1.0" fill="#cbd5e1"><title>chr12_pat 37.87-37.89 Mb (16 kb), S044, monomer 1783 bp, HOR 1783 bp</title></rect>
+<rect x="580.0" y="300.3" width="12" height="1.0" fill="#8b95a5"><title>chr12_pat 37.87-37.89 Mb (16 kb), S044, monomer 1783 bp, HOR 1783 bp</title></rect>
 <rect x="580.0" y="364.2" width="12" height="1.0" fill="#1d4ed8"><title>chr12_pat 69.57-69.59 Mb (16 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <rect x="580.0" y="362.0" width="12" height="1.0" fill="#1d4ed8"><title>chr12_pat 68.48-68.50 Mb (17 kb), S001, monomer 327 bp, HOR 3275 bp</title></rect>
-<rect x="580.0" y="352.5" width="12" height="1.0" fill="#cbd5e1"><title>chr12_pat 63.79-63.81 Mb (17 kb), S043, monomer 2767 bp, HOR 2768 bp</title></rect>
-<rect x="580.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chr12_pat 0.00-0.02 Mb (21 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="580.0" y="526.5" width="12" height="1.0" fill="#cbd5e1"><title>chr12_pat 150.14-150.17 Mb (21 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="580.0" y="308.4" width="12" height="1.0" fill="#cbd5e1"><title>chr12_pat 41.90-41.95 Mb (49 kb), S022, monomer 19457 bp, HOR 49227 bp</title></rect>
-<rect x="580.0" y="308.5" width="12" height="1.0" fill="#cbd5e1"><title>chr12_pat 41.95-42.00 Mb (50 kb), S022, monomer 19469 bp, HOR 50050 bp</title></rect>
-<rect x="580.0" y="311.8" width="12" height="1.0" fill="#cbd5e1"><title>chr12_pat 43.59-43.64 Mb (56 kb), S025, monomer 16035 bp, HOR 55810 bp</title></rect>
-<rect x="580.0" y="364.4" width="12" height="1.0" fill="#cbd5e1"><title>chr12_pat 69.69-69.77 Mb (74 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="580.0" y="352.5" width="12" height="1.0" fill="#8b95a5"><title>chr12_pat 63.79-63.81 Mb (17 kb), S043, monomer 2767 bp, HOR 2768 bp</title></rect>
+<rect x="580.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chr12_pat 0.00-0.02 Mb (21 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="580.0" y="526.5" width="12" height="1.0" fill="#8b95a5"><title>chr12_pat 150.14-150.17 Mb (21 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="580.0" y="308.4" width="12" height="1.0" fill="#8b95a5"><title>chr12_pat 41.90-41.95 Mb (49 kb), S022, monomer 19457 bp, HOR 49227 bp</title></rect>
+<rect x="580.0" y="308.5" width="12" height="1.0" fill="#8b95a5"><title>chr12_pat 41.95-42.00 Mb (50 kb), S022, monomer 19469 bp, HOR 50050 bp</title></rect>
+<rect x="580.0" y="311.8" width="12" height="1.0" fill="#8b95a5"><title>chr12_pat 43.59-43.64 Mb (56 kb), S025, monomer 16035 bp, HOR 55810 bp</title></rect>
+<rect x="580.0" y="364.4" width="12" height="1.0" fill="#8b95a5"><title>chr12_pat 69.69-69.77 Mb (74 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="580.0" y="362.0" width="12" height="1.0" fill="#1d4ed8"><title>chr12_pat 68.50-68.75 Mb (249 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <rect x="580.0" y="362.6" width="12" height="1.6" fill="#1d4ed8"><title>chr12_pat 68.78-69.57 Mb (797 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <rect x="576.0" y="360.6" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr12_pat locus 68.48-69.59 Mb (1.11 Mb): 1.10 Mb of S001 in 6 arrays; largest array 68.78-69.57 Mb (797 kb), monomer 328 bp</title></rect>
-<path d="M574.0,363.4 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="590.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 590.0 720)">chr12_pat</text>
 <rect x="623.0" y="224" width="14" height="250.6" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr13_mat: 124,363,158 bp</title></rect>
 <rect x="624.0" y="456.4" width="12" height="1.0" fill="#b45309"><title>chr13_mat 115.32-115.34 Mb (11 kb), S005, monomer 3127 bp, HOR 3126 bp</title></rect>
-<rect x="624.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chr13_mat 0.00-0.01 Mb (12 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="624.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chr13_mat 0.00-0.01 Mb (12 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="624.0" y="313.9" width="12" height="1.0" fill="#1d4ed8"><title>chr13_mat 44.60-44.62 Mb (21 kb), S001, monomer 193 bp, HOR 1506 bp</title></rect>
 <rect x="624.0" y="313.4" width="12" height="1.0" fill="#1d4ed8"><title>chr13_mat 44.35-44.37 Mb (24 kb), S001, monomer 193 bp, HOR 1506 bp</title></rect>
 <rect x="624.0" y="311.6" width="12" height="1.0" fill="#1d4ed8"><title>chr13_mat 43.48-43.52 Mb (33 kb), S001, monomer 328 bp, HOR 3861 bp</title></rect>
 <rect x="624.0" y="313.0" width="12" height="1.0" fill="#1d4ed8"><title>chr13_mat 44.18-44.22 Mb (35 kb), S001, monomer 328 bp, HOR 3861 bp</title></rect>
 <rect x="624.0" y="310.6" width="12" height="1.0" fill="#1d4ed8"><title>chr13_mat 42.96-43.00 Mb (37 kb), S001, monomer 328 bp, HOR 3861 bp</title></rect>
-<rect x="624.0" y="474.5" width="12" height="1.0" fill="#cbd5e1"><title>chr13_mat 124.32-124.36 Mb (42 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="624.0" y="474.5" width="12" height="1.0" fill="#8b95a5"><title>chr13_mat 124.32-124.36 Mb (42 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="624.0" y="311.0" width="12" height="1.0" fill="#1d4ed8"><title>chr13_mat 43.17-43.22 Mb (50 kb), S001, monomer 328 bp, HOR 3861 bp</title></rect>
 <rect x="624.0" y="310.5" width="12" height="1.0" fill="#1d4ed8"><title>chr13_mat 42.91-42.96 Mb (53 kb), S001, monomer 328 bp, HOR 3861 bp</title></rect>
 <rect x="624.0" y="237.0" width="12" height="1.0" fill="#84cc16"><title>chr13_mat 6.46-6.51 Mb (53 kb), S004, monomer 1017 bp, HOR 2034 bp</title></rect>
@@ -353,39 +339,38 @@ exception: other_family_larger_on_chromosome</title></rect>
 <rect x="624.0" y="310.2" width="12" height="1.0" fill="#1d4ed8"><title>chr13_mat 42.77-42.84 Mb (63 kb), S001, monomer 328 bp, HOR 3861 bp</title></rect>
 <rect x="624.0" y="311.1" width="12" height="1.0" fill="#1d4ed8"><title>chr13_mat 43.22-43.32 Mb (100 kb), S001, monomer 328 bp, HOR 3861 bp</title></rect>
 <rect x="620.0" y="309.5" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr13_mat locus 42.77-44.62 Mb (1.85 Mb): 478 kb of S001 in 10 arrays; largest array 43.22-43.32 Mb (100 kb), monomer 328 bp</title></rect>
-<path d="M618.0,311.2 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="634.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 634.0 720)">chr13_mat</text>
 <rect x="667.0" y="224" width="14" height="147.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr14_pat: 72,936,098 bp
 exception: locus_at_chromosome_end
 exception: other_family_larger_on_chromosome</title></rect>
-<rect x="668.0" y="243.4" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 9.64-9.65 Mb (11 kb), S016, monomer 5296 bp, HOR 10594 bp</title></rect>
-<rect x="668.0" y="237.7" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.79-6.81 Mb (16 kb), S006, monomer 7542 bp, HOR 15628 bp</title></rect>
-<rect x="668.0" y="243.5" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 9.66-9.68 Mb (16 kb), S016, monomer 5298 bp, HOR 15877 bp</title></rect>
-<rect x="668.0" y="237.0" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.46-6.47 Mb (19 kb), S042, monomer 29 bp, HOR 40 bp</title></rect>
-<rect x="668.0" y="370.9" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 72.92-72.94 Mb (20 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="668.0" y="237.2" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.56-6.58 Mb (21 kb), S023, monomer 32 bp, HOR 40 bp</title></rect>
-<rect x="668.0" y="237.2" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.54-6.56 Mb (21 kb), S023, monomer 31 bp, HOR 40 bp</title></rect>
-<rect x="668.0" y="236.9" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.40-6.43 Mb (22 kb), S040, monomer 29 bp, HOR 40 bp</title></rect>
-<rect x="668.0" y="237.0" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.43-6.45 Mb (22 kb), S023, monomer 31 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="243.4" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 9.64-9.65 Mb (11 kb), S016, monomer 5296 bp, HOR 10594 bp</title></rect>
+<rect x="668.0" y="237.7" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.79-6.81 Mb (16 kb), S006, monomer 7542 bp, HOR 15628 bp</title></rect>
+<rect x="668.0" y="243.5" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 9.66-9.68 Mb (16 kb), S016, monomer 5298 bp, HOR 15877 bp</title></rect>
+<rect x="668.0" y="237.0" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.46-6.47 Mb (19 kb), S042, monomer 29 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="370.9" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 72.92-72.94 Mb (20 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="668.0" y="237.2" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.56-6.58 Mb (21 kb), S023, monomer 32 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="237.2" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.54-6.56 Mb (21 kb), S023, monomer 31 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="236.9" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.40-6.43 Mb (22 kb), S040, monomer 29 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="237.0" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.43-6.45 Mb (22 kb), S023, monomer 31 bp, HOR 40 bp</title></rect>
 <rect x="668.0" y="252.3" width="12" height="1.0" fill="#b45309"><title>chr14_pat 14.05-14.07 Mb (24 kb), S005, monomer 6093 bp, HOR 24172 bp</title></rect>
 <rect x="668.0" y="239.3" width="12" height="1.0" fill="#84cc16"><title>chr14_pat 7.60-7.63 Mb (25 kb), S004, monomer 1042 bp, HOR 1042 bp</title></rect>
-<rect x="668.0" y="237.8" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.87-6.89 Mb (26 kb), S019, monomer 13 bp, HOR 40 bp</title></rect>
-<rect x="668.0" y="237.5" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.69-6.72 Mb (26 kb), S039, monomer 13 bp, HOR 40 bp</title></rect>
-<rect x="668.0" y="237.6" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.73-6.76 Mb (26 kb), S038, monomer 13 bp, HOR 40 bp</title></rect>
-<rect x="668.0" y="237.8" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.84-6.87 Mb (26 kb), S019, monomer 13 bp, HOR 40 bp</title></rect>
-<rect x="668.0" y="236.8" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.36-6.39 Mb (27 kb), S027, monomer 13 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="237.8" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.87-6.89 Mb (26 kb), S019, monomer 13 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="237.5" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.69-6.72 Mb (26 kb), S039, monomer 13 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="237.6" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.73-6.76 Mb (26 kb), S038, monomer 13 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="237.8" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.84-6.87 Mb (26 kb), S019, monomer 13 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="236.8" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.36-6.39 Mb (27 kb), S027, monomer 13 bp, HOR 40 bp</title></rect>
 <rect x="668.0" y="245.0" width="12" height="1.0" fill="#84cc16"><title>chr14_pat 10.42-10.45 Mb (29 kb), S004, monomer 1043 bp, HOR 1042 bp</title></rect>
-<rect x="668.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 0.00-0.03 Mb (31 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="668.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 0.00-0.03 Mb (31 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="668.0" y="245.6" width="12" height="1.0" fill="#84cc16"><title>chr14_pat 10.74-10.77 Mb (31 kb), S004, monomer 1043 bp, HOR 1042 bp</title></rect>
-<rect x="668.0" y="237.7" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.81-6.84 Mb (33 kb), S023, monomer 32 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="237.7" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.81-6.84 Mb (33 kb), S023, monomer 32 bp, HOR 40 bp</title></rect>
 <rect x="668.0" y="247.6" width="12" height="1.0" fill="#b45309"><title>chr14_pat 11.70-11.73 Mb (36 kb), S005, monomer 6090 bp, HOR 36347 bp</title></rect>
 <rect x="668.0" y="247.1" width="12" height="1.0" fill="#b45309"><title>chr14_pat 11.45-11.49 Mb (42 kb), S005, monomer 6093 bp, HOR 42416 bp</title></rect>
-<rect x="668.0" y="237.1" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.48-6.53 Mb (45 kb), S019, monomer 13 bp, HOR 40 bp</title></rect>
-<rect x="668.0" y="237.3" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.59-6.63 Mb (45 kb), S019, monomer 13 bp, HOR 40 bp</title></rect>
-<rect x="668.0" y="236.7" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.30-6.35 Mb (47 kb), S033, monomer 13 bp, HOR 40 bp</title></rect>
-<rect x="668.0" y="237.4" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 6.64-6.69 Mb (49 kb), S027, monomer 13 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="237.1" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.48-6.53 Mb (45 kb), S019, monomer 13 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="237.3" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.59-6.63 Mb (45 kb), S019, monomer 13 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="236.7" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.30-6.35 Mb (47 kb), S033, monomer 13 bp, HOR 40 bp</title></rect>
+<rect x="668.0" y="237.4" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 6.64-6.69 Mb (49 kb), S027, monomer 13 bp, HOR 40 bp</title></rect>
 <rect x="668.0" y="236.2" width="12" height="1.0" fill="#84cc16"><title>chr14_pat 6.05-6.11 Mb (58 kb), S004, monomer 3137 bp, HOR 3138 bp</title></rect>
-<rect x="668.0" y="243.3" width="12" height="1.0" fill="#cbd5e1"><title>chr14_pat 9.58-9.64 Mb (59 kb), S006, monomer 7646 bp, HOR 58807 bp</title></rect>
+<rect x="668.0" y="243.3" width="12" height="1.0" fill="#8b95a5"><title>chr14_pat 9.58-9.64 Mb (59 kb), S006, monomer 7646 bp, HOR 58807 bp</title></rect>
 <rect x="668.0" y="252.5" width="12" height="1.0" fill="#b45309"><title>chr14_pat 14.13-14.23 Mb (103 kb), S005, monomer 6093 bp, HOR 103375 bp</title></rect>
 <rect x="668.0" y="246.5" width="12" height="1.0" fill="#b45309"><title>chr14_pat 11.15-11.27 Mb (122 kb), S005, monomer 6093 bp, HOR 121638 bp</title></rect>
 <rect x="668.0" y="236.3" width="12" height="1.0" fill="#84cc16"><title>chr14_pat 6.11-6.24 Mb (129 kb), S004, monomer 1042 bp, HOR 4171 bp</title></rect>
@@ -394,97 +379,95 @@ exception: other_family_larger_on_chromosome</title></rect>
 <rect x="668.0" y="224.1" width="12" height="1.6" fill="#1d4ed8"><title>chr14_pat 0.05-0.86 Mb (805 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <rect x="668.0" y="226.1" width="12" height="9.9" fill="#84cc16"><title>chr14_pat 1.02-5.96 Mb (4.93 Mb), S004, monomer 1047 bp, HOR 3138 bp</title></rect>
 <rect x="664.0" y="222.4" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr14_pat locus 0.05-0.86 Mb (805 kb): 805 kb of S001 in 1 arrays; largest array 0.05-0.86 Mb (805 kb), monomer 328 bp</title></rect>
-<path d="M662.0,224.9 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="678.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 678.0 720)">chr14_pat</text>
 <rect x="711.0" y="224" width="14" height="310.3" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chrX_mat: 154,011,775 bp
 exception: other_family_larger_on_chromosome</title></rect>
 <rect x="712.0" y="465.5" width="12" height="1.0" fill="#a855f7"><title>chrX_mat 119.86-119.87 Mb (11 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
-<rect x="712.0" y="344.6" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 59.86-59.87 Mb (11 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
-<rect x="712.0" y="335.3" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 55.22-55.24 Mb (12 kb), S009, monomer 51 bp, HOR 2197 bp</title></rect>
-<rect x="712.0" y="341.1" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 58.10-58.11 Mb (12 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
-<rect x="712.0" y="345.5" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 60.29-60.30 Mb (12 kb), S009, monomer 51 bp, HOR 2891 bp</title></rect>
-<rect x="712.0" y="299.6" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 37.53-37.54 Mb (12 kb), S013, monomer 3796 bp, HOR 3796 bp</title></rect>
-<rect x="712.0" y="522.1" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 147.96-147.98 Mb (13 kb), S029, monomer 49 bp, HOR 49 bp</title></rect>
+<rect x="712.0" y="344.6" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 59.86-59.87 Mb (11 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="335.3" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 55.22-55.24 Mb (12 kb), S009, monomer 51 bp, HOR 2197 bp</title></rect>
+<rect x="712.0" y="341.1" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 58.10-58.11 Mb (12 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="345.5" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 60.29-60.30 Mb (12 kb), S009, monomer 51 bp, HOR 2891 bp</title></rect>
+<rect x="712.0" y="299.6" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 37.53-37.54 Mb (12 kb), S013, monomer 3796 bp, HOR 3796 bp</title></rect>
+<rect x="712.0" y="522.1" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 147.96-147.98 Mb (13 kb), S029, monomer 49 bp, HOR 49 bp</title></rect>
 <rect x="712.0" y="465.7" width="12" height="1.0" fill="#a855f7"><title>chrX_mat 119.94-119.95 Mb (15 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
 <rect x="712.0" y="465.7" width="12" height="1.0" fill="#a855f7"><title>chrX_mat 119.97-119.99 Mb (15 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
-<rect x="712.0" y="303.6" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 39.52-39.54 Mb (16 kb), S031, monomer 46 bp, HOR 3562 bp</title></rect>
+<rect x="712.0" y="303.6" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 39.52-39.54 Mb (16 kb), S031, monomer 46 bp, HOR 3562 bp</title></rect>
 <rect x="712.0" y="471.5" width="12" height="1.0" fill="#a855f7"><title>chrX_mat 122.83-122.85 Mb (16 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
-<rect x="712.0" y="345.7" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 60.38-60.40 Mb (17 kb), S009, monomer 51 bp, HOR 2891 bp</title></rect>
-<rect x="712.0" y="266.6" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 21.17-21.18 Mb (18 kb), S007, monomer 2309 bp, HOR 2309 bp</title></rect>
-<rect x="712.0" y="534.3" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 153.99-154.01 Mb (19 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="712.0" y="345.7" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 60.38-60.40 Mb (17 kb), S009, monomer 51 bp, HOR 2891 bp</title></rect>
+<rect x="712.0" y="266.6" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 21.17-21.18 Mb (18 kb), S007, monomer 2309 bp, HOR 2309 bp</title></rect>
+<rect x="712.0" y="534.3" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 153.99-154.01 Mb (19 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="712.0" y="463.4" width="12" height="1.0" fill="#a855f7"><title>chrX_mat 118.83-118.85 Mb (20 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
-<rect x="712.0" y="300.9" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 38.14-38.16 Mb (21 kb), S031, monomer 45 bp, HOR 91 bp</title></rect>
-<rect x="712.0" y="312.1" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 43.72-43.74 Mb (21 kb), S041, monomer 10416 bp, HOR 20892 bp</title></rect>
-<rect x="712.0" y="341.0" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 58.07-58.10 Mb (21 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="300.9" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 38.14-38.16 Mb (21 kb), S031, monomer 45 bp, HOR 91 bp</title></rect>
+<rect x="712.0" y="312.1" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 43.72-43.74 Mb (21 kb), S041, monomer 10416 bp, HOR 20892 bp</title></rect>
+<rect x="712.0" y="341.0" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 58.07-58.10 Mb (21 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
 <rect x="712.0" y="241.2" width="12" height="1.0" fill="#b45309"><title>chrX_mat 8.52-8.54 Mb (22 kb), S005, monomer 3114 bp, HOR 3147 bp</title></rect>
-<rect x="712.0" y="368.5" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 71.72-71.74 Mb (23 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="712.0" y="367.7" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 71.32-71.35 Mb (24 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="712.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 0.00-0.03 Mb (26 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="712.0" y="345.7" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 60.40-60.43 Mb (26 kb), S009, monomer 39 bp, HOR 51 bp</title></rect>
-<rect x="712.0" y="335.2" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 55.19-55.22 Mb (26 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
-<rect x="712.0" y="453.5" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 113.89-113.91 Mb (27 kb), S011, monomer 7087 bp, HOR 26951 bp</title></rect>
+<rect x="712.0" y="368.5" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 71.72-71.74 Mb (23 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="712.0" y="367.7" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 71.32-71.35 Mb (24 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="712.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 0.00-0.03 Mb (26 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="712.0" y="345.7" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 60.40-60.43 Mb (26 kb), S009, monomer 39 bp, HOR 51 bp</title></rect>
+<rect x="712.0" y="335.2" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 55.19-55.22 Mb (26 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="453.5" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 113.89-113.91 Mb (27 kb), S011, monomer 7087 bp, HOR 26951 bp</title></rect>
 <rect x="712.0" y="241.5" width="12" height="1.0" fill="#b45309"><title>chrX_mat 8.69-8.72 Mb (32 kb), S005, monomer 3123 bp, HOR 3126 bp</title></rect>
-<rect x="712.0" y="269.6" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 22.65-22.68 Mb (33 kb), S021, monomer 12951 bp, HOR 33348 bp</title></rect>
-<rect x="712.0" y="335.1" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 55.14-55.18 Mb (35 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
-<rect x="712.0" y="345.3" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 60.22-60.26 Mb (36 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
-<rect x="712.0" y="529.1" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 151.40-151.44 Mb (41 kb), S006, monomer 15196 bp, HOR 41196 bp</title></rect>
-<rect x="712.0" y="344.4" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 59.74-59.78 Mb (42 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
-<rect x="712.0" y="482.5" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 128.29-128.33 Mb (43 kb), S029, monomer 49 bp, HOR 49 bp</title></rect>
+<rect x="712.0" y="269.6" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 22.65-22.68 Mb (33 kb), S021, monomer 12951 bp, HOR 33348 bp</title></rect>
+<rect x="712.0" y="335.1" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 55.14-55.18 Mb (35 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="345.3" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 60.22-60.26 Mb (36 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="529.1" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 151.40-151.44 Mb (41 kb), S006, monomer 15196 bp, HOR 41196 bp</title></rect>
+<rect x="712.0" y="344.4" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 59.74-59.78 Mb (42 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="482.5" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 128.29-128.33 Mb (43 kb), S029, monomer 49 bp, HOR 49 bp</title></rect>
 <rect x="712.0" y="465.4" width="12" height="1.0" fill="#a855f7"><title>chrX_mat 119.80-119.84 Mb (43 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
-<rect x="712.0" y="465.3" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 119.75-119.80 Mb (46 kb), S034, monomer 6 bp, HOR 12 bp</title></rect>
+<rect x="712.0" y="465.3" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 119.75-119.80 Mb (46 kb), S034, monomer 6 bp, HOR 12 bp</title></rect>
 <rect x="712.0" y="241.2" width="12" height="1.0" fill="#b45309"><title>chrX_mat 8.55-8.60 Mb (47 kb), S005, monomer 3134 bp, HOR 3121 bp</title></rect>
-<rect x="712.0" y="229.7" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 2.82-2.87 Mb (48 kb), S020, monomer 13461 bp, HOR 47854 bp</title></rect>
-<rect x="712.0" y="465.5" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 119.87-119.92 Mb (50 kb), S030, monomer 6 bp, HOR 12 bp</title></rect>
+<rect x="712.0" y="229.7" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 2.82-2.87 Mb (48 kb), S020, monomer 13461 bp, HOR 47854 bp</title></rect>
+<rect x="712.0" y="465.5" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 119.87-119.92 Mb (50 kb), S030, monomer 6 bp, HOR 12 bp</title></rect>
 <rect x="712.0" y="237.9" width="12" height="1.0" fill="#a855f7"><title>chrX_mat 6.90-6.95 Mb (51 kb), S003, monomer 6 bp, HOR 14 bp</title></rect>
-<rect x="712.0" y="399.7" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 87.21-87.26 Mb (54 kb), S011, monomer 27018 bp, HOR 54042 bp</title></rect>
-<rect x="712.0" y="423.2" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 98.89-98.94 Mb (55 kb), S017, monomer 18858 bp, HOR 54563 bp</title></rect>
-<rect x="712.0" y="423.4" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 98.94-99.00 Mb (59 kb), S017, monomer 18882 bp, HOR 58643 bp</title></rect>
-<rect x="712.0" y="520.4" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 147.08-147.15 Mb (69 kb), S028, monomer 23534 bp, HOR 68553 bp</title></rect>
-<rect x="712.0" y="520.6" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 147.18-147.26 Mb (73 kb), S012, monomer 2242 bp, HOR 2242 bp</title></rect>
-<rect x="712.0" y="344.5" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 59.78-59.86 Mb (75 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
-<rect x="712.0" y="228.8" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 2.40-2.48 Mb (80 kb), S026, monomer 24680 bp, HOR 79778 bp</title></rect>
-<rect x="712.0" y="399.1" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 86.91-86.99 Mb (81 kb), S021, monomer 25425 bp, HOR 80834 bp</title></rect>
-<rect x="712.0" y="241.3" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 8.60-8.69 Mb (88 kb), S006, monomer 3785 bp, HOR 3121 bp</title></rect>
-<rect x="712.0" y="299.6" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 37.54-37.64 Mb (103 kb), S013, monomer 1874 bp, HOR 1874 bp</title></rect>
-<rect x="712.0" y="341.1" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 58.11-58.21 Mb (105 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
-<rect x="712.0" y="340.8" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 57.96-58.07 Mb (115 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="399.7" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 87.21-87.26 Mb (54 kb), S011, monomer 27018 bp, HOR 54042 bp</title></rect>
+<rect x="712.0" y="423.2" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 98.89-98.94 Mb (55 kb), S017, monomer 18858 bp, HOR 54563 bp</title></rect>
+<rect x="712.0" y="423.4" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 98.94-99.00 Mb (59 kb), S017, monomer 18882 bp, HOR 58643 bp</title></rect>
+<rect x="712.0" y="520.4" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 147.08-147.15 Mb (69 kb), S028, monomer 23534 bp, HOR 68553 bp</title></rect>
+<rect x="712.0" y="520.6" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 147.18-147.26 Mb (73 kb), S012, monomer 2242 bp, HOR 2242 bp</title></rect>
+<rect x="712.0" y="344.5" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 59.78-59.86 Mb (75 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="228.8" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 2.40-2.48 Mb (80 kb), S026, monomer 24680 bp, HOR 79778 bp</title></rect>
+<rect x="712.0" y="399.1" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 86.91-86.99 Mb (81 kb), S021, monomer 25425 bp, HOR 80834 bp</title></rect>
+<rect x="712.0" y="241.3" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 8.60-8.69 Mb (88 kb), S006, monomer 3785 bp, HOR 3121 bp</title></rect>
+<rect x="712.0" y="299.6" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 37.54-37.64 Mb (103 kb), S013, monomer 1874 bp, HOR 1874 bp</title></rect>
+<rect x="712.0" y="341.1" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 58.11-58.21 Mb (105 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="340.8" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 57.96-58.07 Mb (115 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
 <rect x="712.0" y="241.6" width="12" height="1.0" fill="#b45309"><title>chrX_mat 8.72-8.84 Mb (120 kb), S005, monomer 3125 bp, HOR 3124 bp</title></rect>
 <rect x="712.0" y="241.8" width="12" height="1.0" fill="#b45309"><title>chrX_mat 8.84-8.96 Mb (124 kb), S005, monomer 3154 bp, HOR 3121 bp</title></rect>
-<rect x="712.0" y="342.1" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 58.61-58.75 Mb (140 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
-<rect x="712.0" y="242.1" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 8.97-9.12 Mb (151 kb), S016, monomer 2642 bp, HOR 2643 bp</title></rect>
+<rect x="712.0" y="342.1" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 58.61-58.75 Mb (140 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="242.1" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 8.97-9.12 Mb (151 kb), S016, monomer 2642 bp, HOR 2643 bp</title></rect>
 <rect x="712.0" y="471.1" width="12" height="1.0" fill="#a855f7"><title>chrX_mat 122.66-122.81 Mb (155 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
 <rect x="712.0" y="467.8" width="12" height="1.0" fill="#a855f7"><title>chrX_mat 121.00-121.16 Mb (161 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
 <rect x="712.0" y="465.0" width="12" height="1.0" fill="#a855f7"><title>chrX_mat 119.59-119.75 Mb (162 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
 <rect x="712.0" y="464.6" width="12" height="1.0" fill="#a855f7"><title>chrX_mat 119.40-119.57 Mb (169 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
-<rect x="712.0" y="328.9" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 52.08-52.26 Mb (178 kb), S007, monomer 9362 bp, HOR 177942 bp</title></rect>
+<rect x="712.0" y="328.9" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 52.08-52.26 Mb (178 kb), S007, monomer 9362 bp, HOR 177942 bp</title></rect>
 <rect x="712.0" y="469.6" width="12" height="1.0" fill="#a855f7"><title>chrX_mat 121.87-122.06 Mb (188 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
-<rect x="712.0" y="343.9" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 59.53-59.74 Mb (204 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
-<rect x="712.0" y="335.3" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 55.26-55.51 Mb (253 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
-<rect x="712.0" y="299.0" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 37.23-37.51 Mb (285 kb), S013, monomer 1923 bp, HOR 1923 bp</title></rect>
-<rect x="712.0" y="344.6" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 59.87-60.21 Mb (343 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
-<rect x="712.0" y="341.3" width="12" height="1.0" fill="#cbd5e1"><title>chrX_mat 58.22-58.61 Mb (390 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="343.9" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 59.53-59.74 Mb (204 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="335.3" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 55.26-55.51 Mb (253 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="299.0" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 37.23-37.51 Mb (285 kb), S013, monomer 1923 bp, HOR 1923 bp</title></rect>
+<rect x="712.0" y="344.6" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 59.87-60.21 Mb (343 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="341.3" width="12" height="1.0" fill="#8b95a5"><title>chrX_mat 58.22-58.61 Mb (390 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
 <rect x="712.0" y="462.5" width="12" height="1.0" fill="#a855f7"><title>chrX_mat 118.37-118.81 Mb (442 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
 <rect x="712.0" y="463.5" width="12" height="1.1" fill="#a855f7"><title>chrX_mat 118.86-119.39 Mb (523 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
 <rect x="712.0" y="470.0" width="12" height="1.1" fill="#a855f7"><title>chrX_mat 122.07-122.64 Mb (568 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
 <rect x="712.0" y="468.1" width="12" height="1.4" fill="#a855f7"><title>chrX_mat 121.17-121.85 Mb (681 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
-<rect x="712.0" y="266.7" width="12" height="1.5" fill="#cbd5e1"><title>chrX_mat 21.19-21.91 Mb (721 kb), S007, monomer 2309 bp, HOR 2309 bp</title></rect>
-<rect x="712.0" y="342.4" width="12" height="1.6" fill="#cbd5e1"><title>chrX_mat 58.75-59.53 Mb (782 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
-<rect x="712.0" y="368.6" width="12" height="1.6" fill="#cbd5e1"><title>chrX_mat 71.78-72.58 Mb (804 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="712.0" y="266.7" width="12" height="1.5" fill="#8b95a5"><title>chrX_mat 21.19-21.91 Mb (721 kb), S007, monomer 2309 bp, HOR 2309 bp</title></rect>
+<rect x="712.0" y="342.4" width="12" height="1.6" fill="#8b95a5"><title>chrX_mat 58.75-59.53 Mb (782 kb), S009, monomer 51 bp, HOR 2808 bp</title></rect>
+<rect x="712.0" y="368.6" width="12" height="1.6" fill="#8b95a5"><title>chrX_mat 71.78-72.58 Mb (804 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="712.0" y="465.8" width="12" height="2.0" fill="#a855f7"><title>chrX_mat 120.00-120.98 Mb (977 kb), S003, monomer 6 bp, HOR 12 bp</title></rect>
 <rect x="712.0" y="370.3" width="12" height="2.4" fill="#1d4ed8"><title>chrX_mat 72.60-73.79 Mb (1.18 Mb), S001, monomer 329 bp, HOR 329 bp</title></rect>
 <rect x="712.0" y="459.7" width="12" height="2.7" fill="#a855f7"><title>chrX_mat 116.99-118.35 Mb (1.36 Mb), S003, monomer 6 bp, HOR 12 bp</title></rect>
 <rect x="708.0" y="369.0" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chrX_mat locus 72.60-73.79 Mb (1.18 Mb): 1.18 Mb of S001 in 1 arrays; largest array 72.60-73.79 Mb (1.18 Mb), monomer 329 bp</title></rect>
-<path d="M706.0,371.5 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="722.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 722.0 720)">chrX_mat</text>
 <rect x="755.0" y="224" width="14" height="53.6" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>chrY_pat: 26,624,642 bp
 no array of the centromeric family: no call</title></rect>
-<rect x="756.0" y="236.2" width="12" height="1.0" fill="#cbd5e1"><title>chrY_pat 6.04-6.05 Mb (12 kb), S029, monomer 49 bp, HOR 49 bp</title></rect>
-<rect x="756.0" y="249.5" width="12" height="1.0" fill="#cbd5e1"><title>chrY_pat 12.67-12.68 Mb (14 kb), S007, monomer 2345 bp, HOR 2342 bp</title></rect>
-<rect x="756.0" y="224.0" width="12" height="1.0" fill="#cbd5e1"><title>chrY_pat 0.00-0.02 Mb (21 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="756.0" y="277.6" width="12" height="1.0" fill="#cbd5e1"><title>chrY_pat 26.59-26.62 Mb (31 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
-<rect x="756.0" y="255.7" width="12" height="1.0" fill="#cbd5e1"><title>chrY_pat 15.74-15.80 Mb (67 kb), S024, monomer 21828 bp, HOR 66631 bp</title></rect>
-<rect x="756.0" y="238.3" width="12" height="1.0" fill="#cbd5e1"><title>chrY_pat 7.08-7.39 Mb (316 kb), S010, monomer 4131 bp, HOR 4109 bp</title></rect>
-<rect x="756.0" y="240.0" width="12" height="1.4" fill="#cbd5e1"><title>chrY_pat 7.92-8.63 Mb (710 kb), S010, monomer 4081 bp, HOR 4075 bp</title></rect>
+<rect x="756.0" y="236.2" width="12" height="1.0" fill="#8b95a5"><title>chrY_pat 6.04-6.05 Mb (12 kb), S029, monomer 49 bp, HOR 49 bp</title></rect>
+<rect x="756.0" y="249.5" width="12" height="1.0" fill="#8b95a5"><title>chrY_pat 12.67-12.68 Mb (14 kb), S007, monomer 2345 bp, HOR 2342 bp</title></rect>
+<rect x="756.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>chrY_pat 0.00-0.02 Mb (21 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="756.0" y="277.6" width="12" height="1.0" fill="#8b95a5"><title>chrY_pat 26.59-26.62 Mb (31 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="756.0" y="255.7" width="12" height="1.0" fill="#8b95a5"><title>chrY_pat 15.74-15.80 Mb (67 kb), S024, monomer 21828 bp, HOR 66631 bp</title></rect>
+<rect x="756.0" y="238.3" width="12" height="1.0" fill="#8b95a5"><title>chrY_pat 7.08-7.39 Mb (316 kb), S010, monomer 4131 bp, HOR 4109 bp</title></rect>
+<rect x="756.0" y="240.0" width="12" height="1.4" fill="#8b95a5"><title>chrY_pat 7.92-8.63 Mb (710 kb), S010, monomer 4081 bp, HOR 4075 bp</title></rect>
 <text x="766.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 766.0 720)">chrY_pat</text>
 <text x="40" y="824" font-size="14" fill="#0f172a"><tspan font-weight="bold">b</tspan><tspan dx="10">Centromeric region of each chromosome, each window to its own scale (width shown above it)</tspan></text>
 <text x="102.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.2 Mb</text>
@@ -492,27 +475,23 @@ no array of the centromeric family: no call</title></rect>
 <rect x="95.0" y="885.9" width="14" height="14.4" fill="#1d4ed8"><title>chr1_mat 105.36-105.43 Mb (78 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <rect x="95.0" y="900.3" width="14" height="183.8" fill="#1d4ed8"><title>chr1_mat 105.43-106.43 Mb (992 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <path d="M92.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr1_mat locus 105.36-106.43 Mb (1.07 Mb): 1.07 Mb of S001 in 2 arrays; largest array 105.43-106.43 Mb (992 kb), monomer 328 bp</title></path>
-<path d="M86.0,992.2 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="106.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 106.0 1130)">chr1_mat</text>
 <text x="146.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.4 Mb</text>
 <rect x="138.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr2_pat 111.37-112.80 Mb</title></rect>
 <rect x="139.0" y="885.9" width="14" height="69.4" fill="#1d4ed8"><title>chr2_pat 111.47-111.90 Mb (431 kb), S001, monomer 329 bp, HOR 329 bp</title></rect>
 <rect x="139.0" y="955.3" width="14" height="128.8" fill="#1d4ed8"><title>chr2_pat 111.90-112.70 Mb (799 kb), S001, monomer 329 bp, HOR 329 bp</title></rect>
 <path d="M136.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr2_pat locus 111.47-112.70 Mb (1.23 Mb): 1.23 Mb of S001 in 2 arrays; largest array 111.90-112.70 Mb (799 kb), monomer 329 bp</title></path>
-<path d="M130.0,1019.7 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="150.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 150.0 1130)">chr2_pat</text>
 <text x="190.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.0 Mb</text>
 <rect x="182.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr3_mat 61.86-62.90 Mb</title></rect>
 <rect x="183.0" y="885.9" width="14" height="198.3" fill="#1d4ed8"><title>chr3_mat 61.93-62.83 Mb (896 kb), S001, monomer 329 bp, HOR 329 bp</title></rect>
 <path d="M180.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr3_mat locus 61.93-62.83 Mb (896 kb): 896 kb of S001 in 1 arrays; largest array 61.93-62.83 Mb (896 kb), monomer 329 bp</title></path>
-<path d="M174.0,985.0 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="194.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 194.0 1130)">chr3_mat</text>
 <text x="234.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">2.2 Mb</text>
 <rect x="226.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr4_mat 101.19-103.38 Mb</title></rect>
 <rect x="227.0" y="885.9" width="14" height="1.6" fill="#1d4ed8"><title>chr4_mat 101.34-101.36 Mb (15 kb), S001, monomer 328 bp, HOR 657 bp</title></rect>
 <rect x="227.0" y="887.5" width="14" height="196.7" fill="#1d4ed8"><title>chr4_mat 101.36-103.22 Mb (1.87 Mb), S001, monomer 328 bp, HOR 985 bp</title></rect>
 <path d="M224.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr4_mat locus 101.34-103.22 Mb (1.88 Mb): 1.88 Mb of S001 in 2 arrays; largest array 101.36-103.22 Mb (1.87 Mb), monomer 328 bp</title></path>
-<path d="M218.0,985.8 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="238.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 238.0 1130)">chr4_mat</text>
 <text x="278.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">2.1 Mb</text>
 <rect x="270.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr5_mat 77.48-79.62 Mb</title></rect>
@@ -578,7 +557,6 @@ no array of the centromeric family: no call</title></rect>
 <rect x="271.0" y="885.9" width="14" height="4.8" fill="#1d4ed8"><title>chr5_mat 77.63-77.67 Mb (45 kb), S001, monomer 328 bp, HOR 329 bp</title></rect>
 <rect x="271.0" y="892.5" width="14" height="9.6" fill="#1d4ed8"><title>chr5_mat 77.69-77.78 Mb (89 kb), S001, monomer 328 bp, HOR 2953 bp</title></rect>
 <path d="M268.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr5_mat locus 77.63-79.47 Mb (1.85 Mb): 1.02 Mb of S001 in 61 arrays; largest array 77.69-77.78 Mb (89 kb), monomer 328 bp</title></path>
-<path d="M262.0,897.3 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="282.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 282.0 1130)">chr5_mat</text>
 <text x="322.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">2.0 Mb</text>
 <rect x="314.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr6_mat 76.88-78.87 Mb</title></rect>
@@ -586,20 +564,17 @@ no array of the centromeric family: no call</title></rect>
 <rect x="315.0" y="885.9" width="14" height="46.4" fill="#1d4ed8"><title>chr6_mat 77.01-77.42 Mb (402 kb), S001, monomer 329 bp, HOR 329 bp</title></rect>
 <rect x="315.0" y="939.7" width="14" height="144.4" fill="#1d4ed8"><title>chr6_mat 77.48-78.73 Mb (1.25 Mb), S001, monomer 329 bp, HOR 3271 bp</title></rect>
 <path d="M312.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr6_mat locus 77.01-78.73 Mb (1.72 Mb): 1.72 Mb of S001 in 3 arrays; largest array 77.48-78.73 Mb (1.25 Mb), monomer 329 bp</title></path>
-<path d="M306.0,1011.9 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="326.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 326.0 1130)">chr6_mat</text>
 <text x="366.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">2.5 Mb</text>
 <rect x="358.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr7_pat 60.15-62.68 Mb</title></rect>
 <rect x="359.0" y="885.9" width="14" height="198.3" fill="#1d4ed8"><title>chr7_pat 60.32-62.51 Mb (2.19 Mb), S001, monomer 329 bp, HOR 1973 bp</title></rect>
 <path d="M356.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr7_pat locus 60.32-62.51 Mb (2.19 Mb): 2.19 Mb of S001 in 1 arrays; largest array 60.32-62.51 Mb (2.19 Mb), monomer 329 bp</title></path>
-<path d="M350.0,985.0 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="370.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 370.0 1130)">chr7_pat</text>
 <text x="410.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.8 Mb</text>
 <rect x="402.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr8_mat 63.01-64.79 Mb</title></rect>
 <rect x="403.0" y="885.9" width="14" height="25.6" fill="#1d4ed8"><title>chr8_mat 63.13-63.33 Mb (198 kb), S001, monomer 328 bp, HOR 656 bp</title></rect>
 <rect x="403.0" y="912.3" width="14" height="171.9" fill="#1d4ed8"><title>chr8_mat 63.33-64.66 Mb (1.33 Mb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <path d="M400.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr8_mat locus 63.13-64.66 Mb (1.53 Mb): 1.53 Mb of S001 in 2 arrays; largest array 63.33-64.66 Mb (1.33 Mb), monomer 328 bp</title></path>
-<path d="M394.0,998.2 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="414.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 414.0 1130)">chr8_mat</text>
 <text x="454.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">2.8 Mb</text>
 <rect x="446.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr9_mat 65.74-68.54 Mb</title></rect>
@@ -607,7 +582,6 @@ no array of the centromeric family: no call</title></rect>
 <rect x="447.0" y="870.0" width="14" height="8.2" fill="#f97316"><title>chr9_mat 64.77-65.84 Mb (1.07 Mb), S002, monomer 5877 bp, HOR 1065323 bp</title></rect>
 <rect x="447.0" y="953.6" width="14" height="130.5" fill="#1d4ed8"><title>chr9_mat 66.76-68.35 Mb (1.59 Mb), S001, monomer 329 bp, HOR 986 bp</title></rect>
 <path d="M444.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr9_mat locus 65.93-68.35 Mb (2.42 Mb): 2.42 Mb of S001 in 2 arrays; largest array 66.76-68.35 Mb (1.59 Mb), monomer 329 bp</title></path>
-<path d="M438.0,1018.9 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="458.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 458.0 1130)">chr9_mat</text>
 <text x="498.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.8 Mb</text>
 <rect x="490.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr10_mat 46.63-48.39 Mb</title></rect>
@@ -615,15 +589,13 @@ no array of the centromeric family: no call</title></rect>
 <rect x="491.0" y="1069.1" width="14" height="7.2" fill="#1d4ed8"><title>chr10_mat 48.15-48.21 Mb (55 kb), S001, monomer 329 bp, HOR 329 bp</title></rect>
 <rect x="491.0" y="885.9" width="14" height="183.0" fill="#1d4ed8"><title>chr10_mat 46.75-48.15 Mb (1.40 Mb), S001, monomer 328 bp, HOR 329 bp</title></rect>
 <path d="M488.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr10_mat locus 46.75-48.27 Mb (1.51 Mb): 1.50 Mb of S001 in 3 arrays; largest array 46.75-48.15 Mb (1.40 Mb), monomer 328 bp</title></path>
-<path d="M482.0,977.4 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="502.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 502.0 1130)">chr10_mat</text>
 <text x="542.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.6 Mb</text>
 <rect x="534.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr11_pat 74.06-75.69 Mb</title></rect>
 <rect x="535.0" y="885.9" width="14" height="1.6" fill="#1d4ed8"><title>chr11_pat 74.18-74.19 Mb (11 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
-<rect x="535.0" y="1098.1" width="14" height="1.9" fill="#cbd5e1"><title>chr11_pat 75.68-75.91 Mb (236 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="535.0" y="1098.1" width="14" height="1.9" fill="#8b95a5"><title>chr11_pat 75.68-75.91 Mb (236 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="535.0" y="888.1" width="14" height="196.0" fill="#1d4ed8"><title>chr11_pat 74.19-75.58 Mb (1.39 Mb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <path d="M532.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr11_pat locus 74.18-75.58 Mb (1.40 Mb): 1.40 Mb of S001 in 2 arrays; largest array 74.19-75.58 Mb (1.39 Mb), monomer 328 bp</title></path>
-<path d="M526.0,986.1 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="546.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 546.0 1130)">chr11_pat</text>
 <text x="586.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.3 Mb</text>
 <rect x="578.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr12_pat 68.39-69.68 Mb</title></rect>
@@ -634,7 +606,6 @@ no array of the centromeric family: no call</title></rect>
 <rect x="579.0" y="889.5" width="14" height="44.7" fill="#1d4ed8"><title>chr12_pat 68.50-68.75 Mb (249 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <rect x="579.0" y="938.3" width="14" height="142.9" fill="#1d4ed8"><title>chr12_pat 68.78-69.57 Mb (797 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <path d="M576.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr12_pat locus 68.48-69.59 Mb (1.11 Mb): 1.10 Mb of S001 in 6 arrays; largest array 68.78-69.57 Mb (797 kb), monomer 328 bp</title></path>
-<path d="M570.0,1009.8 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="590.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 590.0 1130)">chr12_pat</text>
 <text x="630.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">2.1 Mb</text>
 <rect x="622.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr13_mat 42.63-44.77 Mb</title></rect>
@@ -649,21 +620,18 @@ no array of the centromeric family: no call</title></rect>
 <rect x="623.0" y="885.9" width="14" height="6.8" fill="#1d4ed8"><title>chr13_mat 42.77-42.84 Mb (63 kb), S001, monomer 328 bp, HOR 3861 bp</title></rect>
 <rect x="623.0" y="933.4" width="14" height="10.7" fill="#1d4ed8"><title>chr13_mat 43.22-43.32 Mb (100 kb), S001, monomer 328 bp, HOR 3861 bp</title></rect>
 <path d="M620.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr13_mat locus 42.77-44.62 Mb (1.85 Mb): 478 kb of S001 in 10 arrays; largest array 43.22-43.32 Mb (100 kb), monomer 328 bp</title></path>
-<path d="M614.0,938.8 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="634.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 634.0 1130)">chr13_mat</text>
 <text x="674.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">923 kb</text>
 <rect x="666.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr14_pat 0.00-0.92 Mb</title></rect>
-<rect x="667.0" y="870.0" width="14" height="7.7" fill="#cbd5e1"><title>chr14_pat 0.00-0.03 Mb (31 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="667.0" y="870.0" width="14" height="7.7" fill="#8b95a5"><title>chr14_pat 0.00-0.03 Mb (31 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="667.0" y="883.3" width="14" height="200.7" fill="#1d4ed8"><title>chr14_pat 0.05-0.86 Mb (805 kb), S001, monomer 328 bp, HOR 328 bp</title></rect>
 <path d="M664.0,883.3 h-4 V1083.9 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr14_pat locus 0.05-0.86 Mb (805 kb): 805 kb of S001 in 1 arrays; largest array 0.05-0.86 Mb (805 kb), monomer 328 bp</title></path>
-<path d="M658.0,983.6 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="678.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 678.0 1130)">chr14_pat</text>
 <text x="718.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.4 Mb</text>
 <rect x="710.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chrX_mat 72.51-73.88 Mb</title></rect>
-<rect x="711.0" y="870.0" width="14" height="12.3" fill="#cbd5e1"><title>chrX_mat 71.78-72.58 Mb (804 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="711.0" y="870.0" width="14" height="12.3" fill="#8b95a5"><title>chrX_mat 71.78-72.58 Mb (804 kb), S008, monomer 6 bp, HOR 6 bp</title></rect>
 <rect x="711.0" y="885.9" width="14" height="198.3" fill="#1d4ed8"><title>chrX_mat 72.60-73.79 Mb (1.18 Mb), S001, monomer 329 bp, HOR 329 bp</title></rect>
 <path d="M708.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chrX_mat locus 72.60-73.79 Mb (1.18 Mb): 1.18 Mb of S001 in 1 arrays; largest array 72.60-73.79 Mb (1.18 Mb), monomer 329 bp</title></path>
-<path d="M702.0,985.0 l-7,-4.5 v9 z" fill="#0f172a"/>
 <text x="722.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 722.0 1130)">chrX_mat</text>
 <rect x="754.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>chrY_pat: no call</title></rect>
 <text x="762.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 762.0 985.0)">no call</text>

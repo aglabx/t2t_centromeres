@@ -1,6 +1,7 @@
 """One row per assembly: what was called, which satellite superfamily, and how the call meets every
-official set (relation counts; locus and largest array on the official interval, counted over the
-chromosomes where the set has an interval and is comparable).
+official set (relation counts; locus on the official interval, counted over the chromosomes where the set has
+an interval and is comparable; largest_array_on_official is descriptive only: the size of an array does not
+identify the active array, so no verdict rests on it).
 Usage: python -I summarize.py CALLS_DIR ASSEMBLIES.tsv > SUMMARY.tsv   (config/assemblies.tsv)
 """
 import csv
@@ -21,7 +22,7 @@ cols = ["accession", "organism", "asm_name", "directory", "status", "chromosomes
         "family_base_period", "family_n_chrom", "family_n_seq_families", "near_tie", "official_set",
         "official_chroms_comparable", "official_within_ours", "partial_overlap", "ours_within_official",
         "disjoint", "locus_on_official", "largest_array_on_official", "not_comparable",
-        "agrees", "contested_locus", "contested_active_array", "contested_no_call", "note"]
+        "agrees", "contested_locus", "contested_no_call", "note"]
 print("\t".join(cols))
 for st in status:
     acc = st["accession"]
@@ -62,6 +63,8 @@ for st in status:
             rel[r["relation"]] += 1
             if not r.get("agreement"):
                 sys.exit(f"{acc}: official_overlap.tsv row without agreement ({r['chromosome']}, {name})")
+            if r["agreement"] not in ("agrees", "contested_locus", "contested_no_call", "not_compared"):
+                sys.exit(f"{acc}: unknown agreement {r['agreement']!r} ({r['chromosome']}, {name})")
             agr[r["agreement"]] += 1
         comp = [r for r in rs if r["relation"] in ("official_within_ours", "partial_overlap",
                                                    "ours_within_official", "disjoint")]
@@ -71,6 +74,5 @@ for st in status:
                     "locus_on_official": sum(1 for r in comp if int(r["overlap_bp"] or 0) > 0),
                     "largest_array_on_official": sum(1 for r in comp if int(r["largest_array_overlap_bp"] or 0) > 0),
                     "not_comparable": rel["official_not_comparable"], "agrees": agr["agrees"],
-                    "contested_locus": agr["contested_locus"], "contested_active_array": agr["contested_active_array"],
-                    "contested_no_call": agr["contested_no_call"]})
+                    "contested_locus": agr["contested_locus"], "contested_no_call": agr["contested_no_call"]})
         print("\t".join(str(out[k]) for k in cols))

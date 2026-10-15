@@ -3,7 +3,7 @@ annotations in the same file and, per chromosome and per official set, where and
 
 Features (1-based, closed; seqid = the name the assembly's 2bit uses):
   centromere      satellome_cen   our locus, one per chromosome
-  satellite_DNA   satellome_cen   each array of the locus, Parent = locus; largest=true = candidate active array
+  satellite_DNA   satellome_cen   each array of the locus, Parent = locus; largest=true on the largest by length
   <SO type>       <set source>    each official interval; type by class: active arrays -> satellite_DNA,
                                   spans/regions -> centromere, genes -> gene
   region          intersection    each stretch where our locus and an official interval overlap
@@ -13,13 +13,15 @@ Per chromosome and official set, the relation of our locus to the set's span on 
   official_within_ours | ours_within_official | partial_overlap | disjoint |
   no_official_on_chromosome | official_not_comparable (track assembly length differs) | no_call
 and whether the two agree; every contradiction with a published annotation is labelled, never left
-for the reader to infer:
-  agrees                  our locus overlaps the published interval; for a set that names the active
-                          array (active_hor, presumed_active_array) our largest array overlaps it too
+for the reader to infer. The verdict is about the locus only: our locus is the centromeric satellite
+zone, and the size of an array inside it does not identify the active array, so no array is put
+forward as the active one.
+  agrees                  our locus overlaps the published interval
   contested_locus         our locus does not overlap the published interval
-  contested_active_array  our locus overlaps it, but the published active array is not our largest array
   contested_no_call       the authors place a centromere here, we make no call
   not_compared            nothing published on this chromosome, or the track's assembly differs
+largest_array_overlap_bp (descriptive only): overlap of the largest array of our locus with the
+published intervals.
 Written to the GFF (attributes of our locus, one block per set, plus published_agreement = contested |
 agrees | not_compared over all sets) and to --out-tsv (one row per chromosome x set; a row with set
 `none` when the assembly has no official annotation).
@@ -50,7 +52,6 @@ ap.add_argument("--official-set", action="append", default=[])
 ap.add_argument("--evidence", default="t2t_centromeres", help="value of the evidence attribute on our features")
 args = ap.parse_args()
 
-ACTIVE = {"active_hor", "presumed_active_array"}   # classes that name the active array itself
 SO_TYPE = {"active_hor": "satellite_DNA", "presumed_active_array": "satellite_DNA",
            "centromere_region": "centromere", "alpha_satellite_region": "centromere",
            "gene_in_centromeric_region": "gene"}
@@ -193,12 +194,7 @@ def relate(call, s, nm):
               "official_frac_in_our_locus": f"{o_bp / r['official_bp']:.4f}" if r["official_bp"] else "",
               "our_locus_frac_official": f"{o_bp / (le - ls):.4f}",
               "largest_array_overlap_bp": sum(ov(bs, be, a, b) for a, b, _ in offs_for_largest)})
-    if rel == "disjoint":
-        r["agreement"] = "contested_locus"
-    elif s["class"] in ACTIVE and r["largest_array_overlap_bp"] == 0:
-        r["agreement"] = "contested_active_array"
-    else:
-        r["agreement"] = "agrees"
+    r["agreement"] = "contested_locus" if rel == "disjoint" else "agrees"
     return r, offs
 
 

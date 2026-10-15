@@ -1,18 +1,20 @@
 """Karyotype figure of one assembly, two panels.
 
   a  whole chromosomes to one scale: every satellite array >= 10 kb coloured by superfamily, our
-     centromeric locus boxed, its largest array marked, each published centromere interval bracketed
-     beside it, one dot per published set: agrees / contested (no overlap, other active array, no call)
+     centromeric locus boxed, each published centromere interval bracketed beside it (one bracket per
+     interval), one dot per published set: agrees / contested (no overlap, no call)
   b  the centromeric region of every chromosome, each window to its own scale (width printed above it):
-     the arrays inside the locus, the locus, its largest array and the published interval side by side;
-     a published interval more than 3 Mb away is drawn as an arrow with its distance
+     the arrays inside the locus, the locus and the published intervals side by side, one bracket per
+     interval; a published interval more than 3 Mb away is drawn as an arrow with its distance
+Our locus is the centromeric satellite zone. No array inside it is marked as the active one: the size of an
+array does not identify the active array.
 
 Hover over any element for coordinates. Plain SVG written directly (no plotting library), so the file is
 byte-identical between runs and sits in MANIFEST.md5 with the tables.
 
 Usage: plot_karyotype.py --calls DIR --report ASSEMBLY_REPORT --acc ACC --asm-name NAME --organism ORG --out SVG
   DIR = call_centromeric_arrays.py + build_gff.py output (centromeres.tsv, satellite_arrays.tsv,
-        family_breadth.tsv, official_overlap.tsv, exceptions.tsv)
+        family_breadth.tsv, official_overlap.tsv, exceptions.tsv, centromeres.gff3)
 """
 import argparse
 import csv
@@ -56,7 +58,7 @@ def f1(x):
 
 
 # ---- inputs ----
-chroms, molecule = [], {}
+chroms, molecule, seq_name = [], {}, {}
 with open(args.report, encoding="utf-8") as fh:
     for ln in fh:
         if ln.startswith("#"):
@@ -65,6 +67,8 @@ with open(args.report, encoding="utf-8") as fh:
         if f[1] == "assembled-molecule" and f[3] == "Chromosome":
             chroms.append((f[0], int(f[8])))
             molecule[f[0]] = f[2]
+            seq_name[f[4]] = f[0]
+            seq_name[f[6]] = f[0]
 if not chroms:
     sys.exit(f"[{args.acc}] plot REFUSED: assembly report lists no assembled-molecule chromosomes")
 known = {c for c, _ in chroms}
@@ -88,7 +92,7 @@ KNOWN = {"official_within_ours", "ours_within_official", "partial_overlap", "dis
 odd = sorted({r["relation"] for r in overlap} - KNOWN)
 if odd:
     sys.exit(f"[{args.acc}] plot REFUSED: official_overlap.tsv has unknown relations {odd}")
-AGREE = {"agrees", "contested_locus", "contested_active_array", "contested_no_call", "not_compared"}
+AGREE = {"agrees", "contested_locus", "contested_no_call", "not_compared"}
 odd = sorted({r.get("agreement") or "<empty>" for r in overlap} - AGREE)
 if odd:
     sys.exit(f"[{args.acc}] plot REFUSED: official_overlap.tsv has unknown or missing agreement {odd}")
@@ -99,6 +103,28 @@ for r in overlap:
         sets.append(r["set"])
 rel = {(r["chromosome"], r["set"]): r for r in overlap}
 
+# every published interval, from the GFF build_gff.py wrote (official_overlap.tsv holds only the span of a set)
+pieces = defaultdict(list)
+gff_path = os.path.join(args.calls, "centromeres.gff3")
+if not os.path.isfile(gff_path):
+    sys.exit(f"[{args.acc}] plot REFUSED: {gff_path} missing")
+with open(gff_path, encoding="utf-8") as fh:
+    for ln in fh:
+        if ln.startswith("#"):
+            continue
+        f = ln.rstrip("\n").split("\t")
+        if len(f) != 9 or f[1] in ("satellome_cen", "intersection"):
+            continue
+        at = dict(kv.split("=", 1) for kv in f[8].split(";") if "=" in kv)
+        if "official_class" not in at:
+            sys.exit(f"[{args.acc}] plot REFUSED: published feature without official_class: {ln[:120]}")
+        c = seq_name.get(f[0])
+        if c is None:
+            sys.exit(f"[{args.acc}] plot REFUSED: GFF seqid {f[0]} not in the assembly report")
+        pieces[(c, f"{f[1]}:{at['official_class']}")].append((int(f[3]) - 1, int(f[4])))
+for k in pieces:
+    pieces[k].sort()
+
 
 def published(c, s):
     """(start, end, relation) of set s on chromosome c, or None when there is nothing to draw"""
@@ -106,6 +132,30 @@ def published(c, s):
     if not o or not o["official_start"] or o["relation"] in ("no_official_on_chromosome", "official_not_comparable"):
         return None
     return int(o["official_start"]), int(o["official_end"]), o["relation"]
+
+
+def intervals(c, s):
+    """the published intervals of set s on chromosome c; genes stand for one region, so they are drawn as its span"""
+    p = published(c, s)
+    if not p:
+        return []
+    if s.endswith(":gene_in_centromeric_region"):
+        return [(p[0], p[1])]
+    ivs = pieces.get((c, s), [])
+    if not ivs or ivs[0][0] != p[0] or max(b for _, b in ivs) != p[1]:
+        sys.exit(f"[{args.acc}] plot REFUSED: GFF intervals of {s} on {c} do not span official_overlap.tsv {p[:2]}")
+    return ivs
+
+
+def display_runs(ivs, sc, min_gap_px=1.5):
+    """join intervals whose gap is under min_gap_px at this scale, so the brackets stay legible"""
+    out = []
+    for a, b in ivs:
+        if out and (a - out[-1][1]) * sc < min_gap_px:
+            out[-1] = (out[-1][0], max(out[-1][1], b), out[-1][2] + 1)
+        else:
+            out.append((a, b, 1))
+    return out
 
 
 def label(c):
@@ -117,7 +167,7 @@ def label(c):
 
 
 # ---- colours ----
-C_FAMILY, C_COFAM, C_PERIOD, C_OTHER = "#1d4ed8", "#0f766e", "#93c5fd", "#cbd5e1"
+C_FAMILY, C_COFAM, C_PERIOD, C_OTHER = "#1d4ed8", "#0f766e", "#93c5fd", "#8b95a5"
 OTHERS = ["#f97316", "#a855f7", "#84cc16", "#b45309"]
 C_LOCUS, C_PUB = "#0f172a", "#c026d3"
 C_BODY, C_BODY_LINE, C_GRID, C_TEXT, C_MUTED = "#f1f5f9", "#94a3b8", "#e2e8f0", "#0f172a", "#64748b"
@@ -158,13 +208,12 @@ if any(a["membership"].startswith("period_class") for a in arrays):
 sat_items += [("swatch", other_colour[b["family"]], f"{b['family']} {period_label(b)}, {size(b['total_bp'])}")
               for b in rest[:len(OTHERS)]]
 sat_items.append(("swatch", C_OTHER, "other satellite arrays"))
-mark_items = [("locus", C_LOCUS, "our centromeric locus"), ("largest", C_LOCUS, "its largest array (candidate active array)")]
+mark_items = [("locus", C_LOCUS, "our centromeric locus (satellite zone)")]
 for i, s in enumerate(sets):
-    mark_items.append(("pub", i, f"published{' (dashed)' if i else ''}: {s.replace(':', ' ')}"))
+    mark_items.append(("pub", i, f"published{' (dashed)' if i else ''}: {s.replace(':', ' ')}, one bracket per interval"))
 if sets:
-    mark_items += [("agree", "agrees", "agrees with the published annotation"),
+    mark_items += [("agree", "agrees", "agrees: our locus overlaps the published interval"),
                    ("agree", "contested_locus", "contested: no overlap"),
-                   ("agree", "contested_active_array", "contested: published active array is not our largest array"),
                    ("agree", "contested_no_call", "contested: published centromere, no call"),
                    ("agree", "not_compared", "nothing published to compare")]
 mark_items.append(("nocall", "#dc2626", "no array of the centromeric family"))
@@ -180,8 +229,8 @@ for s in sets:
             ag[r["agreement"]] += 1
     comp = sum(v for k, v in ag.items() if k != "not_compared")
     con = comp - ag["agrees"]
-    detail = ", ".join(f"{t} {ag[k]}" for k, t in (("contested_locus", "no overlap"), ("contested_active_array",
-                       "other active array"), ("contested_no_call", "no call")) if ag[k])
+    detail = ", ".join(f"{t} {ag[k]}" for k, t in (("contested_locus", "no overlap"),
+                       ("contested_no_call", "no call")) if ag[k])
     sub.append(f"published {s.replace(':', ' ')}: " + (f"agrees on {ag['agrees']} of {comp} chromosomes"
                + (f", contested on {con} ({detail})" if con else "") if comp else "no interval on these chromosomes"))
 if not sets:
@@ -244,8 +293,6 @@ def dot(x, y, agreement, title=""):
         return f'<circle cx="{f1(x)}" cy="{f1(y)}" r="4.5" fill="{C_AGREE}">{t}</circle>'
     if agreement == "contested_locus":
         return f'<circle cx="{f1(x)}" cy="{f1(y)}" r="4.5" fill="{C_CONTEST}">{t}</circle>'
-    if agreement == "contested_active_array":
-        return f'<circle cx="{f1(x)}" cy="{f1(y)}" r="3.6" fill="#ffffff" stroke="{C_CONTEST}" stroke-width="2">{t}</circle>'
     if agreement == "contested_no_call":
         return f'<circle cx="{f1(x)}" cy="{f1(y)}" r="4.5" fill="{C_NOCALL}">{t}</circle>'
     return f'<circle cx="{f1(x)}" cy="{f1(y)}" r="4" fill="#ffffff" stroke="{C_NONE}" stroke-width="1.3">{t}</circle>'
@@ -255,7 +302,7 @@ def agreement_dots(i, c, y):
     for si, s in enumerate(sets):
         o = rel.get((c, s))
         agreement = o["agreement"] if o else "not_compared"
-        detail = f"{o['relation']}, largest array overlap {o['largest_array_overlap_bp'] or 0} bp" if o else "nothing published"
+        detail = o["relation"] if o else "nothing published"
         w_(dot(col_x(i) + bar_w / 2 + (si - (len(sets) - 1) / 2) * 11, y, agreement,
                f"{label(c)} vs {s}: {agreement} ({detail})"))
 
@@ -269,8 +316,6 @@ def legend_rows(rws, y0, title):
                 w_(f'<rect x="{f1(x)}" y="{y - 9}" width="16" height="10" rx="2" fill="{col}"/>')
             elif kind == "locus":
                 w_(f'<rect x="{f1(x + 2)}" y="{y - 11}" width="12" height="14" rx="2" fill="none" stroke="{col}" stroke-width="1.5"/>')
-            elif kind == "largest":
-                w_(f'<path d="M{f1(x + 14)},{y - 4} l-8,-5 v10 z" fill="{col}"/>')
             elif kind == "pub":
                 w_(f'<path d="M{f1(x + 5)},{y - 11} h5 V{y + 3} h-5" fill="none" stroke="{C_PUB}" stroke-width="2"{DASH if col else ""}/>')
             elif kind == "agree":
@@ -349,15 +394,12 @@ for i, (c, L) in enumerate(chroms):
         y0 = top_a + (s + e) / 2 * scale - hh / 2
         w_(f'<rect x="{f1(cx - 3)}" y="{f1(y0)}" width="{bar_w + 6}" height="{f1(hh)}" rx="2" fill="none" '
            f'stroke="{C_LOCUS}" stroke-width="1.5"><title>{locus_title(c, r)}</title></rect>')
-        ym = top_a + (int(r["largest_start"]) + int(r["largest_end"])) / 2 * scale
-        w_(f'<path d="M{f1(cx - 5)},{f1(ym)} l-7,-4.5 v9 z" fill="{C_LOCUS}"/>')
     for si, s in enumerate(sets):
-        p = published(c, s)
-        if p:
-            x0 = cx + bar_w + 5 + 5 * si
-            y1, y2 = top_a + p[0] * scale, max(top_a + p[0] * scale + 3, top_a + p[1] * scale)
+        x0 = cx + bar_w + 5 + 5 * si
+        for a0, b0, k in display_runs(intervals(c, s), scale):
+            y1, y2 = top_a + a0 * scale, max(top_a + a0 * scale + 3, top_a + b0 * scale)
             w_(f'<path d="M{f1(x0)},{f1(y1)} h4 V{f1(y2)} h-4" fill="none" stroke="{C_PUB}" stroke-width="2"{DASH if si else ""}>'
-               f'<title>{esc(s)}: {mb(p[0])}-{mb(p[1])} Mb; {p[2]}</title></path>')
+               f'<title>{esc(s)}: {mb(a0)}-{mb(b0)} Mb{f" ({k} intervals)" if k > 1 else ""}</title></path>')
     agreement_dots(i, c, top_a - 16)
     chrom_label(i, c, top_a + max_h + 16)
 
@@ -376,15 +418,14 @@ for i, (c, L) in enumerate(chroms):
         continue
     r = loci[c]
     s0, e0 = int(r["locus_start"]), int(r["locus_end"])
-    lo, hi, far = s0, e0, []
+    lo, hi, near, far = s0, e0, defaultdict(list), []
     for si, s in enumerate(sets):
-        p = published(c, s)
-        if not p:
-            continue
-        if p[0] - e0 > NEAR or s0 - p[1] > NEAR:
-            far.append((si, s, p))
-        else:
-            lo, hi = min(lo, p[0]), max(hi, p[1])
+        for a0, b0 in intervals(c, s):
+            if a0 - e0 > NEAR or s0 - b0 > NEAR:
+                far.append((si, s, (a0, b0)))
+            else:
+                near[si].append((a0, b0))
+                lo, hi = min(lo, a0), max(hi, b0)
     pad = max(0.08 * (hi - lo), 20_000)
     lo, hi = max(0, int(lo - pad)), min(L, int(hi + pad))
     sc = hb / (hi - lo)
@@ -397,23 +438,26 @@ for i, (c, L) in enumerate(chroms):
     y1, y2 = top_b + (s0 - lo) * sc, top_b + (e0 - lo) * sc
     w_(f'<path d="M{f1(bx - 2)},{f1(y1)} h-4 V{f1(max(y2, y1 + 2))} h4" fill="none" stroke="{C_LOCUS}" stroke-width="1.8">'
        f'<title>{locus_title(c, r)}</title></path>')
-    ym = top_b + ((int(r["largest_start"]) + int(r["largest_end"])) / 2 - lo) * sc
-    w_(f'<path d="M{f1(bx - 8)},{f1(ym)} l-7,-4.5 v9 z" fill="{C_LOCUS}"/>')
     for si, s in enumerate(sets):
-        p = published(c, s)
-        if not p or (si, s, p) in far:
-            continue
         x0 = bx + cw + 3 + 5 * si
-        p1, p2 = top_b + (max(p[0], lo) - lo) * sc, top_b + (min(p[1], hi) - lo) * sc
-        w_(f'<path d="M{f1(x0)},{f1(p1)} h4 V{f1(max(p2, p1 + 2))} h-4" fill="none" stroke="{C_PUB}" stroke-width="2"{DASH if si else ""}>'
-           f'<title>{esc(s)}: {mb(p[0])}-{mb(p[1])} Mb; {p[2]}</title></path>')
-    for k, (si, s, p) in enumerate(far):
-        up = p[1] < s0
-        dist = (s0 - p[1]) if up else (p[0] - e0)
+        for a0, b0, k in display_runs(near[si], sc):
+            p1, p2 = top_b + (max(a0, lo) - lo) * sc, top_b + (min(b0, hi) - lo) * sc
+            w_(f'<path d="M{f1(x0)},{f1(p1)} h4 V{f1(max(p2, p1 + 2))} h-4" fill="none" stroke="{C_PUB}" stroke-width="2"{DASH if si else ""}>'
+               f'<title>{esc(s)}: {mb(a0)}-{mb(b0)} Mb{f" ({k} intervals)" if k > 1 else ""}</title></path>')
+    # one arrow per set and side: the distance to the nearest published interval farther than NEAR
+    arrows = {}
+    for si, s, (a0, b0) in far:
+        up = b0 < s0
+        dist = (s0 - b0) if up else (a0 - e0)
+        key = (si, up)
+        if key not in arrows or dist < arrows[key][0]:
+            arrows[key] = (dist, s, a0, b0, sum(1 for sj, _, (x, y) in far if sj == si and (y < s0) == up))
+    for k, ((si, up), (dist, s, a0, b0, nf)) in enumerate(sorted(arrows.items())):
         ty = top_b - 8 if up else top_b + hb + 14
         w_(f'<text x="{f1(bx + cw / 2)}" y="{f1(ty + (-10 if up else 10) * k)}" font-size="9.5" font-weight="bold" '
-           f'fill="{C_PUB}" text-anchor="middle"><title>{esc(s)}: {mb(p[0])}-{mb(p[1])} Mb, {short_size(dist)} '
-           f'{"before" if up else "after"} our locus; {p[2]}</title>{"↑" if up else "↓"}{dist / 1e6:.0f}</text>')
+           f'fill="{C_PUB}" text-anchor="middle"><title>{esc(s)}: nearest {mb(a0)}-{mb(b0)} Mb, {short_size(dist)} '
+           f'{"before" if up else "after"} our locus ({nf} interval{"s" if nf > 1 else ""} beyond 3 Mb)</title>'
+           f'{"↑" if up else "↓"}{dist / 1e6:.0f}</text>')
     chrom_label(i, c, top_b + hb + 30)
 
 w_(f'<text x="{left - 40}" y="{height - 28}" font-size="10" fill="#94a3b8">Satellite arrays ≥ 10 kb from the '

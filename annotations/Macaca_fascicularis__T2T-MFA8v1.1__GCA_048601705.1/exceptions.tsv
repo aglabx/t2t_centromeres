@@ -1,6 +1,0 @@
-kind	chromosome	family	magnitude	default_applied
-short_consensus_family_as_broad	*	S002	1 chromosomes, 35859 bp, mono 6 vs 1 chromosomes, 3564446 bp, mono 3346	not eligible: no consensus >= --short-len
-short_consensus_family_as_broad	*	S003	1 chromosomes, 30378 bp, mono 10 vs 1 chromosomes, 3564446 bp, mono 3346	not eligible: no consensus >= --short-len
-breadth_tie_broken_by_bp	*	S004	1 chromosomes, 12344 bp, mono 2672 vs 1 chromosomes, 3564446 bp, mono 3346	kept the broader family; see colocated_families
-breadth_tie_broken_by_bp	*	S005	1 chromosomes, 10535 bp, mono 2408 vs 1 chromosomes, 3564446 bp, mono 3346	kept the broader family; see colocated_families
-locus_at_chromosome_end	Y	S001	13378600-17050509 of 17124583	informative: telocentric

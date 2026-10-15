@@ -1,6 +1,6 @@
 # t2t_centromeres
 
-Centromeric satellite arrays, one locus per chromosome, for **33 telomere-to-telomere assemblies**:
+Centromeric satellite arrays, one locus per chromosome, for **32 telomere-to-telomere assemblies**:
 human (CHM13), chimpanzee, bonobo, gorilla, Sumatran and Bornean orangutan, siamang, crab-eating and
 rhesus macaque, pig, sheep, goat, horse and giraffe, including the alternate and parental haplotype
 assemblies deposited for most of them.
@@ -18,8 +18,8 @@ One directory per assembly, named so that it sorts by species, e.g.
 
 | file | content |
 |---|---|
-| `karyotype.svg` | open in a browser. **a**: every chromosome to scale with its satellite arrays coloured by superfamily, our locus boxed, the published interval bracketed beside it, one dot per published set (overlap / no overlap / no call). **b**: the centromeric region of each chromosome close up, our locus and the published interval side by side. Hover for coordinates |
-| `centromeres.gff3` | our locus (`centromere`, source `satellome_cen`); its arrays (`satellite_DNA`, `largest=true` on the largest = candidate active array); every published interval (source = publisher); every overlap between the two (`region`, source `intersection`). seqid = GenBank accession |
+| `karyotype.svg` | open in a browser. **a**: every chromosome to scale with its satellite arrays coloured by superfamily, our locus boxed, each published interval bracketed beside it, one dot per published set (overlap / no overlap / no call). **b**: the centromeric region of each chromosome close up, our locus and the published intervals side by side, one bracket per interval. Hover for coordinates |
+| `centromeres.gff3` | our locus (`centromere`, source `satellome_cen`); its arrays (`satellite_DNA`, `largest=true` on the longest one, a size fact only); every published interval (source = publisher); every overlap between the two (`region`, source `intersection`). seqid = GenBank accession |
 | `centromeres.tsv` | one row per chromosome: locus, family, bp, largest array, monomer / HOR period, monomer consensus, co-located families |
 | `centromeric_arrays.tsv` / `.bed` | every array of every locus with FasTAN period, monomer and HOR period, monomer and HOR consensus, and how it joined the locus |
 | `official_overlap.tsv` | chromosome × published set: relation, overlap bp, fractions, gap |
@@ -32,8 +32,12 @@ One directory per assembly, named so that it sorts by species, e.g.
 Panel tables: `annotations/SUMMARY.tsv`, `ALL_centromeres.tsv`, `ALL_official_overlap.tsv`, `STATUS.tsv`.
 Every GFF attribute and relation is defined in [`docs/OUTPUT_FORMAT.md`](docs/OUTPUT_FORMAT.md).
 
-**The locus is the centromeric satellite zone, not the active array.** In apes and orangutans it can be
-several times wider than the active HOR; the largest array inside it is the candidate active array.
+**The locus is the centromeric satellite zone, not the centromere itself.** The functional centromere (the
+active HOR in primates, the CENP-A domain) is usually a small part of that zone, and the size of an array
+does not identify it: on the 15 ape chromosomes where CenSat placed the active array from CENP-A and CDR,
+our locus overlaps it on 14, but the largest array of our locus covers at least half of it on only 6. No
+array is put forward as the active one; the comparison with every published set is made at the level of
+the locus.
 
 ![CHM13 karyotype: (a) alpha satellite arrays in blue, our locus boxed, the T2T Consortium live HOR bracketed in magenta; (b) each centromeric region close up](annotations/Homo_sapiens__T2T-CHM13v2.0__GCA_009914755.4/karyotype.svg)
 
@@ -58,7 +62,6 @@ several times wider than the active HOR; the largest array inside it is the cand
 | *Gorilla gorilla gorilla* | [NHGRI_mGorGor1-v2.1_pri](annotations/Gorilla_gorilla_gorilla__NHGRI_mGorGor1-v2.1_pri__GCA_029281585.3) | GCA_029281585.3 | 25 / 25 | 171 | [svg](annotations/Gorilla_gorilla_gorilla__NHGRI_mGorGor1-v2.1_pri__GCA_029281585.3/karyotype.svg) |
 | *Homo sapiens* | [T2T-CHM13v2.0](annotations/Homo_sapiens__T2T-CHM13v2.0__GCA_009914755.4) | GCA_009914755.4 | 24 / 24 | 171 | [svg](annotations/Homo_sapiens__T2T-CHM13v2.0__GCA_009914755.4/karyotype.svg) |
 | *Macaca fascicularis* | [T2T-MFA8v1.1](annotations/Macaca_fascicularis__T2T-MFA8v1.1__GCA_037993035.2) | GCA_037993035.2 | 22 / 22 | 171 | [svg](annotations/Macaca_fascicularis__T2T-MFA8v1.1__GCA_037993035.2/karyotype.svg) |
-| *Macaca fascicularis* | [T2T-MFA8v1.1](annotations/Macaca_fascicularis__T2T-MFA8v1.1__GCA_048601705.1) | GCA_048601705.1 | 1 / 1 | 3346 | [svg](annotations/Macaca_fascicularis__T2T-MFA8v1.1__GCA_048601705.1/karyotype.svg) |
 | *Macaca mulatta* | [T2T-MMU8v2.0](annotations/Macaca_mulatta__T2T-MMU8v2.0__GCA_049350105.2) | GCA_049350105.2 | 22 / 22 | 171 | [svg](annotations/Macaca_mulatta__T2T-MMU8v2.0__GCA_049350105.2/karyotype.svg) |
 | *Ovis aries* | [T2T-sheep1.0](annotations/Ovis_aries__T2T-sheep1.0__GCA_040805955.1) | GCA_040805955.1 | 28 / 28 | 816 | [svg](annotations/Ovis_aries__T2T-sheep1.0__GCA_040805955.1/karyotype.svg) |
 | *Ovis aries* | [T2T-sheep1.0M](annotations/Ovis_aries__T2T-sheep1.0M__GCA_041121725.1) | GCA_041121725.1 | 25 / 27 | 816 | [svg](annotations/Ovis_aries__T2T-sheep1.0M__GCA_041121725.1/karyotype.svg) |
@@ -76,43 +79,35 @@ several times wider than the active HOR; the largest array inside it is the cand
 | *Symphalangus syndactylus* | [NHGRI_mSymSyn1-v2.0_alt](annotations/Symphalangus_syndactylus__NHGRI_mSymSyn1-v2.0_alt__GCA_028878085.3) | GCA_028878085.3 | 24 / 24 | 171 | [svg](annotations/Symphalangus_syndactylus__NHGRI_mSymSyn1-v2.0_alt__GCA_028878085.3/karyotype.svg) |
 | *Symphalangus syndactylus* | [NHGRI_mSymSyn1-v2.1_pri](annotations/Symphalangus_syndactylus__NHGRI_mSymSyn1-v2.1_pri__GCA_028878055.3) | GCA_028878055.3 | 26 / 26 | 171 | [svg](annotations/Symphalangus_syndactylus__NHGRI_mSymSyn1-v2.1_pri__GCA_028878055.3/karyotype.svg) |
 
-| assembly | published set | chromosomes compared | agrees | contested: no overlap | contested: other active array | contested: no call | largest array on it |
-|---|---|---:|---:|---:|---:|---:|---:|
-| T2T-CHM13v2.0 | T2T_CHM13_censat_v2.1 (active_hor) | 24 | 24 | 0 | 0 | 0 | 24 |
-| NHGRI_mPanTro3-v2.1_pri | T2T_primates_CenSat_v2.0 (active_hor) | 25 | 25 | 0 | 0 | 0 | 25 |
-| NHGRI_mPanTro3-v2.0_alt | T2T_primates_CenSat_v2.0 (active_hor) | 23 | 22 | 1 | 0 | 0 | 22 |
-| NHGRI_mPanPan1-v2.0_pat | T2T_primates_CenSat_v2.0 (active_hor) | 24 | 19 | 0 | 5 | 0 | 19 |
-| NHGRI_mPanPan1-v2.0_mat | T2T_primates_CenSat_v2.0 (active_hor) | 24 | 19 | 1 | 4 | 0 | 19 |
-| NHGRI_mSymSyn1-v2.1_pri | T2T_primates_CenSat_v2.0 (active_hor) | 26 | 22 | 3 | 1 | 0 | 22 |
-| NHGRI_mSymSyn1-v2.0_alt | T2T_primates_CenSat_v2.0 (active_hor) | 24 | 21 | 3 | 0 | 0 | 21 |
-| NHGRI_mGorGor1-v2.0_pat | T2T_primates_CenSat_v2.0 (active_hor) | 24 | 24 | 0 | 0 | 0 | 24 |
-| NHGRI_mGorGor1-v2.0_mat | T2T_primates_CenSat_v2.0 (active_hor) | 24 | 24 | 0 | 0 | 0 | 24 |
-| NHGRI_mPonPyg2-v2.0_alt | T2T_primates_CenSat_v2.0 (active_hor) | 23 | 22 | 0 | 1 | 0 | 22 |
-| NHGRI_mPonPyg2-v2.1_pri | T2T_primates_CenSat_v2.0 (active_hor) | 25 | 25 | 0 | 0 | 0 | 25 |
-| NHGRI_mPonAbe1-v2.1_pri | T2T_primates_CenSat_v2.0 (active_hor) | 24 | 23 | 0 | 1 | 0 | 23 |
-| NHGRI_mPonAbe1-v2.0_alt | T2T_primates_CenSat_v2.0 (active_hor) | 22 | 21 | 0 | 1 | 0 | 21 |
-| NHGRI_mGorGor1-v2.1_pri | T2T_primates_CenSat_v2.0 (active_hor) | 25 | 25 | 0 | 0 | 0 | 25 |
-| NHGRI_mPanPan1-v2.1_pri | T2T_primates_CenSat_v2.0 (active_hor) | 25 | 19 | 1 | 5 | 0 | 19 |
-| T2T-MFA8v1.1 | T2T-MFA8_Nature2025_S39 (presumed_active_array) | 21 | 21 | 0 | 0 | 0 | 21 |
-| T2T-MFA8v1.1 | T2T-MFA8_release_v1.1 (centromere_region) | 22 | 22 | 0 | 0 | 0 | 22 |
-| T2T-sheep1.0 | T2T-sheep_NatGenet2025_S8 (gene_in_centromeric_region) | 25 | 16 | 9 | 0 | 0 | 12 |
-| T2T-MFA8v1.1 | T2T-MFA8_release_v1.1 (centromere_region) | 1 | 1 | 0 | 0 | 0 | 1 |
-| T2T-MMU8v2.0 | T2T-MMU8_release_v2.0 (alpha_satellite_region) | 22 | 22 | 0 | 0 | 0 | 22 |
+| assembly | published set | chromosomes compared | agrees | contested: no overlap | contested: no call |
+|---|---|---:|---:|---:|---:|
+| T2T-CHM13v2.0 | T2T_CHM13_censat_v2.1 (active_hor) | 24 | 24 | 0 | 0 |
+| NHGRI_mPanTro3-v2.1_pri | T2T_primates_CenSat_v2.0 (active_hor) | 25 | 25 | 0 | 0 |
+| NHGRI_mPanTro3-v2.0_alt | T2T_primates_CenSat_v2.0 (active_hor) | 23 | 22 | 1 | 0 |
+| NHGRI_mPanPan1-v2.0_pat | T2T_primates_CenSat_v2.0 (active_hor) | 24 | 24 | 0 | 0 |
+| NHGRI_mPanPan1-v2.0_mat | T2T_primates_CenSat_v2.0 (active_hor) | 24 | 23 | 1 | 0 |
+| NHGRI_mSymSyn1-v2.1_pri | T2T_primates_CenSat_v2.0 (active_hor) | 26 | 23 | 3 | 0 |
+| NHGRI_mSymSyn1-v2.0_alt | T2T_primates_CenSat_v2.0 (active_hor) | 24 | 21 | 3 | 0 |
+| NHGRI_mGorGor1-v2.0_pat | T2T_primates_CenSat_v2.0 (active_hor) | 24 | 24 | 0 | 0 |
+| NHGRI_mGorGor1-v2.0_mat | T2T_primates_CenSat_v2.0 (active_hor) | 24 | 24 | 0 | 0 |
+| NHGRI_mPonPyg2-v2.0_alt | T2T_primates_CenSat_v2.0 (active_hor) | 23 | 23 | 0 | 0 |
+| NHGRI_mPonPyg2-v2.1_pri | T2T_primates_CenSat_v2.0 (active_hor) | 25 | 25 | 0 | 0 |
+| NHGRI_mPonAbe1-v2.1_pri | T2T_primates_CenSat_v2.0 (active_hor) | 24 | 24 | 0 | 0 |
+| NHGRI_mPonAbe1-v2.0_alt | T2T_primates_CenSat_v2.0 (active_hor) | 22 | 22 | 0 | 0 |
+| NHGRI_mGorGor1-v2.1_pri | T2T_primates_CenSat_v2.0 (active_hor) | 25 | 25 | 0 | 0 |
+| NHGRI_mPanPan1-v2.1_pri | T2T_primates_CenSat_v2.0 (active_hor) | 25 | 24 | 1 | 0 |
+| T2T-MFA8v1.1 | T2T-MFA8_Nature2025_S39 (presumed_active_array) | 21 | 21 | 0 | 0 |
+| T2T-MFA8v1.1 | T2T-MFA8_release_v1.1 (centromere_region) | 22 | 22 | 0 | 0 |
+| T2T-sheep1.0 | T2T-sheep_NatGenet2025_S8 (gene_in_centromeric_region) | 25 | 16 | 9 | 0 |
+| T2T-MMU8v2.0 | T2T-MMU8_release_v2.0 (alpha_satellite_region) | 22 | 22 | 0 | 0 |
 
 **Contested** — every chromosome where our call contradicts a published annotation (`agreement` in `official_overlap.tsv`, `published_agreement=contested` in the GFF):
 
 - T2T-sheep1.0 vs T2T-sheep_NatGenet2025_S8, no overlap: 5, 7, 14, 16, 19, 21, 22, 24, X
-- NHGRI_mPanPan1-v2.0_mat vs T2T_primates_CenSat_v2.0, published active array is not our largest array: chr2_mat_hsa3, chr3_mat_hsa4, chr5_mat_hsa6, chr13_mat_hsa2b
 - NHGRI_mPanPan1-v2.0_mat vs T2T_primates_CenSat_v2.0, no overlap: chr17_mat_hsa18
-- NHGRI_mPanPan1-v2.0_pat vs T2T_primates_CenSat_v2.0, published active array is not our largest array: chr3_pat_hsa4, chr4_pat_hsa5, chr5_pat_hsa6, chr13_pat_hsa2b, chr23_pat_hsa22
-- NHGRI_mPanPan1-v2.1_pri vs T2T_primates_CenSat_v2.0, published active array is not our largest array: chr2_mat_hsa3, chr3_pat_hsa4, chr5_pat_hsa6, chr13_mat_hsa2b, chr23_pat_hsa22
 - NHGRI_mPanPan1-v2.1_pri vs T2T_primates_CenSat_v2.0, no overlap: chr17_mat_hsa18
 - NHGRI_mPanTro3-v2.0_alt vs T2T_primates_CenSat_v2.0, no overlap: chr6_hap2_hsa7
-- NHGRI_mPonAbe1-v2.0_alt vs T2T_primates_CenSat_v2.0, published active array is not our largest array: chr9_hap2_hsa11
-- NHGRI_mPonAbe1-v2.1_pri vs T2T_primates_CenSat_v2.0, published active array is not our largest array: chr9_hap1_hsa11
-- NHGRI_mPonPyg2-v2.0_alt vs T2T_primates_CenSat_v2.0, published active array is not our largest array: chr12_hap2_hsa2a
 - NHGRI_mSymSyn1-v2.0_alt vs T2T_primates_CenSat_v2.0, no overlap: chr19_hap2 (molecule 12), chr15_hap2, chr21_hap2
-- NHGRI_mSymSyn1-v2.1_pri vs T2T_primates_CenSat_v2.0, published active array is not our largest array: chr1_hap1
 - NHGRI_mSymSyn1-v2.1_pri vs T2T_primates_CenSat_v2.0, no overlap: chr19_hap1 (molecule 12), chr21_hap1, chrY_hap2
 <!-- END TABLES -->
 
@@ -120,21 +115,25 @@ several times wider than the active HOR; the largest array inside it is the cand
 
 Where our call contradicts a published annotation it is labelled **contested**, never left for the reader to
 find: the `agreement` column of `official_overlap.tsv`, `published_agreement=contested` with a `Note` in the
-GFF, a red mark in the karyotype, and the generated list above. Three kinds: our locus does not overlap the
-published interval; it does, but the published active array is not our largest array; the authors place a
-centromere where we make no call.
+GFF, a red mark in the karyotype, and the generated list above. Two kinds: our locus does not overlap the
+published interval; the authors place a centromere where we make no call.
 
-- **CHM13, the one independent test.** Our locus, and the largest array inside it, lie on the live HOR
-  of the T2T Consortium censat v2.1 on 24 of 24 chromosomes. Taking the largest array of each chromosome
+- **CHM13, the one independent test.** Our locus overlaps the live HOR of the T2T Consortium censat v2.1
+  on 24 of 24 chromosomes. Taking the largest array of each chromosome
   instead lands on the live HOR on 16 of 24 (HSat1/2/3 arrays are larger on 8).
 - **Sheep, indirect.** The authors published genes in their centromeric regions, not the regions. Our
   locus overlaps the span of those genes on 16 of 25 chromosomes. chrX is the clear miss: the only large
   satellite array beside the authors' genes (0.65–7.2 Mb) is a 1.1-Mb SatII (702 bp) array at 7.22–8.35 Mb.
   SatII is on 14 of the 28 sheep chromosomes, too few to join as a co-family, so the call is a 22-kb SatI
   period-class array at 91.9 Mb, flagged `other_family_larger_on_chromosome`.
-- **Apes, siamang, macaques.** The published labels are the longest HOR array, the same rule as our
-  largest array, so agreement here is consistency rather than validation, and a contested chromosome is a
-  disagreement between two applications of one rule, not proof that either is wrong.
+- **Apes and siamang.** CenSat `active_hor` is the longest high-confidence (SF1–SF3) alpha-satellite HOR
+  array of the chromosome (the rule since CenSat v0.1), except on 15 contigs where the authors set the active
+  array by hand from CENP-A localisation and the CDR ([T2TPrimates README](https://github.com/hloucks/CenSatData/blob/main/T2TPrimates/README.md),
+  [`Primate_alpha_summary.sh`](https://github.com/hloucks/CenSatData/blob/main/T2TPrimates/Code/Primate_alpha_summary.sh)).
+  Agreement of our locus with a size-defined label is consistency rather than validation; a contested
+  chromosome is a disagreement, not proof that either annotation is wrong.
+- **Macaques.** The published intervals are defined from sequence (presumed-active arrays, alpha-satellite
+  spans, RepeatMasker), so agreement is consistency rather than validation.
 - **Chromosomes without a call** (`outliers.tsv`): chrY of pig, goats and giraffe, and horse Chr11, which
   the T2T-horse authors describe as satellite-free. On the haplotype assemblies of goat (chr9 and chr21
   maternal, chr28 paternal) and sheep (chr7 and chr14, plus chr15 paternal) the chromosome is 2.4–20.8 Mb
@@ -142,7 +141,7 @@ centromere where we make no call.
   centromeric family: the satellite block is absent from that assembly.
 - **Reproducibility.** Two runs of the caller on the same catalogues gave byte-identical files on all 17
   assemblies compared. The NCBI-download route of `reproduce.sh` gave a satellome catalogue byte-identical
-  to our local run (tested on GCA_048601705.1).
+  to our local run (tested on GCA_048601705.1, the smoke-test fixture).
 
 ## How a centromere is called
 
@@ -165,13 +164,13 @@ Every choice and the measurement behind it: [`docs/PARAMETERS.md`](docs/PARAMETE
 
 ## Published annotations used for comparison
 
-They are compared, never used as input. Only some of them are independent of "the largest alpha array":
+They are compared, never used as input. Only some of them rest on evidence other than the sequence itself:
 
 | assemblies | published set | definition | independent? |
 |---|---|---|---|
 | CHM13 | T2T Consortium censat v2.1, live HOR `hor_*(…L)` | CENP-A / CDR-informed | yes |
-| chimpanzee, bonobo, gorilla, orangutans | T2T Primates CenSat v2.0 `active_hor` | longest HOR array on the chromosome, curated for some contigs | mostly no |
-| siamang | T2T Primates CenSat v2.0 `active_hor` (joined by accession via the marbl/T2T-Browser alias table) | longest HOR array | no |
+| chimpanzee, bonobo, gorilla, orangutans | T2T Primates CenSat v2.0 `active_hor` | longest high-confidence HOR array of the chromosome; set from CENP-A and CDR on 14 contigs (bonobo 9, Sumatran orangutan 3, Bornean orangutan 2) | mostly no |
+| siamang | T2T Primates CenSat v2.0 `active_hor` (joined by accession via the marbl/T2T-Browser alias table) | longest high-confidence HOR array; chrY_hap2 set from CENP-A and CDR | mostly no |
 | T2T-MFA8 | Supp. Table 39 presumed-active S1S2 arrays; release `centromere.bed` | sequence only | no |
 | T2T-MMU8 | release `alpha_satellite.bed` (RepeatMasker) | sequence only | no |
 | T2T-sheep1.0 | Supp. Table 8, genes in the authors' centromeric regions | CENP-A ChIP + methylation + satellite | yes, indirectly |
@@ -190,21 +189,41 @@ export PYTHONNOUSERSITE=1                # else pip skips packages it finds in ~
 conda env create -f environment.yml && conda activate t2t_centromeres   # mamba env create: 1.5 min vs > 12 min
 python -m satellome --install-fastan --install-tanbed --install-rust-tools
 bash workflow/check_env.sh               # versions vs config/toolchain.tsv
-bash tests/smoke_test.sh work_smoke/      # ~2 min: one small assembly end to end, md5 vs annotations/
-bash workflow/reproduce.sh work/ 5 10    # all 33: 5 assemblies at a time, 10 threads each
+bash tests/smoke_test.sh work_smoke/      # ~3 min: the 17-Mb MFA8 chrY accession end to end, md5 vs tests/expected/
+bash workflow/reproduce.sh work/ 5 10    # all 32: 5 assemblies at a time, 10 threads each
 ```
 
 `reproduce.sh` downloads each GenBank assembly from NCBI (md5-checked), runs satellome
 (`workflow/run_satellome.sh`), fetches the published annotations (md5-checked, refuses on mismatch), calls
 the centromeres (`workflow/call_all.sh`) and compares the result with `annotations/` file by file
-(`workflow/verify.sh`). satellome took 15–71 min wall per whole-genome assembly (median 36; the 17-Mb MFA8 chrY
-accession 2 min) at 10 threads, five assemblies at a time (logs of the 33 release runs; Ubuntu 22.04, 192 cores
-shared with other jobs); most of it is the monomer decomposition (median 64 % of a run), peak memory at most
-4.04 GB. Calling all 33 takes 55 min at 16 threads. Tested on Linux only.
+(`workflow/verify.sh`). satellome took 15–71 min wall per assembly (median 36) at 10 threads, five assemblies
+at a time (logs of the 32 release runs; Ubuntu 22.04, 192 cores shared with other jobs); most of it is the
+monomer decomposition (median 64 % of a run), peak memory at most 4.04 GB. Calling all 32 takes 57 min at
+16 threads. Tested on Linux only.
 
 Toolchain the annotations were produced with: satellome 1.17.2, FasTAN 0.8 (ad3002/FASTAN e4953e9),
 tanbed (richarddurbin/alntools 1fb9f4f), arraysplitter 1.7.4, BLAST+ 2.12.0, Python 3.10
 ([`config/toolchain.tsv`](config/toolchain.tsv)).
+
+## Changes in v1.2
+
+- **32 assemblies, not 33.** GCA_048601705.1 (T2T-MFA8v1.1 chrY deposited on its own) is the same GenBank
+  sequence (CP168063.1, 17,124,583 bp) as chrY of GCA_037993035.2, which the panel already contains; v1.1
+  counted that chromosome twice. It stays only as the input of `tests/smoke_test.sh` (expected md5 in
+  `tests/expected/`).
+- **The verdict is about the locus only.** v1.1 put the largest array of our locus forward as the candidate
+  active array and labelled `contested_active_array` where a published active array was another array of the
+  locus. The size of an array does not identify the active array, so that label and the candidate are gone;
+  `largest_array_overlap_bp` stays in `official_overlap.tsv` as a descriptive column. The 18 such v1.1 rows
+  now read `agrees` (our locus overlaps the published interval).
+- **Karyotype figure.** Each published interval is its own bracket (v1.1 drew one bracket from the first to
+  the last interval of a set, which on CHM13 chr3 and chr4 spanned a 42-bp satellite array between pieces of
+  the live HOR); other satellite arrays are a darker grey, so an array never reads as empty sequence; no
+  array is marked as the largest.
+- **CenSat definition corrected.** The ape `active_hor` is the longest high-confidence HOR array of the
+  chromosome, with the active array set from CENP-A and CDR on 15 contigs; v1.1 cited the CenSatData root
+  README, which does not state the rule, and left out the curated contigs.
+- The calls themselves (`centromeres.tsv`, arrays, families, outliers, exceptions) are byte-identical to v1.1.
 
 ## Sources
 

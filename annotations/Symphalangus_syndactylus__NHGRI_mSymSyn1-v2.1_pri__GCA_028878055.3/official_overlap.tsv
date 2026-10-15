@@ -1,5 +1,5 @@
 accession	chromosome	molecule	seqid	our_locus_start	our_locus_end	set	relation	agreement	official_start	official_end	official_n	n_official_inside_our_locus	official_bp	overlap_bp	official_frac_in_our_locus	our_locus_frac_official	largest_array_overlap_bp	gap_bp
-GCA_028878055.3	chr1_hap1	1	CM054509.2	82000437	83654787	T2T_primates_CenSat_v2.0:active_hor	partial_overlap	contested_active_array	81937080	82300387	1		363307	299950	0.8256	0.1813	0	
+GCA_028878055.3	chr1_hap1	1	CM054509.2	82000437	83654787	T2T_primates_CenSat_v2.0:active_hor	partial_overlap	agrees	81937080	82300387	1		363307	299950	0.8256	0.1813	0	
 GCA_028878055.3	chr2_hap1	2	CM054510.2	62427316	63052151	T2T_primates_CenSat_v2.0:active_hor	partial_overlap	agrees	62863489	63056045	1		192556	188662	0.9798	0.3019	82111	
 GCA_028878055.3	chr3_hap1	3	CM054511.2	77644944	77657832	T2T_primates_CenSat_v2.0:active_hor	ours_within_official	agrees	77644943	77658799	1		13856	12888	0.9301	1.0000	12888	
 GCA_028878055.3	chr4_hap1	4	CM054512.2	78895532	78949361	T2T_primates_CenSat_v2.0:active_hor	ours_within_official	agrees	78894351	78952878	1		58527	53829	0.9197	1.0000	26518	

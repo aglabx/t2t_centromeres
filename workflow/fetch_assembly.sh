@@ -6,8 +6,9 @@
 set -euo pipefail
 ACC=${1:?accession}; OUT=${2:?outdir}
 HERE=$(cd "$(dirname "$0")/.." && pwd)
-FTP=$(awk -F'\t' -v a="$ACC" '$1==a{print $7}' "$HERE/config/assemblies.tsv")
-[ -n "$FTP" ] || { echo "REFUSED: $ACC not in config/assemblies.tsv" >&2; exit 1; }
+AS=${ASSEMBLIES:-$HERE/config/assemblies.tsv}   # tests/smoke_test.sh points this at tests/smoke_assemblies.tsv
+FTP=$(awk -F'\t' -v a="$ACC" '$1==a{print $7}' "$AS")
+[ -n "$FTP" ] || { echo "REFUSED: $ACC not in $AS" >&2; exit 1; }
 BASE=$(basename "$FTP")
 D="$OUT/$ACC"; mkdir -p "$D"
 # every download says why it failed; a stalled transfer (< 1 kB/s for 2 min) is aborted and retried
