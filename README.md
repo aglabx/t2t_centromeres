@@ -177,8 +177,9 @@ They are compared, never used as input. Only some of them are independent of "th
 | T2T-sheep1.0 | Supp. Table 8, genes in the authors' centromeric regions | CENP-A ChIP + methylation + satellite | yes, indirectly |
 | goats, pig, horse, giraffe | — no interval file published | | |
 
-URLs and md5 of every file: [`config/official_downloads.tsv`](config/official_downloads.tsv). Ape chrY
-CenSat tracks are not part of the public CenSat v2.0 files and are not compared.
+URLs and md5 of every file: [`config/official_downloads.tsv`](config/official_downloads.tsv). The public CenSat
+v2.0 files include chrY of the assemblies that carry it (gorilla and bonobo primary and paternal; chimpanzee,
+orangutan and siamang primary), and those 8 are compared; ape chrY tracks from other sources are not used.
 Note for siamang: the NCBI assembly report keeps pre-v2.1 chromosome labels (`chr19_hap1` is molecule 12);
 join on accession or molecule, never on that name.
 
@@ -196,10 +197,10 @@ bash workflow/reproduce.sh work/ 5 10    # all 33: 5 assemblies at a time, 10 th
 `reproduce.sh` downloads each GenBank assembly from NCBI (md5-checked), runs satellome
 (`workflow/run_satellome.sh`), fetches the published annotations (md5-checked, refuses on mismatch), calls
 the centromeres (`workflow/call_all.sh`) and compares the result with `annotations/` file by file
-(`workflow/verify.sh`). satellome took 15–71 min wall per mammalian assembly (median 36) at 10 threads, five
-assemblies at a time (from the logs of all 33 release runs; Ubuntu 22.04, 192 cores shared with other jobs); most of
-it is the monomer decomposition (median 64 % of a run), peak memory at most 4.04 GB. Calling all 33 takes 55 min at
-16 threads. Tested on Linux only.
+(`workflow/verify.sh`). satellome took 15–71 min wall per whole-genome assembly (median 36; the 17-Mb MFA8 chrY
+accession 2 min) at 10 threads, five assemblies at a time (logs of the 33 release runs; Ubuntu 22.04, 192 cores
+shared with other jobs); most of it is the monomer decomposition (median 64 % of a run), peak memory at most
+4.04 GB. Calling all 33 takes 55 min at 16 threads. Tested on Linux only.
 
 Toolchain the annotations were produced with: satellome 1.17.2, FasTAN 0.8 (ad3002/FASTAN e4953e9),
 tanbed (richarddurbin/alntools 1fb9f4f), arraysplitter 1.7.4, BLAST+ 2.12.0, Python 3.10
