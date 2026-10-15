@@ -3,8 +3,12 @@ message: "If you use these annotations or the pipeline, please cite this reposit
 title: "t2t_centromeres: centromeric satellite arrays for 32 T2T assemblies from satellome catalogues, compared with the published centromere annotations"
 type: dataset
 authors:
+  - family-names: Popova
+    given-names: Marina
+    affiliation: "Department of Computer Science, Neapolis University Pafos"
   - family-names: Komissarov
     given-names: Aleksey
+    affiliation: "Department of Computer Science, Neapolis University Pafos"
 repository-code: "https://github.com/aglabx/t2t_centromeres"
 license: [MIT, CC-BY-4.0]
 version: "1.2"
