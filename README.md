@@ -83,7 +83,8 @@ bash workflow/reproduce.sh work/ 5 10    # all 33: 5 assemblies at a time, 10 th
 `reproduce.sh` downloads each GenBank assembly from NCBI (md5-checked), runs satellome
 (`workflow/run_satellome.sh`), fetches the published annotations (md5-checked, refuses on mismatch), calls
 the centromeres (`workflow/call_all.sh`) and compares the result with `annotations/` file by file
-(`workflow/verify.sh`). One mammalian assembly is ~1–2 CPU-hours. Tested on Linux.
+(`workflow/verify.sh`). satellome takes 33–41 min wall per mammalian assembly at 10 threads (measured on
+Ubuntu 22.04, 192 cores shared with other jobs); calling takes ~1.5 min per assembly at 16 threads. Tested on Linux only.
 
 Toolchain the annotations were produced with: satellome 1.17.2, FasTAN 0.8 (ad3002/FASTAN e4953e9),
 tanbed (richarddurbin/alntools 1fb9f4f), arraysplitter 1.7.4, BLAST+ 2.12.0, Python 3.10

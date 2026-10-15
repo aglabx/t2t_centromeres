@@ -43,11 +43,12 @@ for st in status:
         ties = [e for e in csv.DictReader(fh, delimiter="\t") if e["kind"].startswith("breadth_")]
     row["near_tie"] = ";".join(f"{e['kind']}:{e['magnitude']}" for e in ties)
     ov = os.path.join(d, "official_overlap.tsv")
+    if not os.path.exists(ov):
+        sys.exit(f"{acc}: status 'called' but {ov} is missing")
     sets = defaultdict(list)
-    if os.path.exists(ov):
-        with open(ov) as fh:
-            for r in csv.DictReader(fh, delimiter="\t"):
-                sets[r["set"]].append(r)
+    with open(ov) as fh:
+        for r in csv.DictReader(fh, delimiter="\t"):
+            sets[r["set"]].append(r)
     if not sets or list(sets) == ["none"]:
         row["official_set"] = "none_published"
         print("\t".join(str(row[k]) for k in cols))

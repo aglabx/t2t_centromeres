@@ -17,4 +17,7 @@ one () {
 }
 export -f one; export W HERE THREADS
 xargs -a "$W/logs/accessions.txt" -P "$JOBS" -I{} bash -c 'one {}' | tee "$W/logs/satellome_all.status"
-echo "EXIT $(date -Is)"
+n=$(wc -l < "$W/logs/accessions.txt"); done_n=$(grep -c ' DONE$' "$W/logs/satellome_all.status")
+echo "EXIT $(date -Is) done=$done_n/$n"
+grep -v ' DONE$' "$W/logs/satellome_all.status"
+[ "$done_n" -eq "$n" ]
