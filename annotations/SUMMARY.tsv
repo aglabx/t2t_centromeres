@@ -1,36 +1,36 @@
-accession	organism	asm_name	status	chromosomes	called	no_family_array	family_base_period	family_n_chrom	family_n_seq_families	near_tie	official_set	official_chroms_comparable	official_within_ours	partial_overlap	ours_within_official	disjoint	locus_on_official	largest_array_on_official	not_comparable	note
-GCA_000003025.7	Sus scrofa	T2T-Sscrofa	called	20	19	1	336	19	2		none_published									
-GCA_009914755.4	Homo sapiens	T2T-CHM13v2.0	called	24	24	0	171	24	27		T2T_CHM13_censat_v2.1:active_hor	24	21	3	0	0	24	24	0	
-GCA_028858775.3	Pan troglodytes	NHGRI_mPanTro3-v2.1_pri	called	25	25	0	171	25	16		T2T_primates_CenSat_v2.0:active_hor	25	23	2	0	0	25	25	0	
-GCA_028858805.2	Pan troglodytes	NHGRI_mPanTro3-v2.0_alt	called	23	23	0	171	23	15		T2T_primates_CenSat_v2.0:active_hor	23	21	1	0	1	22	22	0	
-GCA_028858825.2	Pan paniscus	NHGRI_mPanPan1-v2.0_pat	called	24	24	0	171	24	11		T2T_primates_CenSat_v2.0:active_hor	24	17	6	1	0	24	19	0	
-GCA_028858845.2	Pan paniscus	NHGRI_mPanPan1-v2.0_mat	called	24	24	0	171	24	17		T2T_primates_CenSat_v2.0:active_hor	24	20	3	0	1	23	19	0	
-GCA_028878055.3	Symphalangus syndactylus	NHGRI_mSymSyn1-v2.1_pri	called	26	26	0	171	26	4		T2T_primates_CenSat_v2.0:active_hor	26	5	13	5	3	23	22	0	
-GCA_028878085.3	Symphalangus syndactylus	NHGRI_mSymSyn1-v2.0_alt	called	24	24	0	171	24	9		T2T_primates_CenSat_v2.0:active_hor	24	6	10	5	3	21	21	0	
-GCA_028885475.2	Gorilla gorilla gorilla	NHGRI_mGorGor1-v2.0_pat	called	24	24	0	171	24	8	breadth_near_tie:23 chromosomes, 209517236 bp, mono 32 vs 24 chromosomes, 100351931 bp, mono 169	T2T_primates_CenSat_v2.0:active_hor	24	18	5	1	0	24	24	0	
-GCA_028885495.2	Gorilla gorilla gorilla	NHGRI_mGorGor1-v2.0_mat	called	24	24	0	171	24	9	breadth_near_tie:23 chromosomes, 236792924 bp, mono 32 vs 24 chromosomes, 106719502 bp, mono 169	T2T_primates_CenSat_v2.0:active_hor	24	19	5	0	0	24	24	0	
-GCA_028885525.2	Pongo pygmaeus	NHGRI_mPonPyg2-v2.0_alt	called	23	23	0	171	23	12		T2T_primates_CenSat_v2.0:active_hor	23	11	11	1	0	23	22	0	
-GCA_028885625.3	Pongo pygmaeus	NHGRI_mPonPyg2-v2.1_pri	called	25	25	0	171	25	8		T2T_primates_CenSat_v2.0:active_hor	25	10	14	1	0	25	25	0	
-GCA_028885655.3	Pongo abelii	NHGRI_mPonAbe1-v2.1_pri	called	25	25	0	171	25	8		T2T_primates_CenSat_v2.0:active_hor	24	12	10	2	0	24	23	1	
-GCA_028885685.2	Pongo abelii	NHGRI_mPonAbe1-v2.0_alt	called	23	23	0	171	23	6		T2T_primates_CenSat_v2.0:active_hor	22	13	6	3	0	22	21	1	
-GCA_029281585.3	Gorilla gorilla gorilla	NHGRI_mGorGor1-v2.1_pri	called	25	25	0	171	25	6	breadth_near_tie:24 chromosomes, 227119150 bp, mono 32 vs 25 chromosomes, 109667523 bp, mono 169	T2T_primates_CenSat_v2.0:active_hor	25	19	5	1	0	25	25	0	
-GCA_029289425.3	Pan paniscus	NHGRI_mPanPan1-v2.1_pri	called	25	25	0	171	25	14		T2T_primates_CenSat_v2.0:active_hor	25	19	4	1	1	24	19	0	
-GCA_037993035.2	Macaca fascicularis	T2T-MFA8v1.1	called	22	22	0	171	22	11		T2T-MFA8_Nature2025_S39:presumed_active_array	21	21	0	0	0	21	21	0	
-GCA_037993035.2	Macaca fascicularis	T2T-MFA8v1.1	called	22	22	0	171	22	11		T2T-MFA8_release_v1.1:centromere_region	22	0	1	21	0	22	22	0	
-GCA_040805955.1	Ovis aries	T2T-sheep1.0	called	28	28	0	816	26	19		T2T-sheep_NatGenet2025_S8:gene_in_centromeric_region	25	7	6	3	9	16	12	0	
-GCA_040806595.1	Capra hircus	T2T-goat1.0	called	31	30	1	703	30	10		none_published									
-GCA_040836155.1	Ovis aries	T2T-sheep1.0P	called	27	24	3	816	23	20		none_published									
-GCA_040970035.1	Capra hircus	T2T-goat2.0M	called	30	28	2	816	27	217		none_published									
-GCA_041053135.1	Capra hircus	T2T-goat2.0P	called	30	28	2	816	28	237		none_published									
-GCA_041121725.1	Ovis aries	T2T-sheep1.0M	called	27	25	2	816	24	18		none_published									
-GCA_041735815.1	Capra hircus	T2T-goat2.0	called	31	30	1	703	30	10		none_published									
-GCA_041736475.1	Capra hircus	T2T-goat1.0M	called	30	28	2	816	27	233		none_published									
-GCA_041920685.1	Capra hircus	T2T-goat1.0P	called	30	28	2	816	28	247		none_published									
-GCA_048601705.1	Macaca fascicularis	T2T-MFA8v1.1	called	1	1	0	3346	1	2	breadth_tie_broken_by_bp:1 chromosomes, 12344 bp, mono 2672 vs 1 chromosomes, 3564446 bp, mono 3346;breadth_tie_broken_by_bp:1 chromosomes, 10535 bp, mono 2408 vs 1 chromosomes, 3564446 bp, mono 3346	T2T-MFA8_Nature2025_S39:presumed_active_array	0	0	0	0	0	0	0	0	
-GCA_048601705.1	Macaca fascicularis	T2T-MFA8v1.1	called	1	1	0	3346	1	2	breadth_tie_broken_by_bp:1 chromosomes, 12344 bp, mono 2672 vs 1 chromosomes, 3564446 bp, mono 3346;breadth_tie_broken_by_bp:1 chromosomes, 10535 bp, mono 2408 vs 1 chromosomes, 3564446 bp, mono 3346	T2T-MFA8_release_v1.1:centromere_region	1	0	0	1	0	1	1	0	
-GCA_049350105.2	Macaca mulatta	T2T-MMU8v2.0	called	22	22	0	171	22	9		T2T-MMU8_release_v2.0:alpha_satellite_region	22	0	1	21	0	22	22	0	
-GCA_052818215.1	Equus caballus	T2T-horse1.0	called	33	32	1	221	32	2		none_published									
-GCA_054371575.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.alt	called	14	14	0	328	14	3		none_published									
-GCA_054371585.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.pri	called	16	15	1	328	15	3		none_published									
-GCA_054371615.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.pat	called	15	14	1	329	14	3		none_published									
-GCA_054371825.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.mat	called	15	15	0	328	15	3		none_published									
+accession	organism	asm_name	directory	status	chromosomes	called	no_family_array	family_base_period	family_n_chrom	family_n_seq_families	near_tie	official_set	official_chroms_comparable	official_within_ours	partial_overlap	ours_within_official	disjoint	locus_on_official	largest_array_on_official	not_comparable	agrees	contested_locus	contested_active_array	contested_no_call	note
+GCA_000003025.7	Sus scrofa	T2T-Sscrofa	Sus_scrofa__T2T-Sscrofa__GCA_000003025.7	called	20	19	1	336	19	2		none_published													
+GCA_009914755.4	Homo sapiens	T2T-CHM13v2.0	Homo_sapiens__T2T-CHM13v2.0__GCA_009914755.4	called	24	24	0	171	24	27		T2T_CHM13_censat_v2.1:active_hor	24	21	3	0	0	24	24	0	24	0	0	0	
+GCA_028858775.3	Pan troglodytes	NHGRI_mPanTro3-v2.1_pri	Pan_troglodytes__NHGRI_mPanTro3-v2.1_pri__GCA_028858775.3	called	25	25	0	171	25	16		T2T_primates_CenSat_v2.0:active_hor	25	23	2	0	0	25	25	0	25	0	0	0	
+GCA_028858805.2	Pan troglodytes	NHGRI_mPanTro3-v2.0_alt	Pan_troglodytes__NHGRI_mPanTro3-v2.0_alt__GCA_028858805.2	called	23	23	0	171	23	15		T2T_primates_CenSat_v2.0:active_hor	23	21	1	0	1	22	22	0	22	1	0	0	
+GCA_028858825.2	Pan paniscus	NHGRI_mPanPan1-v2.0_pat	Pan_paniscus__NHGRI_mPanPan1-v2.0_pat__GCA_028858825.2	called	24	24	0	171	24	11		T2T_primates_CenSat_v2.0:active_hor	24	17	6	1	0	24	19	0	19	0	5	0	
+GCA_028858845.2	Pan paniscus	NHGRI_mPanPan1-v2.0_mat	Pan_paniscus__NHGRI_mPanPan1-v2.0_mat__GCA_028858845.2	called	24	24	0	171	24	17		T2T_primates_CenSat_v2.0:active_hor	24	20	3	0	1	23	19	0	19	1	4	0	
+GCA_028878055.3	Symphalangus syndactylus	NHGRI_mSymSyn1-v2.1_pri	Symphalangus_syndactylus__NHGRI_mSymSyn1-v2.1_pri__GCA_028878055.3	called	26	26	0	171	26	4		T2T_primates_CenSat_v2.0:active_hor	26	5	13	5	3	23	22	0	22	3	1	0	
+GCA_028878085.3	Symphalangus syndactylus	NHGRI_mSymSyn1-v2.0_alt	Symphalangus_syndactylus__NHGRI_mSymSyn1-v2.0_alt__GCA_028878085.3	called	24	24	0	171	24	9		T2T_primates_CenSat_v2.0:active_hor	24	6	10	5	3	21	21	0	21	3	0	0	
+GCA_028885475.2	Gorilla gorilla gorilla	NHGRI_mGorGor1-v2.0_pat	Gorilla_gorilla_gorilla__NHGRI_mGorGor1-v2.0_pat__GCA_028885475.2	called	24	24	0	171	24	8	breadth_near_tie:23 chromosomes, 209517236 bp, mono 32 vs 24 chromosomes, 100351931 bp, mono 169	T2T_primates_CenSat_v2.0:active_hor	24	18	5	1	0	24	24	0	24	0	0	0	
+GCA_028885495.2	Gorilla gorilla gorilla	NHGRI_mGorGor1-v2.0_mat	Gorilla_gorilla_gorilla__NHGRI_mGorGor1-v2.0_mat__GCA_028885495.2	called	24	24	0	171	24	9	breadth_near_tie:23 chromosomes, 236792924 bp, mono 32 vs 24 chromosomes, 106719502 bp, mono 169	T2T_primates_CenSat_v2.0:active_hor	24	19	5	0	0	24	24	0	24	0	0	0	
+GCA_028885525.2	Pongo pygmaeus	NHGRI_mPonPyg2-v2.0_alt	Pongo_pygmaeus__NHGRI_mPonPyg2-v2.0_alt__GCA_028885525.2	called	23	23	0	171	23	12		T2T_primates_CenSat_v2.0:active_hor	23	11	11	1	0	23	22	0	22	0	1	0	
+GCA_028885625.3	Pongo pygmaeus	NHGRI_mPonPyg2-v2.1_pri	Pongo_pygmaeus__NHGRI_mPonPyg2-v2.1_pri__GCA_028885625.3	called	25	25	0	171	25	8		T2T_primates_CenSat_v2.0:active_hor	25	10	14	1	0	25	25	0	25	0	0	0	
+GCA_028885655.3	Pongo abelii	NHGRI_mPonAbe1-v2.1_pri	Pongo_abelii__NHGRI_mPonAbe1-v2.1_pri__GCA_028885655.3	called	25	25	0	171	25	8		T2T_primates_CenSat_v2.0:active_hor	24	12	10	2	0	24	23	1	23	0	1	0	
+GCA_028885685.2	Pongo abelii	NHGRI_mPonAbe1-v2.0_alt	Pongo_abelii__NHGRI_mPonAbe1-v2.0_alt__GCA_028885685.2	called	23	23	0	171	23	6		T2T_primates_CenSat_v2.0:active_hor	22	13	6	3	0	22	21	1	21	0	1	0	
+GCA_029281585.3	Gorilla gorilla gorilla	NHGRI_mGorGor1-v2.1_pri	Gorilla_gorilla_gorilla__NHGRI_mGorGor1-v2.1_pri__GCA_029281585.3	called	25	25	0	171	25	6	breadth_near_tie:24 chromosomes, 227119150 bp, mono 32 vs 25 chromosomes, 109667523 bp, mono 169	T2T_primates_CenSat_v2.0:active_hor	25	19	5	1	0	25	25	0	25	0	0	0	
+GCA_029289425.3	Pan paniscus	NHGRI_mPanPan1-v2.1_pri	Pan_paniscus__NHGRI_mPanPan1-v2.1_pri__GCA_029289425.3	called	25	25	0	171	25	14		T2T_primates_CenSat_v2.0:active_hor	25	19	4	1	1	24	19	0	19	1	5	0	
+GCA_037993035.2	Macaca fascicularis	T2T-MFA8v1.1	Macaca_fascicularis__T2T-MFA8v1.1__GCA_037993035.2	called	22	22	0	171	22	11		T2T-MFA8_Nature2025_S39:presumed_active_array	21	21	0	0	0	21	21	0	21	0	0	0	
+GCA_037993035.2	Macaca fascicularis	T2T-MFA8v1.1	Macaca_fascicularis__T2T-MFA8v1.1__GCA_037993035.2	called	22	22	0	171	22	11		T2T-MFA8_release_v1.1:centromere_region	22	0	1	21	0	22	22	0	22	0	0	0	
+GCA_040805955.1	Ovis aries	T2T-sheep1.0	Ovis_aries__T2T-sheep1.0__GCA_040805955.1	called	28	28	0	816	26	19		T2T-sheep_NatGenet2025_S8:gene_in_centromeric_region	25	7	6	3	9	16	12	0	16	9	0	0	
+GCA_040806595.1	Capra hircus	T2T-goat1.0	Capra_hircus__T2T-goat1.0__GCA_040806595.1	called	31	30	1	703	30	10		none_published													
+GCA_040836155.1	Ovis aries	T2T-sheep1.0P	Ovis_aries__T2T-sheep1.0P__GCA_040836155.1	called	27	24	3	816	23	20		none_published													
+GCA_040970035.1	Capra hircus	T2T-goat2.0M	Capra_hircus__T2T-goat2.0M__GCA_040970035.1	called	30	28	2	816	27	217		none_published													
+GCA_041053135.1	Capra hircus	T2T-goat2.0P	Capra_hircus__T2T-goat2.0P__GCA_041053135.1	called	30	28	2	816	28	237		none_published													
+GCA_041121725.1	Ovis aries	T2T-sheep1.0M	Ovis_aries__T2T-sheep1.0M__GCA_041121725.1	called	27	25	2	816	24	18		none_published													
+GCA_041735815.1	Capra hircus	T2T-goat2.0	Capra_hircus__T2T-goat2.0__GCA_041735815.1	called	31	30	1	703	30	10		none_published													
+GCA_041736475.1	Capra hircus	T2T-goat1.0M	Capra_hircus__T2T-goat1.0M__GCA_041736475.1	called	30	28	2	816	27	233		none_published													
+GCA_041920685.1	Capra hircus	T2T-goat1.0P	Capra_hircus__T2T-goat1.0P__GCA_041920685.1	called	30	28	2	816	28	247		none_published													
+GCA_048601705.1	Macaca fascicularis	T2T-MFA8v1.1	Macaca_fascicularis__T2T-MFA8v1.1__GCA_048601705.1	called	1	1	0	3346	1	2	breadth_tie_broken_by_bp:1 chromosomes, 12344 bp, mono 2672 vs 1 chromosomes, 3564446 bp, mono 3346;breadth_tie_broken_by_bp:1 chromosomes, 10535 bp, mono 2408 vs 1 chromosomes, 3564446 bp, mono 3346	T2T-MFA8_Nature2025_S39:presumed_active_array	0	0	0	0	0	0	0	0	0	0	0	0	
+GCA_048601705.1	Macaca fascicularis	T2T-MFA8v1.1	Macaca_fascicularis__T2T-MFA8v1.1__GCA_048601705.1	called	1	1	0	3346	1	2	breadth_tie_broken_by_bp:1 chromosomes, 12344 bp, mono 2672 vs 1 chromosomes, 3564446 bp, mono 3346;breadth_tie_broken_by_bp:1 chromosomes, 10535 bp, mono 2408 vs 1 chromosomes, 3564446 bp, mono 3346	T2T-MFA8_release_v1.1:centromere_region	1	0	0	1	0	1	1	0	1	0	0	0	
+GCA_049350105.2	Macaca mulatta	T2T-MMU8v2.0	Macaca_mulatta__T2T-MMU8v2.0__GCA_049350105.2	called	22	22	0	171	22	9		T2T-MMU8_release_v2.0:alpha_satellite_region	22	0	1	21	0	22	22	0	22	0	0	0	
+GCA_052818215.1	Equus caballus	T2T-horse1.0	Equus_caballus__T2T-horse1.0__GCA_052818215.1	called	33	32	1	221	32	2		none_published													
+GCA_054371575.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.alt	Giraffa_tippelskirchi__T2T-mGirTip1v1.2.alt__GCA_054371575.1	called	14	14	0	328	14	3		none_published													
+GCA_054371585.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.pri	Giraffa_tippelskirchi__T2T-mGirTip1v1.2.pri__GCA_054371585.1	called	16	15	1	328	15	3		none_published													
+GCA_054371615.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.pat	Giraffa_tippelskirchi__T2T-mGirTip1v1.2.pat__GCA_054371615.1	called	15	14	1	329	14	3		none_published													
+GCA_054371825.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.mat	Giraffa_tippelskirchi__T2T-mGirTip1v1.2.mat__GCA_054371825.1	called	15	15	0	328	15	3		none_published													

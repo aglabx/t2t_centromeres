@@ -1,0 +1,25 @@
+accession	chromosome	molecule	seqid	our_locus_start	our_locus_end	set	relation	agreement	official_start	official_end	official_n	n_official_inside_our_locus	official_bp	overlap_bp	official_frac_in_our_locus	our_locus_frac_official	largest_array_overlap_bp	gap_bp
+GCA_028885475.2	chr1_pat_hsa1	1	CM054558.2	107540271	111975426	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	108411325	111910309	1		3498984	3498984	1.0000	0.7889	1396166	
+GCA_028885475.2	chr2_pat_hsa3	2	CM068948.1	100447085	104616161	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	101285979	104489663	1		3203684	3203684	1.0000	0.7684	662618	
+GCA_028885475.2	chr3_pat_hsa4	3	CM054561.2	74597705	78094430	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	75635420	78094429	1		2459009	2459009	1.0000	0.7032	2459009	
+GCA_028885475.2	chr4_pat_hsa17x5	4	CM054562.2	71072924	78665530	T2T_primates_CenSat_v2.0:active_hor	partial_overlap	agrees	71532156	78693863	1		7161707	7133374	0.9960	0.9395	1555848	
+GCA_028885475.2	chr5_pat_hsa6	5	CM054563.2	68350001	72034582	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	68403139	71626045	1		3222906	3222906	1.0000	0.8747	2008412	
+GCA_028885475.2	chr6_pat_hsa7	6	CM054564.2	67781202	74630874	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	68477076	74212231	1		5735155	5735155	1.0000	0.8373	2382081	
+GCA_028885475.2	chr7_pat_hsa8	7	CM054565.2	74255446	77945318	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	74645547	77769723	1		3124176	3124176	1.0000	0.8467	2840540	
+GCA_028885475.2	chr8_pat_hsa10	8	CM054566.2	73189027	80229357	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	73335517	79748613	1		6413096	6413096	1.0000	0.9109	4270623	
+GCA_028885475.2	chr9_pat_hsa11	9	CM054567.2	56059714	62480765	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	56445557	61777937	1		5332380	5332380	1.0000	0.8305	3898293	
+GCA_028885475.2	chr10_pat_hsa12	10	CM054568.2	62923101	66794246	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	63664185	66782242	1		3118057	3118057	1.0000	0.8055	1413672	
+GCA_028885475.2	chr11_pat_hsa2b	11	CM054569.2	27301896	27970055	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	27324656	27428915	1		104259	104259	1.0000	0.1560	98223	
+GCA_028885475.2	chr12_pat_hsa2a	12	CM054570.2	26035609	29034314	T2T_primates_CenSat_v2.0:active_hor	partial_overlap	agrees	26295648	29036800	1		2741152	2738666	0.9991	0.9133	651801	
+GCA_028885475.2	chr13_pat_hsa9	13	CM054571.2	18138207	23021315	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	18139064	22884300	1		4745236	4745236	1.0000	0.9718	1982040	
+GCA_028885475.2	chr14_pat_hsa13	14	CM054572.2	26376573	29437573	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	26870199	29409803	1		2539604	2539604	1.0000	0.8297	1715049	
+GCA_028885475.2	chr15_pat_hsa14	15	CM054573.2	37938510	44958001	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	37990960	44099811	1		6108851	6108851	1.0000	0.8703	1625941	
+GCA_028885475.2	chr16_pat_hsa15	16	CM054574.2	18318203	19941900	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	18319906	19805014	1		1485108	1485108	1.0000	0.9146	1363706	
+GCA_028885475.2	chr17_pat_hsa18	17	CM054575.2	23160983	27137255	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	23428792	27047650	1		3618858	3618858	1.0000	0.9101	1152428	
+GCA_028885475.2	chr18_pat_hsa16	18	CM054576.2	68963645	74134509	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	69916649	73774049	1		3857400	3857400	1.0000	0.7460	3849609	
+GCA_028885475.2	chr19_pat_hsa5x17	19	CM054577.2	59933188	65865785	T2T_primates_CenSat_v2.0:active_hor	partial_overlap	agrees	59933142	65144942	1		5211800	5211754	1.0000	0.8785	3781685	
+GCA_028885475.2	chr20_pat_hsa19	20	CM054578.2	32648342	36971257	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	32913023	36447308	1		3534285	3534285	1.0000	0.8176	2267982	
+GCA_028885475.2	chr21_pat_hsa20	21	CM054579.2	36497209	43331959	T2T_primates_CenSat_v2.0:active_hor	official_within_ours	agrees	36501140	41679033	1		5177893	5177893	1.0000	0.7576	4657400	
+GCA_028885475.2	chr22_pat_hsa21	22	CM054580.2	10095550	13936222	T2T_primates_CenSat_v2.0:active_hor	partial_overlap	agrees	10095506	13845261	1		3749755	3749711	1.0000	0.9763	1454650	
+GCA_028885475.2	chr23_pat_hsa22	23	CM068949.1	9548541	14135291	T2T_primates_CenSat_v2.0:active_hor	partial_overlap	agrees	10497531	14135327	1		3637796	3637760	1.0000	0.7931	2277702	
+GCA_028885475.2	chrY_pat_hsaY	Y	CM054581.2	20584876	24867434	T2T_primates_CenSat_v2.0:active_hor	ours_within_official	agrees	20584874	24867439	1		4282565	4282558	1.0000	1.0000	2107758	

@@ -15,9 +15,10 @@ while read -r md5 path; do
     f="$F/$path"
     if [ ! -f "$f" ]; then missing=$((missing+1)); echo "MISSING $path"; continue; fi
     if [ "$(md5sum < "$f" | cut -d' ' -f1)" = "$md5" ]; then same=$((same+1)); else diff=$((diff+1)); echo "DIFFERS $path"; fi
-done < <(cd "$A" && for m in MANIFEST.md5 GCA_*/MANIFEST.md5; do d=$(dirname "$m"); sed "s|  |  $d/|; s|  \./|  |" "$m"; done)
-for d in "$F"/GCA_*/; do
+done < <(cd "$A" && for m in MANIFEST.md5 *__GCA_*/MANIFEST.md5; do d=$(dirname "$m"); sed "s|  |  $d/|; s|  \./|  |" "$m"; done)
+for d in "$F"/*__GCA_*/ "$F"/GCA_*/; do
     [ -d "$d" ] || continue
+    [ -L "${d%/}" ] && continue   # accession symlinks beside the named directories (server copy)
     a=$(basename "$d"); [ -s "$A/$a/MANIFEST.md5" ] || { extra=$((extra+1)); echo "EXTRA $a (not in the committed annotations)"; }
 done
 echo "identical=$same differing=$diff missing=$missing extra=$extra"

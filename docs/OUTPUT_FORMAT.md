@@ -23,7 +23,10 @@ give every chromosome's length). Four kinds of line:
 | `second_locus_bp` | bp of the next-largest cluster of the family on this chromosome |
 | `colocated_families` | other superfamilies (≥ 100 kb) within 1 Mb of the locus, `S00n:bp:m<monomer period>` |
 | `<class>.source` | the published set compared, per class (`active_hor`, `presumed_active_array`, `centromere_region`, `alpha_satellite_region`, `gene_in_centromeric_region`) |
+| `published_agreement` | `contested` if our call contradicts any published set on this chromosome, `agrees` if it agrees with every set that has an interval here, `not_compared` otherwise |
+| `Note` | `contested by <set> <kind>` for every contradicting set |
 | `<class>.relation` | see below |
+| `<class>.agreement` | see below |
 | `<class>.overlap_bp` | bp of our locus covered by the published intervals (for genes: by the span first..last gene) |
 | `<class>.official_frac_in_locus` | overlap / published bp (for genes: / published span) |
 | `<class>.locus_frac_official` | overlap / our locus length |
@@ -44,6 +47,21 @@ Computed against the published span on that chromosome (first start .. last end 
 | `official_not_comparable` | the published track's assembly has a different length for this chromosome |
 | `no_call` | the published set has an interval, we have no locus |
 
+### Agreement with a published set on one chromosome
+
+Every contradiction with a published annotation is labelled; none is left to be inferred from the relation.
+
+| agreement | meaning |
+|---|---|
+| `agrees` | our locus overlaps the published interval; for a set that names the active array (`active_hor`, `presumed_active_array`) our largest array overlaps it too |
+| `contested_locus` | our locus does not overlap the published interval (`relation=disjoint`) |
+| `contested_active_array` | our locus overlaps it, but the published active array is not our largest array (`largest_array_overlap_bp=0`) |
+| `contested_no_call` | the authors place a centromere here, we make no call |
+| `not_compared` | nothing published on this chromosome, or the published track's assembly differs |
+
+The README lists every contested chromosome (generated from `ALL_official_overlap.tsv`); the karyotype marks
+each with a red dot (no overlap), a red ring (other active array) or an amber dot (no call).
+
 ### Attributes of our arrays (`satellite_DNA`, source `satellome_cen`)
 
 `family` (superfamily), `membership` (`family` | `cofamily` | `period_class_k<k>` — joined by monomer period
@@ -54,7 +72,20 @@ k × base period, not by sequence), `fastan_period`, `mono_period`, `hor_period`
 
 - `centromeres.tsv` — one row per chromosome with a call (same fields as the locus, plus the largest array and its monomer consensus).
 - `centromeric_arrays.tsv` / `.bed` — every array of every locus, with HOR consensus.
-- `official_overlap.tsv` — one row per chromosome × published set (all relations above, with coordinates).
+- `satellite_arrays.tsv` — every array ≥ 10 kb with a usable consensus on an assembled chromosome:
+  `chromosome`, `seq_name`, `start`, `end`, `length`, `family` (superfamily), `seq_family`, `membership`
+  (`family` | `cofamily` | `period_class_k<k>` | `-`), `fastan_period`, `mono_period`, `hor_period`.
+- `karyotype.svg` — drawn from the tables above by `plot_karyotype.py`, written as plain SVG so it is
+  byte-identical between runs and listed in `MANIFEST.md5`. Panel **a**: all chromosomes to one scale (Mb
+  grid). Panel **b**: the centromeric region of each chromosome, a window around our locus (and the
+  published interval when it lies within 3 Mb), each to its own scale with its width printed above it; a
+  published interval farther away is an arrow with its distance in Mb (↑ before, ↓ after our locus).
+  Arrays: blue = centromeric superfamily, teal = co-family, light blue = joined by monomer period, four
+  other colours = the four largest other superfamilies, grey = the rest. Black box (a) / bracket (b) = our
+  locus, black triangle = its largest array; magenta bracket = published interval (dashed for a second
+  set); dots above panel a, one per published set: green = overlap, red = no overlap, amber = published
+  but no call, hollow = nothing published. Red name and dashed outline = no call.
+- `official_overlap.tsv` — one row per chromosome × published set (all relations above, with coordinates, and the `agreement` verdict).
 - `family_breadth.tsv` — every superfamily; `n_chrom_breadth` = chromosomes with ≥ `--breadth-min-bp` (10 kb) of it,
   the breadth the choice uses; `n_chrom_ge_chrom_min_bp` = chromosomes with ≥ `--chrom-min-bp` (100 kb);
   `base_period` 0 = no consensus ≥ 30 bp (not eligible); `chosen` = 1 centromeric, 2 co-family.

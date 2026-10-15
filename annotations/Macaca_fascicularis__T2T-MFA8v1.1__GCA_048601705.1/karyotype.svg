@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1276" viewBox="0 0 1000 1276" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<title>Macaca fascicularis T2T-MFA8v1.1 GCA_048601705.1: centromeric satellite arrays</title>
+<rect width="1000" height="1276" fill="#ffffff"/>
+<text x="40" y="38" font-size="22" fill="#0f172a"><tspan font-style="italic" font-weight="bold">Macaca fascicularis</tspan><tspan dx="10" font-weight="bold">T2T-MFA8v1.1</tspan></text>
+<text x="40" y="62" font-size="13" fill="#334155">GCA_048601705.1 · centromeric locus called on 1 of 1 chromosomes</text>
+<text x="40" y="80" font-size="13" fill="#334155">published T2T-MFA8_Nature2025_S39 presumed_active_array: no interval on these chromosomes</text>
+<text x="40" y="98" font-size="13" fill="#334155">published T2T-MFA8_release_v1.1 centromere_region: agrees on 1 of 1 chromosomes</text>
+<text x="40" y="132" font-size="11" font-weight="bold" fill="#64748b" letter-spacing="0.6">SATELLITES</text>
+<rect x="172.0" y="123" width="16" height="10" rx="2" fill="#1d4ed8"/>
+<text x="194.0" y="132" font-size="12" fill="#334155">S001 centromeric superfamily, 3,346 bp, 3.56 Mb</text>
+<rect x="530.9" y="123" width="16" height="10" rx="2" fill="#f97316"/>
+<text x="552.9" y="132" font-size="12" fill="#334155">S002 (ACCCTA)n, 36 kb</text>
+<rect x="715.6" y="123" width="16" height="10" rx="2" fill="#a855f7"/>
+<text x="737.6" y="132" font-size="12" fill="#334155">S003 (GGATCAAACC)n, 30 kb</text>
+<rect x="172.0" y="143" width="16" height="10" rx="2" fill="#84cc16"/>
+<text x="194.0" y="152" font-size="12" fill="#334155">S004 2,672 bp, 12 kb</text>
+<rect x="350.0" y="143" width="16" height="10" rx="2" fill="#b45309"/>
+<text x="372.0" y="152" font-size="12" fill="#334155">S005 2,408 bp, 11 kb</text>
+<rect x="528.0" y="143" width="16" height="10" rx="2" fill="#cbd5e1"/>
+<text x="550.0" y="152" font-size="12" fill="#334155">other satellite arrays</text>
+<text x="40" y="178" font-size="11" font-weight="bold" fill="#64748b" letter-spacing="0.6">CALLS</text>
+<rect x="174.0" y="167" width="12" height="14" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+<text x="194.0" y="178" font-size="12" fill="#334155">our centromeric locus</text>
+<path d="M370.7,174 l-8,-5 v10 z" fill="#0f172a"/>
+<text x="378.7" y="178" font-size="12" fill="#334155">its largest array (candidate active array)</text>
+<path d="M177.0,187 h5 V201 h-5" fill="none" stroke="#c026d3" stroke-width="2"/>
+<text x="194.0" y="198" font-size="12" fill="#334155">published: T2T-MFA8_Nature2025_S39 presumed_active_array</text>
+<path d="M177.0,207 h5 V221 h-5" fill="none" stroke="#c026d3" stroke-width="2" stroke-dasharray="2.5 1.5"/>
+<text x="194.0" y="218" font-size="12" fill="#334155">published (dashed): T2T-MFA8_release_v1.1 centromere_region</text>
+<circle cx="619.3" cy="214.0" r="4.5" fill="#16a34a"></circle>
+<text x="633.3" y="218" font-size="12" fill="#334155">agrees with the published annotation</text>
+<circle cx="180.0" cy="234.0" r="4.5" fill="#dc2626"></circle>
+<text x="194.0" y="238" font-size="12" fill="#334155">contested: no overlap</text>
+<circle cx="364.7" cy="234.0" r="3.6" fill="#ffffff" stroke="#dc2626" stroke-width="2"></circle>
+<text x="378.7" y="238" font-size="12" fill="#334155">contested: published active array is not our largest array</text>
+<circle cx="180.0" cy="254.0" r="4.5" fill="#f59e0b"></circle>
+<text x="194.0" y="258" font-size="12" fill="#334155">contested: published centromere, no call</text>
+<circle cx="492.0" cy="254.0" r="4" fill="#ffffff" stroke="#94a3b8" stroke-width="1.3"></circle>
+<text x="506.0" y="258" font-size="12" fill="#334155">nothing published to compare</text>
+<rect x="176.0" y="267" width="8" height="14" rx="4" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"/>
+<text x="194.0" y="278" font-size="12" fill="#334155">no array of the centromeric family</text>
+<text x="40" y="320" font-size="14" fill="#0f172a"><tspan font-weight="bold">a</tspan><tspan dx="10">Whole chromosomes, one scale</tspan></text>
+<line x1="72" y1="360.0" x2="964" y2="360.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="364.0" font-size="10" fill="#64748b" text-anchor="end">0</text>
+<line x1="72" y1="500.1" x2="964" y2="500.1" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="504.1" font-size="10" fill="#64748b" text-anchor="end">5</text>
+<line x1="72" y1="640.3" x2="964" y2="640.3" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="644.3" font-size="10" fill="#64748b" text-anchor="end">10</text>
+<line x1="72" y1="780.4" x2="964" y2="780.4" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="784.4" font-size="10" fill="#64748b" text-anchor="end">15</text>
+<text x="66" y="350" font-size="10" fill="#64748b" text-anchor="end">Mb</text>
+<rect x="95.0" y="360" width="14" height="480.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>Y: 17,124,583 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="96.0" y="719.6" width="12" height="1.0" fill="#b45309"><title>Y 12.83-12.84 Mb (11 kb), S005, monomer 2408 bp, HOR 2408 bp</title></rect>
+<rect x="96.0" y="800.3" width="12" height="1.0" fill="#1d4ed8"><title>Y 15.71-15.72 Mb (12 kb), S001, monomer 3345 bp, HOR 3344 bp</title></rect>
+<rect x="96.0" y="675.5" width="12" height="1.0" fill="#84cc16"><title>Y 11.25-11.27 Mb (12 kb), S004, monomer 2672 bp, HOR 2665 bp</title></rect>
+<rect x="96.0" y="753.1" width="12" height="1.0" fill="#1d4ed8"><title>Y 14.02-14.04 Mb (13 kb), S001, monomer 3345 bp, HOR 3347 bp</title></rect>
+<rect x="96.0" y="777.4" width="12" height="1.0" fill="#1d4ed8"><title>Y 14.89-14.91 Mb (13 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="815.8" width="12" height="1.0" fill="#1d4ed8"><title>Y 16.26-16.27 Mb (13 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="752.7" width="12" height="1.0" fill="#1d4ed8"><title>Y 14.01-14.02 Mb (15 kb), S001, monomer 3345 bp, HOR 3305 bp</title></rect>
+<rect x="96.0" y="360.0" width="12" height="1.0" fill="#f97316"><title>Y 0.00-0.02 Mb (16 kb), S002, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="96.0" y="836.0" width="12" height="1.0" fill="#1d4ed8"><title>Y 16.98-17.00 Mb (16 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="803.8" width="12" height="1.0" fill="#1d4ed8"><title>Y 15.83-15.85 Mb (19 kb), S001, monomer 3345 bp, HOR 3345 bp</title></rect>
+<rect x="96.0" y="757.6" width="12" height="1.0" fill="#1d4ed8"><title>Y 14.19-14.21 Mb (20 kb), S001, monomer 3348 bp, HOR 3348 bp</title></rect>
+<rect x="96.0" y="839.4" width="12" height="1.0" fill="#f97316"><title>Y 17.10-17.12 Mb (20 kb), S002, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="96.0" y="800.6" width="12" height="1.0" fill="#1d4ed8"><title>Y 15.72-15.74 Mb (22 kb), S001, monomer 3347 bp, HOR 3347 bp</title></rect>
+<rect x="96.0" y="805.1" width="12" height="1.0" fill="#1d4ed8"><title>Y 15.88-15.90 Mb (23 kb), S001, monomer 3348 bp, HOR 3348 bp</title></rect>
+<rect x="96.0" y="816.2" width="12" height="1.0" fill="#1d4ed8"><title>Y 16.27-16.30 Mb (27 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="815.0" width="12" height="1.0" fill="#1d4ed8"><title>Y 16.23-16.26 Mb (28 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="802.9" width="12" height="1.0" fill="#1d4ed8"><title>Y 15.80-15.83 Mb (30 kb), S001, monomer 3346 bp, HOR 3345 bp</title></rect>
+<rect x="96.0" y="360.4" width="12" height="1.0" fill="#a855f7"><title>Y 0.02-0.05 Mb (30 kb), S003, monomer 10 bp, HOR 20 bp</title></rect>
+<rect x="96.0" y="756.4" width="12" height="1.0" fill="#1d4ed8"><title>Y 14.14-14.18 Mb (35 kb), S001, monomer 3345 bp, HOR 3345 bp</title></rect>
+<rect x="96.0" y="767.9" width="12" height="1.0" fill="#1d4ed8"><title>Y 14.55-14.59 Mb (35 kb), S001, monomer 3345 bp, HOR 3345 bp</title></rect>
+<rect x="96.0" y="740.5" width="12" height="1.0" fill="#1d4ed8"><title>Y 13.58-13.61 Mb (36 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="778.0" width="12" height="1.0" fill="#1d4ed8"><title>Y 14.91-14.95 Mb (36 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="739.5" width="12" height="1.1" fill="#1d4ed8"><title>Y 13.54-13.58 Mb (37 kb), S001, monomer 3346 bp, HOR 3348 bp</title></rect>
+<rect x="96.0" y="758.2" width="12" height="1.3" fill="#1d4ed8"><title>Y 14.21-14.25 Mb (47 kb), S001, monomer 3348 bp, HOR 3348 bp</title></rect>
+<rect x="96.0" y="774.4" width="12" height="1.3" fill="#1d4ed8"><title>Y 14.78-14.83 Mb (47 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="753.7" width="12" height="1.4" fill="#1d4ed8"><title>Y 14.04-14.09 Mb (49 kb), S001, monomer 3345 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="755.0" width="12" height="1.4" fill="#1d4ed8"><title>Y 14.09-14.14 Mb (50 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="766.5" width="12" height="1.4" fill="#1d4ed8"><title>Y 14.50-14.55 Mb (50 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="836.5" width="12" height="1.5" fill="#1d4ed8"><title>Y 17.00-17.05 Mb (52 kb), S001, monomer 3345 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="769.1" width="12" height="1.5" fill="#1d4ed8"><title>Y 14.60-14.65 Mb (53 kb), S001, monomer 3348 bp, HOR 3348 bp</title></rect>
+<rect x="96.0" y="784.4" width="12" height="1.6" fill="#1d4ed8"><title>Y 15.14-15.20 Mb (57 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="801.2" width="12" height="1.6" fill="#1d4ed8"><title>Y 15.74-15.80 Mb (59 kb), S001, monomer 3345 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="775.7" width="12" height="1.7" fill="#1d4ed8"><title>Y 14.83-14.89 Mb (60 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="741.5" width="12" height="1.7" fill="#1d4ed8"><title>Y 13.61-13.67 Mb (61 kb), S001, monomer 3347 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="832.1" width="12" height="1.9" fill="#1d4ed8"><title>Y 16.84-16.91 Mb (66 kb), S001, monomer 3345 bp, HOR 3345 bp</title></rect>
+<rect x="96.0" y="834.0" width="12" height="2.0" fill="#1d4ed8"><title>Y 16.91-16.98 Mb (73 kb), S001, monomer 3345 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="798.1" width="12" height="2.2" fill="#1d4ed8"><title>Y 15.63-15.71 Mb (78 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="823.6" width="12" height="2.5" fill="#1d4ed8"><title>Y 16.54-16.63 Mb (88 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="763.5" width="12" height="3.0" fill="#1d4ed8"><title>Y 14.40-14.50 Mb (108 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="771.1" width="12" height="3.3" fill="#1d4ed8"><title>Y 14.67-14.78 Mb (118 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="743.2" width="12" height="3.5" fill="#1d4ed8"><title>Y 13.67-13.80 Mb (124 kb), S001, monomer 3348 bp, HOR 3348 bp</title></rect>
+<rect x="96.0" y="759.9" width="12" height="3.7" fill="#1d4ed8"><title>Y 14.27-14.40 Mb (131 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="735.0" width="12" height="4.5" fill="#1d4ed8"><title>Y 13.38-13.54 Mb (160 kb), S001, monomer 3348 bp, HOR 3348 bp</title></rect>
+<rect x="96.0" y="779.2" width="12" height="5.1" fill="#1d4ed8"><title>Y 14.95-15.14 Mb (180 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="746.8" width="12" height="5.9" fill="#1d4ed8"><title>Y 13.80-14.01 Mb (209 kb), S001, monomer 3347 bp, HOR 3348 bp</title></rect>
+<rect x="96.0" y="826.1" width="12" height="6.0" fill="#1d4ed8"><title>Y 16.63-16.84 Mb (216 kb), S001, monomer 3345 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="816.9" width="12" height="6.7" fill="#1d4ed8"><title>Y 16.30-16.54 Mb (238 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="805.7" width="12" height="9.2" fill="#1d4ed8"><title>Y 15.90-16.23 Mb (330 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="96.0" y="786.0" width="12" height="12.0" fill="#1d4ed8"><title>Y 15.20-15.63 Mb (430 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="92.0" y="735.0" width="20" height="102.9" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>Y locus 13.38-17.05 Mb (3.67 Mb): 3.56 Mb of S001 in 44 arrays; largest array 15.20-15.63 Mb (430 kb), monomer 3346 bp</title></rect>
+<path d="M90.0,792.0 l-7,-4.5 v9 z" fill="#0f172a"/>
+<path d="M119.0,734.8 h4 V839.4 h-4" fill="none" stroke="#c026d3" stroke-width="2" stroke-dasharray="2.5 1.5"><title>T2T-MFA8_release_v1.1:centromere_region: 13.37-17.10 Mb; ours_within_official</title></path>
+<circle cx="96.5" cy="344.0" r="4" fill="#ffffff" stroke="#94a3b8" stroke-width="1.3"><title>Y vs T2T-MFA8_Nature2025_S39:presumed_active_array: not_compared (no_official_on_chromosome, largest array overlap 0 bp)</title></circle>
+<circle cx="107.5" cy="344.0" r="4.5" fill="#16a34a"><title>Y vs T2T-MFA8_release_v1.1:centromere_region: agrees (ours_within_official, largest array overlap 429749 bp)</title></circle>
+<text x="102.0" y="856" font-size="12" fill="#0f172a" text-anchor="middle">Y</text>
+<text x="40" y="890" font-size="14" fill="#0f172a"><tspan font-weight="bold">b</tspan><tspan dx="10">Centromeric region of each chromosome, each window to its own scale (width shown above it)</tspan></text>
+<circle cx="96.5" cy="910.0" r="4" fill="#ffffff" stroke="#94a3b8" stroke-width="1.3"><title>Y vs T2T-MFA8_Nature2025_S39:presumed_active_array: not_compared (no_official_on_chromosome, largest array overlap 0 bp)</title></circle>
+<circle cx="107.5" cy="910.0" r="4.5" fill="#16a34a"><title>Y vs T2T-MFA8_release_v1.1:centromere_region: agrees (ours_within_official, largest array overlap 429749 bp)</title></circle>
+<text x="102.0" y="928" font-size="9.5" fill="#64748b" text-anchor="middle">4.1 Mb</text>
+<rect x="94.0" y="950" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>Y 13.07-17.12 Mb</title></rect>
+<rect x="95.0" y="1099.5" width="14" height="1.0" fill="#1d4ed8"><title>Y 15.71-15.72 Mb (12 kb), S001, monomer 3345 bp, HOR 3344 bp</title></rect>
+<rect x="95.0" y="1004.0" width="14" height="1.0" fill="#1d4ed8"><title>Y 14.02-14.04 Mb (13 kb), S001, monomer 3345 bp, HOR 3347 bp</title></rect>
+<rect x="95.0" y="1053.3" width="14" height="1.0" fill="#1d4ed8"><title>Y 14.89-14.91 Mb (13 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1131.0" width="14" height="1.0" fill="#1d4ed8"><title>Y 16.26-16.27 Mb (13 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1003.1" width="14" height="1.0" fill="#1d4ed8"><title>Y 14.01-14.02 Mb (15 kb), S001, monomer 3345 bp, HOR 3305 bp</title></rect>
+<rect x="95.0" y="1171.9" width="14" height="1.0" fill="#1d4ed8"><title>Y 16.98-17.00 Mb (16 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1106.7" width="14" height="1.1" fill="#1d4ed8"><title>Y 15.83-15.85 Mb (19 kb), S001, monomer 3345 bp, HOR 3345 bp</title></rect>
+<rect x="95.0" y="1013.1" width="14" height="1.1" fill="#1d4ed8"><title>Y 14.19-14.21 Mb (20 kb), S001, monomer 3348 bp, HOR 3348 bp</title></rect>
+<rect x="95.0" y="1178.9" width="14" height="1.1" fill="#f97316"><title>Y 17.10-17.12 Mb (20 kb), S002, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="95.0" y="1100.2" width="14" height="1.3" fill="#1d4ed8"><title>Y 15.72-15.74 Mb (22 kb), S001, monomer 3347 bp, HOR 3347 bp</title></rect>
+<rect x="95.0" y="1109.3" width="14" height="1.3" fill="#1d4ed8"><title>Y 15.88-15.90 Mb (23 kb), S001, monomer 3348 bp, HOR 3348 bp</title></rect>
+<rect x="95.0" y="1131.7" width="14" height="1.5" fill="#1d4ed8"><title>Y 16.27-16.30 Mb (27 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1129.3" width="14" height="1.6" fill="#1d4ed8"><title>Y 16.23-16.26 Mb (28 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1104.8" width="14" height="1.7" fill="#1d4ed8"><title>Y 15.80-15.83 Mb (30 kb), S001, monomer 3346 bp, HOR 3345 bp</title></rect>
+<rect x="95.0" y="1010.8" width="14" height="2.0" fill="#1d4ed8"><title>Y 14.14-14.18 Mb (35 kb), S001, monomer 3345 bp, HOR 3345 bp</title></rect>
+<rect x="95.0" y="1034.1" width="14" height="2.0" fill="#1d4ed8"><title>Y 14.55-14.59 Mb (35 kb), S001, monomer 3345 bp, HOR 3345 bp</title></rect>
+<rect x="95.0" y="978.6" width="14" height="2.0" fill="#1d4ed8"><title>Y 13.58-13.61 Mb (36 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1054.5" width="14" height="2.0" fill="#1d4ed8"><title>Y 14.91-14.95 Mb (36 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="976.5" width="14" height="2.1" fill="#1d4ed8"><title>Y 13.54-13.58 Mb (37 kb), S001, monomer 3346 bp, HOR 3348 bp</title></rect>
+<rect x="95.0" y="1014.3" width="14" height="2.7" fill="#1d4ed8"><title>Y 14.21-14.25 Mb (47 kb), S001, monomer 3348 bp, HOR 3348 bp</title></rect>
+<rect x="95.0" y="1047.1" width="14" height="2.7" fill="#1d4ed8"><title>Y 14.78-14.83 Mb (47 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1005.2" width="14" height="2.8" fill="#1d4ed8"><title>Y 14.04-14.09 Mb (49 kb), S001, monomer 3345 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1007.9" width="14" height="2.8" fill="#1d4ed8"><title>Y 14.09-14.14 Mb (50 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1031.2" width="14" height="2.8" fill="#1d4ed8"><title>Y 14.50-14.55 Mb (50 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1172.8" width="14" height="2.9" fill="#1d4ed8"><title>Y 17.00-17.05 Mb (52 kb), S001, monomer 3345 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1036.5" width="14" height="3.0" fill="#1d4ed8"><title>Y 14.60-14.65 Mb (53 kb), S001, monomer 3348 bp, HOR 3348 bp</title></rect>
+<rect x="95.0" y="1067.4" width="14" height="3.3" fill="#1d4ed8"><title>Y 15.14-15.20 Mb (57 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1101.5" width="14" height="3.3" fill="#1d4ed8"><title>Y 15.74-15.80 Mb (59 kb), S001, monomer 3345 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1049.8" width="14" height="3.4" fill="#1d4ed8"><title>Y 14.83-14.89 Mb (60 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="980.6" width="14" height="3.4" fill="#1d4ed8"><title>Y 13.61-13.67 Mb (61 kb), S001, monomer 3347 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1164.0" width="14" height="3.8" fill="#1d4ed8"><title>Y 16.84-16.91 Mb (66 kb), S001, monomer 3345 bp, HOR 3345 bp</title></rect>
+<rect x="95.0" y="1167.8" width="14" height="4.1" fill="#1d4ed8"><title>Y 16.91-16.98 Mb (73 kb), S001, monomer 3345 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1095.1" width="14" height="4.4" fill="#1d4ed8"><title>Y 15.63-15.71 Mb (78 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1146.8" width="14" height="5.0" fill="#1d4ed8"><title>Y 16.54-16.63 Mb (88 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1025.1" width="14" height="6.1" fill="#1d4ed8"><title>Y 14.40-14.50 Mb (108 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1040.4" width="14" height="6.7" fill="#1d4ed8"><title>Y 14.67-14.78 Mb (118 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="984.1" width="14" height="7.0" fill="#1d4ed8"><title>Y 13.67-13.80 Mb (124 kb), S001, monomer 3348 bp, HOR 3348 bp</title></rect>
+<rect x="95.0" y="1017.7" width="14" height="7.4" fill="#1d4ed8"><title>Y 14.27-14.40 Mb (131 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="967.4" width="14" height="9.1" fill="#1d4ed8"><title>Y 13.38-13.54 Mb (160 kb), S001, monomer 3348 bp, HOR 3348 bp</title></rect>
+<rect x="95.0" y="1056.8" width="14" height="10.2" fill="#1d4ed8"><title>Y 14.95-15.14 Mb (180 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="991.3" width="14" height="11.8" fill="#1d4ed8"><title>Y 13.80-14.01 Mb (209 kb), S001, monomer 3347 bp, HOR 3348 bp</title></rect>
+<rect x="95.0" y="1151.8" width="14" height="12.2" fill="#1d4ed8"><title>Y 16.63-16.84 Mb (216 kb), S001, monomer 3345 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1133.3" width="14" height="13.5" fill="#1d4ed8"><title>Y 16.30-16.54 Mb (238 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1110.6" width="14" height="18.7" fill="#1d4ed8"><title>Y 15.90-16.23 Mb (330 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<rect x="95.0" y="1070.6" width="14" height="24.4" fill="#1d4ed8"><title>Y 15.20-15.63 Mb (430 kb), S001, monomer 3346 bp, HOR 3346 bp</title></rect>
+<path d="M92.0,967.4 h-4 V1175.8 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>Y locus 13.38-17.05 Mb (3.67 Mb): 3.56 Mb of S001 in 44 arrays; largest array 15.20-15.63 Mb (430 kb), monomer 3346 bp</title></path>
+<path d="M86.0,1082.8 l-7,-4.5 v9 z" fill="#0f172a"/>
+<path d="M118.0,967.0 h4 V1178.9 h-4" fill="none" stroke="#c026d3" stroke-width="2" stroke-dasharray="2.5 1.5"><title>T2T-MFA8_release_v1.1:centromere_region: 13.37-17.10 Mb; ours_within_official</title></path>
+<text x="102.0" y="1210" font-size="12" fill="#0f172a" text-anchor="middle">Y</text>
+<text x="40" y="1248" font-size="10" fill="#94a3b8">Satellite arrays ≥ 10 kb from the satellome (FasTAN) catalogue, coloured by sequence superfamily. Published intervals are compared, never used as input.</text>
+<text x="40" y="1262" font-size="10" fill="#94a3b8">Arrows in b: a published interval more than 3 Mb from our locus, distance in Mb. Hover for coordinates. github.com/aglabx/t2t_centromeres</text>
+</svg>

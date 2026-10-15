@@ -15,7 +15,7 @@
      both terminal 10 % of most chromosomes): an interior cluster is preferred.
 
 Writes centromeres.tsv, centromeric_arrays.tsv, centromeric_arrays.bed, family_breadth.tsv,
-outliers.tsv, exceptions.tsv into --out. Refuses (non-zero exit) when the catalogue's sequence
+satellite_arrays.tsv (every array used, with its superfamily), outliers.tsv, exceptions.tsv into --out. Refuses (non-zero exit) when the catalogue's sequence
 names cannot be tied to the assembly's chromosomes (NCBI assembly report).
 
 Usage: call_centromeric_arrays.py --acc ACC --catalogue RUN_DIR --report ASSEMBLY_REPORT \
@@ -467,6 +467,13 @@ write("family_breadth.tsv",
         b["base_period"], b["n_families"], b["both_ends"], b["rep"]["seq"], b["rep"]["start"],
         b["rep"]["len"], b["rep"]["period"], b["rep"]["mono_period"], b["rep"]["cons"], b["families"]]
        for b in breadth])
+chrom_order = {c["name"]: i for i, c in enumerate(chrom_list)}
+write("satellite_arrays.tsv",
+      ["chromosome", "seq_name", "start", "end", "length", "family", "seq_family", "membership",
+       "fastan_period", "mono_period", "hor_period"],
+      [[a["chrom"], a["seq"], a["start"], a["end"], a["len"], a["sfam"], a["family"], a["membership"] or "-",
+        a["period"], a["mono_period"], a["hor_period"]]
+       for a in sorted(arrays, key=lambda a: (chrom_order[a["chrom"]], a["start"], a["end"]))])
 write("outliers.tsv", ["kind", "chromosome", "seq_or_acc", "start", "end", "period", "note"], outliers)
 write("exceptions.tsv", ["kind", "chromosome", "family", "magnitude", "default_applied"], exceptions)
 print(f"[{args.acc}] chromosomes={len(chrom_list)} called={len(rows)} "

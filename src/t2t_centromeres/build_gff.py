@@ -12,8 +12,17 @@ Per chromosome and official set, the relation of our locus to the set's span on 
 (min start .. max end of its intervals):
   official_within_ours | ours_within_official | partial_overlap | disjoint |
   no_official_on_chromosome | official_not_comparable (track assembly length differs) | no_call
-Written to the GFF (attributes of our locus, one block per set) and to --out-tsv (one row per
-chromosome x set; a row with set `none` when the assembly has no official annotation).
+and whether the two agree; every contradiction with a published annotation is labelled, never left
+for the reader to infer:
+  agrees                  our locus overlaps the published interval; for a set that names the active
+                          array (active_hor, presumed_active_array) our largest array overlaps it too
+  contested_locus         our locus does not overlap the published interval
+  contested_active_array  our locus overlaps it, but the published active array is not our largest array
+  contested_no_call       the authors place a centromere here, we make no call
+  not_compared            nothing published on this chromosome, or the track's assembly differs
+Written to the GFF (attributes of our locus, one block per set, plus published_agreement = contested |
+agrees | not_compared over all sets) and to --out-tsv (one row per chromosome x set; a row with set
+`none` when the assembly has no official annotation).
 
 --official-set "SOURCE|CLASS|BED|NAMES|REGEX|FAI|ROLE"  (repeatable)
    NAMES: ucsc | seqname | accession | molecule ("chr7"/"Chr07"/"7" -> assigned molecule 7)
@@ -41,6 +50,7 @@ ap.add_argument("--official-set", action="append", default=[])
 ap.add_argument("--evidence", default="t2t_centromeres", help="value of the evidence attribute on our features")
 args = ap.parse_args()
 
+ACTIVE = {"active_hor", "presumed_active_array"}   # classes that name the active array itself
 SO_TYPE = {"active_hor": "satellite_DNA", "presumed_active_array": "satellite_DNA",
            "centromere_region": "centromere", "alpha_satellite_region": "centromere",
            "gene_in_centromeric_region": "gene"}
@@ -148,15 +158,15 @@ def relate(call, s, nm):
          "official_frac_in_our_locus": "", "our_locus_frac_official": "",
          "largest_array_overlap_bp": "", "gap_bp": ""}
     if nm in s["not_comp"]:
-        r["relation"] = "official_not_comparable"
+        r.update({"relation": "official_not_comparable", "agreement": "not_compared"})
         return r, offs
     if not offs:
-        r["relation"] = "no_official_on_chromosome"
+        r.update({"relation": "no_official_on_chromosome", "agreement": "not_compared"})
         return r, offs
     os_, oe = offs[0][0], max(b for _, b, _ in offs)
     r.update({"official_start": os_, "official_end": oe})
     if not call:
-        r["relation"] = "no_call"
+        r.update({"relation": "no_call", "agreement": "contested_no_call"})
         return r, offs
     ls, le = int(call["locus_start"]), int(call["locus_end"])
     bs, be = int(call["largest_start"]), int(call["largest_end"])
@@ -183,6 +193,12 @@ def relate(call, s, nm):
               "official_frac_in_our_locus": f"{o_bp / r['official_bp']:.4f}" if r["official_bp"] else "",
               "our_locus_frac_official": f"{o_bp / (le - ls):.4f}",
               "largest_array_overlap_bp": sum(ov(bs, be, a, b) for a, b, _ in offs_for_largest)})
+    if rel == "disjoint":
+        r["agreement"] = "contested_locus"
+    elif s["class"] in ACTIVE and r["largest_array_overlap_bp"] == 0:
+        r["agreement"] = "contested_active_array"
+    else:
+        r["agreement"] = "agrees"
     return r, offs
 
 
@@ -196,7 +212,8 @@ for c in chroms:
             "our_locus_start": call["locus_start"] if call else "",
             "our_locus_end": call["locus_end"] if call else ""}
     if not sets:
-        tsv.append({**base, "set": "none", "relation": "no_official_annotation" if call else "no_call"})
+        tsv.append({**base, "set": "none", "relation": "no_official_annotation" if call else "no_call",
+                    "agreement": "not_compared"})
     for r, _ in rels:
         tsv.append({**base, **r})
     if call:
@@ -210,10 +227,18 @@ for c in chroms:
              "evidence": args.evidence}
         if not sets:
             a["official"] = "none_published"
+        verdicts = [r["agreement"] for r, _ in rels]
+        a["published_agreement"] = ("contested" if any(v.startswith("contested") for v in verdicts)
+                                    else "agrees" if "agrees" in verdicts else "not_compared")
+        contested = [f"{s['source']}:{s['class']} {r['agreement']}" for (r, _), s in zip(rels, sets)
+                     if r["agreement"].startswith("contested")]
+        if contested:
+            a["Note"] = "contested by " + "; ".join(contested)
         for (r, _), s in zip(rels, sets):
             p = s["class"]
             a[f"{p}.source"] = s["source"]
             a[f"{p}.relation"] = r["relation"]
+            a[f"{p}.agreement"] = r["agreement"]
             a[f"{p}.overlap_bp"] = r["overlap_bp"]
             a[f"{p}.official_frac_in_locus"] = r["official_frac_in_our_locus"]
             a[f"{p}.locus_frac_official"] = r["our_locus_frac_official"]
@@ -247,13 +272,16 @@ for c in chroms:
 
 with open(args.out_gff, "w") as fh:
     fh.write("\n".join(gff) + "\n")
-cols = ["chromosome", "molecule", "seqid", "our_locus_start", "our_locus_end", "set", "relation",
+cols = ["chromosome", "molecule", "seqid", "our_locus_start", "our_locus_end", "set", "relation", "agreement",
         "official_start", "official_end", "official_n", "n_official_inside_our_locus", "official_bp", "overlap_bp",
         "official_frac_in_our_locus", "our_locus_frac_official", "largest_array_overlap_bp", "gap_bp"]
 with open(args.out_tsv, "w") as fh:
     fh.write("\t".join(["accession"] + cols) + "\n")
     for r in tsv:
         fh.write("\t".join([args.acc] + [str(r.get(k, "")) for k in cols]) + "\n")
+missing = [r["chromosome"] for r in tsv if not r.get("agreement")]
+if missing:
+    raise SystemExit(f"{args.acc}: no agreement computed for {missing[:5]}")
 tally = defaultdict(int)
 for r in tsv:
     tally[(r["set"], r["relation"])] += 1

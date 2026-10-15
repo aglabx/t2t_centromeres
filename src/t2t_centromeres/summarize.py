@@ -17,16 +17,18 @@ with open(manifest) as fh:
 with open(os.path.join(calls, "STATUS.tsv")) as fh:
     status = list(csv.DictReader(fh, delimiter="\t"))
 
-cols = ["accession", "organism", "asm_name", "status", "chromosomes", "called", "no_family_array",
+cols = ["accession", "organism", "asm_name", "directory", "status", "chromosomes", "called", "no_family_array",
         "family_base_period", "family_n_chrom", "family_n_seq_families", "near_tie", "official_set",
         "official_chroms_comparable", "official_within_ours", "partial_overlap", "ours_within_official",
-        "disjoint", "locus_on_official", "largest_array_on_official", "not_comparable", "note"]
+        "disjoint", "locus_on_official", "largest_array_on_official", "not_comparable",
+        "agrees", "contested_locus", "contested_active_array", "contested_no_call", "note"]
 print("\t".join(cols))
 for st in status:
     acc = st["accession"]
     row = {k: "" for k in cols}
-    row.update({"accession": acc, "organism": org.get(acc, ""), "asm_name": st["asm_name"], "status": st["status"]})
-    d = os.path.join(calls, acc)
+    row.update({"accession": acc, "organism": org.get(acc, ""), "asm_name": st["asm_name"], "directory": st["directory"],
+                "status": st["status"]})
+    d = os.path.join(calls, st["directory"])
     if st["status"] != "called":
         row["note"] = st["summary"][:160]
         print("\t".join(str(row[k]) for k in cols))
@@ -55,9 +57,12 @@ for st in status:
         continue
     for name, rs in sets.items():
         out = dict(row)
-        rel = defaultdict(int)
+        rel, agr = defaultdict(int), defaultdict(int)
         for r in rs:
             rel[r["relation"]] += 1
+            if not r.get("agreement"):
+                sys.exit(f"{acc}: official_overlap.tsv row without agreement ({r['chromosome']}, {name})")
+            agr[r["agreement"]] += 1
         comp = [r for r in rs if r["relation"] in ("official_within_ours", "partial_overlap",
                                                    "ours_within_official", "disjoint")]
         out.update({"official_set": name, "official_chroms_comparable": len(comp),
@@ -65,5 +70,7 @@ for st in status:
                     "ours_within_official": rel["ours_within_official"], "disjoint": rel["disjoint"],
                     "locus_on_official": sum(1 for r in comp if int(r["overlap_bp"] or 0) > 0),
                     "largest_array_on_official": sum(1 for r in comp if int(r["largest_array_overlap_bp"] or 0) > 0),
-                    "not_comparable": rel["official_not_comparable"]})
+                    "not_comparable": rel["official_not_comparable"], "agrees": agr["agrees"],
+                    "contested_locus": agr["contested_locus"], "contested_active_array": agr["contested_active_array"],
+                    "contested_no_call": agr["contested_no_call"]})
         print("\t".join(str(out[k]) for k in cols))

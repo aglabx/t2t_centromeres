@@ -14,33 +14,38 @@ fam = {}
 for r in csv.DictReader(open(allcen), delimiter="\t"):
     fam.setdefault(r["accession"], r["family"])
 
-print("| organism | accession | assembly | chromosomes with a call | centromeric family (monomer bp) |")
-print("|---|---|---|---:|---|")
+print("| organism | assembly | accession | chromosomes with a call | centromeric family (monomer bp) | karyotype |")
+print("|---|---|---|---:|---|---|")
 for acc, r in sorted(per.items(), key=lambda x: (x[1]["organism"], x[1]["asm_name"])):
     cof = " + co-family" if "+" in fam.get(acc, "") else ""
-    print(f"| *{r['organism']}* | {acc} | {r['asm_name']} | {r['called']} / {r['chromosomes']} | "
-          f"{r['family_base_period']}{cof} |")
+    d = f"annotations/{r['directory']}"
+    print(f"| *{r['organism']}* | [{r['asm_name']}]({d}) | {acc} | {r['called']} / {r['chromosomes']} | "
+          f"{r['family_base_period']}{cof} | [svg]({d}/karyotype.svg) |")
 print()
-print("| assembly | published set | chromosomes compared | locus overlaps it | largest array overlaps it | "
-      "published inside our locus | partial | ours inside published | no overlap |")
-print("|---|---|---:|---:|---:|---:|---:|---:|---:|")
+print("| assembly | published set | chromosomes compared | agrees | contested: no overlap | "
+      "contested: other active array | contested: no call | largest array on it |")
+print("|---|---|---:|---:|---:|---:|---:|---:|")
 for r in rows:
     if r["official_set"] in ("", "none_published") or r["official_chroms_comparable"] in ("", "0"):
         continue
     print(f"| {r['asm_name']} | {r['official_set'].split(':')[0]} ({r['official_set'].split(':')[1]}) | "
-          f"{r['official_chroms_comparable']} | {r['locus_on_official']} | {r['largest_array_on_official']} | "
-          f"{r['official_within_ours']} | {r['partial_overlap']} | {r['ours_within_official']} | {r['disjoint']} |")
+          f"{r['official_chroms_comparable']} | {r['agrees']} | {r['contested_locus']} | "
+          f"{r['contested_active_array']} | {r['contested_no_call']} | {r['largest_array_on_official']} |")
 print()
-print("Chromosomes where our locus does not overlap the published interval at all:")
+print("**Contested** — every chromosome where our call contradicts a published annotation "
+      "(`agreement` in `official_overlap.tsv`, `published_agreement=contested` in the GFF):")
 print()
 allov = sys.argv[3] if len(sys.argv) > 3 else None
 if allov:
     names = {r["accession"]: r["asm_name"] for r in rows}
+    kinds = {"contested_locus": "no overlap", "contested_active_array": "published active array is not our largest array",
+             "contested_no_call": "published centromere, no call"}
     dis = OrderedDict()
     for r in csv.DictReader(open(allov), delimiter="\t"):
-        if r["relation"] == "disjoint":
+        if r["agreement"].startswith("contested"):
             c, m = r["chromosome"], r.get("molecule", "")
-            label = c if (not m or c.split("_")[0].lower().removeprefix("chr") == m.lower()) else f"{c} (molecule {m})"
-            dis.setdefault((names.get(r["accession"], r["accession"]), r["set"].split(":")[0]), []).append(label)
-    for (asm, src), chs in dis.items():
-        print(f"- {asm} vs {src}: {', '.join(chs)}")
+            num = c.split("_")[0].lower().removeprefix("chr")
+            label = c if (not m or (num.lstrip("0") or num) == (m.lower().lstrip("0") or m.lower())) else f"{c} (molecule {m})"
+            dis.setdefault((names.get(r["accession"], r["accession"]), r["set"].split(":")[0], kinds[r["agreement"]]), []).append(label)
+    for (asm, src, kind), chs in dis.items():
+        print(f"- {asm} vs {src}, {kind}: {', '.join(chs)}")
