@@ -77,7 +77,7 @@ with open(args.report) as fh:
         if ln.startswith("#"):
             continue
         f = ln.rstrip("\n").split("\t")
-        if f[1] != "assembled-molecule" or f[3] != "Chromosome":
+        if f[1] != "assembled-molecule" or f[3] not in ("Chromosome", "Linkage Group"):  # some fish reports say Linkage Group
             continue
         rec = {"name": f[0], "genbank": f[4], "refseq": f[6], "length": int(f[8])}
         chrom_list.append(rec)

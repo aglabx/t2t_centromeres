@@ -1,0 +1,27 @@
+kind	chromosome	family	magnitude	default_applied
+cofamily_joined_locus	*	S007	co-located on 1/1 shared chromosomes	arrays of this superfamily are part of the centromeric locus
+cofamily_joined_locus	*	S005	co-located on 1/1 shared chromosomes	arrays of this superfamily are part of the centromeric locus
+locus_at_chromosome_end	chr1	S002	183764-406669 of 30859922	informative: telocentric
+locus_at_chromosome_end	chr2	S002	29290342-29635121 of 29635121	informative: telocentric
+other_family_larger_on_chromosome	chr2	S001	253317 bp vs 221546 bp	centromeric family kept
+locus_at_chromosome_end	chr4	S002	28407461-28595781 of 28634317	informative: telocentric
+second_locus_comparable	chr5	S002	second 124019 bp vs first 205526 bp	kept the larger
+locus_at_chromosome_end	chr5	S002	28021712-28239450 of 28352015	informative: telocentric
+other_family_larger_on_chromosome	chr5	S001	990254 bp vs 329545 bp	centromeric family kept
+other_family_larger_on_chromosome	chr8	S029	69640 bp vs 22331 bp	centromeric family kept
+locus_at_chromosome_end	chr9	S002	179691-435130 of 27007596	informative: telocentric
+second_locus_comparable	chr11	S002	second 15800 bp vs first 20002 bp	kept the larger
+other_family_larger_on_chromosome	chr11	S010	114571 bp vs 49158 bp	centromeric family kept
+locus_at_chromosome_end	chr13	S002	205081-473572 of 24151384	informative: telocentric
+locus_at_chromosome_end	chr14	S002	23308574-23558419 of 23743414	informative: telocentric
+locus_at_chromosome_end	chr15	S002	23351360-23576777 of 23742429	informative: telocentric
+locus_at_chromosome_end	chr16	S002	21936129-22644375 of 22713765	informative: telocentric
+locus_at_chromosome_end	chr17	S002	21281-582970 of 21626437	informative: telocentric
+locus_at_chromosome_end	chr18	S002	127232-333092 of 21213813	informative: telocentric
+other_family_larger_on_chromosome	chr18	S003	481896 bp vs 209019 bp	centromeric family kept
+other_family_larger_on_chromosome	chr19	S004	117298 bp vs 10875 bp	centromeric family kept
+locus_at_chromosome_end	chr21	S002	19546382-19732796 of 19800744	informative: telocentric
+locus_includes_period_class_arrays	chr22	S002	50446 of 50446 bp	joined by monomer period, not by sequence
+locus_at_chromosome_end	chr23	S002	77746-1206305 of 17079772	informative: telocentric
+other_family_larger_on_chromosome	chr23	S001	712420 bp vs 321802 bp	centromeric family kept
+other_family_larger_on_chromosome	chr24	S003	419609 bp vs 340857 bp	centromeric family kept

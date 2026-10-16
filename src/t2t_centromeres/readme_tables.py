@@ -14,12 +14,25 @@ fam = {}
 for r in csv.DictReader(open(allcen), delimiter="\t"):
     fam.setdefault(r["accession"], r["family"])
 
-print("| organism | assembly | accession | chromosomes with a call | centromeric family (monomer bp) | karyotype |")
-print("|---|---|---|---:|---|---|")
+TIER = {"real_t2t": "real T2T", "gap_free": "gap-free, telomeres incomplete", "gapped": "gaps"}
+counts = OrderedDict((t, 0) for t in TIER)
+for r in per.values():
+    if r["completeness_tier"] not in TIER:
+        sys.exit(f"readme_tables: {r['accession']} has completeness_tier {r['completeness_tier']!r}")
+    counts[r["completeness_tier"]] += 1
+print("| completeness tier | assemblies |")
+print("|---|---:|")
+for t, n in counts.items():
+    print(f"| {TIER[t]} | {n} |")
+print()
+print("| organism | assembly | accession | completeness | gaps | both telomeres | chromosomes with a call | "
+      "centromeric family (monomer bp) | karyotype |")
+print("|---|---|---|---|---:|---:|---:|---|---|")
 for acc, r in sorted(per.items(), key=lambda x: (x[1]["organism"], x[1]["asm_name"])):
     cof = " + co-family" if "+" in fam.get(acc, "") else ""
     d = f"annotations/{r['directory']}"
-    print(f"| *{r['organism']}* | [{r['asm_name']}]({d}) | {acc} | {r['called']} / {r['chromosomes']} | "
+    print(f"| *{r['organism']}* | [{r['asm_name']}]({d}) | {acc} | {TIER[r['completeness_tier']]} | {r['gaps']} | "
+          f"{r['chromosomes_both_telomeres']} / {r['chromosomes']} | {r['called']} / {r['chromosomes']} | "
           f"{r['family_base_period']}{cof} | [svg]({d}/karyotype.svg) |")
 print()
 print("| assembly | published set | chromosomes compared | agrees | contested: no overlap | contested: no call |")

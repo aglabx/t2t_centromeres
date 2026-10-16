@@ -99,3 +99,25 @@ k × base period, not by sequence), `fastan_period`, `mono_period`, `hor_period`
   (a superfamily without a consensus ≥ 30 bp, at least as broad as the chosen one minus one), `cofamily_joined_locus`, `cap_mode`,
   `subterminal_cap_skipped`, `cap_mode_no_interior_cluster`, `locus_at_chromosome_end`,
   `second_locus_comparable`, `locus_includes_period_class_arrays`, `other_family_larger_on_chromosome`.
+
+## Panel tables
+
+- `STATUS.tsv` — one row per assembly: directory, catalogue path relative to the work directory, `called` /
+  `refused` / `pending`, the caller's one-line summary.
+- `TIERS.tsv` — completeness of every assembly from its sequence and NCBI assembly report, never from its name
+  or NCBI assembly level (`src/t2t_centromeres/tier.py`): `chromosomes` (assembled-molecule rows of type
+  Chromosome), `gaps` (runs of N, satellome `gaps.bed`), `gaps_on_chromosomes`, `unplaced_sequences` (report rows
+  that are not assembled molecules: unplaced and unlocalized scaffolds), `both_telomeres` / `one_telomere` /
+  `no_telomere` (satellome telomere check: TTAGGG / CCCTAA in the terminal 10 kb at density ≥ 0.15),
+  `completeness_tier`:
+
+  | tier | rule |
+  |---|---|
+  | `real_t2t` | no gap, no unplaced sequence, telomeric repeat at both ends of every chromosome |
+  | `gap_free` | no gap, no unplaced sequence, telomeric repeat missing at one or more chromosome ends |
+  | `gapped` | at least one gap or one unplaced / unlocalized sequence |
+
+- `SUMMARY.tsv` — one row per assembly × published set: the call (chromosomes, called, family period, near
+  ties), the relation counts and verdicts against the set, and the completeness columns of `TIERS.tsv`
+  (`completeness_tier`, `gaps`, `unplaced_sequences`, `chromosomes_both_telomeres`).
+- `ALL_centromeres.tsv`, `ALL_official_overlap.tsv` — the per-assembly tables concatenated.

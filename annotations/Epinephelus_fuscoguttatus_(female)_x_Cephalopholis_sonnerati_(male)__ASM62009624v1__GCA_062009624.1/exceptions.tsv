@@ -1,0 +1,32 @@
+kind	chromosome	family	magnitude	default_applied
+breadth_tie_broken_by_bp	*	S002	24 chromosomes, 3212655 bp, mono 348 vs 24 chromosomes, 9819701 bp, mono 38	kept the broader family; see colocated_families
+second_locus_comparable	chr2	S001	second 42635 bp vs first 67985 bp	kept the larger
+other_family_larger_on_chromosome	chr2	S002	236256 bp vs 173685 bp	centromeric family kept
+second_locus_comparable	chr3	S001	second 49229 bp vs first 60971 bp	kept the larger
+other_family_larger_on_chromosome	chr3	S008	265424 bp vs 261884 bp	centromeric family kept
+second_locus_comparable	chr4	S001	second 35183 bp vs first 66372 bp	kept the larger
+locus_at_chromosome_end	chr5	S001	348600-1375266 of 47079807	informative: telocentric
+second_locus_comparable	chr6	S001	second 45824 bp vs first 57740 bp	kept the larger
+locus_at_chromosome_end	chr6	S001	188472-246212 of 44679642	informative: telocentric
+second_locus_comparable	chr7	S001	second 57464 bp vs first 74777 bp	kept the larger
+second_locus_comparable	chr8	S001	second 43293 bp vs first 52447 bp	kept the larger
+second_locus_comparable	chr9	S001	second 143992 bp vs first 175217 bp	kept the larger
+second_locus_comparable	chr10	S001	second 106945 bp vs first 138842 bp	kept the larger
+locus_includes_period_class_arrays	chr11	S001	98226 of 98226 bp	joined by monomer period, not by sequence
+second_locus_comparable	chr11	S001	second 62420 bp vs first 98226 bp	kept the larger
+locus_at_chromosome_end	chr12	S001	42661062-43198403 of 43593797	informative: telocentric
+other_family_larger_on_chromosome	chr12	S002	335225 bp vs 136115 bp	centromeric family kept
+second_locus_comparable	chr13	S001	second 44410 bp vs first 58102 bp	kept the larger
+locus_at_chromosome_end	chr13	S001	321887-1120572 of 43844353	informative: telocentric
+other_family_larger_on_chromosome	chr13	S005	378317 bp vs 231924 bp	centromeric family kept
+second_locus_comparable	chr14	S001	second 72995 bp vs first 78742 bp	kept the larger
+second_locus_comparable	chr15	S001	second 77341 bp vs first 102643 bp	kept the larger
+second_locus_comparable	chr16	S001	second 65769 bp vs first 105744 bp	kept the larger
+locus_at_chromosome_end	chr16	S001	40768780-41743666 of 41987608	informative: telocentric
+second_locus_comparable	chr17	S001	second 71475 bp vs first 134543 bp	kept the larger
+second_locus_comparable	chr18	S001	second 29557 bp vs first 53527 bp	kept the larger
+locus_at_chromosome_end	chr18	S001	375215-1105565 of 42994049	informative: telocentric
+second_locus_comparable	chr19	S001	second 135847 bp vs first 222167 bp	kept the larger
+second_locus_comparable	chr21	S001	second 140366 bp vs first 153050 bp	kept the larger
+second_locus_comparable	chr23	S001	second 114587 bp vs first 126534 bp	kept the larger
+second_locus_comparable	chr24	S001	second 652374 bp vs first 785424 bp	kept the larger

@@ -1,0 +1,22 @@
+kind	chromosome	family	magnitude	default_applied
+short_consensus_family_as_broad	*	S003	27 chromosomes, 2141755 bp, mono 6 vs 19 chromosomes, 3505333 bp, mono 531	not eligible: no consensus >= --short-len
+second_locus_comparable	chr2	S002	second 24793 bp vs first 26144 bp	kept the larger
+other_family_larger_on_chromosome	chr2	S003	232900 bp vs 50937 bp	centromeric family kept
+locus_includes_period_class_arrays	chr5	S002	116119 of 257904 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	chr7	S001	996035 bp vs 212440 bp	centromeric family kept
+other_family_larger_on_chromosome	chr8	S006	414047 bp vs 171276 bp	centromeric family kept
+second_locus_comparable	chr9	S002	second 15339 bp vs first 27647 bp	kept the larger
+other_family_larger_on_chromosome	chr9	S009	144131 bp vs 42986 bp	centromeric family kept
+locus_includes_period_class_arrays	chr11	S002	270388 of 270388 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	chr11	S006	319651 bp vs 270388 bp	centromeric family kept
+locus_includes_period_class_arrays	chr12	S002	14238 of 208613 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	chr12	S001	684937 bp vs 208613 bp	centromeric family kept
+locus_at_chromosome_end	chr16	S002	41060-192992 of 23155954	informative: telocentric
+other_family_larger_on_chromosome	chr16	S001	226352 bp vs 162583 bp	centromeric family kept
+locus_includes_period_class_arrays	chr18	S002	114082 of 114082 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	chr18	S001	489742 bp vs 114082 bp	centromeric family kept
+locus_includes_period_class_arrays	chr19	S002	55232 of 339403 bp	joined by monomer period, not by sequence
+locus_at_chromosome_end	chr19	S002	90481-1843990 of 22444354	informative: telocentric
+other_family_larger_on_chromosome	chr20	S001	596786 bp vs 124738 bp	centromeric family kept
+other_family_larger_on_chromosome	chr21	S004	1101153 bp vs 41568 bp	centromeric family kept
+other_family_larger_on_chromosome	chr33	S008	364128 bp vs 216313 bp	centromeric family kept

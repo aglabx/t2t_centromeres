@@ -1,0 +1,7 @@
+kind	chromosome	family	magnitude	default_applied
+breadth_tie_broken_by_bp	*	S002	8 chromosomes, 284996 bp, mono 671 vs 8 chromosomes, 518626 bp, mono 118	kept the broader family; see colocated_families
+breadth_near_tie	*	S003	7 chromosomes, 198236 bp, mono 1143 vs 8 chromosomes, 518626 bp, mono 118	kept the broader family; see colocated_families
+other_family_larger_on_chromosome	HiC_scaffold_20	S014	36215 bp vs 12814 bp	centromeric family kept
+other_family_larger_on_chromosome	HiC_scaffold_21	S004	110402 bp vs 13704 bp	centromeric family kept
+locus_at_chromosome_end	HiC_scaffold_23	S001	0-11825 of 24676000	informative: telocentric
+other_family_larger_on_chromosome	HiC_scaffold_23	S003	33041 bp vs 11825 bp	centromeric family kept

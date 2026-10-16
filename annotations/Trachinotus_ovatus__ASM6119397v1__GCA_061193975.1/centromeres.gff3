@@ -1,0 +1,43 @@
+##gff-version 3
+##sequence-region CM195064.1 1 33729914
+##sequence-region CM195065.1 1 31860217
+##sequence-region CM195066.1 1 29971576
+##sequence-region CM195067.1 1 26279068
+##sequence-region CM195068.1 1 29397050
+##sequence-region CM195069.1 1 27294310
+##sequence-region CM195070.1 1 30560568
+##sequence-region CM195071.1 1 26074661
+##sequence-region CM195072.1 1 29904409
+##sequence-region CM195073.1 1 29204062
+##sequence-region CM195074.1 1 25956829
+##sequence-region CM195075.1 1 28001219
+##sequence-region CM195076.1 1 22703322
+##sequence-region CM195077.1 1 23965776
+##sequence-region CM195078.1 1 25674231
+##sequence-region CM195079.1 1 20460082
+##sequence-region CM195080.1 1 31136940
+##sequence-region CM195081.1 1 23009960
+##sequence-region CM195082.1 1 20352026
+##sequence-region CM195083.1 1 29858965
+##sequence-region CM195084.1 1 28445476
+##sequence-region CM195085.1 1 29051340
+##sequence-region CM195086.1 1 24676000
+##sequence-region CM195087.1 1 16482653
+CM195064.1	satellome_cen	centromere	1911275	2126561	.	.	.	ID=cen.HiC_scaffold_1;Name=CEN_LG1;chromosome=HiC_scaffold_1;molecule=LG1;family=S001;family_bp=215287;n_arrays=1;rel_pos_mid=0.0599;second_locus_bp=13614;colocated_families=S005:132728:m888;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM195064.1	satellome_cen	satellite_DNA	1911275	2126561	.	.	.	ID=arr.HiC_scaffold_1.1;Parent=cen.HiC_scaffold_1;family=S001;membership=family;fastan_period=115;mono_period=118;hor_period=118;mono_consensus=AAAAACGCACAACTGTTGATTCTGAACAGTATTCACTCACATTCAGTCATTTTAAGATGACTGTATCCTAAGATTACTGTTTGATATCTGCCGACGTCAAAAACTCAAAAGCTTCACC;largest=true
+CM195070.1	satellome_cen	centromere	1230681	1393152	.	.	.	ID=cen.HiC_scaffold_7;Name=CEN_LG7;chromosome=HiC_scaffold_7;molecule=LG7;family=S001;family_bp=142819;n_arrays=2;rel_pos_mid=0.0429;second_locus_bp=0;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM195070.1	satellome_cen	satellite_DNA	1230681	1341223	.	.	.	ID=arr.HiC_scaffold_7.1;Parent=cen.HiC_scaffold_7;family=S001;membership=family;fastan_period=112;mono_period=110;hor_period=108;mono_consensus=AAAAACGCACAACTGTTGATTCTGAACAGTATTGACTCATTTTAAGATGTCTGAATCTTAATATTACTGATTGTTATCTTTTGACGTCAACAACTCTAAAAATTCAAAAA;largest=true
+CM195070.1	satellome_cen	satellite_DNA	1360877	1393152	.	.	.	ID=arr.HiC_scaffold_7.2;Parent=cen.HiC_scaffold_7;family=S001;membership=family;fastan_period=111;mono_period=108;hor_period=108;mono_consensus=AAAAACTCAAAAGCTTCACCAAAAACGCACAACTGAACAGTATTGACTGTATTCAGTCATTTTAAGCTGACTGTATCCTAAGATTACTGTTTGATATCTGCCAATGTC
+CM195072.1	satellome_cen	centromere	28444807	28521892	.	.	.	ID=cen.HiC_scaffold_9;Name=CEN_LG9;chromosome=HiC_scaffold_9;molecule=LG9;family=S001;family_bp=52629;n_arrays=2;rel_pos_mid=0.9525;second_locus_bp=0;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM195072.1	satellome_cen	satellite_DNA	28444807	28470488	.	.	.	ID=arr.HiC_scaffold_9.1;Parent=cen.HiC_scaffold_9;family=S001;membership=family;fastan_period=117;mono_period=118;hor_period=118;mono_consensus=AAAAACGCACAACTGTTGATTCTGAACAGTATTCACTCACATTTAGTCATTTTATGTTGAATTTGACCTAAGATTACTGTTTGATATCTGCCGACGTCAAAAACTCAAAAGCTTCACC
+CM195072.1	satellome_cen	satellite_DNA	28494946	28521892	.	.	.	ID=arr.HiC_scaffold_9.2;Parent=cen.HiC_scaffold_9;family=S001;membership=family;fastan_period=115;mono_period=118;hor_period=118;mono_consensus=AAAAACGCACAACTGTTGATTCTGAACAGTATTCACTCACATTTAGTCATTTTCTGTGCAATTTAACCTAAGATTACTGTTTGATATCTGCCGACGTCAAAAACTCAAAAGCTTCACC;largest=true
+CM195075.1	satellome_cen	centromere	24513654	24542718	.	.	.	ID=cen.HiC_scaffold_12;Name=CEN_LG12;chromosome=HiC_scaffold_12;molecule=LG12;family=S001;family_bp=29065;n_arrays=1;rel_pos_mid=0.8760;second_locus_bp=0;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM195075.1	satellome_cen	satellite_DNA	24513654	24542718	.	.	.	ID=arr.HiC_scaffold_12.1;Parent=cen.HiC_scaffold_12;family=S001;membership=family;fastan_period=107;mono_period=117;hor_period=431;mono_consensus=AAAAACGCACAACTTTTGATTATGAACACTAATCAATTACATTTAATCATTTTAAGTTGACTGTATCCTAAGATTTCTGTTTTAATCTCCCTACGTCAAAAACTCAAAA;largest=true
+CM195077.1	satellome_cen	centromere	1495035	1521903	.	.	.	ID=cen.HiC_scaffold_14;Name=CEN_LG14;chromosome=HiC_scaffold_14;molecule=LG14;family=S001;family_bp=26869;n_arrays=1;rel_pos_mid=0.0629;second_locus_bp=0;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM195077.1	satellome_cen	satellite_DNA	1495035	1521903	.	.	.	ID=arr.HiC_scaffold_14.1;Parent=cen.HiC_scaffold_14;family=S001;membership=family;fastan_period=119;mono_period=118;hor_period=237;mono_consensus=ACAGTATTCACTCAATCTAAGTCATTTTCTGTGCAATTTGAAATAAAAGGAGTTCTACATACATGCCGACCCCAGGAACTTGAAAGGTTTCCCAAAAACCGAAAAACGGGTGTTCCTG;largest=true
+CM195083.1	satellome_cen	centromere	25350220	25363033	.	.	.	ID=cen.HiC_scaffold_20;Name=CEN_LG20;chromosome=HiC_scaffold_20;molecule=LG20;family=S001;family_bp=12814;n_arrays=1;rel_pos_mid=0.8492;second_locus_bp=0;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM195083.1	satellome_cen	satellite_DNA	25350220	25363033	.	.	.	ID=arr.HiC_scaffold_20.1;Parent=cen.HiC_scaffold_20;family=S001;membership=family;fastan_period=110;mono_period=109;hor_period=109;mono_consensus=AAAAACGCACAACTGAACAGTATTCACTCACATTCAGTCATTTTAAGCTGACTGTATCCTAAGATTACTGTTTGATATCTGCCGACGTCAAAAACTCAAAAGCTTCACC;largest=true
+CM195084.1	satellome_cen	centromere	1087172	1100875	.	.	.	ID=cen.HiC_scaffold_21;Name=CEN_LG21;chromosome=HiC_scaffold_21;molecule=LG21;family=S001;family_bp=13704;n_arrays=1;rel_pos_mid=0.0385;second_locus_bp=0;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM195084.1	satellome_cen	satellite_DNA	1087172	1100875	.	.	.	ID=arr.HiC_scaffold_21.1;Parent=cen.HiC_scaffold_21;family=S001;membership=family;fastan_period=114;mono_period=116;hor_period=118;mono_consensus=TGTTTGATATCTGCCGACGTCAAAAACTCAAAAGCTTCACCAAAAACGCACAACTGTTGATTATTAACAGAATTCACTCACTTTCAGTCATTTTGAACTGAATGTATCCTAAGATT;largest=true
+CM195086.1	satellome_cen	centromere	1	11825	.	.	.	ID=cen.HiC_scaffold_23;Name=CEN_LG23;chromosome=HiC_scaffold_23;molecule=LG23;family=S001;family_bp=11825;n_arrays=1;rel_pos_mid=0.0002;second_locus_bp=0;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM195086.1	satellome_cen	satellite_DNA	1	11825	.	.	.	ID=arr.HiC_scaffold_23.1;Parent=cen.HiC_scaffold_23;family=S001;membership=family;fastan_period=108;mono_period=108;hor_period=108;mono_consensus=AAAAACGCACAACTGAACAGTATTCACTCATCTTAGTCATTTTAAGGTGACTGGATCCTAAGATTACTGTTTGATATCTGGTGACGTCAAAAACTCAAAAGCTTCACC;largest=true

@@ -1,0 +1,13 @@
+kind	chromosome	family	magnitude	default_applied
+cofamily_joined_locus	*	S003	co-located on 8/8 shared chromosomes	arrays of this superfamily are part of the centromeric locus
+breadth_tie_broken_by_bp	*	S002	17 chromosomes, 47982699 bp, mono 220 vs 17 chromosomes, 86356296 bp, mono 4678	kept the broader family; see colocated_families
+breadth_near_tie	*	S004	16 chromosomes, 20108326 bp, mono 114 vs 17 chromosomes, 86356296 bp, mono 4678	kept the broader family; see colocated_families
+second_locus_comparable	Chr01	S001	second 1514584 bp vs first 1544095 bp	kept the larger
+other_family_larger_on_chromosome	Chr01	S002	18596158 bp vs 6117710 bp	centromeric family kept
+other_family_larger_on_chromosome	Chr02	S002	4271181 bp vs 177656 bp	centromeric family kept
+other_family_larger_on_chromosome	Chr11	S002	6758579 bp vs 22374 bp	centromeric family kept
+other_family_larger_on_chromosome	Chr13	S002	9213945 bp vs 59313 bp	centromeric family kept
+other_family_larger_on_chromosome	Chr16	S010	95014 bp vs 52926 bp	centromeric family kept
+locus_includes_period_class_arrays	Chr17	S001	102882 of 102882 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	Chr17	S002	629507 bp vs 102882 bp	centromeric family kept
+locus_at_chromosome_end	Chr23	S001	14885-10782961 of 68871333	informative: telocentric

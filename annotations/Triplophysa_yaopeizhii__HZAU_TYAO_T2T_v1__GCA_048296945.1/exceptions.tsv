@@ -1,0 +1,8 @@
+kind	chromosome	family	magnitude	default_applied
+short_consensus_family_as_broad	*	S007	22 chromosomes, 406826 bp, mono 6 vs 23 chromosomes, 6442510 bp, mono 128	not eligible: no consensus >= --short-len
+other_family_larger_on_chromosome	chr5	S003	392498 bp vs 64483 bp	centromeric family kept
+other_family_larger_on_chromosome	chr8	S015	145561 bp vs 137178 bp	centromeric family kept
+other_family_larger_on_chromosome	chr10	S005	310720 bp vs 262806 bp	centromeric family kept
+other_family_larger_on_chromosome	chr14	S007	24247 bp vs 12109 bp	centromeric family kept
+other_family_larger_on_chromosome	chr15	S002	539099 bp vs 26776 bp	centromeric family kept
+other_family_larger_on_chromosome	chr25	S002	362978 bp vs 291992 bp	centromeric family kept

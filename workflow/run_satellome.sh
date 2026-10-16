@@ -40,6 +40,10 @@ read -r h l n < <( (case "$sum" in *.gz) gzip -cd "$sum";; *) cat "$sum";; esac)
 [ "$n" -ge 2 ] && [ "$h" = "$l" ] || { echo "FAIL $ACC truncated_summary cols=$h/$l rows=$n" >&2; exit 1; }
 /bin/rm -rf "$D/fasta" "$D/images"
 for f in "$D"/*.sat "$D"/fastan/*.tsv "$D"/fastan/*.fasta; do [ -f "$f" ] && gzip -f "$f"; done
+# satellome writes gaps.bed and the telomere check after ArraySplitter; without them it stopped early (its
+# one-hour ArraySplitter limit under load), and the arrays may be unsorted: refuse, rerun with more threads
+ls "$D"/*.gaps.bed > /dev/null 2>&1 && [ -s "$D/reports/telomeres.tsv" ] \
+    || { echo "FAIL $ACC incomplete_run rc=$RC (no gaps.bed or reports/telomeres.tsv; rerun alone with more threads)" >&2; exit 1; }
 [ -s "$D/results.yaml" ] && y=yes || y=no_results_yaml
 printf 'rc=%s results_yaml=%s\n' "$RC" "$y" > "$D/.complete"
 echo "$ACC complete rc=$RC results_yaml=$y"

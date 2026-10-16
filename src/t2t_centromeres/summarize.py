@@ -17,12 +17,15 @@ with open(manifest) as fh:
             org[r["accession"]] = r["organism"]
 with open(os.path.join(calls, "STATUS.tsv")) as fh:
     status = list(csv.DictReader(fh, delimiter="\t"))
+with open(os.path.join(calls, "TIERS.tsv")) as fh:  # tier.py: completeness from gaps, unplaced sequences, telomeres
+    tiers = {r["accession"]: r for r in csv.DictReader(fh, delimiter="\t")}
 
 cols = ["accession", "organism", "asm_name", "directory", "status", "chromosomes", "called", "no_family_array",
         "family_base_period", "family_n_chrom", "family_n_seq_families", "near_tie", "official_set",
         "official_chroms_comparable", "official_within_ours", "partial_overlap", "ours_within_official",
         "disjoint", "locus_on_official", "largest_array_on_official", "not_comparable",
-        "agrees", "contested_locus", "contested_no_call", "note"]
+        "agrees", "contested_locus", "contested_no_call", "completeness_tier", "gaps", "unplaced_sequences",
+        "chromosomes_both_telomeres", "note"]
 print("\t".join(cols))
 for st in status:
     acc = st["accession"]
@@ -34,6 +37,11 @@ for st in status:
         row["note"] = st["summary"][:160]
         print("\t".join(str(row[k]) for k in cols))
         continue
+    t = tiers.get(acc)
+    if t is None:
+        sys.exit(f"{acc}: status 'called' but no row in TIERS.tsv")
+    row.update({"completeness_tier": t["completeness_tier"], "gaps": t["gaps"],
+                "unplaced_sequences": t["unplaced_sequences"], "chromosomes_both_telomeres": t["both_telomeres"]})
     kv = dict(x.split("=", 1) for x in st["summary"].split()[1:] if "=" in x)
     row.update({"chromosomes": kv.get("chromosomes"), "called": kv.get("called"),
                 "no_family_array": kv.get("no_family_array"), "family_base_period": kv.get("base_period"),

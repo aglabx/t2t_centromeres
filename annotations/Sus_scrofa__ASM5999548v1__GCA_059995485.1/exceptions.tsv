@@ -1,0 +1,13 @@
+kind	chromosome	family	magnitude	default_applied
+short_consensus_family_as_broad	*	S023	20 chromosomes, 843199 bp, mono 6 vs 15 chromosomes, 35133775 bp, mono 336	not eligible: no consensus >= --short-len
+other_family_larger_on_chromosome	chr5	S003	2539954 bp vs 226613 bp	centromeric family kept
+other_family_larger_on_chromosome	chr8	S003	2164738 bp vs 438701 bp	centromeric family kept
+other_family_larger_on_chromosome	chr9	S003	1812677 bp vs 1649818 bp	centromeric family kept
+other_family_larger_on_chromosome	chr10	S014	2202247 bp vs 231367 bp	centromeric family kept
+other_family_larger_on_chromosome	chr11	S003	5182566 bp vs 3144305 bp	centromeric family kept
+locus_at_chromosome_end	chr13	S001	32191-883212 of 224144824	informative: telocentric
+other_family_larger_on_chromosome	chr13	S004	9157791 bp vs 851021 bp	centromeric family kept
+locus_includes_period_class_arrays	chr15	S001	195668 of 195668 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	chr15	S006	834148 bp vs 195668 bp	centromeric family kept
+locus_at_chromosome_end	chr16	S001	31729-687728 of 95102274	informative: telocentric
+other_family_larger_on_chromosome	chr16	S006	4129320 bp vs 655999 bp	centromeric family kept

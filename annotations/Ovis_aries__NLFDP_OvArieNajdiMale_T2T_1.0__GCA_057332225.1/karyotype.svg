@@ -1,0 +1,1018 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1266" viewBox="0 0 1240 1266" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<title>Ovis aries NLFDP_OvArieNajdiMale_T2T_1.0 GCA_057332225.1: centromeric satellite arrays</title>
+<rect width="1240" height="1266" fill="#ffffff"/>
+<text x="40" y="38" font-size="22" fill="#0f172a"><tspan font-style="italic" font-weight="bold">Ovis aries</tspan><tspan dx="10" font-weight="bold">NLFDP_OvArieNajdiMale_T2T_1.0</tspan></text>
+<text x="40" y="62" font-size="13" fill="#334155">GCA_057332225.1 · centromeric locus called on 24 of 28 chromosomes</text>
+<text x="40" y="80" font-size="13" fill="#334155">no published centromere intervals for this assembly</text>
+<text x="40" y="114" font-size="11" font-weight="bold" fill="#64748b" letter-spacing="0.6">SATELLITES</text>
+<rect x="172.0" y="105" width="16" height="10" rx="2" fill="#1d4ed8"/>
+<text x="194.0" y="114" font-size="12" fill="#334155">S001 centromeric superfamily, 816 bp, 21.24 Mb</text>
+<rect x="524.2" y="105" width="16" height="10" rx="2" fill="#93c5fd"/>
+<text x="546.2" y="114" font-size="12" fill="#334155">joined by monomer period (k × 816 bp)</text>
+<rect x="816.1" y="105" width="16" height="10" rx="2" fill="#f97316"/>
+<text x="838.1" y="114" font-size="12" fill="#334155">S002 (CGTGGGCCCCA)n, 3.34 Mb</text>
+<rect x="172.0" y="125" width="16" height="10" rx="2" fill="#a855f7"/>
+<text x="194.0" y="134" font-size="12" fill="#334155">S003 702 bp, 1.98 Mb</text>
+<rect x="350.0" y="125" width="16" height="10" rx="2" fill="#84cc16"/>
+<text x="372.0" y="134" font-size="12" fill="#334155">S004 (GAAATCACGT…)n, 1.91 Mb</text>
+<rect x="581.6" y="125" width="16" height="10" rx="2" fill="#b45309"/>
+<text x="603.6" y="134" font-size="12" fill="#334155">S005 (AATCACGTGGG)n, 893 kb</text>
+<rect x="806.5" y="125" width="16" height="10" rx="2" fill="#8b95a5"/>
+<text x="828.5" y="134" font-size="12" fill="#334155">other satellite arrays</text>
+<text x="40" y="160" font-size="11" font-weight="bold" fill="#64748b" letter-spacing="0.6">CALLS</text>
+<rect x="174.0" y="149" width="12" height="14" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+<text x="194.0" y="160" font-size="12" fill="#334155">our centromeric locus (satellite zone)</text>
+<rect x="474.6" y="149" width="8" height="14" rx="4" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"/>
+<text x="492.6" y="160" font-size="12" fill="#334155">no array of the centromeric family</text>
+<text x="40" y="202" font-size="14" fill="#0f172a"><tspan font-weight="bold">a</tspan><tspan dx="10">Whole chromosomes, one scale</tspan></text>
+<line x1="72" y1="224.0" x2="1204" y2="224.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="228.0" font-size="10" fill="#64748b" text-anchor="end">0</text>
+<line x1="72" y1="309.0" x2="1204" y2="309.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="313.0" font-size="10" fill="#64748b" text-anchor="end">50</text>
+<line x1="72" y1="394.1" x2="1204" y2="394.1" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="398.1" font-size="10" fill="#64748b" text-anchor="end">100</text>
+<line x1="72" y1="479.1" x2="1204" y2="479.1" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="483.1" font-size="10" fill="#64748b" text-anchor="end">150</text>
+<line x1="72" y1="564.2" x2="1204" y2="564.2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="568.2" font-size="10" fill="#64748b" text-anchor="end">200</text>
+<line x1="72" y1="649.2" x2="1204" y2="649.2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="653.2" font-size="10" fill="#64748b" text-anchor="end">250</text>
+<text x="66" y="214" font-size="10" fill="#64748b" text-anchor="end">Mb</text>
+<rect x="93.0" y="224" width="14" height="480.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr01 (mol 1): 282,228,267 bp
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="94.0" y="494.4" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr01 158.99-159.01 Mb (10 kb), S063, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="94.0" y="452.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr01 134.16-134.18 Mb (15 kb), S018, monomer 7330 bp, HOR 14663 bp</title></rect>
+<rect x="94.0" y="492.6" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr01 157.93-157.95 Mb (16 kb), S056, monomer 27 bp, HOR 31 bp</title></rect>
+<rect x="94.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr01 0.00-0.02 Mb (16 kb), S033, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="94.0" y="493.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr01 158.44-158.46 Mb (17 kb), S001, monomer 803 bp, HOR 803 bp</title></rect>
+<rect x="94.0" y="493.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr01 158.25-158.27 Mb (18 kb), S052, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="94.0" y="493.5" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr01 158.46-158.48 Mb (19 kb), S003, monomer 702 bp, HOR 4207 bp</title></rect>
+<rect x="94.0" y="475.1" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr01 147.66-147.68 Mb (20 kb), S029, monomer 9692 bp, HOR 20188 bp</title></rect>
+<rect x="94.0" y="439.1" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr01 126.46-126.50 Mb (40 kb), S029, monomer 4932 bp, HOR 4931 bp</title></rect>
+<rect x="94.0" y="493.8" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr01 158.65-158.74 Mb (89 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="94.0" y="508.1" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr01 167.03-167.16 Mb (127 kb), S023, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="94.0" y="493.6" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr01 158.50-158.65 Mb (145 kb), S003, monomer 701 bp, HOR 702 bp</title></rect>
+<rect x="94.0" y="494.0" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr01 158.74-158.96 Mb (213 kb), S003, monomer 701 bp, HOR 702 bp</title></rect>
+<rect x="90.0" y="491.0" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr01 (mol 1) locus 158.44-158.46 Mb (17 kb): 17 kb of S001 in 1 arrays; largest array 158.44-158.46 Mb (17 kb), monomer 803 bp</title></rect>
+<text x="104.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 104.0 720)">NLFDP1268_Chr01 (mol 1)</text>
+<rect x="133.0" y="224" width="14" height="434.3" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr02 (mol 2): 255,351,321 bp</title></rect>
+<rect x="134.0" y="463.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.78-140.79 Mb (10 kb), S001, monomer 812 bp, HOR 802 bp</title></rect>
+<rect x="134.0" y="459.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.42-138.43 Mb (11 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="134.0" y="459.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.43-138.44 Mb (11 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="134.0" y="463.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.57-140.58 Mb (12 kb), S001, monomer 816 bp, HOR 815 bp</title></rect>
+<rect x="134.0" y="460.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.81-138.82 Mb (12 kb), S001, monomer 814 bp, HOR 817 bp</title></rect>
+<rect x="134.0" y="463.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.82-140.84 Mb (12 kb), S001, monomer 813 bp, HOR 817 bp</title></rect>
+<rect x="134.0" y="463.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.76-140.78 Mb (17 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="134.0" y="458.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.02-138.04 Mb (17 kb), S001, monomer 790 bp, HOR 789 bp</title></rect>
+<rect x="134.0" y="458.7" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr02 137.99-138.01 Mb (18 kb), S053, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="134.0" y="459.5" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr02 138.44-138.46 Mb (19 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="134.0" y="458.8" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr02 138.04-138.06 Mb (19 kb), S050, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="134.0" y="462.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.27-140.29 Mb (21 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="134.0" y="458.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.09-138.11 Mb (26 kb), S001, monomer 803 bp, HOR 2403 bp</title></rect>
+<rect x="134.0" y="462.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.29-140.31 Mb (27 kb), S001, monomer 812 bp, HOR 804 bp</title></rect>
+<rect x="134.0" y="224.6" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr02 0.37-0.39 Mb (27 kb), S016, monomer 4524 bp, HOR 4523 bp</title></rect>
+<rect x="134.0" y="463.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.52-140.55 Mb (30 kb), S001, monomer 802 bp, HOR 816 bp</title></rect>
+<rect x="134.0" y="462.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.22-140.26 Mb (43 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="134.0" y="258.9" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr02 20.52-20.57 Mb (48 kb), S024, monomer 14606 bp, HOR 47776 bp</title></rect>
+<rect x="134.0" y="459.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.23-138.28 Mb (48 kb), S001, monomer 813 bp, HOR 816 bp</title></rect>
+<rect x="134.0" y="459.8" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr02 138.67-138.72 Mb (52 kb), S003, monomer 701 bp, HOR 4202 bp</title></rect>
+<rect x="134.0" y="462.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.47-140.52 Mb (52 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="134.0" y="460.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.73-138.80 Mb (66 kb), S001, monomer 815 bp, HOR 804 bp</title></rect>
+<rect x="134.0" y="459.7" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr02 138.57-138.65 Mb (76 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="134.0" y="461.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 139.37-139.46 Mb (85 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="134.0" y="461.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 139.46-139.56 Mb (97 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="134.0" y="459.5" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr02 138.46-138.57 Mb (113 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="134.0" y="458.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.11-138.23 Mb (114 kb), S001, monomer 812 bp, HOR 816 bp</title></rect>
+<rect x="134.0" y="463.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.58-140.71 Mb (125 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="134.0" y="459.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.28-138.41 Mb (130 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="134.0" y="462.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.32-140.47 Mb (144 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="134.0" y="460.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 139.22-139.37 Mb (152 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="134.0" y="460.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.82-139.22 Mb (402 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="134.0" y="461.4" width="12" height="1.1" fill="#1d4ed8"><title>NLFDP1268_Chr02 139.57-140.22 Mb (650 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="130.0" y="458.6" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr02 (mol 2) locus 138.02-140.84 Mb (2.82 Mb): 2.31 Mb of S001 in 25 arrays; largest array 139.57-140.22 Mb (650 kb), monomer 816 bp</title></rect>
+<text x="144.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 144.0 720)">NLFDP1268_Chr02 (mol 2)</text>
+<rect x="173.0" y="224" width="14" height="392.9" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr03 (mol 3): 230,993,726 bp
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="174.0" y="411.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr03 109.93-109.94 Mb (10 kb), S028, monomer 30 bp, HOR 31 bp</title></rect>
+<rect x="174.0" y="406.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.27-107.28 Mb (11 kb), S001, monomer 815 bp, HOR 804 bp</title></rect>
+<rect x="174.0" y="411.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr03 110.05-110.06 Mb (12 kb), S028, monomer 30 bp, HOR 31 bp</title></rect>
+<rect x="174.0" y="406.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.35-107.36 Mb (13 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="174.0" y="409.2" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr03 108.90-108.91 Mb (13 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="174.0" y="495.5" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr03 159.65-159.66 Mb (13 kb), S012, monomer 6663 bp, HOR 13335 bp</title></rect>
+<rect x="174.0" y="410.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 109.89-109.91 Mb (14 kb), S001, monomer 4010 bp, HOR 4024 bp</title></rect>
+<rect x="174.0" y="409.3" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr03 108.95-108.96 Mb (15 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="174.0" y="406.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.49-107.50 Mb (15 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="174.0" y="406.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.39-107.40 Mb (15 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="174.0" y="406.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.06-107.08 Mb (16 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="174.0" y="406.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.37-107.39 Mb (20 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="174.0" y="409.3" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr03 108.96-108.98 Mb (21 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="174.0" y="406.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.40-107.42 Mb (21 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="174.0" y="409.4" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr03 108.99-109.01 Mb (21 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="174.0" y="409.3" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr03 108.92-108.94 Mb (21 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="174.0" y="406.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.32-107.34 Mb (23 kb), S001, monomer 816 bp, HOR 3249 bp</title></rect>
+<rect x="174.0" y="405.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 106.96-106.99 Mb (23 kb), S001, monomer 804 bp, HOR 816 bp</title></rect>
+<rect x="174.0" y="406.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.29-107.31 Mb (25 kb), S001, monomer 3249 bp, HOR 3249 bp</title></rect>
+<rect x="174.0" y="406.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.20-107.23 Mb (27 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="174.0" y="406.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.23-107.25 Mb (28 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="174.0" y="411.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr03 109.94-109.97 Mb (28 kb), S046, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="174.0" y="406.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.08-107.10 Mb (28 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="174.0" y="407.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.59-107.62 Mb (29 kb), S001, monomer 817 bp, HOR 816 bp</title></rect>
+<rect x="174.0" y="407.2" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr03 107.72-107.75 Mb (32 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="174.0" y="406.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.43-107.47 Mb (36 kb), S001, monomer 814 bp, HOR 817 bp</title></rect>
+<rect x="174.0" y="406.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.16-107.19 Mb (37 kb), S001, monomer 813 bp, HOR 817 bp</title></rect>
+<rect x="174.0" y="406.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.51-107.55 Mb (37 kb), S001, monomer 1615 bp, HOR 4836 bp</title></rect>
+<rect x="174.0" y="409.0" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr03 108.80-108.84 Mb (38 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="174.0" y="442.5" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr03 128.48-128.52 Mb (40 kb), S012, monomer 13083 bp, HOR 40098 bp</title></rect>
+<rect x="174.0" y="479.1" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr03 149.98-150.02 Mb (43 kb), S038, monomer 141 bp, HOR 2961 bp</title></rect>
+<rect x="174.0" y="406.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.11-107.16 Mb (47 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="174.0" y="406.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.00-107.05 Mb (53 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="174.0" y="409.1" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr03 108.84-108.90 Mb (57 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="174.0" y="407.6" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr03 107.95-108.00 Mb (57 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="174.0" y="408.9" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr03 108.74-108.80 Mb (61 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="174.0" y="409.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 109.03-109.09 Mb (64 kb), S001, monomer 813 bp, HOR 817 bp</title></rect>
+<rect x="174.0" y="409.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 109.10-109.18 Mb (75 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="174.0" y="407.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.63-107.72 Mb (88 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="174.0" y="407.3" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr03 107.75-107.95 Mb (194 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="174.0" y="408.5" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr03 108.51-108.74 Mb (232 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="174.0" y="407.8" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr03 108.05-108.51 Mb (459 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="174.0" y="409.7" width="12" height="1.2" fill="#84cc16"><title>NLFDP1268_Chr03 109.19-109.89 Mb (707 kb), S004, monomer 21 bp, HOR 22 bp</title></rect>
+<rect x="170.0" y="404.1" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr03 (mol 3) locus 106.96-107.72 Mb (755 kb): 591 kb of S001 in 20 arrays; largest array 107.63-107.72 Mb (88 kb), monomer 816 bp</title></rect>
+<text x="184.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 184.0 720)">NLFDP1268_Chr03 (mol 3)</text>
+<rect x="213.0" y="224" width="14" height="209.8" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr04 (mol 4): 123,365,069 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="214.0" y="246.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr04 12.94-12.95 Mb (13 kb), S059, monomer 6 bp, HOR 22 bp</title></rect>
+<rect x="214.0" y="226.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr04 1.59-1.60 Mb (14 kb), S001, monomer 1591 bp, HOR 3180 bp</title></rect>
+<rect x="214.0" y="226.7" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr04 1.61-1.63 Mb (21 kb), S028, monomer 30 bp, HOR 31 bp</title></rect>
+<rect x="214.0" y="224.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr04 0.52-0.55 Mb (35 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="214.0" y="226.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr04 1.43-1.49 Mb (57 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="214.0" y="224.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr04 0.37-0.42 Mb (57 kb), S001, monomer 814 bp, HOR 803 bp</title></rect>
+<rect x="214.0" y="226.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr04 1.49-1.55 Mb (58 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="214.0" y="224.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr04 0.43-0.51 Mb (78 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="214.0" y="226.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr04 1.23-1.42 Mb (191 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="214.0" y="225.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr04 0.96-1.22 Mb (253 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="214.0" y="224.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr04 0.01-0.30 Mb (296 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="214.0" y="225.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr04 0.56-0.96 Mb (403 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="210.0" y="222.9" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr04 (mol 4) locus 0.01-1.60 Mb (1.60 Mb): 1.44 Mb of S001 in 10 arrays; largest array 0.56-0.96 Mb (403 kb), monomer 817 bp</title></rect>
+<text x="224.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 224.0 720)">NLFDP1268_Chr04 (mol 4)</text>
+<rect x="253.0" y="224" width="14" height="185.5" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr05 (mol 5): 109,057,477 bp
+exception: locus_at_chromosome_end
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="254.0" y="408.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr05 108.74-108.76 Mb (23 kb), S001, monomer 815 bp, HOR 815 bp</title></rect>
+<rect x="254.0" y="343.3" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr05 70.17-70.21 Mb (39 kb), S022, monomer 16122 bp, HOR 39144 bp</title></rect>
+<rect x="254.0" y="409.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr05 108.77-109.06 Mb (286 kb), S010, monomer 22 bp, HOR 22 bp</title></rect>
+<rect x="250.0" y="406.5" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr05 (mol 5) locus 108.74-108.76 Mb (23 kb): 23 kb of S001 in 1 arrays; largest array 108.74-108.76 Mb (23 kb), monomer 815 bp</title></rect>
+<text x="264.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 264.0 720)">NLFDP1268_Chr05 (mol 5)</text>
+<rect x="293.0" y="224" width="14" height="207.8" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr06 (mol 6): 122,205,669 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="294.0" y="226.8" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr06 1.66-1.67 Mb (10 kb), S064, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="294.0" y="226.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr06 1.56-1.57 Mb (17 kb), S001, monomer 815 bp, HOR 1631 bp</title></rect>
+<rect x="294.0" y="374.8" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr06 88.64-88.66 Mb (17 kb), S009, monomer 8359 bp, HOR 17443 bp</title></rect>
+<rect x="294.0" y="430.7" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr06 121.54-121.56 Mb (21 kb), S008, monomer 951 bp, HOR 951 bp</title></rect>
+<rect x="294.0" y="430.7" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr06 121.56-121.59 Mb (33 kb), S008, monomer 951 bp, HOR 951 bp</title></rect>
+<rect x="294.0" y="237.5" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr06 7.93-7.96 Mb (35 kb), S012, monomer 13019 bp, HOR 34533 bp</title></rect>
+<rect x="294.0" y="224.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr06 0.46-0.50 Mb (39 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="294.0" y="226.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr06 1.50-1.54 Mb (44 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="294.0" y="237.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr06 7.76-7.81 Mb (49 kb), S012, monomer 13017 bp, HOR 49347 bp</title></rect>
+<rect x="294.0" y="237.9" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr06 8.19-8.25 Mb (53 kb), S012, monomer 26035 bp, HOR 53395 bp</title></rect>
+<rect x="294.0" y="236.9" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr06 7.61-7.67 Mb (53 kb), S012, monomer 13018 bp, HOR 53427 bp</title></rect>
+<rect x="294.0" y="224.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr06 0.50-0.84 Mb (345 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="294.0" y="224.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr06 0.00-0.46 Mb (457 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="294.0" y="225.4" width="12" height="1.1" fill="#8b95a5"><title>NLFDP1268_Chr06 0.84-1.50 Mb (653 kb), S006, monomer 11 bp, HOR 22 bp</title></rect>
+<rect x="290.0" y="222.8" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr06 (mol 6) locus 0.00-1.57 Mb (1.57 Mb): 902 kb of S001 in 5 arrays; largest array 0.00-0.46 Mb (457 kb), monomer 816 bp</title></rect>
+<text x="304.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 304.0 720)">NLFDP1268_Chr06 (mol 6)</text>
+<rect x="333.0" y="224" width="14" height="175.7" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr07 (mol 7): 103,295,648 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="334.0" y="398.7" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr07 102.71-102.72 Mb (11 kb), S010, monomer 22 bp, HOR 22 bp</title></rect>
+<rect x="334.0" y="398.6" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr07 102.66-102.67 Mb (17 kb), S054, monomer 25 bp, HOR 31 bp</title></rect>
+<rect x="334.0" y="398.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr07 102.43-102.45 Mb (21 kb), S049, monomer 29 bp, HOR 31 bp</title></rect>
+<rect x="334.0" y="398.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr07 102.69-102.71 Mb (25 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="334.0" y="399.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr07 103.25-103.30 Mb (45 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="334.0" y="399.4" width="12" height="1.0" fill="#f97316"><title>NLFDP1268_Chr07 103.15-103.24 Mb (95 kb), S002, monomer 11 bp, HOR 44 bp</title></rect>
+<rect x="334.0" y="398.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr07 102.72-102.92 Mb (195 kb), S001, monomer 804 bp, HOR 816 bp</title></rect>
+<rect x="334.0" y="399.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr07 102.92-103.14 Mb (224 kb), S001, monomer 817 bp, HOR 2462 bp</title></rect>
+<rect x="330.0" y="396.7" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr07 (mol 7) locus 102.69-103.30 Mb (611 kb): 488 kb of S001 in 4 arrays; largest array 102.92-103.14 Mb (224 kb), monomer 817 bp</title></rect>
+<text x="344.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 344.0 720)">NLFDP1268_Chr07 (mol 7)</text>
+<rect x="373.0" y="224" width="14" height="162.5" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr08 (mol 8): 95,519,328 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="374.0" y="385.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.94-94.95 Mb (10 kb), S001, monomer 815 bp, HOR 815 bp</title></rect>
+<rect x="374.0" y="385.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.99-95.00 Mb (10 kb), S001, monomer 3247 bp, HOR 3247 bp</title></rect>
+<rect x="374.0" y="384.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.54-94.55 Mb (12 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="374.0" y="385.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.85-94.87 Mb (15 kb), S001, monomer 1618 bp, HOR 3236 bp</title></rect>
+<rect x="374.0" y="382.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.13-93.14 Mb (15 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="374.0" y="382.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.08-93.10 Mb (15 kb), S001, monomer 791 bp, HOR 792 bp</title></rect>
+<rect x="374.0" y="385.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.64-94.66 Mb (21 kb), S001, monomer 817 bp, HOR 816 bp</title></rect>
+<rect x="374.0" y="383.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.89-93.91 Mb (23 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="374.0" y="385.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 95.05-95.07 Mb (24 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="374.0" y="385.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 95.07-95.10 Mb (26 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="374.0" y="385.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.96-94.99 Mb (27 kb), S001, monomer 814 bp, HOR 3264 bp</title></rect>
+<rect x="374.0" y="385.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 95.01-95.04 Mb (27 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="374.0" y="383.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.71-93.74 Mb (31 kb), S001, monomer 812 bp, HOR 803 bp</title></rect>
+<rect x="374.0" y="384.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.56-94.60 Mb (38 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="374.0" y="384.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.60-94.64 Mb (40 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="374.0" y="385.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 95.12-95.16 Mb (42 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="374.0" y="384.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.49-94.54 Mb (50 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="374.0" y="383.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.83-93.89 Mb (55 kb), S001, monomer 808 bp, HOR 803 bp</title></rect>
+<rect x="374.0" y="385.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.88-94.94 Mb (69 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="374.0" y="383.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.92-94.00 Mb (75 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="374.0" y="385.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.66-94.74 Mb (77 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="374.0" y="383.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.74-93.82 Mb (78 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="374.0" y="382.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.39-93.48 Mb (94 kb), S001, monomer 4037 bp, HOR 4037 bp</title></rect>
+<rect x="374.0" y="383.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.59-93.69 Mb (102 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="374.0" y="377.8" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr08 90.45-90.56 Mb (102 kb), S016, monomer 8852 bp, HOR 101986 bp</title></rect>
+<rect x="374.0" y="383.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.48-93.59 Mb (105 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="374.0" y="385.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.74-94.85 Mb (114 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="374.0" y="386.3" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr08 95.40-95.52 Mb (116 kb), S015, monomer 11 bp, HOR 22 bp</title></rect>
+<rect x="374.0" y="384.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.37-94.49 Mb (126 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="374.0" y="385.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 95.16-95.39 Mb (229 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="374.0" y="382.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.14-93.39 Mb (241 kb), S001, monomer 812 bp, HOR 803 bp</title></rect>
+<rect x="374.0" y="383.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.00-94.35 Mb (351 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="370.0" y="381.8" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr08 (mol 8) locus 93.08-95.39 Mb (2.30 Mb): 2.14 Mb of S001 in 30 arrays; largest array 94.00-94.35 Mb (351 kb), monomer 817 bp</title></rect>
+<text x="384.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 384.0 720)">NLFDP1268_Chr08 (mol 8)</text>
+<rect x="413.0" y="224" width="14" height="164.8" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr09 (mol 9): 96,918,315 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="414.0" y="225.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.03-1.04 Mb (10 kb), S001, monomer 815 bp, HOR 815 bp</title></rect>
+<rect x="414.0" y="226.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.23-1.24 Mb (10 kb), S001, monomer 812 bp, HOR 813 bp</title></rect>
+<rect x="414.0" y="226.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.22-1.23 Mb (10 kb), S001, monomer 801 bp, HOR 2432 bp</title></rect>
+<rect x="414.0" y="226.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.24-1.25 Mb (11 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="414.0" y="226.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.31-1.32 Mb (11 kb), S001, monomer 816 bp, HOR 3251 bp</title></rect>
+<rect x="414.0" y="250.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr09 15.28-15.29 Mb (12 kb), S014, monomer 1572 bp, HOR 1572 bp</title></rect>
+<rect x="414.0" y="224.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr09 0.12-0.13 Mb (13 kb), S017, monomer 5852 bp, HOR 12537 bp</title></rect>
+<rect x="414.0" y="225.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.01-1.02 Mb (14 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="414.0" y="226.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.33-1.35 Mb (21 kb), S001, monomer 817 bp, HOR 3211 bp</title></rect>
+<rect x="414.0" y="225.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.05-1.08 Mb (29 kb), S001, monomer 829 bp, HOR 3237 bp</title></rect>
+<rect x="414.0" y="225.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.09-1.12 Mb (32 kb), S001, monomer 806 bp, HOR 800 bp</title></rect>
+<rect x="414.0" y="226.1" width="12" height="1.0" fill="#84cc16"><title>NLFDP1268_Chr09 1.25-1.31 Mb (52 kb), S004, monomer 21 bp, HOR 22 bp</title></rect>
+<rect x="414.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr09 0.00-0.06 Mb (64 kb), S015, monomer 11 bp, HOR 22 bp</title></rect>
+<rect x="414.0" y="225.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 0.82-0.89 Mb (72 kb), S001, monomer 804 bp, HOR 817 bp</title></rect>
+<rect x="414.0" y="225.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.12-1.21 Mb (88 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="414.0" y="225.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 0.89-1.00 Mb (105 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="414.0" y="225.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 0.69-0.81 Mb (119 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="414.0" y="226.6" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr09 1.54-1.70 Mb (161 kb), S009, monomer 4088 bp, HOR 4088 bp</title></rect>
+<rect x="414.0" y="224.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 0.38-0.69 Mb (315 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="410.0" y="223.0" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr09 (mol 9) locus 0.38-1.35 Mb (975 kb): 845 kb of S001 in 14 arrays; largest array 0.38-0.69 Mb (315 kb), monomer 815 bp</title></rect>
+<text x="424.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 424.0 720)">NLFDP1268_Chr09 (mol 9)</text>
+<rect x="453.0" y="224" width="14" height="149.4" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr10 (mol 10): 87,858,324 bp
+exception: locus_at_chromosome_end
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="454.0" y="224.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr10 0.22-0.23 Mb (12 kb), S001, monomer 799 bp, HOR 1614 bp</title></rect>
+<rect x="454.0" y="224.8" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr10 0.49-0.51 Mb (17 kb), S009, monomer 8380 bp, HOR 17319 bp</title></rect>
+<rect x="454.0" y="224.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr10 0.28-0.35 Mb (76 kb), S001, monomer 1633 bp, HOR 4114 bp</title></rect>
+<rect x="454.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr10 0.00-0.11 Mb (115 kb), S010, monomer 22 bp, HOR 22 bp</title></rect>
+<rect x="450.0" y="222.0" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr10 (mol 10) locus 0.22-0.35 Mb (136 kb): 88 kb of S001 in 2 arrays; largest array 0.28-0.35 Mb (76 kb), monomer 1633 bp</title></rect>
+<text x="464.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 464.0 720)">NLFDP1268_Chr10 (mol 10)</text>
+<rect x="493.0" y="224" width="14" height="107.7" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr11 (mol 11): 63,313,350 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="494.0" y="330.4" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr11 62.57-62.58 Mb (11 kb), S028, monomer 30 bp, HOR 31 bp</title></rect>
+<rect x="494.0" y="330.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr11 62.67-62.68 Mb (12 kb), S001, monomer 804 bp, HOR 3244 bp</title></rect>
+<rect x="494.0" y="260.7" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr11 21.55-21.57 Mb (19 kb), S051, monomer 8580 bp, HOR 18715 bp</title></rect>
+<rect x="494.0" y="328.1" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr11 61.19-61.22 Mb (30 kb), S016, monomer 3004 bp, HOR 3005 bp</title></rect>
+<rect x="494.0" y="330.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr11 62.63-62.66 Mb (31 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="494.0" y="330.5" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr11 62.59-62.63 Mb (40 kb), S040, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="494.0" y="330.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr11 62.69-62.74 Mb (56 kb), S001, monomer 1606 bp, HOR 3223 bp</title></rect>
+<rect x="494.0" y="331.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr11 63.04-63.31 Mb (274 kb), S007, monomer 22 bp, HOR 22 bp</title></rect>
+<rect x="494.0" y="330.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr11 62.75-63.04 Mb (283 kb), S001, monomer 815 bp, HOR 815 bp</title></rect>
+<rect x="490.0" y="328.4" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr11 (mol 11) locus 62.63-63.04 Mb (404 kb): 382 kb of S001 in 4 arrays; largest array 62.75-63.04 Mb (283 kb), monomer 815 bp</title></rect>
+<text x="504.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 504.0 720)">NLFDP1268_Chr11 (mol 11)</text>
+<rect x="533.0" y="224" width="14" height="137.5" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>NLFDP1268_Chr12 (mol 12): 80,872,074 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="534.0" y="269.8" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr12 26.95-26.97 Mb (15 kb), S025, monomer 5023 bp, HOR 15050 bp</title></rect>
+<rect x="534.0" y="270.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr12 27.16-27.23 Mb (68 kb), S025, monomer 5113 bp, HOR 68276 bp</title></rect>
+<text x="544.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 544.0 720)">NLFDP1268_Chr12 (mol 12)</text>
+<rect x="573.0" y="224" width="14" height="143.2" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr13 (mol 13): 84,214,509 bp
+exception: locus_includes_period_class_arrays
+exception: other_family_larger_on_chromosome
+exception: second_locus_comparable</title></rect>
+<rect x="574.0" y="286.9" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr13 37.01-37.02 Mb (10 kb), S014, monomer 1531 bp, HOR 1515 bp</title></rect>
+<rect x="574.0" y="287.0" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_Chr13 37.06-37.08 Mb (12 kb), S003, monomer 706 bp, HOR 705 bp</title></rect>
+<rect x="574.0" y="366.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr13 83.62-83.64 Mb (13 kb), S058, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="574.0" y="366.3" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr13 83.67-83.68 Mb (13 kb), S057, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="574.0" y="366.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr13 83.71-83.72 Mb (15 kb), S001, monomer 806 bp, HOR 1606 bp</title></rect>
+<rect x="574.0" y="366.3" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr13 83.64-83.66 Mb (16 kb), S055, monomer 29 bp, HOR 31 bp</title></rect>
+<rect x="574.0" y="258.7" width="12" height="1.0" fill="#93c5fd"><title>NLFDP1268_Chr13 20.39-20.41 Mb (19 kb), S032, monomer 3290 bp, HOR 3616 bp</title></rect>
+<rect x="574.0" y="233.8" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr13 5.79-5.80 Mb (20 kb), S009, monomer 8373 bp, HOR 19649 bp</title></rect>
+<rect x="574.0" y="240.4" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr13 9.65-9.68 Mb (29 kb), S014, monomer 3142 bp, HOR 3162 bp</title></rect>
+<rect x="574.0" y="366.4" width="12" height="1.0" fill="#84cc16"><title>NLFDP1268_Chr13 83.75-84.21 Mb (469 kb), S004, monomer 21 bp, HOR 22 bp</title></rect>
+<rect x="570.0" y="256.2" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr13 (mol 13) locus 20.39-20.41 Mb (19 kb): 19 kb of S001 in 1 arrays; largest array 20.39-20.41 Mb (19 kb), monomer 3290 bp</title></rect>
+<text x="584.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 584.0 720)">NLFDP1268_Chr13 (mol 13)</text>
+<rect x="613.0" y="224" width="14" height="115.8" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>NLFDP1268_Chr14 (mol 14): 68,075,911 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="614.0" y="324.5" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr14 59.06-59.08 Mb (13 kb), S017, monomer 5853 bp, HOR 13411 bp</title></rect>
+<rect x="614.0" y="224.4" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr14 0.26-0.28 Mb (20 kb), S035, monomer 53 bp, HOR 62 bp</title></rect>
+<rect x="614.0" y="335.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr14 65.38-65.40 Mb (28 kb), S045, monomer 12 bp, HOR 12 bp</title></rect>
+<rect x="614.0" y="224.6" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr14 0.33-0.36 Mb (30 kb), S035, monomer 53 bp, HOR 62 bp</title></rect>
+<rect x="614.0" y="307.8" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr14 49.27-49.35 Mb (75 kb), S012, monomer 26749 bp, HOR 74841 bp</title></rect>
+<rect x="614.0" y="336.3" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr14 66.04-66.17 Mb (134 kb), S021, monomer 66 bp, HOR 2273 bp</title></rect>
+<rect x="614.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr14 0.01-0.14 Mb (134 kb), S020, monomer 22 bp, HOR 66 bp</title></rect>
+<text x="624.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 624.0 720)">NLFDP1268_Chr14 (mol 14)</text>
+<rect x="653.0" y="224" width="14" height="148.6" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr15 (mol 15): 87,377,867 bp
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="654.0" y="365.3" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr15 83.06-83.07 Mb (11 kb), S028, monomer 30 bp, HOR 31 bp</title></rect>
+<rect x="654.0" y="232.5" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr15 5.00-5.01 Mb (12 kb), S026, monomer 5364 bp, HOR 12043 bp</title></rect>
+<rect x="654.0" y="279.4" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr15 32.55-32.56 Mb (12 kb), S042, monomer 2645 bp, HOR 2645 bp</title></rect>
+<rect x="654.0" y="367.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 84.28-84.29 Mb (13 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="654.0" y="366.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.72-83.74 Mb (16 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="654.0" y="358.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr15 78.77-78.78 Mb (17 kb), S025, monomer 5095 bp, HOR 17484 bp</title></rect>
+<rect x="654.0" y="279.4" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr15 32.56-32.58 Mb (18 kb), S042, monomer 2645 bp, HOR 2645 bp</title></rect>
+<rect x="654.0" y="365.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.30-83.32 Mb (24 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="654.0" y="367.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 84.06-84.08 Mb (27 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="654.0" y="365.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.08-83.12 Mb (41 kb), S001, monomer 801 bp, HOR 816 bp</title></rect>
+<rect x="654.0" y="366.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.66-83.72 Mb (62 kb), S001, monomer 816 bp, HOR 3224 bp</title></rect>
+<rect x="654.0" y="229.3" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr15 3.14-3.21 Mb (70 kb), S024, monomer 14949 bp, HOR 70410 bp</title></rect>
+<rect x="654.0" y="366.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.88-83.95 Mb (71 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="654.0" y="367.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 84.40-84.49 Mb (91 kb), S001, monomer 803 bp, HOR 4877 bp</title></rect>
+<rect x="654.0" y="367.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 84.30-84.40 Mb (99 kb), S001, monomer 4027 bp, HOR 4877 bp</title></rect>
+<rect x="654.0" y="366.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.95-84.05 Mb (100 kb), S001, monomer 817 bp, HOR 4869 bp</title></rect>
+<rect x="654.0" y="366.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.74-83.87 Mb (135 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="654.0" y="365.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.14-83.30 Mb (154 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="654.0" y="367.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 84.08-84.28 Mb (194 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="654.0" y="365.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.32-83.65 Mb (325 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="654.0" y="367.7" width="12" height="4.9" fill="#f97316"><title>NLFDP1268_Chr15 84.49-87.38 Mb (2.88 Mb), S002, monomer 11 bp, HOR 44 bp</title></rect>
+<rect x="650.0" y="364.0" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr15 (mol 15) locus 83.08-84.49 Mb (1.41 Mb): 1.35 Mb of S001 in 14 arrays; largest array 83.32-83.65 Mb (325 kb), monomer 816 bp</title></rect>
+<text x="664.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 664.0 720)">NLFDP1268_Chr15 (mol 15)</text>
+<rect x="693.0" y="224" width="14" height="123.7" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr16 (mol 16): 72,737,683 bp
+exception: locus_at_chromosome_end
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="694.0" y="224.7" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr16 0.39-0.41 Mb (15 kb), S043, monomer 26 bp, HOR 31 bp</title></rect>
+<rect x="694.0" y="336.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr16 65.85-65.86 Mb (17 kb), S022, monomer 7724 bp, HOR 16524 bp</title></rect>
+<rect x="694.0" y="284.3" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr16 35.47-35.49 Mb (17 kb), S009, monomer 4083 bp, HOR 4083 bp</title></rect>
+<rect x="694.0" y="267.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr16 25.28-25.30 Mb (17 kb), S009, monomer 8237 bp, HOR 16736 bp</title></rect>
+<rect x="694.0" y="224.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr16 0.37-0.39 Mb (22 kb), S001, monomer 804 bp, HOR 817 bp</title></rect>
+<rect x="694.0" y="224.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr16 0.34-0.37 Mb (29 kb), S001, monomer 804 bp, HOR 816 bp</title></rect>
+<rect x="694.0" y="224.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr16 0.27-0.34 Mb (68 kb), S001, monomer 816 bp, HOR 3222 bp</title></rect>
+<rect x="694.0" y="279.1" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr16 32.38-32.46 Mb (78 kb), S022, monomer 7876 bp, HOR 77593 bp</title></rect>
+<rect x="694.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr16 0.00-0.27 Mb (271 kb), S013, monomer 21 bp, HOR 22 bp</title></rect>
+<rect x="690.0" y="222.1" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr16 (mol 16) locus 0.27-0.39 Mb (122 kb): 119 kb of S001 in 3 arrays; largest array 0.27-0.34 Mb (68 kb), monomer 816 bp</title></rect>
+<text x="704.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 704.0 720)">NLFDP1268_Chr16 (mol 16)</text>
+<rect x="733.0" y="224" width="14" height="126.6" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr17 (mol 17): 74,459,710 bp
+exception: locus_at_chromosome_end
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="734.0" y="225.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.87-0.88 Mb (11 kb), S001, monomer 1614 bp, HOR 2420 bp</title></rect>
+<rect x="734.0" y="225.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.76-0.77 Mb (12 kb), S001, monomer 803 bp, HOR 803 bp</title></rect>
+<rect x="734.0" y="225.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.77-0.78 Mb (15 kb), S001, monomer 803 bp, HOR 803 bp</title></rect>
+<rect x="734.0" y="229.6" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr17 3.32-3.34 Mb (15 kb), S018, monomer 3772 bp, HOR 3869 bp</title></rect>
+<rect x="734.0" y="225.5" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr17 0.88-0.90 Mb (15 kb), S043, monomer 26 bp, HOR 31 bp</title></rect>
+<rect x="734.0" y="225.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.82-0.84 Mb (18 kb), S001, monomer 814 bp, HOR 815 bp</title></rect>
+<rect x="734.0" y="249.6" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr17 15.02-15.04 Mb (20 kb), S008, monomer 3968 bp, HOR 3968 bp</title></rect>
+<rect x="734.0" y="330.4" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr17 62.57-62.62 Mb (50 kb), S036, monomer 18400 bp, HOR 50230 bp</title></rect>
+<rect x="734.0" y="225.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.61-0.67 Mb (63 kb), S001, monomer 3231 bp, HOR 3231 bp</title></rect>
+<rect x="734.0" y="225.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.67-0.76 Mb (84 kb), S001, monomer 804 bp, HOR 4848 bp</title></rect>
+<rect x="734.0" y="224.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.41-0.60 Mb (183 kb), S001, monomer 3196 bp, HOR 3231 bp</title></rect>
+<rect x="734.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr17 0.00-0.41 Mb (409 kb), S011, monomer 21 bp, HOR 22 bp</title></rect>
+<rect x="730.0" y="222.6" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr17 (mol 17) locus 0.41-0.88 Mb (468 kb): 386 kb of S001 in 7 arrays; largest array 0.41-0.60 Mb (183 kb), monomer 3196 bp</title></rect>
+<text x="744.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 744.0 720)">NLFDP1268_Chr17 (mol 17)</text>
+<rect x="773.0" y="224" width="14" height="123.3" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr18 (mol 18): 72,498,086 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="774.0" y="345.8" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr18 71.61-71.63 Mb (14 kb), S039, monomer 504 bp, HOR 3024 bp</title></rect>
+<rect x="774.0" y="225.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.75-0.77 Mb (15 kb), S001, monomer 813 bp, HOR 815 bp</title></rect>
+<rect x="774.0" y="226.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr18 1.19-1.21 Mb (22 kb), S048, monomer 26 bp, HOR 31 bp</title></rect>
+<rect x="774.0" y="226.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr18 1.16-1.18 Mb (27 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="774.0" y="225.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.80-0.83 Mb (28 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="774.0" y="225.3" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr18 0.77-0.80 Mb (29 kb), S012, monomer 12890 bp, HOR 28779 bp</title></rect>
+<rect x="774.0" y="225.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.72-0.75 Mb (37 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="774.0" y="225.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr18 1.03-1.08 Mb (45 kb), S001, monomer 4041 bp, HOR 4843 bp</title></rect>
+<rect x="774.0" y="225.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr18 1.10-1.15 Mb (46 kb), S001, monomer 813 bp, HOR 815 bp</title></rect>
+<rect x="774.0" y="227.8" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr18 2.26-2.31 Mb (49 kb), S026, monomer 2735 bp, HOR 2735 bp</title></rect>
+<rect x="774.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr18 0.00-0.05 Mb (52 kb), S031, monomer 22 bp, HOR 44 bp</title></rect>
+<rect x="774.0" y="224.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.37-0.44 Mb (64 kb), S001, monomer 817 bp, HOR 4870 bp</title></rect>
+<rect x="774.0" y="224.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.44-0.51 Mb (70 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="774.0" y="224.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.51-0.61 Mb (95 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="774.0" y="225.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.62-0.71 Mb (96 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="774.0" y="225.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.83-1.03 Mb (195 kb), S001, monomer 804 bp, HOR 816 bp</title></rect>
+<rect x="770.0" y="222.8" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr18 (mol 18) locus 0.37-1.18 Mb (809 kb): 719 kb of S001 in 11 arrays; largest array 0.83-1.03 Mb (195 kb), monomer 804 bp</title></rect>
+<text x="784.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 784.0 720)">NLFDP1268_Chr18 (mol 18)</text>
+<rect x="813.0" y="224" width="14" height="104.9" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr19 (mol 19): 61,691,207 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="814.0" y="225.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 1.00-1.01 Mb (10 kb), S001, monomer 817 bp, HOR 1633 bp</title></rect>
+<rect x="814.0" y="224.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.37-0.39 Mb (13 kb), S001, monomer 3262 bp, HOR 3262 bp</title></rect>
+<rect x="814.0" y="225.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 1.14-1.16 Mb (13 kb), S001, monomer 803 bp, HOR 803 bp</title></rect>
+<rect x="814.0" y="225.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.60-0.62 Mb (16 kb), S001, monomer 1610 bp, HOR 3278 bp</title></rect>
+<rect x="814.0" y="225.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.66-0.67 Mb (18 kb), S001, monomer 3278 bp, HOR 3278 bp</title></rect>
+<rect x="814.0" y="224.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.55-0.57 Mb (19 kb), S001, monomer 3278 bp, HOR 3278 bp</title></rect>
+<rect x="814.0" y="225.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 1.11-1.13 Mb (21 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="814.0" y="224.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.34-0.36 Mb (22 kb), S001, monomer 812 bp, HOR 816 bp</title></rect>
+<rect x="814.0" y="225.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 1.02-1.05 Mb (27 kb), S001, monomer 816 bp, HOR 3278 bp</title></rect>
+<rect x="814.0" y="225.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.58-0.60 Mb (28 kb), S001, monomer 3278 bp, HOR 3278 bp</title></rect>
+<rect x="814.0" y="225.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.67-0.70 Mb (28 kb), S001, monomer 2783 bp, HOR 3278 bp</title></rect>
+<rect x="814.0" y="225.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.62-0.66 Mb (35 kb), S001, monomer 1619 bp, HOR 3278 bp</title></rect>
+<rect x="814.0" y="226.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr19 1.18-1.21 Mb (38 kb), S041, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="814.0" y="224.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.50-0.55 Mb (51 kb), S001, monomer 3278 bp, HOR 3278 bp</title></rect>
+<rect x="814.0" y="225.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 1.05-1.11 Mb (67 kb), S001, monomer 3265 bp, HOR 3278 bp</title></rect>
+<rect x="814.0" y="224.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.40-0.49 Mb (98 kb), S001, monomer 1607 bp, HOR 3278 bp</title></rect>
+<rect x="814.0" y="224.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.22-0.33 Mb (106 kb), S001, monomer 804 bp, HOR 3241 bp</title></rect>
+<rect x="814.0" y="225.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.71-0.84 Mb (133 kb), S001, monomer 842 bp, HOR 3241 bp</title></rect>
+<rect x="814.0" y="225.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.84-1.00 Mb (154 kb), S001, monomer 804 bp, HOR 3241 bp</title></rect>
+<rect x="814.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr19 0.00-0.22 Mb (218 kb), S007, monomer 22 bp, HOR 22 bp</title></rect>
+<rect x="810.0" y="222.7" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr19 (mol 19) locus 0.22-1.16 Mb (936 kb): 860 kb of S001 in 18 arrays; largest array 0.84-1.00 Mb (154 kb), monomer 804 bp</title></rect>
+<text x="824.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 824.0 720)">NLFDP1268_Chr19 (mol 19)</text>
+<rect x="853.0" y="224" width="14" height="91.3" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr20 (mol 20): 53,665,176 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="854.0" y="227.6" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr20 2.15-2.16 Mb (10 kb), S032, monomer 3441 bp, HOR 3218 bp</title></rect>
+<rect x="854.0" y="224.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 0.00-0.01 Mb (11 kb), S001, monomer 804 bp, HOR 803 bp</title></rect>
+<rect x="854.0" y="271.5" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr20 27.94-27.96 Mb (12 kb), S061, monomer 2337 bp, HOR 2380 bp</title></rect>
+<rect x="854.0" y="276.7" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr20 30.99-31.00 Mb (14 kb), S019, monomer 6802 bp, HOR 13655 bp</title></rect>
+<rect x="854.0" y="227.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 2.10-2.12 Mb (16 kb), S001, monomer 804 bp, HOR 1605 bp</title></rect>
+<rect x="854.0" y="227.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 2.06-2.08 Mb (20 kb), S001, monomer 813 bp, HOR 813 bp</title></rect>
+<rect x="854.0" y="225.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 0.77-0.79 Mb (20 kb), S001, monomer 813 bp, HOR 803 bp</title></rect>
+<rect x="854.0" y="227.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 2.18-2.21 Mb (21 kb), S001, monomer 790 bp, HOR 791 bp</title></rect>
+<rect x="854.0" y="225.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.06-1.08 Mb (22 kb), S001, monomer 813 bp, HOR 803 bp</title></rect>
+<rect x="854.0" y="227.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 2.12-2.15 Mb (25 kb), S001, monomer 1646 bp, HOR 4843 bp</title></rect>
+<rect x="854.0" y="272.3" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr20 28.42-28.45 Mb (30 kb), S039, monomer 497 bp, HOR 1993 bp</title></rect>
+<rect x="854.0" y="226.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.59-1.63 Mb (36 kb), S001, monomer 812 bp, HOR 804 bp</title></rect>
+<rect x="854.0" y="224.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 0.03-0.08 Mb (48 kb), S001, monomer 804 bp, HOR 803 bp</title></rect>
+<rect x="854.0" y="224.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 0.09-0.14 Mb (50 kb), S001, monomer 803 bp, HOR 803 bp</title></rect>
+<rect x="854.0" y="226.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.21-1.28 Mb (64 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="854.0" y="227.3" width="12" height="1.0" fill="#84cc16"><title>NLFDP1268_Chr20 1.93-2.03 Mb (99 kb), S004, monomer 21 bp, HOR 22 bp</title></rect>
+<rect x="854.0" y="227.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.83-1.93 Mb (100 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="854.0" y="225.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.09-1.21 Mb (117 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="854.0" y="225.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 0.63-0.77 Mb (137 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="854.0" y="226.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.29-1.43 Mb (140 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="854.0" y="226.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.44-1.59 Mb (158 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="854.0" y="224.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr20 0.14-0.31 Mb (171 kb), S006, monomer 11 bp, HOR 22 bp</title></rect>
+<rect x="854.0" y="226.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.64-1.83 Mb (193 kb), S001, monomer 814 bp, HOR 817 bp</title></rect>
+<rect x="854.0" y="225.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 0.80-1.06 Mb (258 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="850.0" y="223.4" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr20 (mol 20) locus 0.00-2.21 Mb (2.21 Mb): 1.44 Mb of S001 in 18 arrays; largest array 0.80-1.06 Mb (258 kb), monomer 816 bp</title></rect>
+<text x="864.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 864.0 720)">NLFDP1268_Chr20 (mol 20)</text>
+<rect x="893.0" y="224" width="14" height="87.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr21 (mol 21): 51,156,553 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="894.0" y="224.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.18-0.19 Mb (10 kb), S001, monomer 791 bp, HOR 791 bp</title></rect>
+<rect x="894.0" y="224.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.15-0.16 Mb (12 kb), S001, monomer 804 bp, HOR 2414 bp</title></rect>
+<rect x="894.0" y="224.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.09-0.10 Mb (13 kb), S001, monomer 813 bp, HOR 816 bp</title></rect>
+<rect x="894.0" y="269.8" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr21 26.95-26.96 Mb (15 kb), S025, monomer 5217 bp, HOR 15213 bp</title></rect>
+<rect x="894.0" y="224.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.10-0.12 Mb (16 kb), S001, monomer 813 bp, HOR 804 bp</title></rect>
+<rect x="894.0" y="224.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.07-0.09 Mb (21 kb), S001, monomer 817 bp, HOR 4064 bp</title></rect>
+<rect x="894.0" y="224.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.00-0.03 Mb (32 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="894.0" y="224.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.03-0.07 Mb (36 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="890.0" y="221.7" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr21 (mol 21) locus 0.00-0.19 Mb (190 kb): 141 kb of S001 in 7 arrays; largest array 0.03-0.07 Mb (36 kb), monomer 816 bp</title></rect>
+<text x="904.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 904.0 720)">NLFDP1268_Chr21 (mol 21)</text>
+<rect x="933.0" y="224" width="14" height="91.6" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr22 (mol 22): 53,872,489 bp</title></rect>
+<rect x="934.0" y="226.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.38-1.39 Mb (10 kb), S001, monomer 817 bp, HOR 3276 bp</title></rect>
+<rect x="934.0" y="227.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.84-1.86 Mb (11 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="934.0" y="226.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.36-1.37 Mb (11 kb), S001, monomer 1606 bp, HOR 3216 bp</title></rect>
+<rect x="934.0" y="225.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 0.99-1.01 Mb (20 kb), S001, monomer 4893 bp, HOR 4893 bp</title></rect>
+<rect x="934.0" y="227.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 2.22-2.24 Mb (23 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="934.0" y="225.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 0.88-0.92 Mb (31 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="934.0" y="226.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.45-1.49 Mb (36 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="934.0" y="225.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.02-1.06 Mb (37 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="934.0" y="226.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.31-1.36 Mb (50 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="934.0" y="226.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.39-1.44 Mb (50 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="934.0" y="225.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 0.67-0.74 Mb (67 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="934.0" y="226.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.50-1.61 Mb (114 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="934.0" y="225.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 0.75-0.87 Mb (122 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="934.0" y="227.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.86-2.01 Mb (153 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="934.0" y="227.5" width="12" height="1.0" fill="#84cc16"><title>NLFDP1268_Chr22 2.05-2.22 Mb (171 kb), S004, monomer 21 bp, HOR 22 bp</title></rect>
+<rect x="934.0" y="225.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.07-1.30 Mb (230 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="934.0" y="226.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.61-1.84 Mb (234 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="934.0" y="224.0" width="12" height="1.0" fill="#f97316"><title>NLFDP1268_Chr22 0.00-0.36 Mb (363 kb), S002, monomer 11 bp, HOR 44 bp</title></rect>
+<rect x="930.0" y="224.0" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr22 (mol 22) locus 0.67-2.24 Mb (1.57 Mb): 1.20 Mb of S001 in 16 arrays; largest array 1.61-1.84 Mb (234 kb), monomer 816 bp</title></rect>
+<text x="944.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 944.0 720)">NLFDP1268_Chr22 (mol 22)</text>
+<rect x="973.0" y="224" width="14" height="112.1" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr23 (mol 23): 65,926,521 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="974.0" y="333.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.29-64.30 Mb (10 kb), S001, monomer 1614 bp, HOR 1615 bp</title></rect>
+<rect x="974.0" y="332.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 63.56-63.57 Mb (11 kb), S001, monomer 814 bp, HOR 815 bp</title></rect>
+<rect x="974.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr23 0.00-0.01 Mb (12 kb), S033, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="974.0" y="333.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.07-64.08 Mb (15 kb), S001, monomer 814 bp, HOR 817 bp</title></rect>
+<rect x="974.0" y="330.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 62.68-62.70 Mb (17 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="974.0" y="330.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 62.53-62.55 Mb (19 kb), S001, monomer 804 bp, HOR 803 bp</title></rect>
+<rect x="974.0" y="330.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 62.56-62.58 Mb (21 kb), S001, monomer 814 bp, HOR 814 bp</title></rect>
+<rect x="974.0" y="330.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 62.50-62.52 Mb (24 kb), S001, monomer 804 bp, HOR 815 bp</title></rect>
+<rect x="974.0" y="333.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr23 64.09-64.12 Mb (27 kb), S019, monomer 13736 bp, HOR 27490 bp</title></rect>
+<rect x="974.0" y="333.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.30-64.33 Mb (28 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="974.0" y="334.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.95-64.98 Mb (28 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="974.0" y="330.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 62.64-62.67 Mb (30 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="974.0" y="332.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 63.52-63.56 Mb (40 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="974.0" y="332.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.02-64.06 Mb (41 kb), S001, monomer 815 bp, HOR 815 bp</title></rect>
+<rect x="974.0" y="333.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.24-64.29 Mb (46 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="974.0" y="330.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 62.58-62.63 Mb (52 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="974.0" y="333.4" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr23 64.33-64.38 Mb (54 kb), S012, monomer 25555 bp, HOR 53620 bp</title></rect>
+<rect x="974.0" y="332.1" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr23 63.57-63.64 Mb (72 kb), S027, monomer 6 bp, HOR 816 bp</title></rect>
+<rect x="974.0" y="333.1" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr23 64.12-64.22 Mb (92 kb), S019, monomer 13900 bp, HOR 92320 bp</title></rect>
+<rect x="974.0" y="334.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.69-64.95 Mb (265 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="974.0" y="333.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.38-64.66 Mb (282 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="974.0" y="334.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.98-65.31 Mb (325 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="974.0" y="332.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 63.64-64.02 Mb (380 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="974.0" y="335.1" width="12" height="1.1" fill="#1d4ed8"><title>NLFDP1268_Chr23 65.31-65.93 Mb (620 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="974.0" y="330.6" width="12" height="1.4" fill="#b45309"><title>NLFDP1268_Chr23 62.70-63.52 Mb (818 kb), S005, monomer 11 bp, HOR 22 bp</title></rect>
+<rect x="970.0" y="330.3" width="20" height="5.8" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr23 (mol 23) locus 62.50-65.93 Mb (3.43 Mb): 2.26 Mb of S001 in 19 arrays; largest array 65.31-65.93 Mb (620 kb), monomer 816 bp</title></rect>
+<text x="984.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 984.0 720)">NLFDP1268_Chr23 (mol 23)</text>
+<rect x="1013.0" y="224" width="14" height="80.7" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr24 (mol 24): 47,459,944 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="1014.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr24 0.00-0.01 Mb (10 kb), S033, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="1014.0" y="235.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr24 6.58-6.59 Mb (11 kb), S030, monomer 951 bp, HOR 1902 bp</title></rect>
+<rect x="1014.0" y="303.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.50-46.51 Mb (11 kb), S001, monomer 804 bp, HOR 3241 bp</title></rect>
+<rect x="1014.0" y="300.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 44.68-44.69 Mb (11 kb), S001, monomer 808 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="303.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.51-46.52 Mb (12 kb), S001, monomer 813 bp, HOR 1633 bp</title></rect>
+<rect x="1014.0" y="303.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.98-46.99 Mb (14 kb), S001, monomer 816 bp, HOR 3249 bp</title></rect>
+<rect x="1014.0" y="248.4" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr24 14.32-14.34 Mb (16 kb), S019, monomer 6948 bp, HOR 16209 bp</title></rect>
+<rect x="1014.0" y="302.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 45.87-45.88 Mb (17 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="235.1" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr24 6.54-6.56 Mb (19 kb), S030, monomer 1050 bp, HOR 1050 bp</title></rect>
+<rect x="1014.0" y="302.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.23-46.25 Mb (19 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="303.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.43-46.45 Mb (20 kb), S001, monomer 2450 bp, HOR 4077 bp</title></rect>
+<rect x="1014.0" y="303.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.92-46.94 Mb (21 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="301.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 45.78-45.80 Mb (26 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="235.1" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr24 6.50-6.53 Mb (27 kb), S030, monomer 1056 bp, HOR 1056 bp</title></rect>
+<rect x="1014.0" y="303.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.53-46.56 Mb (30 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="303.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.57-46.60 Mb (33 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="303.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.81-46.85 Mb (38 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="303.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.45-46.50 Mb (41 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="304.6" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr24 47.42-47.46 Mb (42 kb), S007, monomer 22 bp, HOR 22 bp</title></rect>
+<rect x="1014.0" y="235.5" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr24 6.77-6.81 Mb (44 kb), S037, monomer 11723 bp, HOR 43635 bp</title></rect>
+<rect x="1014.0" y="291.6" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr24 39.75-39.80 Mb (51 kb), S034, monomer 21175 bp, HOR 51216 bp</title></rect>
+<rect x="1014.0" y="303.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.75-46.80 Mb (55 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="301.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 45.80-45.86 Mb (59 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="303.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.86-46.92 Mb (62 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="302.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.15-46.21 Mb (63 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="303.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.60-46.73 Mb (129 kb), S001, monomer 817 bp, HOR 4879 bp</title></rect>
+<rect x="1014.0" y="300.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 45.10-45.23 Mb (131 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="302.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.26-46.42 Mb (159 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="1014.0" y="302.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 45.90-46.15 Mb (254 kb), S001, monomer 816 bp, HOR 4879 bp</title></rect>
+<rect x="1014.0" y="300.0" width="12" height="1.0" fill="#84cc16"><title>NLFDP1268_Chr24 44.69-45.10 Mb (410 kb), S004, monomer 21 bp, HOR 22 bp</title></rect>
+<rect x="1014.0" y="300.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 45.24-45.77 Mb (526 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1010.0" y="299.5" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr24 (mol 24) locus 44.68-46.99 Mb (2.31 Mb): 1.73 Mb of S001 in 22 arrays; largest array 45.24-45.77 Mb (526 kb), monomer 816 bp</title></rect>
+<text x="1024.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 1024.0 720)">NLFDP1268_Chr24 (mol 24)</text>
+<rect x="1053.0" y="224" width="14" height="77.2" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>NLFDP1268_Chr25 (mol 25): 45,418,909 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="1054.0" y="301.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr25 45.39-45.41 Mb (14 kb), S017, monomer 5808 bp, HOR 14315 bp</title></rect>
+<rect x="1054.0" y="297.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr25 43.04-43.10 Mb (60 kb), S009, monomer 2067 bp, HOR 2067 bp</title></rect>
+<rect x="1054.0" y="297.3" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr25 43.10-43.18 Mb (79 kb), S009, monomer 2068 bp, HOR 2066 bp</title></rect>
+<text x="1064.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 1064.0 720)">NLFDP1268_Chr25 (mol 25)</text>
+<rect x="1093.0" y="224" width="14" height="80.4" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr26 (mol 26): 47,301,195 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="1094.0" y="302.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 46.09-46.10 Mb (10 kb), S001, monomer 815 bp, HOR 815 bp</title></rect>
+<rect x="1094.0" y="300.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.24-45.26 Mb (12 kb), S001, monomer 1618 bp, HOR 4048 bp</title></rect>
+<rect x="1094.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr26 0.00-0.01 Mb (14 kb), S033, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="1094.0" y="290.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr26 38.79-38.81 Mb (21 kb), S017, monomer 5834 bp, HOR 20642 bp</title></rect>
+<rect x="1094.0" y="302.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.95-45.97 Mb (22 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1094.0" y="301.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.32-45.35 Mb (22 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1094.0" y="300.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.22-45.24 Mb (23 kb), S001, monomer 813 bp, HOR 817 bp</title></rect>
+<rect x="1094.0" y="301.1" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.35-45.38 Mb (31 kb), S001, monomer 3331 bp, HOR 3248 bp</title></rect>
+<rect x="1094.0" y="301.6" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.63-45.67 Mb (38 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="1094.0" y="301.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.27-45.31 Mb (45 kb), S001, monomer 813 bp, HOR 803 bp</title></rect>
+<rect x="1094.0" y="301.9" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.78-45.83 Mb (53 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="1094.0" y="302.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 46.11-46.16 Mb (54 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1094.0" y="303.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 46.63-46.68 Mb (54 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1094.0" y="301.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.39-45.44 Mb (57 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1094.0" y="304.3" width="12" height="1.0" fill="#b45309"><title>NLFDP1268_Chr26 47.23-47.30 Mb (74 kb), S005, monomer 11 bp, HOR 22 bp</title></rect>
+<rect x="1094.0" y="301.7" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.68-45.76 Mb (78 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="1094.0" y="302.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.84-45.94 Mb (108 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="1094.0" y="302.2" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.97-46.09 Mb (114 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1094.0" y="301.3" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.45-45.62 Mb (164 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="1094.0" y="302.5" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 46.17-46.35 Mb (181 kb), S001, monomer 813 bp, HOR 817 bp</title></rect>
+<rect x="1094.0" y="303.4" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 46.69-46.91 Mb (224 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1094.0" y="302.8" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr26 46.35-46.62 Mb (270 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1090.0" y="299.9" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_Chr26 (mol 26) locus 45.22-46.91 Mb (1.69 Mb): 1.56 Mb of S001 in 19 arrays; largest array 46.35-46.62 Mb (270 kb), monomer 816 bp</title></rect>
+<text x="1104.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 1104.0 720)">NLFDP1268_Chr26 (mol 26)</text>
+<rect x="1133.0" y="224" width="14" height="231.5" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_ChrX (mol X): 136,107,267 bp
+exception: locus_at_chromosome_end
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="1134.0" y="406.7" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 107.43-107.44 Mb (10 kb), S008, monomer 1946 bp, HOR 1947 bp</title></rect>
+<rect x="1134.0" y="346.4" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 71.96-71.97 Mb (11 kb), S062, monomer 9 bp, HOR 16 bp</title></rect>
+<rect x="1134.0" y="253.5" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 17.33-17.34 Mb (11 kb), S017, monomer 3011 bp, HOR 3011 bp</title></rect>
+<rect x="1134.0" y="255.9" width="12" height="1.0" fill="#93c5fd"><title>NLFDP1268_ChrX 18.73-18.75 Mb (12 kb), S014, monomer 3210 bp, HOR 3209 bp</title></rect>
+<rect x="1134.0" y="224.2" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 0.12-0.14 Mb (13 kb), S060, monomer 27 bp, HOR 31 bp</title></rect>
+<rect x="1134.0" y="401.6" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 104.41-104.42 Mb (14 kb), S018, monomer 3672 bp, HOR 3993 bp</title></rect>
+<rect x="1134.0" y="380.9" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 92.27-92.28 Mb (14 kb), S008, monomer 3880 bp, HOR 3880 bp</title></rect>
+<rect x="1134.0" y="345.9" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 71.67-71.69 Mb (17 kb), S044, monomer 8 bp, HOR 18 bp</title></rect>
+<rect x="1134.0" y="362.1" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 81.21-81.23 Mb (18 kb), S016, monomer 8996 bp, HOR 18170 bp</title></rect>
+<rect x="1134.0" y="224.0" width="12" height="1.0" fill="#a855f7"><title>NLFDP1268_ChrX 0.00-0.02 Mb (20 kb), S003, monomer 701 bp, HOR 3505 bp</title></rect>
+<rect x="1134.0" y="363.5" width="12" height="1.0" fill="#93c5fd"><title>NLFDP1268_ChrX 82.01-82.03 Mb (22 kb), S032, monomer 3354 bp, HOR 3355 bp</title></rect>
+<rect x="1134.0" y="351.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 74.65-74.68 Mb (26 kb), S026, monomer 5534 bp, HOR 26097 bp</title></rect>
+<rect x="1134.0" y="351.0" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 74.68-74.71 Mb (35 kb), S017, monomer 5816 bp, HOR 34880 bp</title></rect>
+<rect x="1134.0" y="406.6" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 107.38-107.43 Mb (47 kb), S008, monomer 1947 bp, HOR 3893 bp</title></rect>
+<rect x="1134.0" y="254.3" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 17.80-17.87 Mb (64 kb), S017, monomer 2977 bp, HOR 2977 bp</title></rect>
+<rect x="1134.0" y="257.4" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 19.63-19.69 Mb (67 kb), S009, monomer 7943 bp, HOR 66995 bp</title></rect>
+<rect x="1134.0" y="224.0" width="12" height="1.0" fill="#1d4ed8"><title>NLFDP1268_ChrX 0.02-0.09 Mb (74 kb), S001, monomer 801 bp, HOR 803 bp</title></rect>
+<rect x="1134.0" y="225.3" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 0.79-0.90 Mb (108 kb), S018, monomer 3722 bp, HOR 3723 bp</title></rect>
+<rect x="1134.0" y="226.9" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 1.71-1.90 Mb (190 kb), S014, monomer 3138 bp, HOR 3137 bp</title></rect>
+<rect x="1134.0" y="406.1" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrX 107.06-107.38 Mb (315 kb), S008, monomer 1945 bp, HOR 1945 bp</title></rect>
+<rect x="1130.0" y="221.6" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>NLFDP1268_ChrX (mol X) locus 0.02-0.09 Mb (74 kb): 74 kb of S001 in 1 arrays; largest array 0.02-0.09 Mb (74 kb), monomer 801 bp</title></rect>
+<text x="1144.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 1144.0 720)">NLFDP1268_ChrX (mol X)</text>
+<rect x="1173.0" y="224" width="14" height="29.4" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>NLFDP1268_ChrY (mol Y): 17,294,824 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="1174.0" y="246.1" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrY 12.97-12.98 Mb (12 kb), S044, monomer 8 bp, HOR 20 bp</title></rect>
+<rect x="1174.0" y="236.9" width="12" height="1.0" fill="#8b95a5"><title>NLFDP1268_ChrY 7.60-7.62 Mb (23 kb), S047, monomer 11114 bp, HOR 22891 bp</title></rect>
+<text x="1184.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 1184.0 720)">NLFDP1268_ChrY (mol Y)</text>
+<text x="40" y="824" font-size="14" fill="#0f172a"><tspan font-weight="bold">b</tspan><tspan dx="10">Centromeric region of each chromosome, each window to its own scale (width shown above it)</tspan></text>
+<text x="100.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">57 kb</text>
+<rect x="92.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr01 (mol 1) 158.42-158.48 Mb</title></rect>
+<rect x="93.0" y="950.1" width="14" height="69.9" fill="#1d4ed8"><title>NLFDP1268_Chr01 158.44-158.46 Mb (17 kb), S001, monomer 803 bp, HOR 803 bp</title></rect>
+<rect x="93.0" y="1020.0" width="14" height="77.8" fill="#a855f7"><title>NLFDP1268_Chr01 158.46-158.48 Mb (19 kb), S003, monomer 702 bp, HOR 4207 bp</title></rect>
+<path d="M90.0,950.1 h-4 V1019.9 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr01 (mol 1) locus 158.44-158.46 Mb (17 kb): 17 kb of S001 in 1 arrays; largest array 158.44-158.46 Mb (17 kb), monomer 803 bp</title></path>
+<text x="104.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 104.0 1130)">NLFDP1268_Chr01 (mol 1)</text>
+<text x="140.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">3.3 Mb</text>
+<rect x="132.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr02 (mol 2) 137.79-141.06 Mb</title></rect>
+<rect x="133.0" y="1080.3" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.78-140.79 Mb (10 kb), S001, monomer 812 bp, HOR 802 bp</title></rect>
+<rect x="133.0" y="913.8" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.42-138.43 Mb (11 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="133.0" y="914.5" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.43-138.44 Mb (11 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="133.0" y="1065.4" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.57-140.58 Mb (12 kb), S001, monomer 816 bp, HOR 815 bp</title></rect>
+<rect x="133.0" y="941.4" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.81-138.82 Mb (12 kb), S001, monomer 814 bp, HOR 817 bp</title></rect>
+<rect x="133.0" y="1083.3" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.82-140.84 Mb (12 kb), S001, monomer 813 bp, HOR 817 bp</title></rect>
+<rect x="133.0" y="1079.1" width="14" height="1.2" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.76-140.78 Mb (17 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="133.0" y="885.9" width="14" height="1.2" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.02-138.04 Mb (17 kb), S001, monomer 790 bp, HOR 789 bp</title></rect>
+<rect x="133.0" y="884.1" width="14" height="1.3" fill="#8b95a5"><title>NLFDP1268_Chr02 137.99-138.01 Mb (18 kb), S053, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="133.0" y="915.5" width="14" height="1.3" fill="#a855f7"><title>NLFDP1268_Chr02 138.44-138.46 Mb (19 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="133.0" y="887.1" width="14" height="1.4" fill="#8b95a5"><title>NLFDP1268_Chr02 138.04-138.06 Mb (19 kb), S050, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="133.0" y="1044.0" width="14" height="1.5" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.27-140.29 Mb (21 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="133.0" y="890.7" width="14" height="1.9" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.09-138.11 Mb (26 kb), S001, monomer 803 bp, HOR 2403 bp</title></rect>
+<rect x="133.0" y="1045.5" width="14" height="1.9" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.29-140.31 Mb (27 kb), S001, monomer 812 bp, HOR 804 bp</title></rect>
+<rect x="133.0" y="1062.2" width="14" height="2.1" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.52-140.55 Mb (30 kb), S001, monomer 802 bp, HOR 816 bp</title></rect>
+<rect x="133.0" y="1040.5" width="14" height="3.1" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.22-140.26 Mb (43 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="133.0" y="900.6" width="14" height="3.4" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.23-138.28 Mb (48 kb), S001, monomer 813 bp, HOR 816 bp</title></rect>
+<rect x="133.0" y="931.4" width="14" height="3.6" fill="#a855f7"><title>NLFDP1268_Chr02 138.67-138.72 Mb (52 kb), S003, monomer 701 bp, HOR 4202 bp</title></rect>
+<rect x="133.0" y="1058.2" width="14" height="3.7" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.47-140.52 Mb (52 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="133.0" y="936.2" width="14" height="4.7" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.73-138.80 Mb (66 kb), S001, monomer 815 bp, HOR 804 bp</title></rect>
+<rect x="133.0" y="924.9" width="14" height="5.3" fill="#a855f7"><title>NLFDP1268_Chr02 138.57-138.65 Mb (76 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="133.0" y="981.2" width="14" height="6.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 139.37-139.46 Mb (85 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="133.0" y="987.2" width="14" height="6.8" fill="#1d4ed8"><title>NLFDP1268_Chr02 139.46-139.56 Mb (97 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="133.0" y="917.0" width="14" height="7.9" fill="#a855f7"><title>NLFDP1268_Chr02 138.46-138.57 Mb (113 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="133.0" y="892.5" width="14" height="8.0" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.11-138.23 Mb (114 kb), S001, monomer 812 bp, HOR 816 bp</title></rect>
+<rect x="133.0" y="1066.3" width="14" height="8.8" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.58-140.71 Mb (125 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="133.0" y="904.0" width="14" height="9.1" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.28-138.41 Mb (130 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="133.0" y="1048.1" width="14" height="10.1" fill="#1d4ed8"><title>NLFDP1268_Chr02 140.32-140.47 Mb (144 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="133.0" y="970.5" width="14" height="10.7" fill="#1d4ed8"><title>NLFDP1268_Chr02 139.22-139.37 Mb (152 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="133.0" y="942.2" width="14" height="28.3" fill="#1d4ed8"><title>NLFDP1268_Chr02 138.82-139.22 Mb (402 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="133.0" y="994.7" width="14" height="45.8" fill="#1d4ed8"><title>NLFDP1268_Chr02 139.57-140.22 Mb (650 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<path d="M130.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr02 (mol 2) locus 138.02-140.84 Mb (2.82 Mb): 2.31 Mb of S001 in 25 arrays; largest array 139.57-140.22 Mb (650 kb), monomer 816 bp</title></path>
+<text x="144.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 144.0 1130)">NLFDP1268_Chr02 (mol 2)</text>
+<text x="180.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">875 kb</text>
+<rect x="172.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr03 (mol 3) 106.90-107.78 Mb</title></rect>
+<rect x="173.0" y="965.6" width="14" height="2.8" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.27-107.28 Mb (11 kb), S001, monomer 815 bp, HOR 804 bp</title></rect>
+<rect x="173.0" y="987.2" width="14" height="3.3" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.35-107.36 Mb (13 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="173.0" y="1023.7" width="14" height="4.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.49-107.50 Mb (15 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="173.0" y="997.2" width="14" height="4.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.39-107.40 Mb (15 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="173.0" y="910.9" width="14" height="4.1" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.06-107.08 Mb (16 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="173.0" y="991.9" width="14" height="5.3" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.37-107.39 Mb (20 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="173.0" y="1001.2" width="14" height="5.5" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.40-107.42 Mb (21 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="173.0" y="979.5" width="14" height="6.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.32-107.34 Mb (23 kb), S001, monomer 816 bp, HOR 3249 bp</title></rect>
+<rect x="173.0" y="885.9" width="14" height="6.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 106.96-106.99 Mb (23 kb), S001, monomer 804 bp, HOR 816 bp</title></rect>
+<rect x="173.0" y="971.2" width="14" height="6.6" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.29-107.31 Mb (25 kb), S001, monomer 3249 bp, HOR 3249 bp</title></rect>
+<rect x="173.0" y="947.6" width="14" height="7.1" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.20-107.23 Mb (27 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="173.0" y="954.8" width="14" height="7.2" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.23-107.25 Mb (28 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="173.0" y="915.1" width="14" height="7.4" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.08-107.10 Mb (28 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="173.0" y="1049.5" width="14" height="7.7" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.59-107.62 Mb (29 kb), S001, monomer 817 bp, HOR 816 bp</title></rect>
+<rect x="173.0" y="1084.2" width="14" height="8.5" fill="#a855f7"><title>NLFDP1268_Chr03 107.72-107.75 Mb (32 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<rect x="173.0" y="1009.3" width="14" height="9.4" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.43-107.47 Mb (36 kb), S001, monomer 814 bp, HOR 817 bp</title></rect>
+<rect x="173.0" y="936.1" width="14" height="9.7" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.16-107.19 Mb (37 kb), S001, monomer 813 bp, HOR 817 bp</title></rect>
+<rect x="173.0" y="1030.3" width="14" height="9.8" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.51-107.55 Mb (37 kb), S001, monomer 1615 bp, HOR 4836 bp</title></rect>
+<rect x="173.0" y="923.7" width="14" height="12.4" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.11-107.16 Mb (47 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="173.0" y="894.4" width="14" height="14.0" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.00-107.05 Mb (53 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="173.0" y="1061.0" width="14" height="23.1" fill="#1d4ed8"><title>NLFDP1268_Chr03 107.63-107.72 Mb (88 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="173.0" y="1092.8" width="14" height="7.2" fill="#a855f7"><title>NLFDP1268_Chr03 107.75-107.95 Mb (194 kb), S003, monomer 702 bp, HOR 702 bp</title></rect>
+<path d="M170.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr03 (mol 3) locus 106.96-107.72 Mb (755 kb): 591 kb of S001 in 20 arrays; largest array 107.63-107.72 Mb (88 kb), monomer 816 bp</title></path>
+<text x="184.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 184.0 1130)">NLFDP1268_Chr03 (mol 3)</text>
+<text x="220.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.7 Mb</text>
+<rect x="212.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr04 (mol 4) 0.00-1.73 Mb</title></rect>
+<rect x="213.0" y="1081.2" width="14" height="1.9" fill="#1d4ed8"><title>NLFDP1268_Chr04 1.59-1.60 Mb (14 kb), S001, monomer 1591 bp, HOR 3180 bp</title></rect>
+<rect x="213.0" y="1084.2" width="14" height="2.8" fill="#8b95a5"><title>NLFDP1268_Chr04 1.61-1.63 Mb (21 kb), S028, monomer 30 bp, HOR 31 bp</title></rect>
+<rect x="213.0" y="938.7" width="14" height="4.6" fill="#1d4ed8"><title>NLFDP1268_Chr04 0.52-0.55 Mb (35 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="213.0" y="1060.3" width="14" height="7.6" fill="#1d4ed8"><title>NLFDP1268_Chr04 1.43-1.49 Mb (57 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="213.0" y="918.7" width="14" height="7.6" fill="#1d4ed8"><title>NLFDP1268_Chr04 0.37-0.42 Mb (57 kb), S001, monomer 814 bp, HOR 803 bp</title></rect>
+<rect x="213.0" y="1067.8" width="14" height="7.7" fill="#1d4ed8"><title>NLFDP1268_Chr04 1.49-1.55 Mb (58 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="213.0" y="926.9" width="14" height="10.4" fill="#1d4ed8"><title>NLFDP1268_Chr04 0.43-0.51 Mb (78 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="213.0" y="1033.3" width="14" height="25.4" fill="#1d4ed8"><title>NLFDP1268_Chr04 1.23-1.42 Mb (191 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="213.0" y="998.2" width="14" height="33.6" fill="#1d4ed8"><title>NLFDP1268_Chr04 0.96-1.22 Mb (253 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="213.0" y="870.7" width="14" height="39.4" fill="#1d4ed8"><title>NLFDP1268_Chr04 0.01-0.30 Mb (296 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="213.0" y="944.6" width="14" height="53.6" fill="#1d4ed8"><title>NLFDP1268_Chr04 0.56-0.96 Mb (403 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<path d="M210.0,870.7 h-4 V1083.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr04 (mol 4) locus 0.01-1.60 Mb (1.60 Mb): 1.44 Mb of S001 in 10 arrays; largest array 0.56-0.96 Mb (403 kb), monomer 817 bp</title></path>
+<text x="224.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 224.0 1130)">NLFDP1268_Chr04 (mol 4)</text>
+<text x="260.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">63 kb</text>
+<rect x="252.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr05 (mol 5) 108.72-108.78 Mb</title></rect>
+<rect x="253.0" y="943.0" width="14" height="84.0" fill="#1d4ed8"><title>NLFDP1268_Chr05 108.74-108.76 Mb (23 kb), S001, monomer 815 bp, HOR 815 bp</title></rect>
+<rect x="253.0" y="1060.0" width="14" height="40.0" fill="#8b95a5"><title>NLFDP1268_Chr05 108.77-109.06 Mb (286 kb), S010, monomer 22 bp, HOR 22 bp</title></rect>
+<path d="M250.0,943.0 h-4 V1027.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr05 (mol 5) locus 108.74-108.76 Mb (23 kb): 23 kb of S001 in 1 arrays; largest array 108.74-108.76 Mb (23 kb), monomer 815 bp</title></path>
+<text x="264.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 264.0 1130)">NLFDP1268_Chr05 (mol 5)</text>
+<text x="300.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.7 Mb</text>
+<rect x="292.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr06 (mol 6) 0.00-1.70 Mb</title></rect>
+<rect x="293.0" y="1094.7" width="14" height="1.4" fill="#8b95a5"><title>NLFDP1268_Chr06 1.66-1.67 Mb (10 kb), S064, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="293.0" y="1080.7" width="14" height="2.3" fill="#1d4ed8"><title>NLFDP1268_Chr06 1.56-1.57 Mb (17 kb), S001, monomer 815 bp, HOR 1631 bp</title></rect>
+<rect x="293.0" y="932.3" width="14" height="5.3" fill="#1d4ed8"><title>NLFDP1268_Chr06 0.46-0.50 Mb (39 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="293.0" y="1072.6" width="14" height="5.9" fill="#1d4ed8"><title>NLFDP1268_Chr06 1.50-1.54 Mb (44 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="293.0" y="937.6" width="14" height="46.6" fill="#1d4ed8"><title>NLFDP1268_Chr06 0.50-0.84 Mb (345 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="293.0" y="870.2" width="14" height="61.9" fill="#1d4ed8"><title>NLFDP1268_Chr06 0.00-0.46 Mb (457 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="293.0" y="984.2" width="14" height="88.4" fill="#8b95a5"><title>NLFDP1268_Chr06 0.84-1.50 Mb (653 kb), S006, monomer 11 bp, HOR 22 bp</title></rect>
+<path d="M290.0,870.2 h-4 V1083.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr06 (mol 6) locus 0.00-1.57 Mb (1.57 Mb): 902 kb of S001 in 5 arrays; largest array 0.00-0.46 Mb (457 kb), monomer 816 bp</title></path>
+<text x="304.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 304.0 1130)">NLFDP1268_Chr06 (mol 6)</text>
+<text x="340.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">659 kb</text>
+<rect x="332.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr07 (mol 7) 102.64-103.30 Mb</title></rect>
+<rect x="333.0" y="895.7" width="14" height="3.7" fill="#8b95a5"><title>NLFDP1268_Chr07 102.71-102.72 Mb (11 kb), S010, monomer 22 bp, HOR 22 bp</title></rect>
+<rect x="333.0" y="877.1" width="14" height="5.8" fill="#8b95a5"><title>NLFDP1268_Chr07 102.66-102.67 Mb (17 kb), S054, monomer 25 bp, HOR 31 bp</title></rect>
+<rect x="333.0" y="887.0" width="14" height="8.6" fill="#1d4ed8"><title>NLFDP1268_Chr07 102.69-102.71 Mb (25 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="333.0" y="1084.4" width="14" height="15.6" fill="#1d4ed8"><title>NLFDP1268_Chr07 103.25-103.30 Mb (45 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="333.0" y="1049.0" width="14" height="33.0" fill="#f97316"><title>NLFDP1268_Chr07 103.15-103.24 Mb (95 kb), S002, monomer 11 bp, HOR 44 bp</title></rect>
+<rect x="333.0" y="900.5" width="14" height="67.9" fill="#1d4ed8"><title>NLFDP1268_Chr07 102.72-102.92 Mb (195 kb), S001, monomer 804 bp, HOR 816 bp</title></rect>
+<rect x="333.0" y="969.1" width="14" height="78.1" fill="#1d4ed8"><title>NLFDP1268_Chr07 102.92-103.14 Mb (224 kb), S001, monomer 817 bp, HOR 2462 bp</title></rect>
+<path d="M330.0,887.0 h-4 V1100.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr07 (mol 7) locus 102.69-103.30 Mb (611 kb): 488 kb of S001 in 4 arrays; largest array 102.92-103.14 Mb (224 kb), monomer 817 bp</title></path>
+<text x="344.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 344.0 1130)">NLFDP1268_Chr07 (mol 7)</text>
+<text x="380.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">2.6 Mb</text>
+<rect x="372.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr08 (mol 8) 92.90-95.52 Mb</title></rect>
+<rect x="373.0" y="1049.5" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.94-94.95 Mb (10 kb), S001, monomer 815 bp, HOR 815 bp</title></rect>
+<rect x="373.0" y="1053.6" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.99-95.00 Mb (10 kb), S001, monomer 3247 bp, HOR 3247 bp</title></rect>
+<rect x="373.0" y="1014.3" width="14" height="1.1" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.54-94.55 Mb (12 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="373.0" y="1041.3" width="14" height="1.3" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.85-94.87 Mb (15 kb), S001, monomer 1618 bp, HOR 3236 bp</title></rect>
+<rect x="373.0" y="890.3" width="14" height="1.3" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.13-93.14 Mb (15 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="373.0" y="886.2" width="14" height="1.3" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.08-93.10 Mb (15 kb), S001, monomer 791 bp, HOR 792 bp</title></rect>
+<rect x="373.0" y="1022.8" width="14" height="1.8" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.64-94.66 Mb (21 kb), S001, monomer 817 bp, HOR 816 bp</title></rect>
+<rect x="373.0" y="957.0" width="14" height="2.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.89-93.91 Mb (23 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="373.0" y="1058.8" width="14" height="2.1" fill="#1d4ed8"><title>NLFDP1268_Chr08 95.05-95.07 Mb (24 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="373.0" y="1060.9" width="14" height="2.3" fill="#1d4ed8"><title>NLFDP1268_Chr08 95.07-95.10 Mb (26 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="373.0" y="1051.3" width="14" height="2.3" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.96-94.99 Mb (27 kb), S001, monomer 814 bp, HOR 3264 bp</title></rect>
+<rect x="373.0" y="1055.4" width="14" height="2.4" fill="#1d4ed8"><title>NLFDP1268_Chr08 95.01-95.04 Mb (27 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="373.0" y="940.9" width="14" height="2.7" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.71-93.74 Mb (31 kb), S001, monomer 812 bp, HOR 803 bp</title></rect>
+<rect x="373.0" y="1015.9" width="14" height="3.3" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.56-94.60 Mb (38 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="373.0" y="1019.3" width="14" height="3.5" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.60-94.64 Mb (40 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="373.0" y="1064.5" width="14" height="3.7" fill="#1d4ed8"><title>NLFDP1268_Chr08 95.12-95.16 Mb (42 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="373.0" y="1009.9" width="14" height="4.4" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.49-94.54 Mb (50 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="373.0" y="952.1" width="14" height="4.8" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.83-93.89 Mb (55 kb), S001, monomer 808 bp, HOR 803 bp</title></rect>
+<rect x="373.0" y="1043.5" width="14" height="6.1" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.88-94.94 Mb (69 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="373.0" y="959.9" width="14" height="6.6" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.92-94.00 Mb (75 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="373.0" y="1024.6" width="14" height="6.7" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.66-94.74 Mb (77 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="373.0" y="943.7" width="14" height="6.8" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.74-93.82 Mb (78 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="373.0" y="912.9" width="14" height="8.3" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.39-93.48 Mb (94 kb), S001, monomer 4037 bp, HOR 4037 bp</title></rect>
+<rect x="373.0" y="930.6" width="14" height="8.9" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.59-93.69 Mb (102 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="373.0" y="921.1" width="14" height="9.2" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.48-93.59 Mb (105 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="373.0" y="1031.3" width="14" height="10.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.74-94.85 Mb (114 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="373.0" y="1089.8" width="14" height="10.2" fill="#8b95a5"><title>NLFDP1268_Chr08 95.40-95.52 Mb (116 kb), S015, monomer 11 bp, HOR 22 bp</title></rect>
+<rect x="373.0" y="998.8" width="14" height="11.0" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.37-94.49 Mb (126 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="373.0" y="1068.2" width="14" height="20.1" fill="#1d4ed8"><title>NLFDP1268_Chr08 95.16-95.39 Mb (229 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="373.0" y="891.6" width="14" height="21.2" fill="#1d4ed8"><title>NLFDP1268_Chr08 93.14-93.39 Mb (241 kb), S001, monomer 812 bp, HOR 803 bp</title></rect>
+<rect x="373.0" y="966.5" width="14" height="30.8" fill="#1d4ed8"><title>NLFDP1268_Chr08 94.00-94.35 Mb (351 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<path d="M370.0,886.2 h-4 V1088.3 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr08 (mol 8) locus 93.08-95.39 Mb (2.30 Mb): 2.14 Mb of S001 in 30 arrays; largest array 94.00-94.35 Mb (351 kb), monomer 817 bp</title></path>
+<text x="384.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 384.0 1130)">NLFDP1268_Chr08 (mol 8)</text>
+<text x="420.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.1 Mb</text>
+<rect x="412.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr09 (mol 9) 0.30-1.43 Mb</title></rect>
+<rect x="413.0" y="1018.6" width="14" height="2.0" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.03-1.04 Mb (10 kb), S001, monomer 815 bp, HOR 815 bp</title></rect>
+<rect x="413.0" y="1059.0" width="14" height="2.1" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.23-1.24 Mb (10 kb), S001, monomer 812 bp, HOR 813 bp</title></rect>
+<rect x="413.0" y="1056.9" width="14" height="2.1" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.22-1.23 Mb (10 kb), S001, monomer 801 bp, HOR 2432 bp</title></rect>
+<rect x="413.0" y="1061.3" width="14" height="2.1" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.24-1.25 Mb (11 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="413.0" y="1075.7" width="14" height="2.2" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.31-1.32 Mb (11 kb), S001, monomer 816 bp, HOR 3251 bp</title></rect>
+<rect x="413.0" y="1014.7" width="14" height="2.8" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.01-1.02 Mb (14 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="413.0" y="1079.9" width="14" height="4.2" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.33-1.35 Mb (21 kb), S001, monomer 817 bp, HOR 3211 bp</title></rect>
+<rect x="413.0" y="1023.1" width="14" height="5.8" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.05-1.08 Mb (29 kb), S001, monomer 829 bp, HOR 3237 bp</title></rect>
+<rect x="413.0" y="1030.6" width="14" height="6.4" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.09-1.12 Mb (32 kb), S001, monomer 806 bp, HOR 800 bp</title></rect>
+<rect x="413.0" y="1064.2" width="14" height="10.7" fill="#84cc16"><title>NLFDP1268_Chr09 1.25-1.31 Mb (52 kb), S004, monomer 21 bp, HOR 22 bp</title></rect>
+<rect x="413.0" y="976.3" width="14" height="14.6" fill="#1d4ed8"><title>NLFDP1268_Chr09 0.82-0.89 Mb (72 kb), S001, monomer 804 bp, HOR 817 bp</title></rect>
+<rect x="413.0" y="1037.1" width="14" height="17.8" fill="#1d4ed8"><title>NLFDP1268_Chr09 1.12-1.21 Mb (88 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="413.0" y="990.9" width="14" height="21.3" fill="#1d4ed8"><title>NLFDP1268_Chr09 0.89-1.00 Mb (105 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="413.0" y="950.0" width="14" height="24.2" fill="#1d4ed8"><title>NLFDP1268_Chr09 0.69-0.81 Mb (119 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="413.0" y="885.9" width="14" height="64.1" fill="#1d4ed8"><title>NLFDP1268_Chr09 0.38-0.69 Mb (315 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<path d="M410.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr09 (mol 9) locus 0.38-1.35 Mb (975 kb): 845 kb of S001 in 14 arrays; largest array 0.38-0.69 Mb (315 kb), monomer 815 bp</title></path>
+<text x="424.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 424.0 1130)">NLFDP1268_Chr09 (mol 9)</text>
+<text x="460.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">176 kb</text>
+<rect x="452.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr10 (mol 10) 0.20-0.37 Mb</title></rect>
+<rect x="453.0" y="896.2" width="14" height="15.6" fill="#1d4ed8"><title>NLFDP1268_Chr10 0.22-0.23 Mb (12 kb), S001, monomer 799 bp, HOR 1614 bp</title></rect>
+<rect x="453.0" y="974.1" width="14" height="99.7" fill="#1d4ed8"><title>NLFDP1268_Chr10 0.28-0.35 Mb (76 kb), S001, monomer 1633 bp, HOR 4114 bp</title></rect>
+<path d="M450.0,896.2 h-4 V1073.8 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr10 (mol 10) locus 0.22-0.35 Mb (136 kb): 88 kb of S001 in 2 arrays; largest array 0.28-0.35 Mb (76 kb), monomer 1633 bp</title></path>
+<text x="464.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 464.0 1130)">NLFDP1268_Chr10 (mol 10)</text>
+<text x="500.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">469 kb</text>
+<rect x="492.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr11 (mol 11) 62.60-63.07 Mb</title></rect>
+<rect x="493.0" y="902.9" width="14" height="5.9" fill="#1d4ed8"><title>NLFDP1268_Chr11 62.67-62.68 Mb (12 kb), S001, monomer 804 bp, HOR 3244 bp</title></rect>
+<rect x="493.0" y="885.9" width="14" height="15.1" fill="#1d4ed8"><title>NLFDP1268_Chr11 62.63-62.66 Mb (31 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="493.0" y="870.0" width="14" height="15.9" fill="#8b95a5"><title>NLFDP1268_Chr11 62.59-62.63 Mb (40 kb), S040, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="493.0" y="912.4" width="14" height="27.4" fill="#1d4ed8"><title>NLFDP1268_Chr11 62.69-62.74 Mb (56 kb), S001, monomer 1606 bp, HOR 3223 bp</title></rect>
+<rect x="493.0" y="1085.4" width="14" height="14.6" fill="#8b95a5"><title>NLFDP1268_Chr11 63.04-63.31 Mb (274 kb), S007, monomer 22 bp, HOR 22 bp</title></rect>
+<rect x="493.0" y="945.2" width="14" height="138.9" fill="#1d4ed8"><title>NLFDP1268_Chr11 62.75-63.04 Mb (283 kb), S001, monomer 815 bp, HOR 815 bp</title></rect>
+<path d="M490.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr11 (mol 11) locus 62.63-63.04 Mb (404 kb): 382 kb of S001 in 4 arrays; largest array 62.75-63.04 Mb (283 kb), monomer 815 bp</title></path>
+<text x="504.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 504.0 1130)">NLFDP1268_Chr11 (mol 11)</text>
+<rect x="532.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>NLFDP1268_Chr12 (mol 12): no call</title></rect>
+<text x="540.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 540.0 985.0)">no call</text>
+<text x="544.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 544.0 1130)">NLFDP1268_Chr12 (mol 12)</text>
+<text x="580.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">59 kb</text>
+<rect x="572.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr13 (mol 13) 20.37-20.43 Mb</title></rect>
+<rect x="573.0" y="947.4" width="14" height="75.3" fill="#93c5fd"><title>NLFDP1268_Chr13 20.39-20.41 Mb (19 kb), S032, monomer 3290 bp, HOR 3616 bp</title></rect>
+<path d="M570.0,947.4 h-4 V1022.6 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr13 (mol 13) locus 20.39-20.41 Mb (19 kb): 19 kb of S001 in 1 arrays; largest array 20.39-20.41 Mb (19 kb), monomer 3290 bp</title></path>
+<text x="584.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 584.0 1130)">NLFDP1268_Chr13 (mol 13)</text>
+<rect x="612.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>NLFDP1268_Chr14 (mol 14): no call</title></rect>
+<text x="620.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 620.0 985.0)">no call</text>
+<text x="624.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 624.0 1130)">NLFDP1268_Chr14 (mol 14)</text>
+<text x="660.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.6 Mb</text>
+<rect x="652.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr15 (mol 15) 82.97-84.61 Mb</title></rect>
+<rect x="653.0" y="883.0" width="14" height="1.6" fill="#8b95a5"><title>NLFDP1268_Chr15 83.06-83.07 Mb (11 kb), S028, monomer 30 bp, HOR 31 bp</title></rect>
+<rect x="653.0" y="1053.9" width="14" height="1.8" fill="#1d4ed8"><title>NLFDP1268_Chr15 84.28-84.29 Mb (13 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="653.0" y="975.9" width="14" height="2.3" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.72-83.74 Mb (16 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="653.0" y="916.3" width="14" height="3.4" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.30-83.32 Mb (24 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="653.0" y="1022.9" width="14" height="3.7" fill="#1d4ed8"><title>NLFDP1268_Chr15 84.06-84.08 Mb (27 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="653.0" y="885.9" width="14" height="5.7" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.08-83.12 Mb (41 kb), S001, monomer 801 bp, HOR 816 bp</title></rect>
+<rect x="653.0" y="967.3" width="14" height="8.6" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.66-83.72 Mb (62 kb), S001, monomer 816 bp, HOR 3224 bp</title></rect>
+<rect x="653.0" y="997.6" width="14" height="10.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.88-83.95 Mb (71 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="653.0" y="1071.3" width="14" height="12.8" fill="#1d4ed8"><title>NLFDP1268_Chr15 84.40-84.49 Mb (91 kb), S001, monomer 803 bp, HOR 4877 bp</title></rect>
+<rect x="653.0" y="1057.3" width="14" height="14.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 84.30-84.40 Mb (99 kb), S001, monomer 4027 bp, HOR 4877 bp</title></rect>
+<rect x="653.0" y="1008.1" width="14" height="14.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.95-84.05 Mb (100 kb), S001, monomer 817 bp, HOR 4869 bp</title></rect>
+<rect x="653.0" y="978.2" width="14" height="19.0" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.74-83.87 Mb (135 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="653.0" y="894.6" width="14" height="21.7" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.14-83.30 Mb (154 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="653.0" y="1026.6" width="14" height="27.3" fill="#1d4ed8"><title>NLFDP1268_Chr15 84.08-84.28 Mb (194 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="653.0" y="919.7" width="14" height="45.7" fill="#1d4ed8"><title>NLFDP1268_Chr15 83.32-83.65 Mb (325 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="653.0" y="1084.1" width="14" height="15.9" fill="#f97316"><title>NLFDP1268_Chr15 84.49-87.38 Mb (2.88 Mb), S002, monomer 11 bp, HOR 44 bp</title></rect>
+<path d="M650.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr15 (mol 15) locus 83.08-84.49 Mb (1.41 Mb): 1.35 Mb of S001 in 14 arrays; largest array 83.32-83.65 Mb (325 kb), monomer 816 bp</title></path>
+<text x="664.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 664.0 1130)">NLFDP1268_Chr15 (mol 15)</text>
+<text x="700.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">162 kb</text>
+<rect x="692.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr16 (mol 16) 0.25-0.41 Mb</title></rect>
+<rect x="693.0" y="1071.5" width="14" height="21.6" fill="#8b95a5"><title>NLFDP1268_Chr16 0.39-0.41 Mb (15 kb), S043, monomer 26 bp, HOR 31 bp</title></rect>
+<rect x="693.0" y="1040.6" width="14" height="30.9" fill="#1d4ed8"><title>NLFDP1268_Chr16 0.37-0.39 Mb (22 kb), S001, monomer 804 bp, HOR 817 bp</title></rect>
+<rect x="693.0" y="997.9" width="14" height="41.7" fill="#1d4ed8"><title>NLFDP1268_Chr16 0.34-0.37 Mb (29 kb), S001, monomer 804 bp, HOR 816 bp</title></rect>
+<rect x="693.0" y="898.5" width="14" height="97.1" fill="#1d4ed8"><title>NLFDP1268_Chr16 0.27-0.34 Mb (68 kb), S001, monomer 816 bp, HOR 3222 bp</title></rect>
+<rect x="693.0" y="870.0" width="14" height="28.5" fill="#8b95a5"><title>NLFDP1268_Chr16 0.00-0.27 Mb (271 kb), S013, monomer 21 bp, HOR 22 bp</title></rect>
+<path d="M690.0,898.5 h-4 V1071.5 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr16 (mol 16) locus 0.27-0.39 Mb (122 kb): 119 kb of S001 in 3 arrays; largest array 0.27-0.34 Mb (68 kb), monomer 816 bp</title></path>
+<text x="704.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 704.0 1130)">NLFDP1268_Chr16 (mol 16)</text>
+<text x="740.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">543 kb</text>
+<rect x="732.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr17 (mol 17) 0.38-0.92 Mb</title></rect>
+<rect x="733.0" y="1079.3" width="14" height="4.8" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.87-0.88 Mb (11 kb), S001, monomer 1614 bp, HOR 2420 bp</title></rect>
+<rect x="733.0" y="1030.6" width="14" height="5.3" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.76-0.77 Mb (12 kb), S001, monomer 803 bp, HOR 803 bp</title></rect>
+<rect x="733.0" y="1035.9" width="14" height="6.2" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.77-0.78 Mb (15 kb), S001, monomer 803 bp, HOR 803 bp</title></rect>
+<rect x="733.0" y="1084.2" width="14" height="6.4" fill="#8b95a5"><title>NLFDP1268_Chr17 0.88-0.90 Mb (15 kb), S043, monomer 26 bp, HOR 31 bp</title></rect>
+<rect x="733.0" y="1059.3" width="14" height="7.6" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.82-0.84 Mb (18 kb), S001, monomer 814 bp, HOR 815 bp</title></rect>
+<rect x="733.0" y="968.4" width="14" height="26.6" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.61-0.67 Mb (63 kb), S001, monomer 3231 bp, HOR 3231 bp</title></rect>
+<rect x="733.0" y="995.1" width="14" height="35.5" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.67-0.76 Mb (84 kb), S001, monomer 804 bp, HOR 4848 bp</title></rect>
+<rect x="733.0" y="885.9" width="14" height="77.3" fill="#1d4ed8"><title>NLFDP1268_Chr17 0.41-0.60 Mb (183 kb), S001, monomer 3196 bp, HOR 3231 bp</title></rect>
+<rect x="733.0" y="870.0" width="14" height="14.2" fill="#8b95a5"><title>NLFDP1268_Chr17 0.00-0.41 Mb (409 kb), S011, monomer 21 bp, HOR 22 bp</title></rect>
+<path d="M730.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr17 (mol 17) locus 0.41-0.88 Mb (468 kb): 386 kb of S001 in 7 arrays; largest array 0.41-0.60 Mb (183 kb), monomer 3196 bp</title></path>
+<text x="744.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 744.0 1130)">NLFDP1268_Chr17 (mol 17)</text>
+<text x="780.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">938 kb</text>
+<rect x="772.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr18 (mol 18) 0.31-1.25 Mb</title></rect>
+<rect x="773.0" y="978.9" width="14" height="3.7" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.75-0.77 Mb (15 kb), S001, monomer 813 bp, HOR 815 bp</title></rect>
+<rect x="773.0" y="1085.2" width="14" height="5.5" fill="#8b95a5"><title>NLFDP1268_Chr18 1.19-1.21 Mb (22 kb), S048, monomer 26 bp, HOR 31 bp</title></rect>
+<rect x="773.0" y="1077.4" width="14" height="6.7" fill="#1d4ed8"><title>NLFDP1268_Chr18 1.16-1.18 Mb (27 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="773.0" y="989.7" width="14" height="6.9" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.80-0.83 Mb (28 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="773.0" y="982.7" width="14" height="7.1" fill="#8b95a5"><title>NLFDP1268_Chr18 0.77-0.80 Mb (29 kb), S012, monomer 12890 bp, HOR 28779 bp</title></rect>
+<rect x="773.0" y="969.8" width="14" height="9.1" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.72-0.75 Mb (37 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="773.0" y="1047.5" width="14" height="11.1" fill="#1d4ed8"><title>NLFDP1268_Chr18 1.03-1.08 Mb (45 kb), S001, monomer 4041 bp, HOR 4843 bp</title></rect>
+<rect x="773.0" y="1063.7" width="14" height="11.3" fill="#1d4ed8"><title>NLFDP1268_Chr18 1.10-1.15 Mb (46 kb), S001, monomer 813 bp, HOR 815 bp</title></rect>
+<rect x="773.0" y="885.9" width="14" height="15.6" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.37-0.44 Mb (64 kb), S001, monomer 817 bp, HOR 4870 bp</title></rect>
+<rect x="773.0" y="901.4" width="14" height="17.2" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.44-0.51 Mb (70 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="773.0" y="919.3" width="14" height="23.3" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.51-0.61 Mb (95 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="773.0" y="945.1" width="14" height="23.4" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.62-0.71 Mb (96 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="773.0" y="998.2" width="14" height="47.8" fill="#1d4ed8"><title>NLFDP1268_Chr18 0.83-1.03 Mb (195 kb), S001, monomer 804 bp, HOR 816 bp</title></rect>
+<path d="M770.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr18 (mol 18) locus 0.37-1.18 Mb (809 kb): 719 kb of S001 in 11 arrays; largest array 0.83-1.03 Mb (195 kb), monomer 804 bp</title></path>
+<text x="784.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 784.0 1130)">NLFDP1268_Chr18 (mol 18)</text>
+<text x="820.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.1 Mb</text>
+<rect x="812.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr19 (mol 19) 0.15-1.23 Mb</title></rect>
+<rect x="813.0" y="1050.5" width="14" height="2.2" fill="#1d4ed8"><title>NLFDP1268_Chr19 1.00-1.01 Mb (10 kb), S001, monomer 817 bp, HOR 1633 bp</title></rect>
+<rect x="813.0" y="917.9" width="14" height="2.7" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.37-0.39 Mb (13 kb), S001, monomer 3262 bp, HOR 3262 bp</title></rect>
+<rect x="813.0" y="1081.3" width="14" height="2.8" fill="#1d4ed8"><title>NLFDP1268_Chr19 1.14-1.16 Mb (13 kb), S001, monomer 803 bp, HOR 803 bp</title></rect>
+<rect x="813.0" y="966.9" width="14" height="3.4" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.60-0.62 Mb (16 kb), S001, monomer 1610 bp, HOR 3278 bp</title></rect>
+<rect x="813.0" y="978.1" width="14" height="3.8" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.66-0.67 Mb (18 kb), S001, monomer 3278 bp, HOR 3278 bp</title></rect>
+<rect x="813.0" y="956.3" width="14" height="4.1" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.55-0.57 Mb (19 kb), S001, monomer 3278 bp, HOR 3278 bp</title></rect>
+<rect x="813.0" y="1074.8" width="14" height="4.5" fill="#1d4ed8"><title>NLFDP1268_Chr19 1.11-1.13 Mb (21 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="813.0" y="910.8" width="14" height="4.7" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.34-0.36 Mb (22 kb), S001, monomer 812 bp, HOR 816 bp</title></rect>
+<rect x="813.0" y="1054.8" width="14" height="5.7" fill="#1d4ed8"><title>NLFDP1268_Chr19 1.02-1.05 Mb (27 kb), S001, monomer 816 bp, HOR 3278 bp</title></rect>
+<rect x="813.0" y="960.8" width="14" height="5.8" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.58-0.60 Mb (28 kb), S001, monomer 3278 bp, HOR 3278 bp</title></rect>
+<rect x="813.0" y="981.9" width="14" height="6.0" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.67-0.70 Mb (28 kb), S001, monomer 2783 bp, HOR 3278 bp</title></rect>
+<rect x="813.0" y="970.7" width="14" height="7.5" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.62-0.66 Mb (35 kb), S001, monomer 1619 bp, HOR 3278 bp</title></rect>
+<rect x="813.0" y="1088.3" width="14" height="8.1" fill="#8b95a5"><title>NLFDP1268_Chr19 1.18-1.21 Mb (38 kb), S041, monomer 28 bp, HOR 31 bp</title></rect>
+<rect x="813.0" y="945.3" width="14" height="10.8" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.50-0.55 Mb (51 kb), S001, monomer 3278 bp, HOR 3278 bp</title></rect>
+<rect x="813.0" y="1060.5" width="14" height="14.3" fill="#1d4ed8"><title>NLFDP1268_Chr19 1.05-1.11 Mb (67 kb), S001, monomer 3265 bp, HOR 3278 bp</title></rect>
+<rect x="813.0" y="922.6" width="14" height="20.7" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.40-0.49 Mb (98 kb), S001, monomer 1607 bp, HOR 3278 bp</title></rect>
+<rect x="813.0" y="885.9" width="14" height="22.5" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.22-0.33 Mb (106 kb), S001, monomer 804 bp, HOR 3241 bp</title></rect>
+<rect x="813.0" y="989.5" width="14" height="28.2" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.71-0.84 Mb (133 kb), S001, monomer 842 bp, HOR 3241 bp</title></rect>
+<rect x="813.0" y="1017.8" width="14" height="32.6" fill="#1d4ed8"><title>NLFDP1268_Chr19 0.84-1.00 Mb (154 kb), S001, monomer 804 bp, HOR 3241 bp</title></rect>
+<rect x="813.0" y="870.0" width="14" height="15.2" fill="#8b95a5"><title>NLFDP1268_Chr19 0.00-0.22 Mb (218 kb), S007, monomer 22 bp, HOR 22 bp</title></rect>
+<path d="M810.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr19 (mol 19) locus 0.22-1.16 Mb (936 kb): 860 kb of S001 in 18 arrays; largest array 0.84-1.00 Mb (154 kb), monomer 804 bp</title></path>
+<text x="824.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 824.0 1130)">NLFDP1268_Chr19 (mol 19)</text>
+<text x="860.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">2.4 Mb</text>
+<rect x="852.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr20 (mol 20) 0.00-2.38 Mb</title></rect>
+<rect x="853.0" y="1077.2" width="14" height="1.0" fill="#8b95a5"><title>NLFDP1268_Chr20 2.15-2.16 Mb (10 kb), S032, monomer 3441 bp, HOR 3218 bp</title></rect>
+<rect x="853.0" y="870.0" width="14" height="1.1" fill="#1d4ed8"><title>NLFDP1268_Chr20 0.00-0.01 Mb (11 kb), S001, monomer 804 bp, HOR 803 bp</title></rect>
+<rect x="853.0" y="1073.2" width="14" height="1.6" fill="#1d4ed8"><title>NLFDP1268_Chr20 2.10-2.12 Mb (16 kb), S001, monomer 804 bp, HOR 1605 bp</title></rect>
+<rect x="853.0" y="1068.7" width="14" height="1.9" fill="#1d4ed8"><title>NLFDP1268_Chr20 2.06-2.08 Mb (20 kb), S001, monomer 813 bp, HOR 813 bp</title></rect>
+<rect x="853.0" y="944.4" width="14" height="2.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 0.77-0.79 Mb (20 kb), S001, monomer 813 bp, HOR 803 bp</title></rect>
+<rect x="853.0" y="1080.9" width="14" height="2.0" fill="#1d4ed8"><title>NLFDP1268_Chr20 2.18-2.21 Mb (21 kb), S001, monomer 790 bp, HOR 791 bp</title></rect>
+<rect x="853.0" y="972.4" width="14" height="2.1" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.06-1.08 Mb (22 kb), S001, monomer 813 bp, HOR 803 bp</title></rect>
+<rect x="853.0" y="1074.8" width="14" height="2.4" fill="#1d4ed8"><title>NLFDP1268_Chr20 2.12-2.15 Mb (25 kb), S001, monomer 1646 bp, HOR 4843 bp</title></rect>
+<rect x="853.0" y="1023.9" width="14" height="3.5" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.59-1.63 Mb (36 kb), S001, monomer 812 bp, HOR 804 bp</title></rect>
+<rect x="853.0" y="872.8" width="14" height="4.6" fill="#1d4ed8"><title>NLFDP1268_Chr20 0.03-0.08 Mb (48 kb), S001, monomer 804 bp, HOR 803 bp</title></rect>
+<rect x="853.0" y="878.7" width="14" height="4.8" fill="#1d4ed8"><title>NLFDP1268_Chr20 0.09-0.14 Mb (50 kb), S001, monomer 803 bp, HOR 803 bp</title></rect>
+<rect x="853.0" y="987.0" width="14" height="6.2" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.21-1.28 Mb (64 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="853.0" y="1056.5" width="14" height="9.5" fill="#84cc16"><title>NLFDP1268_Chr20 1.93-2.03 Mb (99 kb), S004, monomer 21 bp, HOR 22 bp</title></rect>
+<rect x="853.0" y="1046.9" width="14" height="9.6" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.83-1.93 Mb (100 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="853.0" y="975.7" width="14" height="11.3" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.09-1.21 Mb (117 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="853.0" y="931.1" width="14" height="13.3" fill="#1d4ed8"><title>NLFDP1268_Chr20 0.63-0.77 Mb (137 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="853.0" y="994.2" width="14" height="13.5" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.29-1.43 Mb (140 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="853.0" y="1008.6" width="14" height="15.3" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.44-1.59 Mb (158 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="853.0" y="883.5" width="14" height="16.5" fill="#8b95a5"><title>NLFDP1268_Chr20 0.14-0.31 Mb (171 kb), S006, monomer 11 bp, HOR 22 bp</title></rect>
+<rect x="853.0" y="1027.9" width="14" height="18.6" fill="#1d4ed8"><title>NLFDP1268_Chr20 1.64-1.83 Mb (193 kb), S001, monomer 814 bp, HOR 817 bp</title></rect>
+<rect x="853.0" y="947.5" width="14" height="24.9" fill="#1d4ed8"><title>NLFDP1268_Chr20 0.80-1.06 Mb (258 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<path d="M850.0,870.0 h-4 V1083.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr20 (mol 20) locus 0.00-2.21 Mb (2.21 Mb): 1.44 Mb of S001 in 18 arrays; largest array 0.80-1.06 Mb (258 kb), monomer 816 bp</title></path>
+<text x="864.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 864.0 1130)">NLFDP1268_Chr20 (mol 20)</text>
+<text x="900.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">210 kb</text>
+<rect x="892.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr21 (mol 21) 0.00-0.21 Mb</title></rect>
+<rect x="893.0" y="1066.8" width="14" height="11.3" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.18-0.19 Mb (10 kb), S001, monomer 791 bp, HOR 791 bp</title></rect>
+<rect x="893.0" y="1031.0" width="14" height="13.4" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.15-0.16 Mb (12 kb), S001, monomer 804 bp, HOR 2414 bp</title></rect>
+<rect x="893.0" y="969.1" width="14" height="14.4" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.09-0.10 Mb (13 kb), S001, monomer 813 bp, HOR 816 bp</title></rect>
+<rect x="893.0" y="983.6" width="14" height="17.8" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.10-0.12 Mb (16 kb), S001, monomer 813 bp, HOR 804 bp</title></rect>
+<rect x="893.0" y="945.0" width="14" height="22.7" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.07-0.09 Mb (21 kb), S001, monomer 817 bp, HOR 4064 bp</title></rect>
+<rect x="893.0" y="870.0" width="14" height="35.3" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.00-0.03 Mb (32 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="893.0" y="905.4" width="14" height="39.6" fill="#1d4ed8"><title>NLFDP1268_Chr21 0.03-0.07 Mb (36 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<path d="M890.0,870.0 h-4 V1078.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr21 (mol 21) locus 0.00-0.19 Mb (190 kb): 141 kb of S001 in 7 arrays; largest array 0.03-0.07 Mb (36 kb), monomer 816 bp</title></path>
+<text x="904.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 904.0 1130)">NLFDP1268_Chr21 (mol 21)</text>
+<text x="940.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">1.8 Mb</text>
+<rect x="932.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr22 (mol 22) 0.55-2.37 Mb</title></rect>
+<rect x="933.0" y="975.0" width="14" height="1.3" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.38-1.39 Mb (10 kb), S001, monomer 817 bp, HOR 3276 bp</title></rect>
+<rect x="933.0" y="1033.8" width="14" height="1.4" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.84-1.86 Mb (11 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="933.0" y="972.1" width="14" height="1.4" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.36-1.37 Mb (11 kb), S001, monomer 1606 bp, HOR 3216 bp</title></rect>
+<rect x="933.0" y="925.8" width="14" height="2.6" fill="#1d4ed8"><title>NLFDP1268_Chr22 0.99-1.01 Mb (20 kb), S001, monomer 4893 bp, HOR 4893 bp</title></rect>
+<rect x="933.0" y="1081.3" width="14" height="2.8" fill="#1d4ed8"><title>NLFDP1268_Chr22 2.22-2.24 Mb (23 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="933.0" y="912.4" width="14" height="3.9" fill="#1d4ed8"><title>NLFDP1268_Chr22 0.88-0.92 Mb (31 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="933.0" y="983.8" width="14" height="4.6" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.45-1.49 Mb (36 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="933.0" y="929.4" width="14" height="4.7" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.02-1.06 Mb (37 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="933.0" y="965.8" width="14" height="6.3" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.31-1.36 Mb (50 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="933.0" y="976.3" width="14" height="6.3" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.39-1.44 Mb (50 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="933.0" y="885.9" width="14" height="8.4" fill="#1d4ed8"><title>NLFDP1268_Chr22 0.67-0.74 Mb (67 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="933.0" y="989.9" width="14" height="14.3" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.50-1.61 Mb (114 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="933.0" y="895.6" width="14" height="15.4" fill="#1d4ed8"><title>NLFDP1268_Chr22 0.75-0.87 Mb (122 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="933.0" y="1035.2" width="14" height="19.3" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.86-2.01 Mb (153 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="933.0" y="1059.3" width="14" height="21.6" fill="#84cc16"><title>NLFDP1268_Chr22 2.05-2.22 Mb (171 kb), S004, monomer 21 bp, HOR 22 bp</title></rect>
+<rect x="933.0" y="935.4" width="14" height="29.1" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.07-1.30 Mb (230 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="933.0" y="1004.2" width="14" height="29.6" fill="#1d4ed8"><title>NLFDP1268_Chr22 1.61-1.84 Mb (234 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<path d="M930.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr22 (mol 22) locus 0.67-2.24 Mb (1.57 Mb): 1.20 Mb of S001 in 16 arrays; largest array 1.61-1.84 Mb (234 kb), monomer 816 bp</title></path>
+<text x="944.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 944.0 1130)">NLFDP1268_Chr22 (mol 22)</text>
+<text x="980.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">3.7 Mb</text>
+<rect x="972.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr23 (mol 23) 62.23-65.93 Mb</title></rect>
+<rect x="973.0" y="998.2" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.29-64.30 Mb (10 kb), S001, monomer 1614 bp, HOR 1615 bp</title></rect>
+<rect x="973.0" y="952.7" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 63.56-63.57 Mb (11 kb), S001, monomer 814 bp, HOR 815 bp</title></rect>
+<rect x="973.0" y="984.4" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.07-64.08 Mb (15 kb), S001, monomer 814 bp, HOR 817 bp</title></rect>
+<rect x="973.0" y="898.3" width="14" height="1.1" fill="#1d4ed8"><title>NLFDP1268_Chr23 62.68-62.70 Mb (17 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="973.0" y="888.8" width="14" height="1.2" fill="#1d4ed8"><title>NLFDP1268_Chr23 62.53-62.55 Mb (19 kb), S001, monomer 804 bp, HOR 803 bp</title></rect>
+<rect x="973.0" y="890.5" width="14" height="1.3" fill="#1d4ed8"><title>NLFDP1268_Chr23 62.56-62.58 Mb (21 kb), S001, monomer 814 bp, HOR 814 bp</title></rect>
+<rect x="973.0" y="887.0" width="14" height="1.5" fill="#1d4ed8"><title>NLFDP1268_Chr23 62.50-62.52 Mb (24 kb), S001, monomer 804 bp, HOR 815 bp</title></rect>
+<rect x="973.0" y="985.9" width="14" height="1.7" fill="#8b95a5"><title>NLFDP1268_Chr23 64.09-64.12 Mb (27 kb), S019, monomer 13736 bp, HOR 27490 bp</title></rect>
+<rect x="973.0" y="998.9" width="14" height="1.8" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.30-64.33 Mb (28 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="973.0" y="1039.4" width="14" height="1.8" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.95-64.98 Mb (28 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="973.0" y="895.8" width="14" height="1.9" fill="#1d4ed8"><title>NLFDP1268_Chr23 62.64-62.67 Mb (30 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="973.0" y="950.2" width="14" height="2.5" fill="#1d4ed8"><title>NLFDP1268_Chr23 63.52-63.56 Mb (40 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="973.0" y="981.5" width="14" height="2.5" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.02-64.06 Mb (41 kb), S001, monomer 815 bp, HOR 815 bp</title></rect>
+<rect x="973.0" y="995.4" width="14" height="2.8" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.24-64.29 Mb (46 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="973.0" y="891.8" width="14" height="3.2" fill="#1d4ed8"><title>NLFDP1268_Chr23 62.58-62.63 Mb (52 kb), S001, monomer 814 bp, HOR 816 bp</title></rect>
+<rect x="973.0" y="1000.7" width="14" height="3.3" fill="#8b95a5"><title>NLFDP1268_Chr23 64.33-64.38 Mb (54 kb), S012, monomer 25555 bp, HOR 53620 bp</title></rect>
+<rect x="973.0" y="953.4" width="14" height="4.5" fill="#8b95a5"><title>NLFDP1268_Chr23 63.57-63.64 Mb (72 kb), S027, monomer 6 bp, HOR 816 bp</title></rect>
+<rect x="973.0" y="987.9" width="14" height="5.7" fill="#8b95a5"><title>NLFDP1268_Chr23 64.12-64.22 Mb (92 kb), S019, monomer 13900 bp, HOR 92320 bp</title></rect>
+<rect x="973.0" y="1022.9" width="14" height="16.5" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.69-64.95 Mb (265 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="973.0" y="1004.0" width="14" height="17.5" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.38-64.66 Mb (282 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="973.0" y="1041.2" width="14" height="20.2" fill="#1d4ed8"><title>NLFDP1268_Chr23 64.98-65.31 Mb (325 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="973.0" y="957.8" width="14" height="23.6" fill="#1d4ed8"><title>NLFDP1268_Chr23 63.64-64.02 Mb (380 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="973.0" y="1061.4" width="14" height="38.6" fill="#1d4ed8"><title>NLFDP1268_Chr23 65.31-65.93 Mb (620 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="973.0" y="899.4" width="14" height="50.9" fill="#b45309"><title>NLFDP1268_Chr23 62.70-63.52 Mb (818 kb), S005, monomer 11 bp, HOR 22 bp</title></rect>
+<path d="M970.0,887.0 h-4 V1100.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr23 (mol 23) locus 62.50-65.93 Mb (3.43 Mb): 2.26 Mb of S001 in 19 arrays; largest array 65.31-65.93 Mb (620 kb), monomer 816 bp</title></path>
+<text x="984.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 984.0 1130)">NLFDP1268_Chr23 (mol 23)</text>
+<text x="1020.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">2.7 Mb</text>
+<rect x="1012.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr24 (mol 24) 44.50-47.18 Mb</title></rect>
+<rect x="1013.0" y="1041.6" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.50-46.51 Mb (11 kb), S001, monomer 804 bp, HOR 3241 bp</title></rect>
+<rect x="1013.0" y="885.9" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 44.68-44.69 Mb (11 kb), S001, monomer 808 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="1042.6" width="14" height="1.0" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.51-46.52 Mb (12 kb), S001, monomer 813 bp, HOR 1633 bp</title></rect>
+<rect x="1013.0" y="1083.0" width="14" height="1.2" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.98-46.99 Mb (14 kb), S001, monomer 816 bp, HOR 3249 bp</title></rect>
+<rect x="1013.0" y="987.8" width="14" height="1.4" fill="#1d4ed8"><title>NLFDP1268_Chr24 45.87-45.88 Mb (17 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="1019.1" width="14" height="1.7" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.23-46.25 Mb (19 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="1036.0" width="14" height="1.7" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.43-46.45 Mb (20 kb), S001, monomer 2450 bp, HOR 4077 bp</title></rect>
+<rect x="1013.0" y="1078.1" width="14" height="1.8" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.92-46.94 Mb (21 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="980.1" width="14" height="2.3" fill="#1d4ed8"><title>NLFDP1268_Chr24 45.78-45.80 Mb (26 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="1044.5" width="14" height="2.6" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.53-46.56 Mb (30 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="1048.1" width="14" height="2.8" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.57-46.60 Mb (33 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="1068.5" width="14" height="3.3" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.81-46.85 Mb (38 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="1038.1" width="14" height="3.5" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.45-46.50 Mb (41 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="1063.4" width="14" height="4.7" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.75-46.80 Mb (55 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="982.4" width="14" height="5.1" fill="#1d4ed8"><title>NLFDP1268_Chr24 45.80-45.86 Mb (59 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="1072.6" width="14" height="5.4" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.86-46.92 Mb (62 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="1012.1" width="14" height="5.4" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.15-46.21 Mb (63 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="1051.0" width="14" height="11.1" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.60-46.73 Mb (129 kb), S001, monomer 817 bp, HOR 4879 bp</title></rect>
+<rect x="1013.0" y="922.0" width="14" height="11.2" fill="#1d4ed8"><title>NLFDP1268_Chr24 45.10-45.23 Mb (131 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="1021.6" width="14" height="13.7" fill="#1d4ed8"><title>NLFDP1268_Chr24 46.26-46.42 Mb (159 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="1013.0" y="990.3" width="14" height="21.8" fill="#1d4ed8"><title>NLFDP1268_Chr24 45.90-46.15 Mb (254 kb), S001, monomer 816 bp, HOR 4879 bp</title></rect>
+<rect x="1013.0" y="886.8" width="14" height="35.2" fill="#84cc16"><title>NLFDP1268_Chr24 44.69-45.10 Mb (410 kb), S004, monomer 21 bp, HOR 22 bp</title></rect>
+<rect x="1013.0" y="934.1" width="14" height="45.1" fill="#1d4ed8"><title>NLFDP1268_Chr24 45.24-45.77 Mb (526 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<path d="M1010.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr24 (mol 24) locus 44.68-46.99 Mb (2.31 Mb): 1.73 Mb of S001 in 22 arrays; largest array 45.24-45.77 Mb (526 kb), monomer 816 bp</title></path>
+<text x="1024.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 1024.0 1130)">NLFDP1268_Chr24 (mol 24)</text>
+<rect x="1052.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>NLFDP1268_Chr25 (mol 25): no call</title></rect>
+<text x="1060.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 1060.0 985.0)">no call</text>
+<text x="1064.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 1064.0 1130)">NLFDP1268_Chr25 (mol 25)</text>
+<text x="1100.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">2.0 Mb</text>
+<rect x="1092.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_Chr26 (mol 26) 45.09-47.05 Mb</title></rect>
+<rect x="1093.0" y="987.3" width="14" height="1.2" fill="#1d4ed8"><title>NLFDP1268_Chr26 46.09-46.10 Mb (10 kb), S001, monomer 815 bp, HOR 815 bp</title></rect>
+<rect x="1093.0" y="888.6" width="14" height="1.4" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.24-45.26 Mb (12 kb), S001, monomer 1618 bp, HOR 4048 bp</title></rect>
+<rect x="1093.0" y="970.9" width="14" height="2.6" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.95-45.97 Mb (22 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1093.0" y="897.8" width="14" height="2.6" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.32-45.35 Mb (22 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1093.0" y="885.9" width="14" height="2.7" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.22-45.24 Mb (23 kb), S001, monomer 813 bp, HOR 817 bp</title></rect>
+<rect x="1093.0" y="900.5" width="14" height="3.7" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.35-45.38 Mb (31 kb), S001, monomer 3331 bp, HOR 3248 bp</title></rect>
+<rect x="1093.0" y="933.6" width="14" height="4.4" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.63-45.67 Mb (38 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="1093.0" y="891.3" width="14" height="5.2" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.27-45.31 Mb (45 kb), S001, monomer 813 bp, HOR 803 bp</title></rect>
+<rect x="1093.0" y="951.1" width="14" height="6.2" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.78-45.83 Mb (53 kb), S001, monomer 817 bp, HOR 817 bp</title></rect>
+<rect x="1093.0" y="989.9" width="14" height="6.3" fill="#1d4ed8"><title>NLFDP1268_Chr26 46.11-46.16 Mb (54 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1093.0" y="1050.4" width="14" height="6.3" fill="#1d4ed8"><title>NLFDP1268_Chr26 46.63-46.68 Mb (54 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1093.0" y="905.3" width="14" height="6.6" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.39-45.44 Mb (57 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1093.0" y="939.2" width="14" height="9.1" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.68-45.76 Mb (78 kb), S001, monomer 815 bp, HOR 817 bp</title></rect>
+<rect x="1093.0" y="957.8" width="14" height="12.7" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.84-45.94 Mb (108 kb), S001, monomer 815 bp, HOR 816 bp</title></rect>
+<rect x="1093.0" y="973.9" width="14" height="13.4" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.97-46.09 Mb (114 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1093.0" y="913.1" width="14" height="19.2" fill="#1d4ed8"><title>NLFDP1268_Chr26 45.45-45.62 Mb (164 kb), S001, monomer 816 bp, HOR 816 bp</title></rect>
+<rect x="1093.0" y="996.5" width="14" height="21.2" fill="#1d4ed8"><title>NLFDP1268_Chr26 46.17-46.35 Mb (181 kb), S001, monomer 813 bp, HOR 817 bp</title></rect>
+<rect x="1093.0" y="1057.9" width="14" height="26.3" fill="#1d4ed8"><title>NLFDP1268_Chr26 46.69-46.91 Mb (224 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<rect x="1093.0" y="1017.7" width="14" height="31.6" fill="#1d4ed8"><title>NLFDP1268_Chr26 46.35-46.62 Mb (270 kb), S001, monomer 816 bp, HOR 817 bp</title></rect>
+<path d="M1090.0,885.9 h-4 V1084.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_Chr26 (mol 26) locus 45.22-46.91 Mb (1.69 Mb): 1.56 Mb of S001 in 19 arrays; largest array 46.35-46.62 Mb (270 kb), monomer 816 bp</title></path>
+<text x="1104.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 1104.0 1130)">NLFDP1268_Chr26 (mol 26)</text>
+<text x="1140.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">114 kb</text>
+<rect x="1132.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>NLFDP1268_ChrX (mol X) 0.00-0.11 Mb</title></rect>
+<rect x="1133.0" y="870.0" width="14" height="40.3" fill="#a855f7"><title>NLFDP1268_ChrX 0.00-0.02 Mb (20 kb), S003, monomer 701 bp, HOR 3505 bp</title></rect>
+<rect x="1133.0" y="910.5" width="14" height="149.0" fill="#1d4ed8"><title>NLFDP1268_ChrX 0.02-0.09 Mb (74 kb), S001, monomer 801 bp, HOR 803 bp</title></rect>
+<path d="M1130.0,910.5 h-4 V1059.5 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>NLFDP1268_ChrX (mol X) locus 0.02-0.09 Mb (74 kb): 74 kb of S001 in 1 arrays; largest array 0.02-0.09 Mb (74 kb), monomer 801 bp</title></path>
+<text x="1144.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 1144.0 1130)">NLFDP1268_ChrX (mol X)</text>
+<rect x="1172.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>NLFDP1268_ChrY (mol Y): no call</title></rect>
+<text x="1180.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 1180.0 985.0)">no call</text>
+<text x="1184.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 1184.0 1130)">NLFDP1268_ChrY (mol Y)</text>
+<text x="40" y="1238" font-size="10" fill="#94a3b8">Satellite arrays ≥ 10 kb from the satellome (FasTAN) catalogue, coloured by sequence superfamily. Published intervals are compared, never used as input.</text>
+<text x="40" y="1252" font-size="10" fill="#94a3b8">Arrows in b: a published interval more than 3 Mb from our locus, distance in Mb. Hover for coordinates. github.com/aglabx/t2t_centromeres</text>
+</svg>

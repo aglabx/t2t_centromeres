@@ -1,0 +1,28 @@
+kind	chromosome	family	magnitude	default_applied
+breadth_tie_broken_by_bp	*	S003	24 chromosomes, 4258378 bp, mono 38 vs 24 chromosomes, 12717391 bp, mono 186	kept the broader family; see colocated_families
+locus_at_chromosome_end	chr1-mat	S001	52365879-52907187 of 53082293	informative: telocentric
+locus_at_chromosome_end	chr2-mat	S001	434813-859487 of 53506655	informative: telocentric
+other_family_larger_on_chromosome	chr2-mat	S002	466624 bp vs 416128 bp	centromeric family kept
+locus_at_chromosome_end	chr3-mat	S001	385729-896533 of 51331839	informative: telocentric
+other_family_larger_on_chromosome	chr4-mat	S002	702286 bp vs 486359 bp	centromeric family kept
+other_family_larger_on_chromosome	chr5-mat	S004	1896504 bp vs 464317 bp	centromeric family kept
+other_family_larger_on_chromosome	chr6-mat	S002	860760 bp vs 846085 bp	centromeric family kept
+other_family_larger_on_chromosome	chr7-mat	S002	901169 bp vs 339866 bp	centromeric family kept
+other_family_larger_on_chromosome	chr8-mat	S002	937587 bp vs 547951 bp	centromeric family kept
+locus_at_chromosome_end	chr9-mat	S001	417190-912281 of 47490068	informative: telocentric
+other_family_larger_on_chromosome	chr10-mat	S002	1030308 bp vs 328281 bp	centromeric family kept
+locus_at_chromosome_end	chr11-mat	S001	44434131-45009088 of 45014776	informative: telocentric
+other_family_larger_on_chromosome	chr12-mat	S002	1243228 bp vs 368171 bp	centromeric family kept
+locus_at_chromosome_end	chr13-mat	S001	4358-562964 of 44826401	informative: telocentric
+locus_at_chromosome_end	chr14-mat	S001	88148-481231 of 44258940	informative: telocentric
+other_family_larger_on_chromosome	chr15-mat	S002	1042140 bp vs 319032 bp	centromeric family kept
+locus_at_chromosome_end	chr17-mat	S001	42545356-43409860 of 43429903	informative: telocentric
+other_family_larger_on_chromosome	chr18-mat	S002	524423 bp vs 318818 bp	centromeric family kept
+locus_at_chromosome_end	chr19-mat	S001	41157640-42306598 of 42403492	informative: telocentric
+locus_at_chromosome_end	chr20-mat	S001	3363-731813 of 40330632	informative: telocentric
+locus_at_chromosome_end	chr21-mat	S001	39968557-40837089 of 40844013	informative: telocentric
+locus_at_chromosome_end	chr22-mat	S001	18405-33791 of 36588708	informative: telocentric
+other_family_larger_on_chromosome	chr22-mat	S008	428416 bp vs 15386 bp	centromeric family kept
+locus_at_chromosome_end	chr23-mat	S001	37362538-37393453 of 37472238	informative: telocentric
+other_family_larger_on_chromosome	chr23-mat	S003	79021 bp vs 22794 bp	centromeric family kept
+locus_at_chromosome_end	chr24-mat	S001	23162575-23848832 of 23880202	informative: telocentric

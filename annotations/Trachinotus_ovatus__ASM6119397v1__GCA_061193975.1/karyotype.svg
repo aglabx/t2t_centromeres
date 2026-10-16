@@ -1,0 +1,339 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1176" height="1266" viewBox="0 0 1176 1266" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<title>Trachinotus ovatus ASM6119397v1 GCA_061193975.1: centromeric satellite arrays</title>
+<rect width="1176" height="1266" fill="#ffffff"/>
+<text x="40" y="38" font-size="22" fill="#0f172a"><tspan font-style="italic" font-weight="bold">Trachinotus ovatus</tspan><tspan dx="10" font-weight="bold">ASM6119397v1</tspan></text>
+<text x="40" y="62" font-size="13" fill="#334155">GCA_061193975.1 · centromeric locus called on 8 of 24 chromosomes</text>
+<text x="40" y="80" font-size="13" fill="#334155">no published centromere intervals for this assembly</text>
+<text x="40" y="114" font-size="11" font-weight="bold" fill="#64748b" letter-spacing="0.6">SATELLITES</text>
+<rect x="172.0" y="105" width="16" height="10" rx="2" fill="#1d4ed8"/>
+<text x="194.0" y="114" font-size="12" fill="#334155">S001 centromeric superfamily, 118 bp, 519 kb</text>
+<rect x="510.8" y="105" width="16" height="10" rx="2" fill="#f97316"/>
+<text x="532.8" y="114" font-size="12" fill="#334155">S002 671 bp, 285 kb</text>
+<rect x="682.1" y="105" width="16" height="10" rx="2" fill="#a855f7"/>
+<text x="704.1" y="114" font-size="12" fill="#334155">S003 1,143 bp, 198 kb</text>
+<rect x="866.8" y="105" width="16" height="10" rx="2" fill="#84cc16"/>
+<text x="888.8" y="114" font-size="12" fill="#334155">S004 822 bp, 170 kb</text>
+<rect x="172.0" y="125" width="16" height="10" rx="2" fill="#b45309"/>
+<text x="194.0" y="134" font-size="12" fill="#334155">S005 888 bp, 133 kb</text>
+<rect x="343.3" y="125" width="16" height="10" rx="2" fill="#8b95a5"/>
+<text x="365.3" y="134" font-size="12" fill="#334155">other satellite arrays</text>
+<text x="40" y="160" font-size="11" font-weight="bold" fill="#64748b" letter-spacing="0.6">CALLS</text>
+<rect x="174.0" y="149" width="12" height="14" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+<text x="194.0" y="160" font-size="12" fill="#334155">our centromeric locus (satellite zone)</text>
+<rect x="474.6" y="149" width="8" height="14" rx="4" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"/>
+<text x="492.6" y="160" font-size="12" fill="#334155">no array of the centromeric family</text>
+<text x="40" y="202" font-size="14" fill="#0f172a"><tspan font-weight="bold">a</tspan><tspan dx="10">Whole chromosomes, one scale</tspan></text>
+<line x1="72" y1="224.0" x2="1140" y2="224.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="228.0" font-size="10" fill="#64748b" text-anchor="end">0</text>
+<line x1="72" y1="295.2" x2="1140" y2="295.2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="299.2" font-size="10" fill="#64748b" text-anchor="end">5</text>
+<line x1="72" y1="366.3" x2="1140" y2="366.3" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="370.3" font-size="10" fill="#64748b" text-anchor="end">10</text>
+<line x1="72" y1="437.5" x2="1140" y2="437.5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="441.5" font-size="10" fill="#64748b" text-anchor="end">15</text>
+<line x1="72" y1="508.6" x2="1140" y2="508.6" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="512.6" font-size="10" fill="#64748b" text-anchor="end">20</text>
+<line x1="72" y1="579.8" x2="1140" y2="579.8" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="583.8" font-size="10" fill="#64748b" text-anchor="end">25</text>
+<line x1="72" y1="650.9" x2="1140" y2="650.9" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="654.9" font-size="10" fill="#64748b" text-anchor="end">30</text>
+<text x="66" y="214" font-size="10" fill="#64748b" text-anchor="end">Mb</text>
+<rect x="95.0" y="224" width="14" height="480.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_1 (mol LG1): 33,729,914 bp</title></rect>
+<rect x="96.0" y="672.0" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_1 31.48-31.49 Mb (10 kb), S054, monomer 8 bp, HOR 19 bp</title></rect>
+<rect x="96.0" y="698.6" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_1 33.35-33.36 Mb (11 kb), S024, monomer 43 bp, HOR 43 bp</title></rect>
+<rect x="96.0" y="273.2" width="12" height="1.0" fill="#1d4ed8"><title>HiC_scaffold_1 3.46-3.47 Mb (14 kb), S001, monomer 234 bp, HOR 702 bp</title></rect>
+<rect x="96.0" y="537.3" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_1 22.01-22.03 Mb (17 kb), S016, monomer 2946 bp, HOR 2940 bp</title></rect>
+<rect x="96.0" y="324.6" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_1 7.07-7.09 Mb (18 kb), S007, monomer 3070 bp, HOR 3070 bp</title></rect>
+<rect x="96.0" y="224.0" width="12" height="1.0" fill="#f97316"><title>HiC_scaffold_1 0.00-0.02 Mb (21 kb), S002, monomer 613 bp, HOR 613 bp</title></rect>
+<rect x="96.0" y="698.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_1 33.36-33.39 Mb (28 kb), S024, monomer 43 bp, HOR 43 bp</title></rect>
+<rect x="96.0" y="600.6" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_1 26.46-26.50 Mb (31 kb), S030, monomer 7188 bp, HOR 31379 bp</title></rect>
+<rect x="96.0" y="235.3" width="12" height="1.9" fill="#b45309"><title>HiC_scaffold_1 0.80-0.93 Mb (133 kb), S005, monomer 888 bp, HOR 888 bp</title></rect>
+<rect x="96.0" y="251.2" width="12" height="3.1" fill="#1d4ed8"><title>HiC_scaffold_1 1.91-2.13 Mb (215 kb), S001, monomer 118 bp, HOR 118 bp</title></rect>
+<rect x="92.0" y="250.2" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>HiC_scaffold_1 (mol LG1) locus 1.91-2.13 Mb (215 kb): 215 kb of S001 in 1 arrays; largest array 1.91-2.13 Mb (215 kb), monomer 118 bp</title></rect>
+<text x="106.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 106.0 720)">HiC_scaffold_1 (mol LG1)</text>
+<rect x="139.0" y="224" width="14" height="453.4" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_2 (mol LG2): 31,860,217 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="140.0" y="673.3" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_2 31.57-31.58 Mb (11 kb), S048, monomer 12 bp, HOR 82 bp</title></rect>
+<rect x="140.0" y="538.1" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_2 22.07-22.09 Mb (13 kb), S023, monomer 6647 bp, HOR 13294 bp</title></rect>
+<rect x="140.0" y="294.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_2 4.98-4.99 Mb (16 kb), S008, monomer 4841 bp, HOR 4810 bp</title></rect>
+<rect x="140.0" y="234.0" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_2 0.70-0.72 Mb (16 kb), S039, monomer 12 bp, HOR 12 bp</title></rect>
+<rect x="140.0" y="268.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_2 3.15-3.17 Mb (19 kb), S007, monomer 3244 bp, HOR 3244 bp</title></rect>
+<rect x="140.0" y="409.2" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_2 13.01-13.04 Mb (28 kb), S011, monomer 303 bp, HOR 303 bp</title></rect>
+<rect x="140.0" y="224.3" width="12" height="1.0" fill="#a855f7"><title>HiC_scaffold_2 0.02-0.07 Mb (42 kb), S003, monomer 1143 bp, HOR 1143 bp</title></rect>
+<rect x="140.0" y="224.9" width="12" height="1.6" fill="#f97316"><title>HiC_scaffold_2 0.07-0.18 Mb (110 kb), S002, monomer 671 bp, HOR 667 bp</title></rect>
+<text x="150.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 150.0 720)">HiC_scaffold_2 (mol LG2)</text>
+<rect x="183.0" y="224" width="14" height="426.5" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_3 (mol LG3): 29,971,576 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="184.0" y="618.2" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_3 27.70-27.71 Mb (11 kb), S027, monomer 6 bp, HOR 21 bp</title></rect>
+<rect x="184.0" y="598.7" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_3 26.33-26.34 Mb (12 kb), S014, monomer 5277 bp, HOR 11703 bp</title></rect>
+<rect x="184.0" y="376.7" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_3 10.73-10.75 Mb (20 kb), S036, monomer 1714 bp, HOR 1449 bp</title></rect>
+<rect x="184.0" y="224.0" width="12" height="1.0" fill="#a855f7"><title>HiC_scaffold_3 0.00-0.02 Mb (22 kb), S003, monomer 1143 bp, HOR 1143 bp</title></rect>
+<rect x="184.0" y="517.7" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_3 20.64-20.66 Mb (24 kb), S006, monomer 8221 bp, HOR 23911 bp</title></rect>
+<rect x="184.0" y="224.3" width="12" height="1.0" fill="#f97316"><title>HiC_scaffold_3 0.02-0.05 Mb (31 kb), S002, monomer 628 bp, HOR 628 bp</title></rect>
+<text x="194.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 194.0 720)">HiC_scaffold_3 (mol LG3)</text>
+<rect x="227.0" y="224" width="14" height="374.0" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_4 (mol LG4): 26,279,068 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="228.0" y="391.7" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_4 11.78-11.80 Mb (15 kb), S008, monomer 4695 bp, HOR 4695 bp</title></rect>
+<rect x="228.0" y="390.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_4 11.72-11.74 Mb (16 kb), S022, monomer 6520 bp, HOR 15828 bp</title></rect>
+<rect x="228.0" y="597.6" width="12" height="1.0" fill="#f97316"><title>HiC_scaffold_4 26.26-26.28 Mb (20 kb), S002, monomer 633 bp, HOR 633 bp</title></rect>
+<rect x="228.0" y="224.0" width="12" height="1.0" fill="#a855f7"><title>HiC_scaffold_4 0.00-0.02 Mb (21 kb), S003, monomer 1186 bp, HOR 1186 bp</title></rect>
+<text x="238.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 238.0 720)">HiC_scaffold_4 (mol LG4)</text>
+<rect x="271.0" y="224" width="14" height="418.3" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_5 (mol LG5): 29,397,050 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="272.0" y="375.5" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_5 10.64-10.66 Mb (14 kb), S013, monomer 1904 bp, HOR 3806 bp</title></rect>
+<rect x="272.0" y="642.1" width="12" height="1.0" fill="#f97316"><title>HiC_scaffold_5 29.38-29.39 Mb (16 kb), S002, monomer 628 bp, HOR 628 bp</title></rect>
+<rect x="272.0" y="224.0" width="12" height="1.0" fill="#f97316"><title>HiC_scaffold_5 0.00-0.03 Mb (30 kb), S002, monomer 666 bp, HOR 666 bp</title></rect>
+<text x="282.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 282.0 720)">HiC_scaffold_5 (mol LG5)</text>
+<rect x="315.0" y="224" width="14" height="388.4" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_6 (mol LG6): 27,294,310 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="316.0" y="609.4" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_6 27.09-27.10 Mb (12 kb), S047, monomer 10 bp, HOR 12 bp</title></rect>
+<rect x="316.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_6 0.00-0.01 Mb (14 kb), S010, monomer 1022 bp, HOR 1022 bp</title></rect>
+<rect x="316.0" y="224.2" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_6 0.01-0.03 Mb (16 kb), S010, monomer 1120 bp, HOR 1120 bp</title></rect>
+<rect x="316.0" y="425.5" width="12" height="1.0" fill="#f97316"><title>HiC_scaffold_6 14.16-14.18 Mb (19 kb), S002, monomer 677 bp, HOR 960 bp</title></rect>
+<rect x="316.0" y="555.7" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_6 23.31-23.33 Mb (20 kb), S008, monomer 9675 bp, HOR 20132 bp</title></rect>
+<rect x="316.0" y="598.2" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_6 26.30-26.33 Mb (29 kb), S012, monomer 918 bp, HOR 3672 bp</title></rect>
+<text x="326.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 326.0 720)">HiC_scaffold_6 (mol LG6)</text>
+<rect x="359.0" y="224" width="14" height="434.9" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_7 (mol LG7): 30,560,568 bp</title></rect>
+<rect x="360.0" y="299.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_7 5.33-5.34 Mb (12 kb), S045, monomer 13 bp, HOR 13 bp</title></rect>
+<rect x="360.0" y="585.7" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_7 25.42-25.43 Mb (14 kb), S015, monomer 5088 bp, HOR 13964 bp</title></rect>
+<rect x="360.0" y="648.4" width="12" height="1.0" fill="#f97316"><title>HiC_scaffold_7 29.82-29.84 Mb (17 kb), S002, monomer 1318 bp, HOR 2636 bp</title></rect>
+<rect x="360.0" y="226.4" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_7 0.17-0.18 Mb (17 kb), S033, monomer 186 bp, HOR 3202 bp</title></rect>
+<rect x="360.0" y="243.4" width="12" height="1.0" fill="#1d4ed8"><title>HiC_scaffold_7 1.36-1.39 Mb (32 kb), S001, monomer 108 bp, HOR 108 bp</title></rect>
+<rect x="360.0" y="333.3" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_7 7.68-7.72 Mb (37 kb), S018, monomer 11121 bp, HOR 36846 bp</title></rect>
+<rect x="360.0" y="241.5" width="12" height="1.6" fill="#1d4ed8"><title>HiC_scaffold_7 1.23-1.34 Mb (111 kb), S001, monomer 110 bp, HOR 108 bp</title></rect>
+<rect x="356.0" y="240.2" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>HiC_scaffold_7 (mol LG7) locus 1.23-1.39 Mb (162 kb): 143 kb of S001 in 2 arrays; largest array 1.23-1.34 Mb (111 kb), monomer 110 bp</title></rect>
+<text x="370.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 370.0 720)">HiC_scaffold_7 (mol LG7)</text>
+<rect x="403.0" y="224" width="14" height="371.1" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_8 (mol LG8): 26,074,661 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="404.0" y="523.7" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_8 21.06-21.08 Mb (14 kb), S022, monomer 6522 bp, HOR 14386 bp</title></rect>
+<rect x="404.0" y="224.0" width="12" height="1.0" fill="#a855f7"><title>HiC_scaffold_8 0.00-0.04 Mb (43 kb), S003, monomer 1143 bp, HOR 1143 bp</title></rect>
+<rect x="404.0" y="328.9" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_8 7.37-7.43 Mb (65 kb), S013, monomer 3805 bp, HOR 3798 bp</title></rect>
+<text x="414.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 414.0 720)">HiC_scaffold_8 (mol LG8)</text>
+<rect x="447.0" y="224" width="14" height="425.6" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_9 (mol LG9): 29,904,409 bp</title></rect>
+<rect x="448.0" y="627.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_9 28.38-28.39 Mb (10 kb), S052, monomer 6 bp, HOR 30 bp</title></rect>
+<rect x="448.0" y="628.8" width="12" height="1.0" fill="#1d4ed8"><title>HiC_scaffold_9 28.44-28.47 Mb (26 kb), S001, monomer 118 bp, HOR 118 bp</title></rect>
+<rect x="448.0" y="629.5" width="12" height="1.0" fill="#1d4ed8"><title>HiC_scaffold_9 28.49-28.52 Mb (27 kb), S001, monomer 118 bp, HOR 118 bp</title></rect>
+<rect x="444.0" y="626.8" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>HiC_scaffold_9 (mol LG9) locus 28.44-28.52 Mb (77 kb): 53 kb of S001 in 2 arrays; largest array 28.49-28.52 Mb (27 kb), monomer 118 bp</title></rect>
+<text x="458.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 458.0 720)">HiC_scaffold_9 (mol LG9)</text>
+<rect x="491.0" y="224" width="14" height="415.6" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_10 (mol LG10): 29,204,062 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="492.0" y="534.5" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_10 21.82-21.84 Mb (19 kb), S037, monomer 8736 bp, HOR 18701 bp</title></rect>
+<rect x="492.0" y="268.2" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_10 3.11-3.14 Mb (33 kb), S006, monomer 8234 bp, HOR 32934 bp</title></rect>
+<text x="502.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 502.0 720)">HiC_scaffold_10 (mol LG10)</text>
+<rect x="535.0" y="224" width="14" height="369.4" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_11 (mol LG11): 25,956,829 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="536.0" y="422.7" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_11 13.96-13.97 Mb (10 kb), S033, monomer 185 bp, HOR 2427 bp</title></rect>
+<rect x="536.0" y="231.5" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_11 0.53-0.54 Mb (12 kb), S046, monomer 8 bp, HOR 36 bp</title></rect>
+<rect x="536.0" y="516.9" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_11 20.58-20.60 Mb (14 kb), S018, monomer 5567 bp, HOR 14257 bp</title></rect>
+<rect x="536.0" y="543.9" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_11 22.48-22.51 Mb (28 kb), S023, monomer 13546 bp, HOR 27823 bp</title></rect>
+<rect x="536.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_11 0.00-0.03 Mb (30 kb), S010, monomer 1022 bp, HOR 2044 bp</title></rect>
+<rect x="536.0" y="230.2" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_11 0.44-0.47 Mb (35 kb), S006, monomer 8013 bp, HOR 34683 bp</title></rect>
+<text x="546.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 546.0 720)">HiC_scaffold_11 (mol LG11)</text>
+<rect x="579.0" y="224" width="14" height="398.5" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_12 (mol LG12): 28,001,219 bp</title></rect>
+<rect x="580.0" y="245.6" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_12 1.52-1.53 Mb (10 kb), S051, monomer 145 bp, HOR 168 bp</title></rect>
+<rect x="580.0" y="261.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_12 2.65-2.67 Mb (14 kb), S007, monomer 3115 bp, HOR 3115 bp</title></rect>
+<rect x="580.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_12 0.00-0.03 Mb (28 kb), S014, monomer 5235 bp, HOR 27960 bp</title></rect>
+<rect x="580.0" y="356.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_12 9.33-9.36 Mb (29 kb), S008, monomer 9396 bp, HOR 28595 bp</title></rect>
+<rect x="580.0" y="572.8" width="12" height="1.0" fill="#1d4ed8"><title>HiC_scaffold_12 24.51-24.54 Mb (29 kb), S001, monomer 117 bp, HOR 431 bp</title></rect>
+<rect x="576.0" y="570.6" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>HiC_scaffold_12 (mol LG12) locus 24.51-24.54 Mb (29 kb): 29 kb of S001 in 1 arrays; largest array 24.51-24.54 Mb (29 kb), monomer 117 bp</title></rect>
+<text x="590.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 590.0 720)">HiC_scaffold_12 (mol LG12)</text>
+<rect x="623.0" y="224" width="14" height="323.1" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_13 (mol LG13): 22,703,322 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="624.0" y="512.0" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_13 20.24-20.25 Mb (11 kb), S021, monomer 4453 bp, HOR 10932 bp</title></rect>
+<rect x="624.0" y="224.1" width="12" height="1.0" fill="#f97316"><title>HiC_scaffold_13 0.01-0.03 Mb (21 kb), S002, monomer 617 bp, HOR 617 bp</title></rect>
+<rect x="624.0" y="291.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_13 4.77-4.80 Mb (31 kb), S029, monomer 217 bp, HOR 445 bp</title></rect>
+<text x="634.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 634.0 720)">HiC_scaffold_13 (mol LG13)</text>
+<rect x="667.0" y="224" width="14" height="341.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_14 (mol LG14): 23,965,776 bp</title></rect>
+<rect x="668.0" y="260.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_14 2.58-2.60 Mb (13 kb), S034, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="668.0" y="267.4" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_14 3.05-3.06 Mb (13 kb), S041, monomer 6 bp, HOR 13 bp</title></rect>
+<rect x="668.0" y="245.3" width="12" height="1.0" fill="#1d4ed8"><title>HiC_scaffold_14 1.50-1.52 Mb (27 kb), S001, monomer 118 bp, HOR 237 bp</title></rect>
+<rect x="664.0" y="243.0" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>HiC_scaffold_14 (mol LG14) locus 1.50-1.52 Mb (27 kb): 27 kb of S001 in 1 arrays; largest array 1.50-1.52 Mb (27 kb), monomer 118 bp</title></rect>
+<text x="678.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 678.0 720)">HiC_scaffold_14 (mol LG14)</text>
+<rect x="711.0" y="224" width="14" height="365.4" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_15 (mol LG15): 25,674,231 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="712.0" y="303.5" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_15 5.59-5.60 Mb (17 kb), S031, monomer 1074 bp, HOR 1074 bp</title></rect>
+<rect x="712.0" y="241.4" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_15 1.22-1.24 Mb (21 kb), S035, monomer 9 bp, HOR 21 bp</title></rect>
+<rect x="712.0" y="485.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_15 18.39-18.43 Mb (40 kb), S011, monomer 303 bp, HOR 303 bp</title></rect>
+<text x="722.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 722.0 720)">HiC_scaffold_15 (mol LG15)</text>
+<rect x="755.0" y="224" width="14" height="291.2" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_16 (mol LG16): 20,460,082 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="756.0" y="373.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_16 10.53-10.54 Mb (10 kb), S027, monomer 6 bp, HOR 21 bp</title></rect>
+<rect x="756.0" y="507.7" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_16 19.94-19.95 Mb (11 kb), S050, monomer 7 bp, HOR 7 bp</title></rect>
+<rect x="756.0" y="430.0" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_16 14.48-14.49 Mb (11 kb), S015, monomer 4891 bp, HOR 11060 bp</title></rect>
+<rect x="756.0" y="262.3" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_16 2.69-2.71 Mb (13 kb), S042, monomer 9 bp, HOR 2040 bp</title></rect>
+<rect x="756.0" y="514.9" width="12" height="1.0" fill="#a855f7"><title>HiC_scaffold_16 20.44-20.46 Mb (13 kb), S003, monomer 1143 bp, HOR 1143 bp</title></rect>
+<rect x="756.0" y="487.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_16 18.54-18.55 Mb (13 kb), S025, monomer 5203 bp, HOR 13341 bp</title></rect>
+<rect x="756.0" y="407.5" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_16 12.89-12.91 Mb (14 kb), S015, monomer 2477 bp, HOR 2477 bp</title></rect>
+<rect x="756.0" y="511.0" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_16 20.16-20.19 Mb (27 kb), S032, monomer 7 bp, HOR 15 bp</title></rect>
+<rect x="756.0" y="373.3" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_16 10.49-10.52 Mb (33 kb), S028, monomer 6 bp, HOR 21 bp</title></rect>
+<rect x="756.0" y="261.4" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_16 2.63-2.66 Mb (33 kb), S026, monomer 102 bp, HOR 3162 bp</title></rect>
+<rect x="756.0" y="372.3" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_16 10.42-10.47 Mb (51 kb), S012, monomer 927 bp, HOR 927 bp</title></rect>
+<rect x="756.0" y="259.5" width="12" height="1.4" fill="#8b95a5"><title>HiC_scaffold_16 2.50-2.59 Mb (96 kb), S009, monomer 9 bp, HOR 102 bp</title></rect>
+<text x="766.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 766.0 720)">HiC_scaffold_16 (mol LG16)</text>
+<rect x="799.0" y="224" width="14" height="443.1" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_17 (mol LG17): 31,136,940 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="800.0" y="481.3" width="12" height="1.0" fill="#84cc16"><title>HiC_scaffold_17 18.08-18.09 Mb (13 kb), S004, monomer 414 bp, HOR 414 bp</title></rect>
+<rect x="800.0" y="396.6" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_17 12.13-12.15 Mb (17 kb), S022, monomer 6345 bp, HOR 17414 bp</title></rect>
+<rect x="800.0" y="431.0" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_17 14.55-14.57 Mb (19 kb), S007, monomer 774 bp, HOR 2322 bp</title></rect>
+<rect x="800.0" y="481.5" width="12" height="1.0" fill="#84cc16"><title>HiC_scaffold_17 18.10-18.12 Mb (20 kb), S004, monomer 414 bp, HOR 414 bp</title></rect>
+<rect x="800.0" y="482.0" width="12" height="1.0" fill="#84cc16"><title>HiC_scaffold_17 18.13-18.16 Mb (27 kb), S004, monomer 414 bp, HOR 414 bp</title></rect>
+<rect x="800.0" y="666.4" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_17 31.09-31.14 Mb (49 kb), S020, monomer 629 bp, HOR 3145 bp</title></rect>
+<text x="810.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 810.0 720)">HiC_scaffold_17 (mol LG17)</text>
+<rect x="843.0" y="224" width="14" height="327.4" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_18 (mol LG18): 23,009,960 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="844.0" y="258.1" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_18 2.40-2.41 Mb (10 kb), S025, monomer 5213 bp, HOR 10429 bp</title></rect>
+<text x="854.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 854.0 720)">HiC_scaffold_18 (mol LG18)</text>
+<rect x="887.0" y="224" width="14" height="289.6" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_19 (mol LG19): 20,352,026 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="888.0" y="492.1" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_19 18.84-18.85 Mb (10 kb), S010, monomer 2018 bp, HOR 2018 bp</title></rect>
+<rect x="888.0" y="435.7" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_19 14.88-14.90 Mb (19 kb), S011, monomer 149 bp, HOR 313 bp</title></rect>
+<rect x="888.0" y="491.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_19 18.82-18.84 Mb (20 kb), S010, monomer 2098 bp, HOR 2098 bp</title></rect>
+<rect x="888.0" y="445.6" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_19 15.58-15.60 Mb (28 kb), S007, monomer 1582 bp, HOR 1582 bp</title></rect>
+<text x="898.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 898.0 720)">HiC_scaffold_19 (mol LG19)</text>
+<rect x="931.0" y="224" width="14" height="424.9" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_20 (mol LG20): 29,858,965 bp
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="932.0" y="348.9" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_20 8.77-8.79 Mb (12 kb), S027, monomer 6 bp, HOR 39 bp</title></rect>
+<rect x="932.0" y="584.8" width="12" height="1.0" fill="#1d4ed8"><title>HiC_scaffold_20 25.35-25.36 Mb (13 kb), S001, monomer 109 bp, HOR 109 bp</title></rect>
+<rect x="932.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_20 0.00-0.04 Mb (36 kb), S014, monomer 5386 bp, HOR 36215 bp</title></rect>
+<rect x="928.0" y="582.3" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>HiC_scaffold_20 (mol LG20) locus 25.35-25.36 Mb (13 kb): 13 kb of S001 in 1 arrays; largest array 25.35-25.36 Mb (13 kb), monomer 109 bp</title></rect>
+<text x="942.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 942.0 720)">HiC_scaffold_20 (mol LG20)</text>
+<rect x="975.0" y="224" width="14" height="404.8" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_21 (mol LG21): 28,445,476 bp
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="976.0" y="577.3" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_21 24.83-24.84 Mb (10 kb), S053, monomer 8 bp, HOR 28 bp</title></rect>
+<rect x="976.0" y="509.9" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_21 20.09-20.10 Mb (11 kb), S049, monomer 2787 bp, HOR 2842 bp</title></rect>
+<rect x="976.0" y="239.5" width="12" height="1.0" fill="#1d4ed8"><title>HiC_scaffold_21 1.09-1.10 Mb (14 kb), S001, monomer 116 bp, HOR 118 bp</title></rect>
+<rect x="976.0" y="354.1" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_21 9.14-9.16 Mb (14 kb), S031, monomer 2126 bp, HOR 2124 bp</title></rect>
+<rect x="976.0" y="354.4" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_21 9.16-9.18 Mb (19 kb), S017, monomer 4252 bp, HOR 4252 bp</title></rect>
+<rect x="976.0" y="308.4" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_21 5.93-5.95 Mb (19 kb), S008, monomer 4831 bp, HOR 4831 bp</title></rect>
+<rect x="976.0" y="307.4" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_21 5.86-5.89 Mb (25 kb), S017, monomer 8352 bp, HOR 25008 bp</title></rect>
+<rect x="976.0" y="224.0" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_21 0.00-0.03 Mb (31 kb), S016, monomer 5789 bp, HOR 31305 bp</title></rect>
+<rect x="976.0" y="352.5" width="12" height="1.0" fill="#84cc16"><title>HiC_scaffold_21 9.03-9.07 Mb (46 kb), S004, monomer 822 bp, HOR 822 bp</title></rect>
+<rect x="976.0" y="569.0" width="12" height="1.0" fill="#84cc16"><title>HiC_scaffold_21 24.24-24.31 Mb (64 kb), S004, monomer 832 bp, HOR 1722 bp</title></rect>
+<rect x="972.0" y="237.1" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>HiC_scaffold_21 (mol LG21) locus 1.09-1.10 Mb (14 kb): 14 kb of S001 in 1 arrays; largest array 1.09-1.10 Mb (14 kb), monomer 116 bp</title></rect>
+<text x="986.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 986.0 720)">HiC_scaffold_21 (mol LG21)</text>
+<rect x="1019.0" y="224" width="14" height="413.4" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_22 (mol LG22): 29,051,340 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="1020.0" y="439.9" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_22 15.17-15.18 Mb (10 kb), S006, monomer 3998 bp, HOR 10234 bp</title></rect>
+<rect x="1020.0" y="295.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_22 5.04-5.05 Mb (10 kb), S025, monomer 5208 bp, HOR 10416 bp</title></rect>
+<rect x="1020.0" y="440.5" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_22 15.21-15.22 Mb (11 kb), S006, monomer 4002 bp, HOR 10588 bp</title></rect>
+<rect x="1020.0" y="439.3" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_22 15.13-15.14 Mb (11 kb), S021, monomer 4431 bp, HOR 10600 bp</title></rect>
+<rect x="1020.0" y="465.0" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_22 16.93-16.95 Mb (13 kb), S017, monomer 4213 bp, HOR 12541 bp</title></rect>
+<rect x="1020.0" y="439.1" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_22 15.11-15.13 Mb (13 kb), S015, monomer 5019 bp, HOR 12596 bp</title></rect>
+<rect x="1020.0" y="441.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_22 15.30-15.32 Mb (14 kb), S006, monomer 3920 bp, HOR 3892 bp</title></rect>
+<rect x="1020.0" y="439.6" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_22 15.15-15.17 Mb (21 kb), S015, monomer 5020 bp, HOR 3994 bp</title></rect>
+<rect x="1020.0" y="224.0" width="12" height="1.0" fill="#a855f7"><title>HiC_scaffold_22 0.00-0.03 Mb (24 kb), S003, monomer 1143 bp, HOR 1143 bp</title></rect>
+<rect x="1020.0" y="342.6" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_22 8.33-8.36 Mb (27 kb), S021, monomer 9090 bp, HOR 27275 bp</title></rect>
+<text x="1030.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 1030.0 720)">HiC_scaffold_22 (mol LG22)</text>
+<rect x="1063.0" y="224" width="14" height="351.2" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_23 (mol LG23): 24,676,000 bp
+exception: locus_at_chromosome_end
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="1064.0" y="224.0" width="12" height="1.0" fill="#1d4ed8"><title>HiC_scaffold_23 0.00-0.01 Mb (12 kb), S001, monomer 108 bp, HOR 108 bp</title></rect>
+<rect x="1064.0" y="240.1" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_23 1.13-1.14 Mb (12 kb), S016, monomer 5938 bp, HOR 11878 bp</title></rect>
+<rect x="1064.0" y="490.5" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_23 18.73-18.74 Mb (14 kb), S034, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="1064.0" y="564.8" width="12" height="1.0" fill="#a855f7"><title>HiC_scaffold_23 23.95-23.98 Mb (33 kb), S003, monomer 1188 bp, HOR 1188 bp</title></rect>
+<rect x="1060.0" y="221.6" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>HiC_scaffold_23 (mol LG23) locus 0.00-0.01 Mb (12 kb): 12 kb of S001 in 1 arrays; largest array 0.00-0.01 Mb (12 kb), monomer 108 bp</title></rect>
+<text x="1074.0" y="720" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 1074.0 720)">HiC_scaffold_23 (mol LG23)</text>
+<rect x="1107.0" y="224" width="14" height="234.6" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_24 (mol LG24): 16,482,653 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="1108.0" y="301.6" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_24 5.46-5.47 Mb (12 kb), S044, monomer 8 bp, HOR 8 bp</title></rect>
+<rect x="1108.0" y="275.1" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_24 3.59-3.61 Mb (12 kb), S043, monomer 8 bp, HOR 8 bp</title></rect>
+<rect x="1108.0" y="291.9" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_24 4.77-4.79 Mb (14 kb), S040, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="1108.0" y="266.8" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_24 3.01-3.03 Mb (18 kb), S038, monomer 8 bp, HOR 8 bp</title></rect>
+<rect x="1108.0" y="414.0" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_24 13.35-13.37 Mb (19 kb), S007, monomer 3115 bp, HOR 3115 bp</title></rect>
+<rect x="1108.0" y="301.2" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_24 5.43-5.45 Mb (23 kb), S019, monomer 8 bp, HOR 8 bp</title></rect>
+<rect x="1108.0" y="274.7" width="12" height="1.0" fill="#8b95a5"><title>HiC_scaffold_24 3.57-3.59 Mb (27 kb), S019, monomer 8 bp, HOR 8 bp</title></rect>
+<text x="1118.0" y="720" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 1118.0 720)">HiC_scaffold_24 (mol LG24)</text>
+<text x="40" y="824" font-size="14" fill="#0f172a"><tspan font-weight="bold">b</tspan><tspan dx="10">Centromeric region of each chromosome, each window to its own scale (width shown above it)</tspan></text>
+<text x="102.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">255 kb</text>
+<rect x="94.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_1 (mol LG1) 1.89-2.15 Mb</title></rect>
+<rect x="95.0" y="888.0" width="14" height="194.0" fill="#1d4ed8"><title>HiC_scaffold_1 1.91-2.13 Mb (215 kb), S001, monomer 118 bp, HOR 118 bp</title></rect>
+<path d="M92.0,888.0 h-4 V1082.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>HiC_scaffold_1 (mol LG1) locus 1.91-2.13 Mb (215 kb): 215 kb of S001 in 1 arrays; largest array 1.91-2.13 Mb (215 kb), monomer 118 bp</title></path>
+<text x="106.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 106.0 1130)">HiC_scaffold_1 (mol LG1)</text>
+<rect x="138.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_2 (mol LG2): no call</title></rect>
+<text x="146.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 146.0 985.0)">no call</text>
+<text x="150.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 150.0 1130)">HiC_scaffold_2 (mol LG2)</text>
+<rect x="182.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_3 (mol LG3): no call</title></rect>
+<text x="190.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 190.0 985.0)">no call</text>
+<text x="194.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 194.0 1130)">HiC_scaffold_3 (mol LG3)</text>
+<rect x="226.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_4 (mol LG4): no call</title></rect>
+<text x="234.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 234.0 985.0)">no call</text>
+<text x="238.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 238.0 1130)">HiC_scaffold_4 (mol LG4)</text>
+<rect x="270.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_5 (mol LG5): no call</title></rect>
+<text x="278.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 278.0 985.0)">no call</text>
+<text x="282.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 282.0 1130)">HiC_scaffold_5 (mol LG5)</text>
+<rect x="314.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_6 (mol LG6): no call</title></rect>
+<text x="322.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 322.0 985.0)">no call</text>
+<text x="326.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 326.0 1130)">HiC_scaffold_6 (mol LG6)</text>
+<text x="366.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">202 kb</text>
+<rect x="358.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_7 (mol LG7) 1.21-1.41 Mb</title></rect>
+<rect x="359.0" y="1040.6" width="14" height="36.7" fill="#1d4ed8"><title>HiC_scaffold_7 1.36-1.39 Mb (32 kb), S001, monomer 108 bp, HOR 108 bp</title></rect>
+<rect x="359.0" y="892.7" width="14" height="125.6" fill="#1d4ed8"><title>HiC_scaffold_7 1.23-1.34 Mb (111 kb), S001, monomer 110 bp, HOR 108 bp</title></rect>
+<path d="M356.0,892.7 h-4 V1077.3 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>HiC_scaffold_7 (mol LG7) locus 1.23-1.39 Mb (162 kb): 143 kb of S001 in 2 arrays; largest array 1.23-1.34 Mb (111 kb), monomer 110 bp</title></path>
+<text x="370.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 370.0 1130)">HiC_scaffold_7 (mol LG7)</text>
+<rect x="402.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_8 (mol LG8): no call</title></rect>
+<text x="410.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 410.0 985.0)">no call</text>
+<text x="414.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 414.0 1130)">HiC_scaffold_8 (mol LG8)</text>
+<text x="454.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">117 kb</text>
+<rect x="446.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_9 (mol LG9) 28.42-28.54 Mb</title></rect>
+<rect x="447.0" y="909.3" width="14" height="50.4" fill="#1d4ed8"><title>HiC_scaffold_9 28.44-28.47 Mb (26 kb), S001, monomer 118 bp, HOR 118 bp</title></rect>
+<rect x="447.0" y="1007.8" width="14" height="52.9" fill="#1d4ed8"><title>HiC_scaffold_9 28.49-28.52 Mb (27 kb), S001, monomer 118 bp, HOR 118 bp</title></rect>
+<path d="M444.0,909.3 h-4 V1060.7 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>HiC_scaffold_9 (mol LG9) locus 28.44-28.52 Mb (77 kb): 53 kb of S001 in 2 arrays; largest array 28.49-28.52 Mb (27 kb), monomer 118 bp</title></path>
+<text x="458.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 458.0 1130)">HiC_scaffold_9 (mol LG9)</text>
+<rect x="490.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_10 (mol LG10): no call</title></rect>
+<text x="498.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 498.0 985.0)">no call</text>
+<text x="502.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 502.0 1130)">HiC_scaffold_10 (mol LG10)</text>
+<rect x="534.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_11 (mol LG11): no call</title></rect>
+<text x="542.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 542.0 985.0)">no call</text>
+<text x="546.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 546.0 1130)">HiC_scaffold_11 (mol LG11)</text>
+<text x="586.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">69 kb</text>
+<rect x="578.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_12 (mol LG12) 24.49-24.56 Mb</title></rect>
+<rect x="579.0" y="936.6" width="14" height="96.8" fill="#1d4ed8"><title>HiC_scaffold_12 24.51-24.54 Mb (29 kb), S001, monomer 117 bp, HOR 431 bp</title></rect>
+<path d="M576.0,936.6 h-4 V1033.4 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>HiC_scaffold_12 (mol LG12) locus 24.51-24.54 Mb (29 kb): 29 kb of S001 in 1 arrays; largest array 24.51-24.54 Mb (29 kb), monomer 117 bp</title></path>
+<text x="590.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 590.0 1130)">HiC_scaffold_12 (mol LG12)</text>
+<rect x="622.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_13 (mol LG13): no call</title></rect>
+<text x="630.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 630.0 985.0)">no call</text>
+<text x="634.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 634.0 1130)">HiC_scaffold_13 (mol LG13)</text>
+<text x="674.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">67 kb</text>
+<rect x="666.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_14 (mol LG14) 1.48-1.54 Mb</title></rect>
+<rect x="667.0" y="938.8" width="14" height="92.4" fill="#1d4ed8"><title>HiC_scaffold_14 1.50-1.52 Mb (27 kb), S001, monomer 118 bp, HOR 237 bp</title></rect>
+<path d="M664.0,938.8 h-4 V1031.2 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>HiC_scaffold_14 (mol LG14) locus 1.50-1.52 Mb (27 kb): 27 kb of S001 in 1 arrays; largest array 1.50-1.52 Mb (27 kb), monomer 118 bp</title></path>
+<text x="678.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 678.0 1130)">HiC_scaffold_14 (mol LG14)</text>
+<rect x="710.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_15 (mol LG15): no call</title></rect>
+<text x="718.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 718.0 985.0)">no call</text>
+<text x="722.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 722.0 1130)">HiC_scaffold_15 (mol LG15)</text>
+<rect x="754.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_16 (mol LG16): no call</title></rect>
+<text x="762.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 762.0 985.0)">no call</text>
+<text x="766.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 766.0 1130)">HiC_scaffold_16 (mol LG16)</text>
+<rect x="798.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_17 (mol LG17): no call</title></rect>
+<text x="806.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 806.0 985.0)">no call</text>
+<text x="810.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 810.0 1130)">HiC_scaffold_17 (mol LG17)</text>
+<rect x="842.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_18 (mol LG18): no call</title></rect>
+<text x="850.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 850.0 985.0)">no call</text>
+<text x="854.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 854.0 1130)">HiC_scaffold_18 (mol LG18)</text>
+<rect x="886.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_19 (mol LG19): no call</title></rect>
+<text x="894.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 894.0 985.0)">no call</text>
+<text x="898.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 898.0 1130)">HiC_scaffold_19 (mol LG19)</text>
+<text x="938.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">53 kb</text>
+<rect x="930.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_20 (mol LG20) 25.33-25.38 Mb</title></rect>
+<rect x="931.0" y="957.1" width="14" height="55.8" fill="#1d4ed8"><title>HiC_scaffold_20 25.35-25.36 Mb (13 kb), S001, monomer 109 bp, HOR 109 bp</title></rect>
+<path d="M928.0,957.1 h-4 V1012.9 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>HiC_scaffold_20 (mol LG20) locus 25.35-25.36 Mb (13 kb): 13 kb of S001 in 1 arrays; largest array 25.35-25.36 Mb (13 kb), monomer 109 bp</title></path>
+<text x="942.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 942.0 1130)">HiC_scaffold_20 (mol LG20)</text>
+<text x="982.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">54 kb</text>
+<rect x="974.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_21 (mol LG21) 1.07-1.12 Mb</title></rect>
+<rect x="975.0" y="955.7" width="14" height="58.7" fill="#1d4ed8"><title>HiC_scaffold_21 1.09-1.10 Mb (14 kb), S001, monomer 116 bp, HOR 118 bp</title></rect>
+<path d="M972.0,955.7 h-4 V1014.3 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>HiC_scaffold_21 (mol LG21) locus 1.09-1.10 Mb (14 kb): 14 kb of S001 in 1 arrays; largest array 1.09-1.10 Mb (14 kb), monomer 116 bp</title></path>
+<text x="986.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 986.0 1130)">HiC_scaffold_21 (mol LG21)</text>
+<rect x="1018.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_22 (mol LG22): no call</title></rect>
+<text x="1026.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 1026.0 985.0)">no call</text>
+<text x="1030.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 1030.0 1130)">HiC_scaffold_22 (mol LG22)</text>
+<text x="1070.0" y="848" font-size="9.5" fill="#64748b" text-anchor="middle">32 kb</text>
+<rect x="1062.0" y="870" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>HiC_scaffold_23 (mol LG23) 0.00-0.03 Mb</title></rect>
+<rect x="1063.0" y="870.0" width="14" height="85.5" fill="#1d4ed8"><title>HiC_scaffold_23 0.00-0.01 Mb (12 kb), S001, monomer 108 bp, HOR 108 bp</title></rect>
+<path d="M1060.0,870.0 h-4 V955.5 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>HiC_scaffold_23 (mol LG23) locus 0.00-0.01 Mb (12 kb): 12 kb of S001 in 1 arrays; largest array 0.00-0.01 Mb (12 kb), monomer 108 bp</title></path>
+<text x="1074.0" y="1130" font-size="11" fill="#0f172a" text-anchor="end" transform="rotate(-60 1074.0 1130)">HiC_scaffold_23 (mol LG23)</text>
+<rect x="1106.0" y="870" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>HiC_scaffold_24 (mol LG24): no call</title></rect>
+<text x="1114.0" y="985.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 1114.0 985.0)">no call</text>
+<text x="1118.0" y="1130" font-size="11" fill="#dc2626" text-anchor="end" transform="rotate(-60 1118.0 1130)">HiC_scaffold_24 (mol LG24)</text>
+<text x="40" y="1238" font-size="10" fill="#94a3b8">Satellite arrays ≥ 10 kb from the satellome (FasTAN) catalogue, coloured by sequence superfamily. Published intervals are compared, never used as input.</text>
+<text x="40" y="1252" font-size="10" fill="#94a3b8">Arrows in b: a published interval more than 3 Mb from our locus, distance in Mb. Hover for coordinates. github.com/aglabx/t2t_centromeres</text>
+</svg>

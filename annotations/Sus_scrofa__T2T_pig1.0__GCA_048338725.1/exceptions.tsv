@@ -1,0 +1,20 @@
+kind	chromosome	family	magnitude	default_applied
+short_consensus_family_as_broad	*	S022	19 chromosomes, 538794 bp, mono 6 vs 20 chromosomes, 37424091 bp, mono 336	not eligible: no consensus >= --short-len
+other_family_larger_on_chromosome	Chr05	S003	3206331 bp vs 333516 bp	centromeric family kept
+other_family_larger_on_chromosome	Chr07	S003	2306288 bp vs 775614 bp	centromeric family kept
+other_family_larger_on_chromosome	Chr08	S003	1933355 bp vs 805196 bp	centromeric family kept
+other_family_larger_on_chromosome	Chr10	S003	3183323 bp vs 223967 bp	centromeric family kept
+other_family_larger_on_chromosome	Chr11	S003	2388597 bp vs 809145 bp	centromeric family kept
+locus_at_chromosome_end	Chr13	S001	24041-677734 of 221899333	informative: telocentric
+other_family_larger_on_chromosome	Chr13	S004	6752786 bp vs 653693 bp	centromeric family kept
+locus_at_chromosome_end	Chr14	S001	24041-854517 of 156959756	informative: telocentric
+other_family_larger_on_chromosome	Chr14	S011	2345998 bp vs 830476 bp	centromeric family kept
+locus_at_chromosome_end	Chr15	S001	12894-518280 of 148748386	informative: telocentric
+other_family_larger_on_chromosome	Chr15	S005	1977752 bp vs 585146 bp	centromeric family kept
+locus_at_chromosome_end	Chr16	S001	24041-577733 of 95991126	informative: telocentric
+other_family_larger_on_chromosome	Chr16	S008	4105102 bp vs 553692 bp	centromeric family kept
+locus_at_chromosome_end	Chr17	S001	24041-727733 of 67906130	informative: telocentric
+other_family_larger_on_chromosome	Chr17	S005	1424903 bp vs 703692 bp	centromeric family kept
+locus_at_chromosome_end	Chr18	S001	24041-427734 of 62254892	informative: telocentric
+other_family_larger_on_chromosome	Chr18	S006	2688520 bp vs 403693 bp	centromeric family kept
+other_family_larger_on_chromosome	ChrY	S002	18537696 bp vs 40564 bp	centromeric family kept

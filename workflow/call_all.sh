@@ -7,7 +7,7 @@
 #     WORKDIR       from satellome_all.sh (inputs/<acc>/ + satellome/<acc>/)
 #     OFFICIAL_DIR  from fetch_official.sh (raw/ + norm/)
 #     OUTDIR        OUTDIR/<Organism>__<assembly>__<acc>/ annotations (workflow/asm_dir.sh)
-#                   + OUTDIR/{SUMMARY,ALL_*,STATUS}.tsv + MANIFEST.md5
+#                   + OUTDIR/{SUMMARY,TIERS,ALL_*,STATUS}.tsv + MANIFEST.md5
 #   CALLER_FLAGS="--merge-gap 250000" call_all.sh ...   extra call_centromeric_arrays.py flags (sensitivity
 #                 runs); recorded in OUTDIR/CALLER_FLAGS.txt, so such a run never passes for the release
 set -uo pipefail
@@ -54,8 +54,10 @@ tail -n +2 "$AS" | while IFS=$'\t' read -r acc asm org _; do
 done
 { head -1 "$(ls "$OUT"/*__GCA_*/centromeres.tsv | head -1)"; for f in "$OUT"/*__GCA_*/centromeres.tsv; do tail -n +2 "$f"; done; } > "$OUT/ALL_centromeres.tsv"
 { head -1 "$(ls "$OUT"/*__GCA_*/official_overlap.tsv | head -1)"; for f in "$OUT"/*__GCA_*/official_overlap.tsv; do tail -n +2 "$f"; done; } > "$OUT/ALL_official_overlap.tsv"
+# completeness tier from sequence (gaps, unplaced sequences, telomeres): src/t2t_centromeres/tier.py
+python -I "$SRC/tier.py" "$W" "$ST" > "$OUT/TIERS.tsv" || { echo "EXIT $(date -Is) tier.py refused (TIERS.tsv)"; exit 1; }
 python -I "$SRC/summarize.py" "$OUT" "$AS" > "$OUT/SUMMARY.tsv"
-(cd "$OUT" && md5sum ALL_centromeres.tsv ALL_official_overlap.tsv SUMMARY.tsv > MANIFEST.md5)
+(cd "$OUT" && md5sum ALL_centromeres.tsv ALL_official_overlap.tsv SUMMARY.tsv TIERS.tsv > MANIFEST.md5)
 called=$(awk -F'\t' 'NR>1 && $5=="called"' "$ST" | wc -l)
 failed=$(awk -F'\t' 'NR>1 && $5!="called" && $5!="pending"' "$ST" | wc -l)
 echo "EXIT $(date -Is) called=$called failed=$failed (STATUS.tsv)${XF[@]+ caller_flags: ${XF[*]}}"

@@ -64,7 +64,7 @@ with open(args.report, encoding="utf-8") as fh:
         if ln.startswith("#"):
             continue
         f = ln.rstrip("\n").split("\t")
-        if f[1] == "assembled-molecule" and f[3] == "Chromosome":
+        if f[1] == "assembled-molecule" and f[3] in ("Chromosome", "Linkage Group"):
             chroms.append((f[0], int(f[8])))
             molecule[f[0]] = f[2]
             seq_name[f[4]] = f[0]

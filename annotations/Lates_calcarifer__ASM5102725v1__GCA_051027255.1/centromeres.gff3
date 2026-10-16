@@ -1,0 +1,106 @@
+##gff-version 3
+##sequence-region CM117395.1 1 31852513
+##sequence-region CM117396.1 1 31638724
+##sequence-region CM117397.1 1 29918513
+##sequence-region CM117398.1 1 29558833
+##sequence-region CM117399.1 1 29570087
+##sequence-region CM117400.1 1 29199514
+##sequence-region CM117401.1 1 29179243
+##sequence-region CM117402.1 1 27751246
+##sequence-region CM117403.1 1 27635561
+##sequence-region CM117404.1 1 26717877
+##sequence-region CM117405.1 1 26575253
+##sequence-region CM117406.1 1 26190281
+##sequence-region CM117407.1 1 25913521
+##sequence-region CM117408.1 1 25614823
+##sequence-region CM117409.1 1 25420547
+##sequence-region CM117410.1 1 25111693
+##sequence-region CM117411.1 1 23846329
+##sequence-region CM117412.1 1 23429025
+##sequence-region CM117413.1 1 22557243
+##sequence-region CM117414.1 1 21388025
+##sequence-region CM117415.1 1 21383011
+##sequence-region CM117416.1 1 19598755
+##sequence-region CM117417.1 1 19288435
+##sequence-region CM117418.1 1 14856597
+CM117395.1	satellome_cen	centromere	30569852	30585271	.	.	.	ID=cen.Chr01;Name=CEN_1;chromosome=Chr01;molecule=1;family=S001;family_bp=15420;n_arrays=1;rel_pos_mid=0.9600;second_locus_bp=13088;colocated_families=S004:162486:m166;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117395.1	satellome_cen	satellite_DNA	30569852	30585271	.	.	.	ID=arr.Chr01.1;Parent=cen.Chr01;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGGGTCAAAAATCGTC;largest=true
+CM117396.1	satellome_cen	centromere	28537958	30132791	.	.	.	ID=cen.Chr02;Name=CEN_2;chromosome=Chr02;molecule=2;family=S001;family_bp=112286;n_arrays=5;rel_pos_mid=0.9272;second_locus_bp=33274;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117396.1	satellome_cen	satellite_DNA	28537958	28553972	.	.	.	ID=arr.Chr02.1;Parent=cen.Chr02;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGGGTCAAAATTGGTC
+CM117396.1	satellome_cen	satellite_DNA	28554696	28566678	.	.	.	ID=arr.Chr02.2;Parent=cen.Chr02;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=TCAAAAAATGTCATAGTATAGTAAGGGGTCAAAATTGG
+CM117396.1	satellome_cen	satellite_DNA	28945662	29002584	.	.	.	ID=arr.Chr02.3;Parent=cen.Chr02;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=152;mono_consensus=AAAAAATGTCATAGTATAGTAAG;largest=true
+CM117396.1	satellome_cen	satellite_DNA	29425043	29442374	.	.	.	ID=arr.Chr02.4;Parent=cen.Chr02;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGGGTCAAAATTGGTC
+CM117396.1	satellome_cen	satellite_DNA	30122759	30132791	.	.	.	ID=arr.Chr02.5;Parent=cen.Chr02;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGTGTCAAAAATGGTC
+CM117397.1	satellome_cen	centromere	1982855	1996777	.	.	.	ID=cen.Chr03;Name=CEN_3;chromosome=Chr03;molecule=3;family=S001;family_bp=13923;n_arrays=1;rel_pos_mid=0.0665;second_locus_bp=13669;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117397.1	satellome_cen	satellite_DNA	1982855	1996777	.	.	.	ID=arr.Chr03.1;Parent=cen.Chr03;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAATATGGCGTCAAAAATTGTC;largest=true
+CM117398.1	satellome_cen	centromere	24682630	26605668	.	.	.	ID=cen.Chr04;Name=CEN_4;chromosome=Chr04;molecule=4;family=S001;family_bp=101133;n_arrays=4;rel_pos_mid=0.8676;second_locus_bp=63546;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117398.1	satellome_cen	satellite_DNA	24682630	24713025	.	.	.	ID=arr.Chr04.1;Parent=cen.Chr04;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTATGGCGTCAAAAATCACC;largest=true
+CM117398.1	satellome_cen	satellite_DNA	25623392	25652653	.	.	.	ID=arr.Chr04.2;Parent=cen.Chr04;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAATGTCATAGTATAGTATGGCGTCAAAAATGTGTTAA
+CM117398.1	satellome_cen	satellite_DNA	26164638	26180167	.	.	.	ID=arr.Chr04.3;Parent=cen.Chr04;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTATGGCGTCAAAAATCACC
+CM117398.1	satellome_cen	satellite_DNA	26579724	26605668	.	.	.	ID=arr.Chr04.4;Parent=cen.Chr04;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAGTCATAGTATAGTATGGCATCAAAAATCGCCAA
+CM117399.1	satellome_cen	centromere	2031836	2053223	.	.	.	ID=cen.Chr05;Name=CEN_5;chromosome=Chr05;molecule=5;family=S001;family_bp=21388;n_arrays=1;rel_pos_mid=0.0691;second_locus_bp=0;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117399.1	satellome_cen	satellite_DNA	2031836	2053223	.	.	.	ID=arr.Chr05.1;Parent=cen.Chr05;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAATGTCATAGTATAGTAAGGTGTCAAAATTGGTCA;largest=true
+CM117400.1	satellome_cen	centromere	26905195	28604744	.	.	.	ID=cen.Chr06;Name=CEN_6;chromosome=Chr06;molecule=6;family=S001;family_bp=56477;n_arrays=3;rel_pos_mid=0.9505;second_locus_bp=10406;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117400.1	satellome_cen	satellite_DNA	26905195	26921990	.	.	.	ID=arr.Chr06.1;Parent=cen.Chr06;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAATGTCATAGTATAGTATGGCGTCAAAAAACATGA
+CM117400.1	satellome_cen	satellite_DNA	27624298	27646831	.	.	.	ID=arr.Chr06.2;Parent=cen.Chr06;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=76;mono_consensus=ACAAAAATGTCATAGTATAGTATGTGGTCAAAAATATG;largest=true
+CM117400.1	satellome_cen	satellite_DNA	28587598	28604744	.	.	.	ID=arr.Chr06.3;Parent=cen.Chr06;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=GTCAAAAAATGTCATAGTATAGTAAGGCGTCAAAAACG
+CM117401.1	satellome_cen	centromere	5180402	5197360	.	.	.	ID=cen.Chr07;Name=CEN_7;chromosome=Chr07;molecule=7;family=S001;family_bp=16959;n_arrays=1;rel_pos_mid=0.1778;second_locus_bp=13953;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117401.1	satellome_cen	satellite_DNA	5180402	5197360	.	.	.	ID=arr.Chr07.1;Parent=cen.Chr07;family=S001;membership=family;fastan_period=38;mono_period=37;hor_period=38;mono_consensus=GTCATAGTATAGTAAGGCTTGAAAAATGGTCAAAAAA;largest=true
+CM117402.1	satellome_cen	centromere	26268977	27215166	.	.	.	ID=cen.Chr08;Name=CEN_8;chromosome=Chr08;molecule=8;family=S001;family_bp=90800;n_arrays=4;rel_pos_mid=0.9636;second_locus_bp=33820;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117402.1	satellome_cen	satellite_DNA	26268977	26288355	.	.	.	ID=arr.Chr08.1;Parent=cen.Chr08;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAATGTCATACTATAGTCAGGTGTTCAAAATGTGAT
+CM117402.1	satellome_cen	satellite_DNA	26630652	26673089	.	.	.	ID=arr.Chr08.2;Parent=cen.Chr08;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAATGTCATACTATAGTAAGGTGTTCAAAATGTGAT;largest=true
+CM117402.1	satellome_cen	satellite_DNA	26925270	26941509	.	.	.	ID=arr.Chr08.3;Parent=cen.Chr08;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTATGGCGTCAAAAATGGTC
+CM117402.1	satellome_cen	satellite_DNA	27202424	27215166	.	.	.	ID=arr.Chr08.4;Parent=cen.Chr08;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTATGGCGTCAAAAATGGTC
+CM117403.1	satellome_cen	centromere	462921	479560	.	.	.	ID=cen.Chr09;Name=CEN_9;chromosome=Chr09;molecule=9;family=S001;family_bp=16640;n_arrays=1;rel_pos_mid=0.0171;second_locus_bp=10862;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117403.1	satellome_cen	satellite_DNA	462921	479560	.	.	.	ID=arr.Chr09.1;Parent=cen.Chr09;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGCGTCAAAAATGGTC;largest=true
+CM117404.1	satellome_cen	centromere	24488990	26059467	.	.	.	ID=cen.Chr10;Name=CEN_10;chromosome=Chr10;molecule=10;family=S001;family_bp=61882;n_arrays=3;rel_pos_mid=0.9460;second_locus_bp=31976;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117404.1	satellome_cen	satellite_DNA	24488990	24518302	.	.	.	ID=arr.Chr10.1;Parent=cen.Chr10;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGCATCAAAAATGGCC;largest=true
+CM117404.1	satellome_cen	satellite_DNA	25449608	25464302	.	.	.	ID=arr.Chr10.2;Parent=cen.Chr10;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGACATAGTATAGTAAGGCATGAAAAATGATG
+CM117404.1	satellome_cen	satellite_DNA	26041594	26059467	.	.	.	ID=arr.Chr10.3;Parent=cen.Chr10;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAAGTCATAGTATAGTAAGGCTTCCAAAATGGTCA
+CM117405.1	satellome_cen	centromere	4704009	4721725	.	.	.	ID=cen.Chr11;Name=CEN_11;chromosome=Chr11;molecule=11;family=S001;family_bp=17717;n_arrays=1;rel_pos_mid=0.1773;second_locus_bp=11934;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117405.1	satellome_cen	satellite_DNA	4704009	4721725	.	.	.	ID=arr.Chr11.1;Parent=cen.Chr11;family=S001;membership=family;fastan_period=37;mono_period=33;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTATGGTGTCAAAAA;largest=true
+CM117406.1	satellome_cen	centromere	23212016	25155392	.	.	.	ID=cen.Chr12;Name=CEN_12;chromosome=Chr12;molecule=12;family=S001;family_bp=61033;n_arrays=3;rel_pos_mid=0.9234;second_locus_bp=36796;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117406.1	satellome_cen	satellite_DNA	23212016	23232538	.	.	.	ID=arr.Chr12.1;Parent=cen.Chr12;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGCGTCAAAAAATGTG
+CM117406.1	satellome_cen	satellite_DNA	24220467	24244815	.	.	.	ID=arr.Chr12.2;Parent=cen.Chr12;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGCATCAAAAACACTC;largest=true
+CM117406.1	satellome_cen	satellite_DNA	25139232	25155392	.	.	.	ID=arr.Chr12.3;Parent=cen.Chr12;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAATGTCATAGTATAGTAAGGCGTCAAAAATGGTCA
+CM117407.1	satellome_cen	centromere	502350	2927270	.	.	.	ID=cen.Chr13;Name=CEN_13;chromosome=Chr13;molecule=13;family=S001;family_bp=94576;n_arrays=5;rel_pos_mid=0.0662;second_locus_bp=30366;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117407.1	satellome_cen	satellite_DNA	502350	517506	.	.	.	ID=arr.Chr13.1;Parent=cen.Chr13;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGGGTCAAAAATCATC
+CM117407.1	satellome_cen	satellite_DNA	960946	977208	.	.	.	ID=arr.Chr13.2;Parent=cen.Chr13;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGAGTCAAAAGTGGTC
+CM117407.1	satellome_cen	satellite_DNA	1953762	1982977	.	.	.	ID=arr.Chr13.3;Parent=cen.Chr13;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAATGTCATAGTATAGTAAGGGGTCAAAAATATGAA;largest=true
+CM117407.1	satellome_cen	satellite_DNA	2431240	2448394	.	.	.	ID=arr.Chr13.4;Parent=cen.Chr13;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGATGTCAAAAATGGTC
+CM117407.1	satellome_cen	satellite_DNA	2910486	2927270	.	.	.	ID=arr.Chr13.5;Parent=cen.Chr13;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGCGTCAAAATTGGTC
+CM117408.1	satellome_cen	centromere	1584706	1612320	.	.	.	ID=cen.Chr14;Name=CEN_14;chromosome=Chr14;molecule=14;family=S001;family_bp=27615;n_arrays=1;rel_pos_mid=0.0624;second_locus_bp=24026;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117408.1	satellome_cen	satellite_DNA	1584706	1612320	.	.	.	ID=arr.Chr14.1;Parent=cen.Chr14;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAATGTCATAGTATAGTAAGGCATGAAAAACACTCA;largest=true
+CM117410.1	satellome_cen	centromere	23705895	24002546	.	.	.	ID=cen.Chr16;Name=CEN_16;chromosome=Chr16;molecule=16;family=S001;family_bp=32436;n_arrays=2;rel_pos_mid=0.9499;second_locus_bp=0;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117410.1	satellome_cen	satellite_DNA	23705895	23716484	.	.	.	ID=arr.Chr16.1;Parent=cen.Chr16;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=GGTCAAAAAATGTCATAGTATAGTAAGGTGTCAAAAAT
+CM117410.1	satellome_cen	satellite_DNA	23980701	24002546	.	.	.	ID=arr.Chr16.2;Parent=cen.Chr16;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGCGTCAAAAATGGGA;largest=true
+CM117411.1	satellome_cen	centromere	1317019	1335293	.	.	.	ID=cen.Chr17;Name=CEN_17;chromosome=Chr17;molecule=17;family=S001;family_bp=18275;n_arrays=1;rel_pos_mid=0.0556;second_locus_bp=14344;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117411.1	satellome_cen	satellite_DNA	1317019	1335293	.	.	.	ID=arr.Chr17.1;Parent=cen.Chr17;family=S001;membership=family;fastan_period=6056;mono_period=78;hor_period=84;mono_consensus=TTTGTGGTAAAAAATTTGTATTTAAATCATCTCTAACAAAACACATGTTAACCCACACAAGTGAGAAACCATTTAGTT;largest=true
+CM117412.1	satellome_cen	centromere	20728969	21953145	.	.	.	ID=cen.Chr18;Name=CEN_18;chromosome=Chr18;molecule=18;family=S001;family_bp=41030;n_arrays=3;rel_pos_mid=0.9109;second_locus_bp=0;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117412.1	satellome_cen	satellite_DNA	20728969	20739952	.	.	.	ID=arr.Chr18.1;Parent=cen.Chr18;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGTGTCAAAAACCATC
+CM117412.1	satellome_cen	satellite_DNA	21336634	21347277	.	.	.	ID=arr.Chr18.2;Parent=cen.Chr18;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGATATGAAAAATGGTC
+CM117412.1	satellome_cen	satellite_DNA	21933744	21953145	.	.	.	ID=arr.Chr18.3;Parent=cen.Chr18;family=S001;membership=family;fastan_period=38;mono_period=34;hor_period=38;mono_consensus=AAAATGGTCAAAAAATGTCATAGTACAGTAAGGT;largest=true
+CM117413.1	satellome_cen	centromere	18905338	20057736	.	.	.	ID=cen.Chr19;Name=CEN_19;chromosome=Chr19;molecule=19;family=S001;family_bp=38353;n_arrays=3;rel_pos_mid=0.8636;second_locus_bp=37388;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117413.1	satellome_cen	satellite_DNA	18905338	18915992	.	.	.	ID=arr.Chr19.1;Parent=cen.Chr19;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGTGTCAAAAATGGTC
+CM117413.1	satellome_cen	satellite_DNA	19506710	19522241	.	.	.	ID=arr.Chr19.2;Parent=cen.Chr19;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAATGTCATAGTATAGTATGGCATCAAAAACCATCA;largest=true
+CM117413.1	satellome_cen	satellite_DNA	20045571	20057736	.	.	.	ID=arr.Chr19.3;Parent=cen.Chr19;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGCGTCAAAAATGGTC
+CM117414.1	satellome_cen	centromere	416780	1144437	.	.	.	ID=cen.Chr20;Name=CEN_20;chromosome=Chr20;molecule=20;family=S001;family_bp=36179;n_arrays=3;rel_pos_mid=0.0365;second_locus_bp=16330;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117414.1	satellome_cen	satellite_DNA	416780	428962	.	.	.	ID=arr.Chr20.1;Parent=cen.Chr20;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGCGTCAAAAAATGTC
+CM117414.1	satellome_cen	satellite_DNA	716049	729095	.	.	.	ID=arr.Chr20.2;Parent=cen.Chr20;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGCGTCAAAAAAGGTC;largest=true
+CM117414.1	satellome_cen	satellite_DNA	1133489	1144437	.	.	.	ID=arr.Chr20.3;Parent=cen.Chr20;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGCGTCAAAAACGGTC
+CM117415.1	satellome_cen	centromere	519039	5148304	.	.	.	ID=cen.Chr21;Name=CEN_21;chromosome=Chr21;molecule=21;family=S001;family_bp=160133;n_arrays=10;rel_pos_mid=0.1325;second_locus_bp=58229;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117415.1	satellome_cen	satellite_DNA	519039	529644	.	.	.	ID=arr.Chr21.1;Parent=cen.Chr21;family=S001;membership=family;fastan_period=38;mono_period=36;hor_period=38;mono_consensus=AAAAATGTCATAGTATAGTAAGGCGTCAAAAATGGT
+CM117415.1	satellome_cen	satellite_DNA	632173	654242	.	.	.	ID=arr.Chr21.2;Parent=cen.Chr21;family=S001;membership=family;fastan_period=38;mono_period=37;hor_period=38;mono_consensus=ATCAAAAAATGTCATAGTATAGTATGGCATCAAAAAT
+CM117415.1	satellome_cen	satellite_DNA	1363287	1385423	.	.	.	ID=arr.Chr21.3;Parent=cen.Chr21;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGCGTCAAAAATGGTC;largest=true
+CM117415.1	satellome_cen	satellite_DNA	2237901	2253834	.	.	.	ID=arr.Chr21.4;Parent=cen.Chr21;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGTGTCAAAAATGGTC
+CM117415.1	satellome_cen	satellite_DNA	2405867	2416502	.	.	.	ID=arr.Chr21.5;Parent=cen.Chr21;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGTGTCAAAAATGGTC
+CM117415.1	satellome_cen	satellite_DNA	2418974	2431090	.	.	.	ID=arr.Chr21.6;Parent=cen.Chr21;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=2204;mono_consensus=AAAAAATGTCATAGTATAGTATGGCGTCAAAAATGGTC
+CM117415.1	satellome_cen	satellite_DNA	2875646	2893994	.	.	.	ID=arr.Chr21.7;Parent=cen.Chr21;family=S001;membership=family;fastan_period=38;mono_period=31;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTATGGCATCAAA
+CM117415.1	satellome_cen	satellite_DNA	3442545	3457380	.	.	.	ID=arr.Chr21.8;Parent=cen.Chr21;family=S001;membership=family;fastan_period=38;mono_period=33;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTATGGCGTGAAAAA
+CM117415.1	satellome_cen	satellite_DNA	4441759	4458013	.	.	.	ID=arr.Chr21.9;Parent=cen.Chr21;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGCGTCAAAAATGGTC
+CM117415.1	satellome_cen	satellite_DNA	5131112	5148304	.	.	.	ID=arr.Chr21.10;Parent=cen.Chr21;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=GTCATAGTATAGTATGGCATCAAAAAACACCCAAAAAA
+CM117416.1	satellome_cen	centromere	11173021	11793795	.	.	.	ID=cen.Chr22;Name=CEN_22;chromosome=Chr22;molecule=22;family=S001;family_bp=33505;n_arrays=2;rel_pos_mid=0.5859;second_locus_bp=31154;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117416.1	satellome_cen	satellite_DNA	11173021	11193724	.	.	.	ID=arr.Chr22.1;Parent=cen.Chr22;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGGGTCAAAAATGGTC;largest=true
+CM117416.1	satellome_cen	satellite_DNA	11780995	11793795	.	.	.	ID=arr.Chr22.2;Parent=cen.Chr22;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAATGTCATAGTATAGTAAGGGGTCAAAAATGGTC
+CM117417.1	satellome_cen	centromere	9836417	9863289	.	.	.	ID=cen.Chr23;Name=CEN_23;chromosome=Chr23;molecule=23;family=S001;family_bp=26873;n_arrays=1;rel_pos_mid=0.5107;second_locus_bp=19700;colocated_families=-;evidence=t2t_centromeres;official=none_published;published_agreement=not_compared
+CM117417.1	satellome_cen	satellite_DNA	9836417	9863289	.	.	.	ID=arr.Chr23.1;Parent=cen.Chr23;family=S001;membership=family;fastan_period=38;mono_period=38;hor_period=38;mono_consensus=AAAAAAAGTCATAGTATAGTATGGCGTCAAAAATGGTC;largest=true

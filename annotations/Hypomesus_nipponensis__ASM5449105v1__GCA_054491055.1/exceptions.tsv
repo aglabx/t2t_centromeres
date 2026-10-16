@@ -1,0 +1,33 @@
+kind	chromosome	family	magnitude	default_applied
+second_locus_comparable	Chr2	S002	second 60221 bp vs first 66095 bp	kept the larger
+second_locus_comparable	Chr3	S002	second 65499 bp vs first 111889 bp	kept the larger
+other_family_larger_on_chromosome	Chr3	S001	779354 bp vs 248346 bp	centromeric family kept
+second_locus_comparable	Chr4	S002	second 90915 bp vs first 102456 bp	kept the larger
+other_family_larger_on_chromosome	Chr4	S001	649766 bp vs 239010 bp	centromeric family kept
+second_locus_comparable	Chr5	S002	second 42169 bp vs first 79398 bp	kept the larger
+other_family_larger_on_chromosome	Chr5	S001	994296 bp vs 154976 bp	centromeric family kept
+locus_includes_period_class_arrays	Chr6	S002	57573 of 172721 bp	joined by monomer period, not by sequence
+second_locus_comparable	Chr6	S002	second 114117 bp vs first 172721 bp	kept the larger
+other_family_larger_on_chromosome	Chr6	S001	1143846 bp vs 335114 bp	centromeric family kept
+second_locus_comparable	Chr7	S002	second 163308 bp vs first 306596 bp	kept the larger
+other_family_larger_on_chromosome	Chr7	S001	1213208 bp vs 492318 bp	centromeric family kept
+locus_includes_period_class_arrays	Chr8	S002	281161 of 281161 bp	joined by monomer period, not by sequence
+second_locus_comparable	Chr8	S002	second 154288 bp vs first 281161 bp	kept the larger
+second_locus_comparable	Chr9	S002	second 128820 bp vs first 187382 bp	kept the larger
+other_family_larger_on_chromosome	Chr10	S001	451307 bp vs 332589 bp	centromeric family kept
+locus_includes_period_class_arrays	Chr12	S002	53768 of 372457 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	Chr12	S001	1511771 bp vs 501491 bp	centromeric family kept
+second_locus_comparable	Chr14	S002	second 105744 bp vs first 108970 bp	kept the larger
+second_locus_comparable	Chr15	S002	second 71497 bp vs first 104588 bp	kept the larger
+other_family_larger_on_chromosome	Chr15	S001	487876 bp vs 227092 bp	centromeric family kept
+second_locus_comparable	Chr19	S002	second 75681 bp vs first 128420 bp	kept the larger
+other_family_larger_on_chromosome	Chr19	S001	871396 bp vs 288271 bp	centromeric family kept
+second_locus_comparable	Chr20	S002	second 36283 bp vs first 60431 bp	kept the larger
+other_family_larger_on_chromosome	Chr20	S001	1913240 bp vs 96714 bp	centromeric family kept
+other_family_larger_on_chromosome	Chr21	S003	633747 bp vs 65091 bp	centromeric family kept
+second_locus_comparable	Chr22	S002	second 124837 bp vs first 150146 bp	kept the larger
+locus_includes_period_class_arrays	Chr24	S002	90322 of 122523 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	Chr24	S001	1408084 bp vs 147161 bp	centromeric family kept
+second_locus_comparable	Chr25	S002	second 58423 bp vs first 66836 bp	kept the larger
+other_family_larger_on_chromosome	Chr25	S001	1264126 bp vs 153699 bp	centromeric family kept
+other_family_larger_on_chromosome	Chr28	S001	742816 bp vs 202593 bp	centromeric family kept

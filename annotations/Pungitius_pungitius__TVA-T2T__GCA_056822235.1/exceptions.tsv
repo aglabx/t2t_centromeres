@@ -1,0 +1,7 @@
+kind	chromosome	family	magnitude	default_applied
+other_family_larger_on_chromosome	chr5	S009	76743 bp vs 26289 bp	centromeric family kept
+second_locus_comparable	chr13	S001	second 321599 bp vs first 432616 bp	kept the larger
+locus_includes_period_class_arrays	chr14	S001	212257 of 941569 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	chr18	S004	636277 bp vs 96639 bp	centromeric family kept
+other_family_larger_on_chromosome	chr19	S006	259244 bp vs 222350 bp	centromeric family kept
+other_family_larger_on_chromosome	chrY	S002	1220383 bp vs 297702 bp	centromeric family kept

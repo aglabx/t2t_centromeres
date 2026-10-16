@@ -1,0 +1,28 @@
+kind	chromosome	family	magnitude	default_applied
+breadth_near_tie	*	S002	23 chromosomes, 2710258 bp, mono 348 vs 24 chromosomes, 10169993 bp, mono 38	kept the broader family; see colocated_families
+second_locus_comparable	chr1B	S001	second 26102 bp vs first 31400 bp	kept the larger
+other_family_larger_on_chromosome	chr1B	S002	181668 bp vs 100717 bp	centromeric family kept
+second_locus_comparable	chr2B	S001	second 41999 bp vs first 43558 bp	kept the larger
+second_locus_comparable	chr3B	S001	second 53704 bp vs first 86186 bp	kept the larger
+locus_at_chromosome_end	chr5B	S001	46884929-47389977 of 47778085	informative: telocentric
+second_locus_comparable	chr6B	S001	second 142792 bp vs first 150515 bp	kept the larger
+second_locus_comparable	chr7B	S001	second 58729 bp vs first 68602 bp	kept the larger
+second_locus_comparable	chr8B	S001	second 58733 bp vs first 113711 bp	kept the larger
+second_locus_comparable	chr9B	S001	second 105998 bp vs first 118005 bp	kept the larger
+second_locus_comparable	chr10B	S001	second 89392 bp vs first 99262 bp	kept the larger
+second_locus_comparable	chr11B	S001	second 76128 bp vs first 81310 bp	kept the larger
+second_locus_comparable	chr12B	S001	second 59852 bp vs first 85367 bp	kept the larger
+other_family_larger_on_chromosome	chr12B	S002	289324 bp vs 256632 bp	centromeric family kept
+second_locus_comparable	chr13B	S001	second 42439 bp vs first 48626 bp	kept the larger
+locus_at_chromosome_end	chr15B	S001	42414310-42940759 of 43252101	informative: telocentric
+other_family_larger_on_chromosome	chr15B	S002	142879 bp vs 119936 bp	centromeric family kept
+second_locus_comparable	chr16B	S001	second 63695 bp vs first 74319 bp	kept the larger
+second_locus_comparable	chr17B	S001	second 80832 bp vs first 148436 bp	kept the larger
+second_locus_comparable	chr18B	S001	second 91639 bp vs first 105515 bp	kept the larger
+second_locus_comparable	chr20B	S001	second 143664 bp vs first 149720 bp	kept the larger
+second_locus_comparable	chr21B	S001	second 76340 bp vs first 85182 bp	kept the larger
+other_family_larger_on_chromosome	chr21B	S002	237891 bp vs 215174 bp	centromeric family kept
+second_locus_comparable	chr22B	S001	second 97985 bp vs first 128960 bp	kept the larger
+second_locus_comparable	chr23B	S001	second 91446 bp vs first 150207 bp	kept the larger
+other_family_larger_on_chromosome	chr23B	S003	901230 bp vs 565373 bp	centromeric family kept
+second_locus_comparable	chr24B	S001	second 722844 bp vs first 801722 bp	kept the larger

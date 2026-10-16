@@ -1,0 +1,24 @@
+kind	chromosome	family	magnitude	default_applied
+cofamily_joined_locus	*	S010	co-located on 1/1 shared chromosomes	arrays of this superfamily are part of the centromeric locus
+cofamily_joined_locus	*	S002	co-located on 8/9 shared chromosomes	arrays of this superfamily are part of the centromeric locus
+short_consensus_family_as_broad	*	S003	31 chromosomes, 2577343 bp, mono 6 vs 23 chromosomes, 8951205 bp, mono 186	not eligible: no consensus >= --short-len
+other_family_larger_on_chromosome	chr1	S003	114587 bp vs 19685 bp	centromeric family kept
+other_family_larger_on_chromosome	chr2	S003	319668 bp vs 36794 bp	centromeric family kept
+locus_at_chromosome_end	chr4	S001	98700-193445 of 35007261	informative: telocentric
+locus_includes_period_class_arrays	chr5	S001	23813 of 90262 bp	joined by monomer period, not by sequence
+second_locus_comparable	chr5	S001	second 58903 bp vs first 90262 bp	kept the larger
+second_locus_comparable	chr6	S001	second 27086 bp vs first 49643 bp	kept the larger
+other_family_larger_on_chromosome	chr6	S003	537883 bp vs 76729 bp	centromeric family kept
+locus_at_chromosome_end	chr7	S001	3448-2504431 of 33626487	informative: telocentric
+other_family_larger_on_chromosome	chr8	S005	444384 bp vs 180336 bp	centromeric family kept
+second_locus_comparable	chr9	S001	second 36064 bp vs first 61806 bp	kept the larger
+locus_at_chromosome_end	chr10	S001	25489509-26627998 of 26723564	informative: telocentric
+other_family_larger_on_chromosome	chr15	S004	317377 bp vs 199115 bp	centromeric family kept
+locus_at_chromosome_end	chr20	S001	20230031-20793442 of 20858829	informative: telocentric
+other_family_larger_on_chromosome	chr21	S004	461488 bp vs 290338 bp	centromeric family kept
+locus_at_chromosome_end	chr24	S001	20664438-22771674 of 22782094	informative: telocentric
+other_family_larger_on_chromosome	chr32	S007	238088 bp vs 24800 bp	centromeric family kept
+other_family_larger_on_chromosome	chr33	S007	434679 bp vs 19839 bp	centromeric family kept
+other_family_larger_on_chromosome	chr37	S009	267316 bp vs 18329 bp	centromeric family kept
+other_family_larger_on_chromosome	chr38	S006	224477 bp vs 55550 bp	centromeric family kept
+other_family_larger_on_chromosome	chr39	S004	244884 bp vs 12370 bp	centromeric family kept

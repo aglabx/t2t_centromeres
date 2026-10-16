@@ -1,0 +1,92 @@
+kind	chromosome	family	magnitude	default_applied
+breadth_tie_broken_by_bp	*	S005	45 chromosomes, 55697016 bp, mono 40 vs 45 chromosomes, 73161647 bp, mono 34	kept the broader family; see colocated_families
+breadth_tie_broken_by_bp	*	S006	45 chromosomes, 51685120 bp, mono 37 vs 45 chromosomes, 73161647 bp, mono 34	kept the broader family; see colocated_families
+breadth_tie_broken_by_bp	*	S007	45 chromosomes, 43866572 bp, mono 46 vs 45 chromosomes, 73161647 bp, mono 34	kept the broader family; see colocated_families
+breadth_tie_broken_by_bp	*	S009	45 chromosomes, 32808501 bp, mono 33 vs 45 chromosomes, 73161647 bp, mono 34	kept the broader family; see colocated_families
+breadth_near_tie	*	S001	44 chromosomes, 84382880 bp, mono 46 vs 45 chromosomes, 73161647 bp, mono 34	kept the broader family; see colocated_families
+breadth_near_tie	*	S004	44 chromosomes, 61209903 bp, mono 32 vs 45 chromosomes, 73161647 bp, mono 34	kept the broader family; see colocated_families
+breadth_near_tie	*	S008	44 chromosomes, 33872864 bp, mono 44 vs 45 chromosomes, 73161647 bp, mono 34	kept the broader family; see colocated_families
+breadth_near_tie	*	S011	44 chromosomes, 27274301 bp, mono 60 vs 45 chromosomes, 73161647 bp, mono 34	kept the broader family; see colocated_families
+breadth_near_tie	*	S012	44 chromosomes, 22026335 bp, mono 39 vs 45 chromosomes, 73161647 bp, mono 34	kept the broader family; see colocated_families
+breadth_near_tie	*	S013	44 chromosomes, 18374942 bp, mono 54 vs 45 chromosomes, 73161647 bp, mono 34	kept the broader family; see colocated_families
+second_locus_comparable	chr1	S002	second 410609 bp vs first 439063 bp	kept the larger
+other_family_larger_on_chromosome	chr1	S007	3418112 bp vs 2272660 bp	centromeric family kept
+second_locus_comparable	chr2	S002	second 399751 bp vs first 567215 bp	kept the larger
+other_family_larger_on_chromosome	chr2	S004	3577772 bp vs 2634465 bp	centromeric family kept
+locus_includes_period_class_arrays	chr3	S002	1718024 of 1718024 bp	joined by monomer period, not by sequence
+second_locus_comparable	chr4	S002	second 327390 bp vs first 629865 bp	kept the larger
+other_family_larger_on_chromosome	chr4	S001	2007834 bp vs 1978998 bp	centromeric family kept
+second_locus_comparable	chr5	S002	second 343670 bp vs first 579634 bp	kept the larger
+other_family_larger_on_chromosome	chr5	S006	2942209 bp vs 2574216 bp	centromeric family kept
+second_locus_comparable	chr6	S002	second 339769 bp vs first 445142 bp	kept the larger
+other_family_larger_on_chromosome	chr6	S009	1949337 bp vs 1648092 bp	centromeric family kept
+locus_includes_period_class_arrays	chr7	S002	1697764 of 1697764 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	chr7	S001	12804718 bp vs 3339455 bp	centromeric family kept
+locus_includes_period_class_arrays	chr8	S002	526744 of 526744 bp	joined by monomer period, not by sequence
+second_locus_comparable	chr8	S002	second 467415 bp vs first 526744 bp	kept the larger
+other_family_larger_on_chromosome	chr8	S001	2514534 bp vs 1309002 bp	centromeric family kept
+second_locus_comparable	chr9	S002	second 420572 bp vs first 522504 bp	kept the larger
+other_family_larger_on_chromosome	chr9	S006	3258316 bp vs 2012569 bp	centromeric family kept
+locus_includes_period_class_arrays	chr10	S002	940202 of 940202 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	chr10	S001	2044016 bp vs 1721495 bp	centromeric family kept
+other_family_larger_on_chromosome	chr11	S003	2163857 bp vs 1781625 bp	centromeric family kept
+second_locus_comparable	chr12	S002	second 308768 bp vs first 472411 bp	kept the larger
+other_family_larger_on_chromosome	chr12	S001	2278380 bp vs 1826494 bp	centromeric family kept
+other_family_larger_on_chromosome	chr13	S001	3175070 bp vs 2428948 bp	centromeric family kept
+second_locus_comparable	chr14	S002	second 389465 bp vs first 548009 bp	kept the larger
+locus_at_chromosome_end	chr14	S002	75945359-77523389 of 77541459	informative: telocentric
+other_family_larger_on_chromosome	chr14	S001	2409267 bp vs 2076320 bp	centromeric family kept
+second_locus_comparable	chr15	S002	second 536515 bp vs first 701589 bp	kept the larger
+other_family_larger_on_chromosome	chr15	S003	2909936 bp vs 2777210 bp	centromeric family kept
+second_locus_comparable	chr16	S002	second 217070 bp vs first 320470 bp	kept the larger
+other_family_larger_on_chromosome	chr16	S003	2810274 bp vs 1044308 bp	centromeric family kept
+second_locus_comparable	chr17	S002	second 683524 bp vs first 1189693 bp	kept the larger
+locus_includes_period_class_arrays	chr18	S002	70048 of 1009111 bp	joined by monomer period, not by sequence
+second_locus_comparable	chr18	S002	second 961339 bp vs first 1009111 bp	kept the larger
+second_locus_comparable	chr19	S002	second 1066624 bp vs first 1477177 bp	kept the larger
+locus_includes_period_class_arrays	chr20	S002	871998 of 871998 bp	joined by monomer period, not by sequence
+second_locus_comparable	chr20	S002	second 494557 bp vs first 871998 bp	kept the larger
+second_locus_comparable	chr21	S002	second 399793 bp vs first 672620 bp	kept the larger
+other_family_larger_on_chromosome	chr21	S001	3093158 bp vs 1995226 bp	centromeric family kept
+locus_includes_period_class_arrays	chr22	S002	718370 of 718370 bp	joined by monomer period, not by sequence
+second_locus_comparable	chr22	S002	second 500740 bp vs first 718370 bp	kept the larger
+locus_at_chromosome_end	chr22	S002	73627454-74352312 of 74362091	informative: telocentric
+other_family_larger_on_chromosome	chr23	S003	3548233 bp vs 3092736 bp	centromeric family kept
+second_locus_comparable	chr24	S002	second 300800 bp vs first 347864 bp	kept the larger
+other_family_larger_on_chromosome	chr24	S003	2182182 bp vs 1880371 bp	centromeric family kept
+locus_includes_period_class_arrays	chr25	S002	2776979 of 2776979 bp	joined by monomer period, not by sequence
+second_locus_comparable	chr26	S002	second 345148 bp vs first 413010 bp	kept the larger
+other_family_larger_on_chromosome	chr26	S008	1844453 bp vs 1615515 bp	centromeric family kept
+second_locus_comparable	chr27	S002	second 870268 bp vs first 1115356 bp	kept the larger
+second_locus_comparable	chr28	S002	second 354630 bp vs first 661718 bp	kept the larger
+other_family_larger_on_chromosome	chr28	S001	2209107 bp vs 1976600 bp	centromeric family kept
+locus_includes_period_class_arrays	chr29	S002	183703 of 361578 bp	joined by monomer period, not by sequence
+second_locus_comparable	chr29	S002	second 197362 bp vs first 361578 bp	kept the larger
+other_family_larger_on_chromosome	chr29	S003	3221360 bp vs 998421 bp	centromeric family kept
+locus_includes_period_class_arrays	chr30	S002	409231 of 409231 bp	joined by monomer period, not by sequence
+second_locus_comparable	chr30	S002	second 235702 bp vs first 409231 bp	kept the larger
+other_family_larger_on_chromosome	chr30	S003	3100252 bp vs 888160 bp	centromeric family kept
+other_family_larger_on_chromosome	chr32	S003	3662097 bp vs 1054769 bp	centromeric family kept
+other_family_larger_on_chromosome	chr33	S003	2561417 bp vs 1770724 bp	centromeric family kept
+locus_includes_period_class_arrays	chr34	S002	662795 of 662795 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	chr34	S003	2658388 bp vs 996310 bp	centromeric family kept
+locus_includes_period_class_arrays	chr35	S002	1349582 of 1349582 bp	joined by monomer period, not by sequence
+locus_at_chromosome_end	chr35	S002	15977-1371212 of 65249712	informative: telocentric
+second_locus_comparable	chr36	S002	second 753304 bp vs first 761108 bp	kept the larger
+locus_includes_period_class_arrays	chr37	S002	1767876 of 1767876 bp	joined by monomer period, not by sequence
+locus_includes_period_class_arrays	chr38	S002	435971 of 435971 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	chr38	S001	2347508 bp vs 665258 bp	centromeric family kept
+locus_includes_period_class_arrays	chr39	S002	313452 of 313452 bp	joined by monomer period, not by sequence
+second_locus_comparable	chr39	S002	second 208998 bp vs first 313452 bp	kept the larger
+other_family_larger_on_chromosome	chr39	S003	3704206 bp vs 760624 bp	centromeric family kept
+other_family_larger_on_chromosome	chr40	S003	3171948 bp vs 819698 bp	centromeric family kept
+locus_includes_period_class_arrays	chr41	S002	1887354 of 1887354 bp	joined by monomer period, not by sequence
+second_locus_comparable	chr42	S002	second 498119 bp vs first 542359 bp	kept the larger
+locus_at_chromosome_end	chr42	S002	36596-1387450 of 49642503	informative: telocentric
+other_family_larger_on_chromosome	chr42	S022	2739687 bp vs 1720720 bp	centromeric family kept
+locus_includes_period_class_arrays	chr43	S002	910219 of 910219 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	chr43	S001	3095204 bp vs 1990958 bp	centromeric family kept
+second_locus_comparable	chr44	S002	second 465925 bp vs first 579085 bp	kept the larger
+other_family_larger_on_chromosome	chr44	S005	2469220 bp vs 1546228 bp	centromeric family kept
+locus_includes_period_class_arrays	chr45	S002	17395 of 495665 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	chr45	S004	1552340 bp vs 766857 bp	centromeric family kept

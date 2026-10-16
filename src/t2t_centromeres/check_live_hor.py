@@ -33,7 +33,7 @@ with open(args.report) as fh:
         if ln.startswith("#"):
             continue
         f = ln.rstrip("\n").split("\t")
-        if f[1] == "assembled-molecule" and f[3] == "Chromosome":
+        if f[1] == "assembled-molecule" and f[3] in ("Chromosome", "Linkage Group"):
             t = f[9] if args.names == "ucsc" else f[0]
             for key in (f[0], f[4], f[6]):
                 track_name[key] = t

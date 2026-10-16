@@ -1,34 +1,123 @@
-accession	organism	asm_name	directory	status	chromosomes	called	no_family_array	family_base_period	family_n_chrom	family_n_seq_families	near_tie	official_set	official_chroms_comparable	official_within_ours	partial_overlap	ours_within_official	disjoint	locus_on_official	largest_array_on_official	not_comparable	agrees	contested_locus	contested_no_call	note
-GCA_000003025.7	Sus scrofa	T2T-Sscrofa	Sus_scrofa__T2T-Sscrofa__GCA_000003025.7	called	20	19	1	336	19	2		none_published												
-GCA_009914755.4	Homo sapiens	T2T-CHM13v2.0	Homo_sapiens__T2T-CHM13v2.0__GCA_009914755.4	called	24	24	0	171	24	27		T2T_CHM13_censat_v2.1:active_hor	24	21	3	0	0	24	24	0	24	0	0	
-GCA_028858775.3	Pan troglodytes	NHGRI_mPanTro3-v2.1_pri	Pan_troglodytes__NHGRI_mPanTro3-v2.1_pri__GCA_028858775.3	called	25	25	0	171	25	16		T2T_primates_CenSat_v2.0:active_hor	25	23	2	0	0	25	25	0	25	0	0	
-GCA_028858805.2	Pan troglodytes	NHGRI_mPanTro3-v2.0_alt	Pan_troglodytes__NHGRI_mPanTro3-v2.0_alt__GCA_028858805.2	called	23	23	0	171	23	15		T2T_primates_CenSat_v2.0:active_hor	23	21	1	0	1	22	22	0	22	1	0	
-GCA_028858825.2	Pan paniscus	NHGRI_mPanPan1-v2.0_pat	Pan_paniscus__NHGRI_mPanPan1-v2.0_pat__GCA_028858825.2	called	24	24	0	171	24	11		T2T_primates_CenSat_v2.0:active_hor	24	17	6	1	0	24	19	0	24	0	0	
-GCA_028858845.2	Pan paniscus	NHGRI_mPanPan1-v2.0_mat	Pan_paniscus__NHGRI_mPanPan1-v2.0_mat__GCA_028858845.2	called	24	24	0	171	24	17		T2T_primates_CenSat_v2.0:active_hor	24	20	3	0	1	23	19	0	23	1	0	
-GCA_028878055.3	Symphalangus syndactylus	NHGRI_mSymSyn1-v2.1_pri	Symphalangus_syndactylus__NHGRI_mSymSyn1-v2.1_pri__GCA_028878055.3	called	26	26	0	171	26	4		T2T_primates_CenSat_v2.0:active_hor	26	5	13	5	3	23	22	0	23	3	0	
-GCA_028878085.3	Symphalangus syndactylus	NHGRI_mSymSyn1-v2.0_alt	Symphalangus_syndactylus__NHGRI_mSymSyn1-v2.0_alt__GCA_028878085.3	called	24	24	0	171	24	9		T2T_primates_CenSat_v2.0:active_hor	24	6	10	5	3	21	21	0	21	3	0	
-GCA_028885475.2	Gorilla gorilla gorilla	NHGRI_mGorGor1-v2.0_pat	Gorilla_gorilla_gorilla__NHGRI_mGorGor1-v2.0_pat__GCA_028885475.2	called	24	24	0	171	24	8	breadth_near_tie:23 chromosomes, 209517236 bp, mono 32 vs 24 chromosomes, 100351931 bp, mono 169	T2T_primates_CenSat_v2.0:active_hor	24	18	5	1	0	24	24	0	24	0	0	
-GCA_028885495.2	Gorilla gorilla gorilla	NHGRI_mGorGor1-v2.0_mat	Gorilla_gorilla_gorilla__NHGRI_mGorGor1-v2.0_mat__GCA_028885495.2	called	24	24	0	171	24	9	breadth_near_tie:23 chromosomes, 236792924 bp, mono 32 vs 24 chromosomes, 106719502 bp, mono 169	T2T_primates_CenSat_v2.0:active_hor	24	19	5	0	0	24	24	0	24	0	0	
-GCA_028885525.2	Pongo pygmaeus	NHGRI_mPonPyg2-v2.0_alt	Pongo_pygmaeus__NHGRI_mPonPyg2-v2.0_alt__GCA_028885525.2	called	23	23	0	171	23	12		T2T_primates_CenSat_v2.0:active_hor	23	11	11	1	0	23	22	0	23	0	0	
-GCA_028885625.3	Pongo pygmaeus	NHGRI_mPonPyg2-v2.1_pri	Pongo_pygmaeus__NHGRI_mPonPyg2-v2.1_pri__GCA_028885625.3	called	25	25	0	171	25	8		T2T_primates_CenSat_v2.0:active_hor	25	10	14	1	0	25	25	0	25	0	0	
-GCA_028885655.3	Pongo abelii	NHGRI_mPonAbe1-v2.1_pri	Pongo_abelii__NHGRI_mPonAbe1-v2.1_pri__GCA_028885655.3	called	25	25	0	171	25	8		T2T_primates_CenSat_v2.0:active_hor	24	12	10	2	0	24	23	1	24	0	0	
-GCA_028885685.2	Pongo abelii	NHGRI_mPonAbe1-v2.0_alt	Pongo_abelii__NHGRI_mPonAbe1-v2.0_alt__GCA_028885685.2	called	23	23	0	171	23	6		T2T_primates_CenSat_v2.0:active_hor	22	13	6	3	0	22	21	1	22	0	0	
-GCA_029281585.3	Gorilla gorilla gorilla	NHGRI_mGorGor1-v2.1_pri	Gorilla_gorilla_gorilla__NHGRI_mGorGor1-v2.1_pri__GCA_029281585.3	called	25	25	0	171	25	6	breadth_near_tie:24 chromosomes, 227119150 bp, mono 32 vs 25 chromosomes, 109667523 bp, mono 169	T2T_primates_CenSat_v2.0:active_hor	25	19	5	1	0	25	25	0	25	0	0	
-GCA_029289425.3	Pan paniscus	NHGRI_mPanPan1-v2.1_pri	Pan_paniscus__NHGRI_mPanPan1-v2.1_pri__GCA_029289425.3	called	25	25	0	171	25	14		T2T_primates_CenSat_v2.0:active_hor	25	19	4	1	1	24	19	0	24	1	0	
-GCA_037993035.2	Macaca fascicularis	T2T-MFA8v1.1	Macaca_fascicularis__T2T-MFA8v1.1__GCA_037993035.2	called	22	22	0	171	22	11		T2T-MFA8_Nature2025_S39:presumed_active_array	21	21	0	0	0	21	21	0	21	0	0	
-GCA_037993035.2	Macaca fascicularis	T2T-MFA8v1.1	Macaca_fascicularis__T2T-MFA8v1.1__GCA_037993035.2	called	22	22	0	171	22	11		T2T-MFA8_release_v1.1:centromere_region	22	0	1	21	0	22	22	0	22	0	0	
-GCA_040805955.1	Ovis aries	T2T-sheep1.0	Ovis_aries__T2T-sheep1.0__GCA_040805955.1	called	28	28	0	816	26	19		T2T-sheep_NatGenet2025_S8:gene_in_centromeric_region	25	7	6	3	9	16	12	0	16	9	0	
-GCA_040806595.1	Capra hircus	T2T-goat1.0	Capra_hircus__T2T-goat1.0__GCA_040806595.1	called	31	30	1	703	30	10		none_published												
-GCA_040836155.1	Ovis aries	T2T-sheep1.0P	Ovis_aries__T2T-sheep1.0P__GCA_040836155.1	called	27	24	3	816	23	20		none_published												
-GCA_040970035.1	Capra hircus	T2T-goat2.0M	Capra_hircus__T2T-goat2.0M__GCA_040970035.1	called	30	28	2	816	27	217		none_published												
-GCA_041053135.1	Capra hircus	T2T-goat2.0P	Capra_hircus__T2T-goat2.0P__GCA_041053135.1	called	30	28	2	816	28	237		none_published												
-GCA_041121725.1	Ovis aries	T2T-sheep1.0M	Ovis_aries__T2T-sheep1.0M__GCA_041121725.1	called	27	25	2	816	24	18		none_published												
-GCA_041735815.1	Capra hircus	T2T-goat2.0	Capra_hircus__T2T-goat2.0__GCA_041735815.1	called	31	30	1	703	30	10		none_published												
-GCA_041736475.1	Capra hircus	T2T-goat1.0M	Capra_hircus__T2T-goat1.0M__GCA_041736475.1	called	30	28	2	816	27	233		none_published												
-GCA_041920685.1	Capra hircus	T2T-goat1.0P	Capra_hircus__T2T-goat1.0P__GCA_041920685.1	called	30	28	2	816	28	247		none_published												
-GCA_049350105.2	Macaca mulatta	T2T-MMU8v2.0	Macaca_mulatta__T2T-MMU8v2.0__GCA_049350105.2	called	22	22	0	171	22	9		T2T-MMU8_release_v2.0:alpha_satellite_region	22	0	1	21	0	22	22	0	22	0	0	
-GCA_052818215.1	Equus caballus	T2T-horse1.0	Equus_caballus__T2T-horse1.0__GCA_052818215.1	called	33	32	1	221	32	2		none_published												
-GCA_054371575.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.alt	Giraffa_tippelskirchi__T2T-mGirTip1v1.2.alt__GCA_054371575.1	called	14	14	0	328	14	3		none_published												
-GCA_054371585.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.pri	Giraffa_tippelskirchi__T2T-mGirTip1v1.2.pri__GCA_054371585.1	called	16	15	1	328	15	3		none_published												
-GCA_054371615.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.pat	Giraffa_tippelskirchi__T2T-mGirTip1v1.2.pat__GCA_054371615.1	called	15	14	1	329	14	3		none_published												
-GCA_054371825.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.mat	Giraffa_tippelskirchi__T2T-mGirTip1v1.2.mat__GCA_054371825.1	called	15	15	0	328	15	3		none_published												
+accession	organism	asm_name	directory	status	chromosomes	called	no_family_array	family_base_period	family_n_chrom	family_n_seq_families	near_tie	official_set	official_chroms_comparable	official_within_ours	partial_overlap	ours_within_official	disjoint	locus_on_official	largest_array_on_official	not_comparable	agrees	contested_locus	contested_no_call	completeness_tier	gaps	unplaced_sequences	chromosomes_both_telomeres	note
+GCA_000003025.7	Sus scrofa	T2T-Sscrofa	Sus_scrofa__T2T-Sscrofa__GCA_000003025.7	called	20	19	1	336	19	2		none_published												gap_free	0	0	19	
+GCA_009914755.4	Homo sapiens	T2T-CHM13v2.0	Homo_sapiens__T2T-CHM13v2.0__GCA_009914755.4	called	24	24	0	171	24	27		T2T_CHM13_censat_v2.1:active_hor	24	21	3	0	0	24	24	0	24	0	0	real_t2t	0	0	24	
+GCA_028858775.3	Pan troglodytes	NHGRI_mPanTro3-v2.1_pri	Pan_troglodytes__NHGRI_mPanTro3-v2.1_pri__GCA_028858775.3	called	25	25	0	171	25	16		T2T_primates_CenSat_v2.0:active_hor	25	23	2	0	0	25	25	0	25	0	0	gapped	5	0	25	
+GCA_028858805.2	Pan troglodytes	NHGRI_mPanTro3-v2.0_alt	Pan_troglodytes__NHGRI_mPanTro3-v2.0_alt__GCA_028858805.2	called	23	23	0	171	23	15		T2T_primates_CenSat_v2.0:active_hor	23	21	1	0	1	22	22	0	22	1	0	gapped	5	0	20	
+GCA_028858825.2	Pan paniscus	NHGRI_mPanPan1-v2.0_pat	Pan_paniscus__NHGRI_mPanPan1-v2.0_pat__GCA_028858825.2	called	24	24	0	171	24	11		T2T_primates_CenSat_v2.0:active_hor	24	17	6	1	0	24	19	0	24	0	0	gapped	7	14	23	
+GCA_028858845.2	Pan paniscus	NHGRI_mPanPan1-v2.0_mat	Pan_paniscus__NHGRI_mPanPan1-v2.0_mat__GCA_028858845.2	called	24	24	0	171	24	17		T2T_primates_CenSat_v2.0:active_hor	24	20	3	0	1	23	19	0	23	1	0	gapped	5	8	24	
+GCA_028878055.3	Symphalangus syndactylus	NHGRI_mSymSyn1-v2.1_pri	Symphalangus_syndactylus__NHGRI_mSymSyn1-v2.1_pri__GCA_028878055.3	called	26	26	0	171	26	4		T2T_primates_CenSat_v2.0:active_hor	26	5	13	5	3	23	22	0	23	3	0	gapped	1	0	26	
+GCA_028878085.3	Symphalangus syndactylus	NHGRI_mSymSyn1-v2.0_alt	Symphalangus_syndactylus__NHGRI_mSymSyn1-v2.0_alt__GCA_028878085.3	called	24	24	0	171	24	9		T2T_primates_CenSat_v2.0:active_hor	24	6	10	5	3	21	21	0	21	3	0	gapped	3	16	20	
+GCA_028885475.2	Gorilla gorilla gorilla	NHGRI_mGorGor1-v2.0_pat	Gorilla_gorilla_gorilla__NHGRI_mGorGor1-v2.0_pat__GCA_028885475.2	called	24	24	0	171	24	8	breadth_near_tie:23 chromosomes, 209517236 bp, mono 32 vs 24 chromosomes, 100351931 bp, mono 169	T2T_primates_CenSat_v2.0:active_hor	24	18	5	1	0	24	24	0	24	0	0	gapped	2	0	24	
+GCA_028885495.2	Gorilla gorilla gorilla	NHGRI_mGorGor1-v2.0_mat	Gorilla_gorilla_gorilla__NHGRI_mGorGor1-v2.0_mat__GCA_028885495.2	called	24	24	0	171	24	9	breadth_near_tie:23 chromosomes, 236792924 bp, mono 32 vs 24 chromosomes, 106719502 bp, mono 169	T2T_primates_CenSat_v2.0:active_hor	24	19	5	0	0	24	24	0	24	0	0	gapped	5	201	23	
+GCA_028885525.2	Pongo pygmaeus	NHGRI_mPonPyg2-v2.0_alt	Pongo_pygmaeus__NHGRI_mPonPyg2-v2.0_alt__GCA_028885525.2	called	23	23	0	171	23	12		T2T_primates_CenSat_v2.0:active_hor	23	11	11	1	0	23	22	0	23	0	0	gapped	10	10	19	
+GCA_028885625.3	Pongo pygmaeus	NHGRI_mPonPyg2-v2.1_pri	Pongo_pygmaeus__NHGRI_mPonPyg2-v2.1_pri__GCA_028885625.3	called	25	25	0	171	25	8		T2T_primates_CenSat_v2.0:active_hor	25	10	14	1	0	25	25	0	25	0	0	gapped	8	0	24	
+GCA_028885655.3	Pongo abelii	NHGRI_mPonAbe1-v2.1_pri	Pongo_abelii__NHGRI_mPonAbe1-v2.1_pri__GCA_028885655.3	called	25	25	0	171	25	8		T2T_primates_CenSat_v2.0:active_hor	24	12	10	2	0	24	23	1	24	0	0	gapped	11	4	25	
+GCA_028885685.2	Pongo abelii	NHGRI_mPonAbe1-v2.0_alt	Pongo_abelii__NHGRI_mPonAbe1-v2.0_alt__GCA_028885685.2	called	23	23	0	171	23	6		T2T_primates_CenSat_v2.0:active_hor	22	13	6	3	0	22	21	1	22	0	0	gapped	10	25	19	
+GCA_029281585.3	Gorilla gorilla gorilla	NHGRI_mGorGor1-v2.1_pri	Gorilla_gorilla_gorilla__NHGRI_mGorGor1-v2.1_pri__GCA_029281585.3	called	25	25	0	171	25	6	breadth_near_tie:24 chromosomes, 227119150 bp, mono 32 vs 25 chromosomes, 109667523 bp, mono 169	T2T_primates_CenSat_v2.0:active_hor	25	19	5	1	0	25	25	0	25	0	0	gapped	2	0	25	
+GCA_029289425.3	Pan paniscus	NHGRI_mPanPan1-v2.1_pri	Pan_paniscus__NHGRI_mPanPan1-v2.1_pri__GCA_029289425.3	called	25	25	0	171	25	14		T2T_primates_CenSat_v2.0:active_hor	25	19	4	1	1	24	19	0	24	1	0	gapped	6	5	25	
+GCA_037993035.2	Macaca fascicularis	T2T-MFA8v1.1	Macaca_fascicularis__T2T-MFA8v1.1__GCA_037993035.2	called	22	22	0	171	22	11		T2T-MFA8_Nature2025_S39:presumed_active_array	21	21	0	0	0	21	21	0	21	0	0	real_t2t	0	0	22	
+GCA_037993035.2	Macaca fascicularis	T2T-MFA8v1.1	Macaca_fascicularis__T2T-MFA8v1.1__GCA_037993035.2	called	22	22	0	171	22	11		T2T-MFA8_release_v1.1:centromere_region	22	0	1	21	0	22	22	0	22	0	0	real_t2t	0	0	22	
+GCA_040805955.1	Ovis aries	T2T-sheep1.0	Ovis_aries__T2T-sheep1.0__GCA_040805955.1	called	28	28	0	816	26	19		T2T-sheep_NatGenet2025_S8:gene_in_centromeric_region	25	7	6	3	9	16	12	0	16	9	0	gap_free	0	0	26	
+GCA_040806595.1	Capra hircus	T2T-goat1.0	Capra_hircus__T2T-goat1.0__GCA_040806595.1	called	31	30	1	703	30	10		none_published												real_t2t	0	0	31	
+GCA_040836155.1	Ovis aries	T2T-sheep1.0P	Ovis_aries__T2T-sheep1.0P__GCA_040836155.1	called	27	24	3	816	23	20		none_published												gapped	4	0	3	
+GCA_040970035.1	Capra hircus	T2T-goat2.0M	Capra_hircus__T2T-goat2.0M__GCA_040970035.1	called	30	28	2	816	27	217		none_published												gapped	6	0	21	
+GCA_041053135.1	Capra hircus	T2T-goat2.0P	Capra_hircus__T2T-goat2.0P__GCA_041053135.1	called	30	28	2	816	28	237		none_published												gapped	11	0	20	
+GCA_041121725.1	Ovis aries	T2T-sheep1.0M	Ovis_aries__T2T-sheep1.0M__GCA_041121725.1	called	27	25	2	816	24	18		none_published												gapped	10	0	4	
+GCA_041735815.1	Capra hircus	T2T-goat2.0	Capra_hircus__T2T-goat2.0__GCA_041735815.1	called	31	30	1	703	30	10		none_published												real_t2t	0	0	31	
+GCA_041736475.1	Capra hircus	T2T-goat1.0M	Capra_hircus__T2T-goat1.0M__GCA_041736475.1	called	30	28	2	816	27	233		none_published												gapped	6	0	21	
+GCA_041920685.1	Capra hircus	T2T-goat1.0P	Capra_hircus__T2T-goat1.0P__GCA_041920685.1	called	30	28	2	816	28	247		none_published												gapped	11	0	20	
+GCA_049350105.2	Macaca mulatta	T2T-MMU8v2.0	Macaca_mulatta__T2T-MMU8v2.0__GCA_049350105.2	called	22	22	0	171	22	9		T2T-MMU8_release_v2.0:alpha_satellite_region	22	0	1	21	0	22	22	0	22	0	0	real_t2t	0	0	22	
+GCA_052818215.1	Equus caballus	T2T-horse1.0	Equus_caballus__T2T-horse1.0__GCA_052818215.1	called	33	32	1	221	32	2		none_published												gap_free	0	0	23	
+GCA_054371575.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.alt	Giraffa_tippelskirchi__T2T-mGirTip1v1.2.alt__GCA_054371575.1	called	14	14	0	328	14	3		none_published												gapped	1	0	14	
+GCA_054371585.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.pri	Giraffa_tippelskirchi__T2T-mGirTip1v1.2.pri__GCA_054371585.1	called	16	15	1	328	15	3		none_published												real_t2t	0	0	16	
+GCA_054371615.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.pat	Giraffa_tippelskirchi__T2T-mGirTip1v1.2.pat__GCA_054371615.1	called	15	14	1	329	14	3		none_published												real_t2t	0	0	15	
+GCA_054371825.1	Giraffa tippelskirchi	T2T-mGirTip1v1.2.mat	Giraffa_tippelskirchi__T2T-mGirTip1v1.2.mat__GCA_054371825.1	called	15	15	0	328	15	3		none_published												gapped	1	0	15	
+GCA_052040795.2	Danio rerio	GRCz13ab	Danio_rerio__GRCz13ab__GCA_052040795.2	called	25	25	0	92	25	2		none_published												real_t2t	0	0	25	
+GCA_047663525.1	Anas platyrhynchos	IASCAAS_PekinDuck_T2T	Anas_platyrhynchos__IASCAAS_PekinDuck_T2T__GCA_047663525.1	called	41	41	0	190	41	2		none_published												gap_free	0	0	40	
+GCA_061193975.1	Trachinotus ovatus	ASM6119397v1	Trachinotus_ovatus__ASM6119397v1__GCA_061193975.1	called	24	8	16	118	8	2	breadth_tie_broken_by_bp:8 chromosomes, 284996 bp, mono 671 vs 8 chromosomes, 518626 bp, mono 118;breadth_near_tie:7 chromosomes, 198236 bp, mono 1143 vs 8 chromosomes, 518626 bp, mono 118	none_published												gap_free	0	0	5	
+GCA_061617105.1	Thunnus orientalis	ASM61617105v1	Thunnus_orientalis__ASM61617105v1__GCA_061617105.1	called	24	20	4	127	20	2		none_published												gap_free	0	0	21	
+GCA_041753875.1	Acanthopagrus schlegelii	ASM4175387v1	Acanthopagrus_schlegelii__ASM4175387v1__GCA_041753875.1	called	24	24	0	186	24	2		none_published												gap_free	0	0	19	
+GCA_051903495.1	Alectoris rufa	Arufa_2401F	Alectoris_rufa__Arufa_2401F__GCA_051903495.1	called	40	20	20	996	20	2		none_published												gap_free	0	0	0	
+GCA_051020865.1	Tetraodon nigroviridis	TetNigT2Thap1	Tetraodon_nigroviridis__TetNigT2Thap1__GCA_051020865.1	called	21	21	0	118	21	5		none_published												gap_free	0	0	17	
+GCA_054883375.1	Arapaima gigas	ASM5488337v1	Arapaima_gigas__ASM5488337v1__GCA_054883375.1	called	28	8	20	2825	7	9		none_published												gap_free	0	0	13	
+GCA_054131445.1	Tachysurus ussuriensis	ASM5413144v1	Tachysurus_ussuriensis__ASM5413144v1__GCA_054131445.1	called	26	24	2	2531	24	8		none_published												gap_free	0	0	23	
+GCA_060251745.1	Opsariichthys bidens	HZAU_OBidYY_1.0	Opsariichthys_bidens__HZAU_OBidYY_1.0__GCA_060251745.1	called	37	21	16	536	19	6		none_published												gap_free	0	0	29	
+GCA_057318875.1	Hucho bleekeri	ASM5731887v1	Hucho_bleekeri__ASM5731887v1__GCA_057318875.1	called	45	45	0	35	45	559	breadth_tie_broken_by_bp:45 chromosomes, 55697016 bp, mono 40 vs 45 chromosomes, 73161647 bp, mono 34;breadth_tie_broken_by_bp:45 chromosomes, 51685120 bp, mono 37 vs 45 chromosomes, 73161647 bp, mono 34;breadth_tie_broken_by_bp:45 chromosomes, 43866572 bp, mono 46 vs 45 chromosomes, 73161647 bp, mono 34;breadth_tie_broken_by_bp:45 chromosomes, 32808501 bp, mono 33 vs 45 chromosomes, 73161647 bp, mono 34;breadth_near_tie:44 chromosomes, 84382880 bp, mono 46 vs 45 chromosomes, 73161647 bp, mono 34;breadth_near_tie:44 chromosomes, 61209903 bp, mono 32 vs 45 chromosomes, 73161647 bp, mono 34;breadth_near_tie:44 chromosomes, 33872864 bp, mono 44 vs 45 chromosomes, 73161647 bp, mono 34;breadth_near_tie:44 chromosomes, 27274301 bp, mono 60 vs 45 chromosomes, 73161647 bp, mono 34;breadth_near_tie:44 chromosomes, 22026335 bp, mono 39 vs 45 chromosomes, 73161647 bp, mono 34;breadth_near_tie:44 chromosomes, 18374942 bp, mono 54 vs 45 chromosomes, 73161647 bp, mono 34	none_published												gap_free	0	0	11	
+GCA_055001455.1	Riparia riparia	ICG_Riri_1	Riparia_riparia__ICG_Riri_1__GCA_055001455.1	called	40	12	28	37	12	2		none_published												gap_free	0	0	2	
+GCA_061535325.1	Tinca tinca	ASM61535325v1	Tinca_tinca__ASM61535325v1__GCA_061535325.1	called	24	22	2	106	22	12	breadth_tie_broken_by_bp:22 chromosomes, 1273343 bp, mono 51 vs 22 chromosomes, 8063117 bp, mono 106	none_published												gap_free	0	0	18	
+GCA_043388385.1	Cephalopholis sonnerati	ASM4338838v1	Cephalopholis_sonnerati__ASM4338838v1__GCA_043388385.1	called	24	24	0	38	24	9	breadth_near_tie:23 chromosomes, 2710258 bp, mono 348 vs 24 chromosomes, 10169993 bp, mono 38	none_published												real_t2t	0	0	24	
+GCA_051314325.1	Pseudopleuronectes yokohamae	ASM5131432v1	Pseudopleuronectes_yokohamae__ASM5131432v1__GCA_051314325.1	called	24	20	4	625	16	4		none_published												gap_free	0	0	8	
+GCA_047496845.1	Lepus yarkandensis	LepYark_1.0	Lepus_yarkandensis__LepYark_1.0__GCA_047496845.1	called	24	22	2	372	17	32		none_published												gap_free	0	0	7	
+GCA_052150635.1	Equus kiang	ASM5215063v1	Equus_kiang__ASM5215063v1__GCA_052150635.1	called	27	18	9	117	18	2		none_published												gap_free	0	0	26	
+GCA_058569155.1	Epinephelus cyanopodus	ASM5856915v1	Epinephelus_cyanopodus__ASM5856915v1__GCA_058569155.1	called	24	23	1	205	23	8		none_published												gap_free	0	0	23	
+GCA_056632655.1	Hemibarbus labeo	ASM5663265v1	Hemibarbus_labeo__ASM5663265v1__GCA_056632655.1	called	25	20	5	205	20	25		none_published												gap_free	0	0	1	
+GCA_057375095.1	Parabramis pekinensis	BGI_Ppek_1.0	Parabramis_pekinensis__BGI_Ppek_1.0__GCA_057375095.1	called	24	21	3	102	21	6		none_published												gap_free	0	0	11	
+GCA_059910285.1	Channa maculata	ASM5991028v1	Channa_maculata__ASM5991028v1__GCA_059910285.1	called	21	21	0	178	21	2		none_published												gap_free	0	0	19	
+GCA_054491055.1	Hypomesus nipponensis	ASM5449105v1	Hypomesus_nipponensis__ASM5449105v1__GCA_054491055.1	called	28	28	0	196	28	10		none_published												real_t2t	0	0	28	
+GCA_059048685.1	Lutjanus argentimaculatus	GDOU_Ler_1.0	Lutjanus_argentimaculatus__GDOU_Ler_1.0__GCA_059048685.1	called	24	24	0	88	24	1		none_published												gap_free	0	0	0	
+GCA_053813585.1	Premnas biaculeatus	ASM5381358v1	Premnas_biaculeatus__ASM5381358v1__GCA_053813585.1	called	24	16	8	188	16	2		none_published												gap_free	0	0	13	
+GCA_048126385.1	Ilisha elongata	ASM4812638v1	Ilisha_elongata__ASM4812638v1__GCA_048126385.1	called	24	8	16	7065	8	11		none_published												gap_free	0	0	0	
+GCA_061099485.1	Platax teira	ASM6109948v1	Platax_teira__ASM6109948v1__GCA_061099485.1	called	24	15	9	31	15	17	breadth_near_tie:14 chromosomes, 779108 bp, mono 188 vs 15 chromosomes, 662280 bp, mono 31	none_published												gap_free	0	0	0	
+GCA_986341675.1	Bidyanus bidyanus	Bidyanus_bidyanus_T2T_v1	Bidyanus_bidyanus__Bidyanus_bidyanus_T2T_v1__GCA_986341675.1	called	24	22	2	199	21	2		none_published												gap_free	0	0	21	
+GCA_056247825.2	Hydropotes inermis	ASM5624782v2	Hydropotes_inermis__ASM5624782v2__GCA_056247825.2	called	35	34	1	980	34	28		none_published												gap_free	0	0	15	
+GCA_054883365.1	Scleropages jardinii	ASM5488336v1	Scleropages_jardinii__ASM5488336v1__GCA_054883365.1	called	24	18	6	60	14	5		none_published												gap_free	0	0	11	
+GCA_057944685.1	Triplophysa stolickai	ASM5794468v1	Triplophysa_stolickai__ASM5794468v1__GCA_057944685.1	called	25	25	0	128	25	3		none_published												gap_free	0	0	11	
+GCA_059642755.1	Epinephelus fasciatus	ASM5964275v1	Epinephelus_fasciatus__ASM5964275v1__GCA_059642755.1	called	24	24	0	186	24	3		none_published												gap_free	0	0	15	
+GCA_048296945.1	Triplophysa yaopeizhii	HZAU_TYAO_T2T_v1	Triplophysa_yaopeizhii__HZAU_TYAO_T2T_v1__GCA_048296945.1	called	25	23	2	128	23	4		none_published												gap_free	0	0	24	
+GCA_059792245.1	Homo sapiens	HuRef2.0	Homo_sapiens__HuRef2.0__GCA_059792245.1	called	24	24	0	171	24	15		none_published												real_t2t	0	0	24	
+GCA_050437135.1	Mus musculus	T2T_mhaESC_v1.0	Mus_musculus__T2T_mhaESC_v1.0__GCA_050437135.1	called	20	20	0	58	20	59		none_published												gap_free	0	0	18	
+GCA_056825265.1	Mus musculus domesticus	T2T_mhaESC_v1.5	Mus_musculus_domesticus__T2T_mhaESC_v1.5__GCA_056825265.1	called	21	20	1	58	20	59		none_published												gap_free	0	0	19	
+GCA_049306965.1	Danio rerio	GRCz12tu	Danio_rerio__GRCz12tu__GCA_049306965.1	called	25	25	0	92	25	2	breadth_tie_broken_by_bp:25 chromosomes, 3736218 bp, mono 47 vs 25 chromosomes, 63635790 bp, mono 92	none_published												gap_free	0	0	21	
+GCA_033170195.3	Danio rerio	ASM3317019v3	Danio_rerio__ASM3317019v3__GCA_033170195.3	called	25	25	0	92	25	3	breadth_tie_broken_by_bp:25 chromosomes, 3784573 bp, mono 47 vs 25 chromosomes, 64713437 bp, mono 92	none_published												gap_free	0	0	19	
+GCA_059440865.1	Sus scrofa	CAU_T2T_PIGTW1	Sus_scrofa__CAU_T2T_PIGTW1__GCA_059440865.1	called	19	19	0	336	19	5		none_published												gap_free	0	0	15	
+GCA_048338725.1	Sus scrofa	T2T_pig1.0	Sus_scrofa__T2T_pig1.0__GCA_048338725.1	called	20	20	0	336	20	5		none_published												real_t2t	0	0	20	
+GCA_059995485.1	Sus scrofa	ASM5999548v1	Sus_scrofa__ASM5999548v1__GCA_059995485.1	called	20	16	4	336	15	1		none_published												gap_free	0	0	16	
+GCA_059440895.1	Sus scrofa	CAU_T2T_PIGJH1	Sus_scrofa__CAU_T2T_PIGJH1__GCA_059440895.1	called	20	19	1	336	19	5		none_published												gap_free	0	0	17	
+GCA_057782405.1	Sus scrofa	ASM5778240v1	Sus_scrofa__ASM5778240v1__GCA_057782405.1	called	20	19	1	336	19	4		none_published												gap_free	0	0	19	
+GCA_030704935.2	Sus scrofa	ASM3070493v2	Sus_scrofa__ASM3070493v2__GCA_030704935.2	called	20	16	4	336	15	7		none_published												gap_free	0	0	16	
+GCA_059440985.1	Sus scrofa	CAU_T2T_PIGHN1	Sus_scrofa__CAU_T2T_PIGHN1__GCA_059440985.1	called	20	19	1	336	19	4		none_published												gap_free	0	0	16	
+GCA_059336145.1	Bos taurus	ASM5933614v1	Bos_taurus__ASM5933614v1__GCA_059336145.1	called	30	13	17	3539	11	9		none_published												gap_free	0	0	0	
+GCA_057332215.1	Ovis aries	NLFDP_OvArieNajdiFemle_T2T_1.0	Ovis_aries__NLFDP_OvArieNajdiFemle_T2T_1.0__GCA_057332215.1	called	27	23	4	816	22	15		none_published												gap_free	0	0	0	
+GCA_057332225.1	Ovis aries	NLFDP_OvArieNajdiMale_T2T_1.0	Ovis_aries__NLFDP_OvArieNajdiMale_T2T_1.0__GCA_057332225.1	called	28	24	4	816	24	19		none_published												gap_free	0	0	0	
+GCA_052323815.1	Equus caballus	ASM5232381v1	Equus_caballus__ASM5232381v1__GCA_052323815.1	called	33	32	1	221	32	3		none_published												real_t2t	0	0	33	
+GCA_051911995.1	Felis catus	F.catus_OcraZ1_mat1.0	Felis_catus__F.catus_OcraZ1_mat1.0__GCA_051911995.1	called	19	15	4	483	14	5		none_published												gap_free	0	0	18	
+GCA_051911835.1	Felis catus	F.catus_OcraZ1_1.0	Felis_catus__F.catus_OcraZ1_1.0__GCA_051911835.1	called	20	16	4	483	16	5		none_published												gap_free	0	0	19	
+GCA_051911875.1	Felis catus	F.catus_OcraZ1_pat1.0	Felis_catus__F.catus_OcraZ1_pat1.0__GCA_051911875.1	called	19	15	4	483	14	5		none_published												real_t2t	0	0	19	
+GCA_050881965.1	Cyprinus carpio	ASM5088196v1	Cyprinus_carpio__ASM5088196v1__GCA_050881965.1	called	50	49	1	260	48	12		none_published												gap_free	0	0	26	
+GCA_056957295.1	Micropterus salmoides	T2T_MSal_M1.0	Micropterus_salmoides__T2T_MSal_M1.0__GCA_056957295.1	called	23	23	0	608	23	2		none_published												gap_free	0	0	17	
+GCA_056957265.1	Micropterus salmoides	T2T_MSal_F1.0	Micropterus_salmoides__T2T_MSal_F1.0__GCA_056957265.1	called	23	23	0	608	23	2		none_published												gap_free	0	0	12	
+GCA_049919795.1	Ctenopharyngodon idella	ASM4991979v1	Ctenopharyngodon_idella__ASM4991979v1__GCA_049919795.1	called	24	24	0	1511	24	4		none_published												real_t2t	0	0	24	
+GCA_051903545.1	Ctenopharyngodon idella	ASM5190354v1	Ctenopharyngodon_idella__ASM5190354v1__GCA_051903545.1	called	24	24	0	1281	24	2		none_published												gap_free	0	0	23	
+GCA_059630365.1	Larimichthys crocea	Lc-T2T	Larimichthys_crocea__Lc-T2T__GCA_059630365.1	called	25	22	3	42	22	6		none_published												gap_free	0	0	12	
+GCA_051802285.1	Larimichthys crocea	ASM5180228v1	Larimichthys_crocea__ASM5180228v1__GCA_051802285.1	called	24	22	2	42	22	5		none_published												gap_free	0	0	23	
+GCA_051802295.1	Larimichthys crocea	ASM5180229v1	Larimichthys_crocea__ASM5180229v1__GCA_051802295.1	called	24	21	3	42	21	4		none_published												gap_free	0	0	19	
+GCA_061291815.1	Sparus aurata	ASM6129181v1	Sparus_aurata__ASM6129181v1__GCA_061291815.1	called	24	22	2	187	22	2		none_published												gap_free	0	0	0	
+GCA_986269415.1	Monopterus albus	Monopterus_albus_T2T_assembly	Monopterus_albus__Monopterus_albus_T2T_assembly__GCA_986269415.1	called	12	12	0	237	12	4		none_published												gap_free	0	0	2	
+GCA_059962705.1	Siniperca chuatsi	ASM5996270v1	Siniperca_chuatsi__ASM5996270v1__GCA_059962705.1	called	24	16	8	3837	13	15		none_published												gap_free	0	0	15	
+GCA_054375355.1	Equus asinus	CAU_T2T_donkey1.0	Equus_asinus__CAU_T2T_donkey1.0__GCA_054375355.1	called	32	22	10	4678	17	45	breadth_tie_broken_by_bp:17 chromosomes, 47982699 bp, mono 220 vs 17 chromosomes, 86356296 bp, mono 4678;breadth_near_tie:16 chromosomes, 20108326 bp, mono 114 vs 17 chromosomes, 86356296 bp, mono 4678	none_published												gap_free	0	0	21	
+GCA_052426305.1	Pelodiscus sinensis	ASM5242630v1	Pelodiscus_sinensis__ASM5242630v1__GCA_052426305.1	called	34	27	7	1131	26	13		none_published												gap_free	0	0	18	
+GCA_051027255.1	Lates calcarifer	ASM5102725v1	Lates_calcarifer__ASM5102725v1__GCA_051027255.1	called	24	22	2	38	22	4		none_published												gap_free	0	0	22	
+GCA_061193895.1	Trachinotus ovatus	ASM6119389v1	Trachinotus_ovatus__ASM6119389v1__GCA_061193895.1	called	24	7	17	109	7	1		none_published												gap_free	0	0	0	
+GCA_051362305.1	Pangasianodon hypophthalmus	ASM5136230v1	Pangasianodon_hypophthalmus__ASM5136230v1__GCA_051362305.1	called	30	23	7	300	21	7		none_published												gap_free	0	0	21	
+GCA_056882335.1	Seriola dumerili	ASM5688233v1	Seriola_dumerili__ASM5688233v1__GCA_056882335.1	called	24	24	0	226	23	1		none_published												gap_free	0	0	8	
+GCA_056882315.1	Seriola dumerili	ASM5688231v1	Seriola_dumerili__ASM5688231v1__GCA_056882315.1	called	24	23	1	226	23	1		none_published												gap_free	0	0	5	
+GCA_058130895.1	Acanthopagrus latus	ASM5813089v1	Acanthopagrus_latus__ASM5813089v1__GCA_058130895.1	called	24	24	0	186	24	1		none_published												real_t2t	0	0	24	
+GCA_056149525.1	Acanthopagrus latus	ASM5614952v1	Acanthopagrus_latus__ASM5614952v1__GCA_056149525.1	called	24	24	0	186	24	1		none_published												gap_free	0	0	0	
+GCA_060308525.1	Plectropomus leopardus	Pleo_t2t_v1.0	Plectropomus_leopardus__Pleo_t2t_v1.0__GCA_060308525.1	called	24	24	0	168	24	13		none_published												gap_free	0	0	21	
+GCA_056822235.1	Pungitius pungitius	TVA-T2T	Pungitius_pungitius__TVA-T2T__GCA_056822235.1	called	22	21	1	177	21	4		none_published												gap_free	0	0	8	
+GCA_051020875.1	Tetraodon nigroviridis	TetNigT2Thap2	Tetraodon_nigroviridis__TetNigT2Thap2__GCA_051020875.1	called	21	21	0	118	21	6		none_published												gap_free	0	0	18	
+GCA_060511635.1	Opsariichthys bidens	HZAU_OBidXX_1.0	Opsariichthys_bidens__HZAU_OBidXX_1.0__GCA_060511635.1	called	39	34	5	188	23	2		none_published												gap_free	0	0	26	
+GCA_988222555.1	Astatotilapia calliptera	fAstCal671.pri	Astatotilapia_calliptera__fAstCal671.pri__GCA_988222555.1	called	22	22	0	237	22	3		none_published												gap_free	0	0	9	
+GCA_049815525.1	Cheilinus undulatus	ASM4981552v1	Cheilinus_undulatus__ASM4981552v1__GCA_049815525.1	called	24	23	1	204	23	3		none_published												real_t2t	0	0	24	
+GCA_043388425.1	Cephalopholis sonnerati	ASM4338842v1	Cephalopholis_sonnerati__ASM4338842v1__GCA_043388425.1	called	24	24	0	38	24	8	breadth_tie_broken_by_bp:24 chromosomes, 3356532 bp, mono 170 vs 24 chromosomes, 9973334 bp, mono 38	none_published												real_t2t	0	0	24	
+GCA_057233065.1	Heloderma suspectum	16-S_hap1	Heloderma_suspectum__16-S_hap1__GCA_057233065.1	called	18	10	8	3803	9	5	breadth_tie_broken_by_bp:9 chromosomes, 514257 bp, mono 10732 vs 9 chromosomes, 952472 bp, mono 3152;breadth_near_tie:8 chromosomes, 667719 bp, mono 16548 vs 9 chromosomes, 952472 bp, mono 3152	none_published												real_t2t	0	0	18	
+GCA_058707665.1	Platax teira	ASM5870766v1	Platax_teira__ASM5870766v1__GCA_058707665.1	called	24	15	9	31	15	17		none_published												gap_free	0	0	0	
+GCA_977005145.1	Trachinotus anak	Tana_hap2	Trachinotus_anak__Tana_hap2__GCA_977005145.1	called	24	18	6	109	18	2		none_published												real_t2t	0	0	24	
+GCA_977005155.1	Trachinotus anak	Tana_hap1	Trachinotus_anak__Tana_hap1__GCA_977005155.1	called	24	19	5	109	19	1		none_published												gap_free	0	0	22	
+GCA_062009623.1	Epinephelus fuscoguttatus (female) x Cephalopholis sonnerati (male)	ASM62009623v1	Epinephelus_fuscoguttatus_(female)_x_Cephalopholis_sonnerati_(male)__ASM62009623v1__GCA_062009623.1	called	24	21	3	186	21	2		none_published												gap_free	0	0	2	
+GCA_060753225.1	Chromileptes altivelis (female) x Epinephelus fuscoguttatus (male)	ASM6075322v1	Chromileptes_altivelis_(female)_x_Epinephelus_fuscoguttatus_(male)__ASM6075322v1__GCA_060753225.1	called	24	21	3	186	21	2		none_published												gap_free	0	0	11	
+GCA_061495325.1	Cromileptes altivelis x Epinephelus fuscoguttatus	YSFRI_Yushuban_pat1.0	Cromileptes_altivelis_x_Epinephelus_fuscoguttatus__YSFRI_Yushuban_pat1.0__GCA_061495325.1	called	24	22	2	186	22	2		none_published												gap_free	0	0	12	
+GCA_060753235.1	Chromileptes altivelis (female) x Epinephelus fuscoguttatus (male)	ASM6075323v1	Chromileptes_altivelis_(female)_x_Epinephelus_fuscoguttatus_(male)__ASM6075323v1__GCA_060753235.1	called	24	24	0	38	24	9		none_published												gap_free	0	0	13	
+GCA_061495365.1	Cromileptes altivelis x Epinephelus fuscoguttatus	YSFRI_Yushuban_mat1.0	Cromileptes_altivelis_x_Epinephelus_fuscoguttatus__YSFRI_Yushuban_mat1.0__GCA_061495365.1	called	24	24	0	186	24	1	breadth_tie_broken_by_bp:24 chromosomes, 4258378 bp, mono 38 vs 24 chromosomes, 12717391 bp, mono 186	none_published												gap_free	0	0	15	
+GCA_062009624.1	Epinephelus fuscoguttatus (female) x Cephalopholis sonnerati (male)	ASM62009624v1	Epinephelus_fuscoguttatus_(female)_x_Cephalopholis_sonnerati_(male)__ASM62009624v1__GCA_062009624.1	called	24	24	0	38	24	5	breadth_tie_broken_by_bp:24 chromosomes, 3212655 bp, mono 348 vs 24 chromosomes, 9819701 bp, mono 38	none_published												gap_free	0	0	17	
+GCA_060414195.1	Cyprinus carpio var. Quanzhounensis	ASM6041419v1	Cyprinus_carpio_var._Quanzhounensis__ASM6041419v1__GCA_060414195.1	called	50	50	0	260	50	9		none_published												gap_free	0	0	24	

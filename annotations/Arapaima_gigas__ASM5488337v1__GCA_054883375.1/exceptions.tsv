@@ -1,0 +1,11 @@
+kind	chromosome	family	magnitude	default_applied
+short_consensus_family_as_broad	*	S003	12 chromosomes, 530585 bp, mono 6 vs 7 chromosomes, 285524 bp, mono 2825	not eligible: no consensus >= --short-len
+other_family_larger_on_chromosome	chr3	S008	186612 bp vs 66448 bp	centromeric family kept
+other_family_larger_on_chromosome	chr6	S003	145463 bp vs 12631 bp	centromeric family kept
+other_family_larger_on_chromosome	chr9	S004	435871 bp vs 49007 bp	centromeric family kept
+locus_includes_period_class_arrays	chr18	S007	12225 of 12225 bp	joined by monomer period, not by sequence
+locus_at_chromosome_end	chr18	S007	18279530-18291755 of 18296723	informative: telocentric
+other_family_larger_on_chromosome	chr18	S010	53349 bp vs 12225 bp	centromeric family kept
+other_family_larger_on_chromosome	chr19	S025	56154 bp vs 11603 bp	centromeric family kept
+other_family_larger_on_chromosome	chr27	S031	16427 bp vs 14818 bp	centromeric family kept
+other_family_larger_on_chromosome	chr28	S003	29491 bp vs 11973 bp	centromeric family kept

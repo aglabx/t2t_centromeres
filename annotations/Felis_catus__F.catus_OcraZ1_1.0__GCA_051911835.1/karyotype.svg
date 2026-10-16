@@ -1,0 +1,710 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1146" viewBox="0 0 1000 1146" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<title>Felis catus F.catus_OcraZ1_1.0 GCA_051911835.1: centromeric satellite arrays</title>
+<rect width="1000" height="1146" fill="#ffffff"/>
+<text x="40" y="38" font-size="22" fill="#0f172a"><tspan font-style="italic" font-weight="bold">Felis catus</tspan><tspan dx="10" font-weight="bold">F.catus_OcraZ1_1.0</tspan></text>
+<text x="40" y="62" font-size="13" fill="#334155">GCA_051911835.1 · centromeric locus called on 16 of 20 chromosomes</text>
+<text x="40" y="80" font-size="13" fill="#334155">no published centromere intervals for this assembly</text>
+<text x="40" y="114" font-size="11" font-weight="bold" fill="#64748b" letter-spacing="0.6">SATELLITES</text>
+<rect x="172.0" y="105" width="16" height="10" rx="2" fill="#1d4ed8"/>
+<text x="194.0" y="114" font-size="12" fill="#334155">S001 centromeric superfamily, 483 bp, 37.02 Mb</text>
+<rect x="524.2" y="105" width="16" height="10" rx="2" fill="#93c5fd"/>
+<text x="546.2" y="114" font-size="12" fill="#334155">joined by monomer period (k × 483 bp)</text>
+<rect x="172.0" y="125" width="16" height="10" rx="2" fill="#f97316"/>
+<text x="194.0" y="134" font-size="12" fill="#334155">S002 33 bp, 5.37 Mb</text>
+<rect x="343.3" y="125" width="16" height="10" rx="2" fill="#a855f7"/>
+<text x="365.3" y="134" font-size="12" fill="#334155">S003 2,647 bp, 1.07 Mb</text>
+<rect x="534.7" y="125" width="16" height="10" rx="2" fill="#84cc16"/>
+<text x="556.7" y="134" font-size="12" fill="#334155">S004 1,409 bp, 984 kb</text>
+<rect x="719.4" y="125" width="16" height="10" rx="2" fill="#b45309"/>
+<text x="741.4" y="134" font-size="12" fill="#334155">S005 3,534 bp, 811 kb</text>
+<rect x="172.0" y="145" width="16" height="10" rx="2" fill="#8b95a5"/>
+<text x="194.0" y="154" font-size="12" fill="#334155">other satellite arrays</text>
+<text x="40" y="180" font-size="11" font-weight="bold" fill="#64748b" letter-spacing="0.6">CALLS</text>
+<rect x="174.0" y="169" width="12" height="14" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+<text x="194.0" y="180" font-size="12" fill="#334155">our centromeric locus (satellite zone)</text>
+<rect x="474.6" y="169" width="8" height="14" rx="4" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"/>
+<text x="492.6" y="180" font-size="12" fill="#334155">no array of the centromeric family</text>
+<text x="40" y="222" font-size="14" fill="#0f172a"><tspan font-weight="bold">a</tspan><tspan dx="10">Whole chromosomes, one scale</tspan></text>
+<line x1="72" y1="244.0" x2="964" y2="244.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="248.0" font-size="10" fill="#64748b" text-anchor="end">0</text>
+<line x1="72" y1="344.3" x2="964" y2="344.3" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="348.3" font-size="10" fill="#64748b" text-anchor="end">50</text>
+<line x1="72" y1="444.6" x2="964" y2="444.6" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="448.6" font-size="10" fill="#64748b" text-anchor="end">100</text>
+<line x1="72" y1="544.9" x2="964" y2="544.9" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="548.9" font-size="10" fill="#64748b" text-anchor="end">150</text>
+<line x1="72" y1="645.2" x2="964" y2="645.2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="649.2" font-size="10" fill="#64748b" text-anchor="end">200</text>
+<text x="66" y="234" font-size="10" fill="#64748b" text-anchor="end">Mb</text>
+<rect x="95.0" y="244" width="14" height="480.0" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>A1: 239,258,996 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="96.0" y="283.4" width="12" height="1.0" fill="#8b95a5"><title>A1 19.62-19.63 Mb (12 kb), S031, monomer 5899 bp, HOR 11801 bp</title></rect>
+<rect x="96.0" y="420.3" width="12" height="1.0" fill="#8b95a5"><title>A1 87.89-87.91 Mb (18 kb), S036, monomer 4371 bp, HOR 4371 bp</title></rect>
+<text x="102.0" y="740" font-size="12" fill="#dc2626" text-anchor="middle">A1</text>
+<rect x="139.0" y="244" width="14" height="344.2" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>A2: 171,557,538 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="140.0" y="387.9" width="12" height="1.0" fill="#8b95a5"><title>A2 71.71-71.72 Mb (11 kb), S025, monomer 3821 bp, HOR 3797 bp</title></rect>
+<rect x="140.0" y="257.7" width="12" height="1.0" fill="#8b95a5"><title>A2 6.84-6.85 Mb (12 kb), S044, monomer 885 bp, HOR 2649 bp</title></rect>
+<rect x="140.0" y="319.5" width="12" height="1.0" fill="#8b95a5"><title>A2 37.66-37.67 Mb (18 kb), S034, monomer 2568 bp, HOR 2576 bp</title></rect>
+<rect x="140.0" y="389.6" width="12" height="1.0" fill="#8b95a5"><title>A2 72.58-72.60 Mb (23 kb), S018, monomer 11723 bp, HOR 23448 bp</title></rect>
+<rect x="140.0" y="388.6" width="12" height="1.0" fill="#8b95a5"><title>A2 72.06-72.11 Mb (48 kb), S006, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="140.0" y="388.0" width="12" height="1.0" fill="#8b95a5"><title>A2 71.76-72.01 Mb (249 kb), S006, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="140.0" y="388.8" width="12" height="1.0" fill="#8b95a5"><title>A2 72.16-72.44 Mb (281 kb), S006, monomer 6 bp, HOR 6 bp</title></rect>
+<text x="146.0" y="740" font-size="12" fill="#dc2626" text-anchor="middle">A2</text>
+<rect x="183.0" y="244" width="14" height="284.4" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>A3: 141,763,465 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="184.0" y="244.0" width="12" height="1.0" fill="#8b95a5"><title>A3 0.00-0.01 Mb (11 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="184.0" y="244.3" width="12" height="1.0" fill="#1d4ed8"><title>A3 0.16-0.19 Mb (26 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="184.0" y="348.1" width="12" height="1.0" fill="#1d4ed8"><title>A3 51.88-52.05 Mb (174 kb), S001, monomer 15177 bp, HOR 174196 bp</title></rect>
+<rect x="184.0" y="244.4" width="12" height="1.9" fill="#1d4ed8"><title>A3 0.20-1.16 Mb (962 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="180.0" y="242.8" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>A3 locus 0.16-1.16 Mb (999 kb): 988 kb of S001 in 2 arrays; largest array 0.20-1.16 Mb (962 kb), monomer 483 bp</title></rect>
+<text x="190.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">A3</text>
+<rect x="227.0" y="244" width="14" height="412.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>B1: 205,347,806 bp
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="228.0" y="320.4" width="12" height="1.0" fill="#1d4ed8"><title>B1 38.08-38.09 Mb (11 kb), S001, monomer 1452 bp, HOR 1925 bp</title></rect>
+<rect x="228.0" y="488.3" width="12" height="1.0" fill="#8b95a5"><title>B1 121.77-121.78 Mb (12 kb), S031, monomer 5978 bp, HOR 11961 bp</title></rect>
+<rect x="228.0" y="258.1" width="12" height="1.0" fill="#8b95a5"><title>B1 7.04-7.12 Mb (81 kb), S012, monomer 20417 bp, HOR 81369 bp</title></rect>
+<rect x="224.0" y="317.9" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>B1 locus 38.08-38.09 Mb (11 kb): 11 kb of S001 in 1 arrays; largest array 38.08-38.09 Mb (11 kb), monomer 1452 bp</title></rect>
+<text x="234.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">B1</text>
+<rect x="271.0" y="244" width="14" height="308.1" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>B2: 153,576,555 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="272.0" y="246.5" width="12" height="1.0" fill="#1d4ed8"><title>B2 1.25-1.26 Mb (10 kb), S001, monomer 483 bp, HOR 484 bp</title></rect>
+<rect x="272.0" y="246.1" width="12" height="1.0" fill="#8b95a5"><title>B2 1.05-1.07 Mb (21 kb), S015, monomer 14 bp, HOR 29 bp</title></rect>
+<rect x="272.0" y="457.5" width="12" height="1.0" fill="#8b95a5"><title>B2 106.43-106.45 Mb (22 kb), S032, monomer 4959 bp, HOR 4959 bp</title></rect>
+<rect x="272.0" y="245.3" width="12" height="1.0" fill="#1d4ed8"><title>B2 0.67-0.70 Mb (28 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="272.0" y="245.4" width="12" height="1.0" fill="#1d4ed8"><title>B2 0.70-1.05 Mb (343 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="272.0" y="244.3" width="12" height="1.0" fill="#1d4ed8"><title>B2 0.17-0.67 Mb (498 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="268.0" y="242.9" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>B2 locus 0.17-1.26 Mb (1.09 Mb): 879 kb of S001 in 4 arrays; largest array 0.17-0.67 Mb (498 kb), monomer 483 bp</title></rect>
+<text x="278.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">B2</text>
+<rect x="315.0" y="244" width="14" height="299.8" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>B3: 149,421,202 bp
+exception: locus_at_chromosome_end
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="316.0" y="244.0" width="12" height="1.0" fill="#1d4ed8"><title>B3 0.00-0.02 Mb (14 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="316.0" y="293.4" width="12" height="1.0" fill="#b45309"><title>B3 24.64-24.65 Mb (14 kb), S005, monomer 3616 bp, HOR 3616 bp</title></rect>
+<rect x="316.0" y="293.5" width="12" height="1.0" fill="#b45309"><title>B3 24.65-24.67 Mb (16 kb), S005, monomer 1809 bp, HOR 1806 bp</title></rect>
+<rect x="316.0" y="538.2" width="12" height="1.0" fill="#8b95a5"><title>B3 146.67-146.68 Mb (17 kb), S029, monomer 504 bp, HOR 1575 bp</title></rect>
+<rect x="316.0" y="482.9" width="12" height="1.0" fill="#8b95a5"><title>B3 119.07-119.13 Mb (61 kb), S013, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="316.0" y="293.1" width="12" height="1.0" fill="#84cc16"><title>B3 24.46-24.53 Mb (65 kb), S004, monomer 2833 bp, HOR 2833 bp</title></rect>
+<rect x="312.0" y="241.5" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>B3 locus 0.00-0.02 Mb (14 kb): 14 kb of S001 in 1 arrays; largest array 0.00-0.02 Mb (14 kb), monomer 483 bp</title></rect>
+<text x="322.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">B3</text>
+<rect x="359.0" y="244" width="14" height="284.3" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>B4: 141,701,410 bp
+exception: locus_at_chromosome_end
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="360.0" y="264.3" width="12" height="1.0" fill="#8b95a5"><title>B4 10.13-10.14 Mb (10 kb), S048, monomer 8 bp, HOR 8 bp</title></rect>
+<rect x="360.0" y="244.3" width="12" height="1.0" fill="#1d4ed8"><title>B4 0.14-0.15 Mb (13 kb), S001, monomer 481 bp, HOR 483 bp</title></rect>
+<rect x="360.0" y="508.9" width="12" height="1.0" fill="#8b95a5"><title>B4 132.06-132.08 Mb (18 kb), S035, monomer 12 bp, HOR 12 bp</title></rect>
+<rect x="360.0" y="515.2" width="12" height="1.0" fill="#8b95a5"><title>B4 135.18-135.22 Mb (34 kb), S028, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="356.0" y="241.8" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>B4 locus 0.14-0.15 Mb (13 kb): 13 kb of S001 in 1 arrays; largest array 0.14-0.15 Mb (13 kb), monomer 481 bp</title></rect>
+<text x="366.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">B4</text>
+<rect x="403.0" y="244" width="14" height="444.3" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>C1: 221,455,038 bp
+no array of the centromeric family: no call</title></rect>
+<rect x="404.0" y="688.3" width="12" height="1.0" fill="#8b95a5"><title>C1 221.44-221.46 Mb (10 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<text x="410.0" y="740" font-size="12" fill="#dc2626" text-anchor="middle">C1</text>
+<rect x="447.0" y="244" width="14" height="318.8" rx="7" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>C2: 158,919,622 bp
+no array of the centromeric family: no call</title></rect>
+<text x="454.0" y="740" font-size="12" fill="#dc2626" text-anchor="middle">C2</text>
+<rect x="491.0" y="244" width="14" height="252.1" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>D1: 125,646,078 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="492.0" y="250.4" width="12" height="1.0" fill="#8b95a5"><title>D1 3.19-3.20 Mb (10 kb), S049, monomer 14 bp, HOR 87 bp</title></rect>
+<rect x="492.0" y="248.0" width="12" height="1.0" fill="#1d4ed8"><title>D1 1.99-2.00 Mb (10 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="261.7" width="12" height="1.0" fill="#1d4ed8"><title>D1 8.84-8.85 Mb (10 kb), S001, monomer 482 bp, HOR 484 bp</title></rect>
+<rect x="492.0" y="254.8" width="12" height="1.0" fill="#1d4ed8"><title>D1 5.40-5.41 Mb (10 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="492.0" y="254.3" width="12" height="1.0" fill="#1d4ed8"><title>D1 5.11-5.12 Mb (11 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="261.3" width="12" height="1.0" fill="#8b95a5"><title>D1 8.62-8.63 Mb (11 kb), S015, monomer 14 bp, HOR 58 bp</title></rect>
+<rect x="492.0" y="249.7" width="12" height="1.0" fill="#1d4ed8"><title>D1 2.84-2.85 Mb (12 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="492.0" y="261.7" width="12" height="1.0" fill="#1d4ed8"><title>D1 8.80-8.81 Mb (13 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="259.3" width="12" height="1.0" fill="#8b95a5"><title>D1 7.63-7.65 Mb (13 kb), S043, monomer 14 bp, HOR 29 bp</title></rect>
+<rect x="492.0" y="250.4" width="12" height="1.0" fill="#8b95a5"><title>D1 3.21-3.23 Mb (13 kb), S021, monomer 14 bp, HOR 29 bp</title></rect>
+<rect x="492.0" y="493.7" width="12" height="1.0" fill="#8b95a5"><title>D1 124.47-124.48 Mb (15 kb), S029, monomer 513 bp, HOR 4104 bp</title></rect>
+<rect x="492.0" y="248.0" width="12" height="1.0" fill="#1d4ed8"><title>D1 2.01-2.03 Mb (15 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="492.7" width="12" height="1.0" fill="#8b95a5"><title>D1 123.95-123.96 Mb (16 kb), S038, monomer 19 bp, HOR 30 bp</title></rect>
+<rect x="492.0" y="254.9" width="12" height="1.0" fill="#1d4ed8"><title>D1 5.42-5.44 Mb (16 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="246.2" width="12" height="1.0" fill="#1d4ed8"><title>D1 1.09-1.12 Mb (23 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="245.5" width="12" height="1.0" fill="#1d4ed8"><title>D1 0.76-0.78 Mb (24 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="247.0" width="12" height="1.0" fill="#1d4ed8"><title>D1 1.49-1.51 Mb (24 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="244.0" width="12" height="1.0" fill="#8b95a5"><title>D1 0.00-0.02 Mb (24 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="492.0" y="247.9" width="12" height="1.0" fill="#1d4ed8"><title>D1 1.92-1.96 Mb (33 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="254.2" width="12" height="1.0" fill="#1d4ed8"><title>D1 5.06-5.10 Mb (42 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="496.0" width="12" height="1.0" fill="#8b95a5"><title>D1 125.60-125.65 Mb (51 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="492.0" y="252.9" width="12" height="1.0" fill="#f97316"><title>D1 4.45-4.51 Mb (60 kb), S002, monomer 33 bp, HOR 2137 bp</title></rect>
+<rect x="492.0" y="250.7" width="12" height="1.0" fill="#1d4ed8"><title>D1 3.36-3.43 Mb (64 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="492.5" width="12" height="1.0" fill="#8b95a5"><title>D1 123.85-123.93 Mb (84 kb), S017, monomer 19 bp, HOR 30 bp</title></rect>
+<rect x="492.0" y="248.1" width="12" height="1.0" fill="#1d4ed8"><title>D1 2.04-2.14 Mb (97 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="244.0" width="12" height="1.0" fill="#1d4ed8"><title>D1 0.02-0.18 Mb (155 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="253.8" width="12" height="1.0" fill="#1d4ed8"><title>D1 4.88-5.05 Mb (171 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="245.1" width="12" height="1.0" fill="#1d4ed8"><title>D1 0.57-0.75 Mb (180 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="244.8" width="12" height="1.0" fill="#1d4ed8"><title>D1 0.38-0.57 Mb (187 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="244.4" width="12" height="1.0" fill="#1d4ed8"><title>D1 0.19-0.38 Mb (191 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="254.9" width="12" height="1.0" fill="#1d4ed8"><title>D1 5.45-5.64 Mb (191 kb), S001, monomer 482 bp, HOR 484 bp</title></rect>
+<rect x="492.0" y="495.2" width="12" height="1.0" fill="#1d4ed8"><title>D1 125.22-125.44 Mb (228 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="252.0" width="12" height="1.0" fill="#f97316"><title>D1 3.97-4.20 Mb (233 kb), S002, monomer 33 bp, HOR 2104 bp</title></rect>
+<rect x="492.0" y="253.1" width="12" height="1.0" fill="#f97316"><title>D1 4.51-4.75 Mb (240 kb), S002, monomer 33 bp, HOR 2137 bp</title></rect>
+<rect x="492.0" y="245.6" width="12" height="1.0" fill="#1d4ed8"><title>D1 0.79-1.08 Mb (287 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="246.3" width="12" height="1.0" fill="#1d4ed8"><title>D1 1.13-1.48 Mb (349 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="250.9" width="12" height="1.0" fill="#1d4ed8"><title>D1 3.44-3.84 Mb (399 kb), S001, monomer 482 bp, HOR 484 bp</title></rect>
+<rect x="492.0" y="247.1" width="12" height="1.0" fill="#1d4ed8"><title>D1 1.52-1.92 Mb (399 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="492.0" y="257.1" width="12" height="1.0" fill="#f97316"><title>D1 6.55-6.95 Mb (402 kb), S002, monomer 33 bp, HOR 2137 bp</title></rect>
+<rect x="492.0" y="258.2" width="12" height="1.0" fill="#1d4ed8"><title>D1 7.08-7.50 Mb (419 kb), S001, monomer 481 bp, HOR 1928 bp</title></rect>
+<rect x="492.0" y="255.6" width="12" height="1.1" fill="#f97316"><title>D1 5.77-6.30 Mb (526 kb), S002, monomer 33 bp, HOR 2104 bp</title></rect>
+<rect x="492.0" y="248.3" width="12" height="1.4" fill="#1d4ed8"><title>D1 2.15-2.82 Mb (678 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="488.0" y="244.0" width="20" height="7.7" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>D1 locus 0.02-3.84 Mb (3.81 Mb): 3.13 Mb of S001 in 18 arrays; largest array 2.15-2.82 Mb (678 kb), monomer 483 bp</title></rect>
+<text x="498.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">D1</text>
+<rect x="535.0" y="244" width="14" height="207.6" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>D2: 103,471,763 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="536.0" y="273.5" width="12" height="1.0" fill="#1d4ed8"><title>D2 14.69-14.70 Mb (10 kb), S001, monomer 2913 bp, HOR 2913 bp</title></rect>
+<rect x="536.0" y="270.3" width="12" height="1.0" fill="#f97316"><title>D2 13.09-13.10 Mb (10 kb), S002, monomer 33 bp, HOR 33 bp</title></rect>
+<rect x="536.0" y="261.2" width="12" height="1.0" fill="#f97316"><title>D2 8.58-8.59 Mb (11 kb), S002, monomer 33 bp, HOR 2136 bp</title></rect>
+<rect x="536.0" y="255.7" width="12" height="1.0" fill="#1d4ed8"><title>D2 5.82-5.83 Mb (11 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="264.2" width="12" height="1.0" fill="#1d4ed8"><title>D2 10.06-10.08 Mb (11 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="260.4" width="12" height="1.0" fill="#1d4ed8"><title>D2 8.18-8.19 Mb (12 kb), S001, monomer 483 bp, HOR 3856 bp</title></rect>
+<rect x="536.0" y="244.4" width="12" height="1.0" fill="#1d4ed8"><title>D2 0.22-0.23 Mb (12 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="536.0" y="272.7" width="12" height="1.0" fill="#1d4ed8"><title>D2 14.29-14.31 Mb (13 kb), S001, monomer 482 bp, HOR 2403 bp</title></rect>
+<rect x="536.0" y="270.3" width="12" height="1.0" fill="#f97316"><title>D2 13.10-13.12 Mb (16 kb), S002, monomer 33 bp, HOR 4143 bp</title></rect>
+<rect x="536.0" y="451.5" width="12" height="1.0" fill="#8b95a5"><title>D2 103.42-103.44 Mb (17 kb), S037, monomer 6 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="255.7" width="12" height="1.0" fill="#1d4ed8"><title>D2 5.84-5.87 Mb (28 kb), S001, monomer 483 bp, HOR 3375 bp</title></rect>
+<rect x="536.0" y="268.6" width="12" height="1.0" fill="#1d4ed8"><title>D2 12.28-12.31 Mb (29 kb), S001, monomer 483 bp, HOR 1930 bp</title></rect>
+<rect x="536.0" y="264.1" width="12" height="1.0" fill="#1d4ed8"><title>D2 10.02-10.05 Mb (32 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="269.1" width="12" height="1.0" fill="#1d4ed8"><title>D2 12.52-12.56 Mb (33 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="536.0" y="451.5" width="12" height="1.0" fill="#8b95a5"><title>D2 103.44-103.47 Mb (33 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="536.0" y="270.3" width="12" height="1.0" fill="#f97316"><title>D2 13.12-13.16 Mb (33 kb), S002, monomer 33 bp, HOR 33 bp</title></rect>
+<rect x="536.0" y="258.6" width="12" height="1.0" fill="#f97316"><title>D2 7.26-7.30 Mb (34 kb), S002, monomer 33 bp, HOR 2137 bp</title></rect>
+<rect x="536.0" y="246.9" width="12" height="1.0" fill="#1d4ed8"><title>D2 1.44-1.49 Mb (54 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="245.3" width="12" height="1.0" fill="#1d4ed8"><title>D2 0.66-0.71 Mb (57 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="270.1" width="12" height="1.0" fill="#f97316"><title>D2 13.03-13.09 Mb (60 kb), S002, monomer 33 bp, HOR 4144 bp</title></rect>
+<rect x="536.0" y="244.0" width="12" height="1.0" fill="#8b95a5"><title>D2 0.00-0.07 Mb (68 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="536.0" y="432.3" width="12" height="1.0" fill="#b45309"><title>D2 93.88-93.95 Mb (74 kb), S005, monomer 7274 bp, HOR 74104 bp</title></rect>
+<rect x="536.0" y="270.9" width="12" height="1.0" fill="#f97316"><title>D2 13.41-13.49 Mb (75 kb), S002, monomer 33 bp, HOR 4144 bp</title></rect>
+<rect x="536.0" y="261.0" width="12" height="1.0" fill="#f97316"><title>D2 8.49-8.57 Mb (83 kb), S002, monomer 33 bp, HOR 2137 bp</title></rect>
+<rect x="536.0" y="271.1" width="12" height="1.0" fill="#f97316"><title>D2 13.49-13.58 Mb (95 kb), S002, monomer 33 bp, HOR 4144 bp</title></rect>
+<rect x="536.0" y="267.3" width="12" height="1.0" fill="#f97316"><title>D2 11.62-11.72 Mb (98 kb), S002, monomer 33 bp, HOR 2137 bp</title></rect>
+<rect x="536.0" y="273.0" width="12" height="1.0" fill="#f97316"><title>D2 14.45-14.55 Mb (104 kb), S002, monomer 33 bp, HOR 33 bp</title></rect>
+<rect x="536.0" y="259.5" width="12" height="1.0" fill="#1d4ed8"><title>D2 7.71-7.81 Mb (105 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="269.2" width="12" height="1.0" fill="#1d4ed8"><title>D2 12.58-12.70 Mb (119 kb), S001, monomer 3826 bp, HOR 3826 bp</title></rect>
+<rect x="536.0" y="263.4" width="12" height="1.0" fill="#1d4ed8"><title>D2 9.67-9.81 Mb (144 kb), S001, monomer 482 bp, HOR 484 bp</title></rect>
+<rect x="536.0" y="271.2" width="12" height="1.0" fill="#f97316"><title>D2 13.58-13.73 Mb (145 kb), S002, monomer 33 bp, HOR 4144 bp</title></rect>
+<rect x="536.0" y="260.5" width="12" height="1.0" fill="#1d4ed8"><title>D2 8.21-8.37 Mb (160 kb), S001, monomer 483 bp, HOR 1928 bp</title></rect>
+<rect x="536.0" y="265.5" width="12" height="1.0" fill="#1d4ed8"><title>D2 10.71-10.89 Mb (176 kb), S001, monomer 482 bp, HOR 484 bp</title></rect>
+<rect x="536.0" y="269.5" width="12" height="1.0" fill="#1d4ed8"><title>D2 12.70-12.89 Mb (187 kb), S001, monomer 3826 bp, HOR 3826 bp</title></rect>
+<rect x="536.0" y="263.7" width="12" height="1.0" fill="#1d4ed8"><title>D2 9.81-10.01 Mb (194 kb), S001, monomer 482 bp, HOR 484 bp</title></rect>
+<rect x="536.0" y="312.8" width="12" height="1.0" fill="#8b95a5"><title>D2 34.30-34.50 Mb (197 kb), S010, monomer 1244 bp, HOR 1244 bp</title></rect>
+<rect x="536.0" y="245.9" width="12" height="1.0" fill="#1d4ed8"><title>D2 0.97-1.18 Mb (207 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="246.4" width="12" height="1.0" fill="#1d4ed8"><title>D2 1.21-1.43 Mb (219 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="245.5" width="12" height="1.0" fill="#1d4ed8"><title>D2 0.72-0.96 Mb (233 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="258.9" width="12" height="1.0" fill="#1d4ed8"><title>D2 7.43-7.71 Mb (282 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="251.7" width="12" height="1.0" fill="#1d4ed8"><title>D2 3.85-4.13 Mb (283 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="266.1" width="12" height="1.0" fill="#f97316"><title>D2 11.02-11.37 Mb (358 kb), S002, monomer 33 bp, HOR 2137 bp</title></rect>
+<rect x="536.0" y="255.8" width="12" height="1.0" fill="#1d4ed8"><title>D2 5.88-6.27 Mb (387 kb), S001, monomer 482 bp, HOR 484 bp</title></rect>
+<rect x="536.0" y="271.8" width="12" height="1.0" fill="#1d4ed8"><title>D2 13.85-14.24 Mb (394 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="244.5" width="12" height="1.0" fill="#1d4ed8"><title>D2 0.24-0.64 Mb (402 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="267.8" width="12" height="1.0" fill="#1d4ed8"><title>D2 11.85-12.27 Mb (422 kb), S001, monomer 477 bp, HOR 1928 bp</title></rect>
+<rect x="536.0" y="256.8" width="12" height="1.3" fill="#f97316"><title>D2 6.39-7.02 Mb (624 kb), S002, monomer 33 bp, HOR 2106 bp</title></rect>
+<rect x="536.0" y="250.3" width="12" height="1.4" fill="#1d4ed8"><title>D2 3.15-3.83 Mb (676 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="261.8" width="12" height="1.4" fill="#f97316"><title>D2 8.86-9.54 Mb (680 kb), S002, monomer 33 bp, HOR 2106 bp</title></rect>
+<rect x="536.0" y="247.0" width="12" height="1.5" fill="#1d4ed8"><title>D2 1.50-2.27 Mb (766 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="252.3" width="12" height="1.6" fill="#1d4ed8"><title>D2 4.15-4.96 Mb (806 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="536.0" y="248.6" width="12" height="1.7" fill="#1d4ed8"><title>D2 2.28-3.14 Mb (858 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="532.0" y="244.4" width="20" height="12.1" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>D2 locus 0.22-6.27 Mb (6.05 Mb): 5.00 Mb of S001 in 15 arrays; largest array 2.28-3.14 Mb (858 kb), monomer 483 bp</title></rect>
+<text x="542.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">D2</text>
+<rect x="579.0" y="244" width="14" height="199.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>D3: 99,189,708 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="580.0" y="249.9" width="12" height="1.0" fill="#f97316"><title>D3 2.94-2.96 Mb (14 kb), S002, monomer 33 bp, HOR 4641 bp</title></rect>
+<rect x="580.0" y="246.0" width="12" height="1.0" fill="#1d4ed8"><title>D3 0.99-1.01 Mb (14 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="580.0" y="247.1" width="12" height="1.0" fill="#1d4ed8"><title>D3 1.53-1.55 Mb (19 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="580.0" y="247.0" width="12" height="1.0" fill="#1d4ed8"><title>D3 1.49-1.52 Mb (25 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="580.0" y="244.5" width="12" height="1.0" fill="#1d4ed8"><title>D3 0.25-0.28 Mb (30 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="580.0" y="291.0" width="12" height="1.0" fill="#8b95a5"><title>D3 23.42-23.46 Mb (41 kb), S014, monomer 9514 bp, HOR 40911 bp</title></rect>
+<rect x="580.0" y="249.6" width="12" height="1.0" fill="#1d4ed8"><title>D3 2.79-2.83 Mb (41 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="580.0" y="250.8" width="12" height="1.0" fill="#1d4ed8"><title>D3 3.37-3.41 Mb (47 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="580.0" y="249.1" width="12" height="1.0" fill="#8b95a5"><title>D3 2.55-2.60 Mb (53 kb), S009, monomer 12 bp, HOR 12 bp</title></rect>
+<rect x="580.0" y="244.3" width="12" height="1.0" fill="#1d4ed8"><title>D3 0.15-0.25 Mb (96 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="580.0" y="245.6" width="12" height="1.0" fill="#1d4ed8"><title>D3 0.82-0.98 Mb (160 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="580.0" y="246.1" width="12" height="1.0" fill="#1d4ed8"><title>D3 1.04-1.48 Mb (438 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="580.0" y="244.6" width="12" height="1.0" fill="#1d4ed8"><title>D3 0.30-0.81 Mb (503 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="576.0" y="243.2" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>D3 locus 0.15-1.55 Mb (1.39 Mb): 1.28 Mb of S001 in 8 arrays; largest array 0.30-0.81 Mb (503 kb), monomer 483 bp</title></rect>
+<text x="586.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">D3</text>
+<rect x="623.0" y="244" width="14" height="209.4" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>D4: 104,398,404 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="624.0" y="254.4" width="12" height="1.0" fill="#8b95a5"><title>D4 5.18-5.19 Mb (11 kb), S015, monomer 14 bp, HOR 58 bp</title></rect>
+<rect x="624.0" y="253.3" width="12" height="1.0" fill="#8b95a5"><title>D4 4.65-4.66 Mb (11 kb), S021, monomer 14 bp, HOR 116 bp</title></rect>
+<rect x="624.0" y="253.8" width="12" height="1.0" fill="#8b95a5"><title>D4 4.88-4.89 Mb (11 kb), S046, monomer 7 bp, HOR 203 bp</title></rect>
+<rect x="624.0" y="255.8" width="12" height="1.0" fill="#1d4ed8"><title>D4 5.88-5.90 Mb (12 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="624.0" y="254.8" width="12" height="1.0" fill="#1d4ed8"><title>D4 5.37-5.38 Mb (12 kb), S001, monomer 479 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="256.4" width="12" height="1.0" fill="#8b95a5"><title>D4 6.17-6.18 Mb (13 kb), S042, monomer 7 bp, HOR 29 bp</title></rect>
+<rect x="624.0" y="254.5" width="12" height="1.0" fill="#8b95a5"><title>D4 5.23-5.24 Mb (14 kb), S021, monomer 7 bp, HOR 29 bp</title></rect>
+<rect x="624.0" y="373.0" width="12" height="1.0" fill="#8b95a5"><title>D4 64.28-64.30 Mb (16 kb), S039, monomer 7377 bp, HOR 15740 bp</title></rect>
+<rect x="624.0" y="253.1" width="12" height="1.0" fill="#8b95a5"><title>D4 4.54-4.55 Mb (16 kb), S015, monomer 14 bp, HOR 58 bp</title></rect>
+<rect x="624.0" y="441.5" width="12" height="1.0" fill="#8b95a5"><title>D4 98.43-98.45 Mb (21 kb), S011, monomer 8494 bp, HOR 21350 bp</title></rect>
+<rect x="624.0" y="441.5" width="12" height="1.0" fill="#b45309"><title>D4 98.47-98.49 Mb (22 kb), S005, monomer 7209 bp, HOR 21731 bp</title></rect>
+<rect x="624.0" y="244.4" width="12" height="1.0" fill="#1d4ed8"><title>D4 0.20-0.22 Mb (23 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="256.5" width="12" height="1.0" fill="#1d4ed8"><title>D4 6.23-6.26 Mb (26 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="442.4" width="12" height="1.0" fill="#8b95a5"><title>D4 98.90-98.93 Mb (30 kb), S025, monomer 7831 bp, HOR 29515 bp</title></rect>
+<rect x="624.0" y="250.5" width="12" height="1.0" fill="#1d4ed8"><title>D4 3.26-3.30 Mb (34 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="439.9" width="12" height="1.0" fill="#b45309"><title>D4 97.62-97.66 Mb (34 kb), S005, monomer 7206 bp, HOR 34025 bp</title></rect>
+<rect x="624.0" y="244.0" width="12" height="1.0" fill="#8b95a5"><title>D4 0.00-0.04 Mb (36 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="624.0" y="255.9" width="12" height="1.0" fill="#1d4ed8"><title>D4 5.91-5.95 Mb (45 kb), S001, monomer 482 bp, HOR 2890 bp</title></rect>
+<rect x="624.0" y="449.2" width="12" height="1.0" fill="#8b95a5"><title>D4 102.26-102.32 Mb (57 kb), S022, monomer 12976 bp, HOR 57236 bp</title></rect>
+<rect x="624.0" y="439.6" width="12" height="1.0" fill="#b45309"><title>D4 97.47-97.53 Mb (58 kb), S005, monomer 7209 bp, HOR 57802 bp</title></rect>
+<rect x="624.0" y="246.7" width="12" height="1.0" fill="#1d4ed8"><title>D4 1.34-1.41 Mb (67 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="453.3" width="12" height="1.0" fill="#8b95a5"><title>D4 104.33-104.40 Mb (68 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="624.0" y="245.4" width="12" height="1.0" fill="#1d4ed8"><title>D4 0.69-0.76 Mb (71 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="439.4" width="12" height="1.0" fill="#8b95a5"><title>D4 97.38-97.46 Mb (76 kb), S011, monomer 8490 bp, HOR 75895 bp</title></rect>
+<rect x="624.0" y="250.3" width="12" height="1.0" fill="#1d4ed8"><title>D4 3.12-3.23 Mb (108 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="249.9" width="12" height="1.0" fill="#1d4ed8"><title>D4 2.96-3.11 Mb (143 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="251.8" width="12" height="1.0" fill="#1d4ed8"><title>D4 3.89-4.04 Mb (150 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="250.6" width="12" height="1.0" fill="#1d4ed8"><title>D4 3.30-3.48 Mb (184 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="451.5" width="12" height="1.0" fill="#1d4ed8"><title>D4 103.43-103.67 Mb (244 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="251.1" width="12" height="1.0" fill="#1d4ed8"><title>D4 3.55-3.88 Mb (333 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="244.5" width="12" height="1.0" fill="#1d4ed8"><title>D4 0.22-0.68 Mb (457 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="245.6" width="12" height="1.1" fill="#1d4ed8"><title>D4 0.78-1.33 Mb (552 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="319.7" width="12" height="1.2" fill="#b45309"><title>D4 37.71-38.31 Mb (593 kb), S005, monomer 3534 bp, HOR 3536 bp</title></rect>
+<rect x="624.0" y="452.0" width="12" height="1.3" fill="#1d4ed8"><title>D4 103.68-104.33 Mb (646 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="248.6" width="12" height="1.3" fill="#1d4ed8"><title>D4 2.29-2.95 Mb (657 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="624.0" y="246.8" width="12" height="1.7" fill="#1d4ed8"><title>D4 1.42-2.28 Mb (864 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="620.0" y="244.4" width="20" height="7.7" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>D4 locus 0.20-4.04 Mb (3.84 Mb): 3.64 Mb of S001 in 13 arrays; largest array 1.42-2.28 Mb (864 kb), monomer 483 bp</title></rect>
+<text x="630.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">D4</text>
+<rect x="667.0" y="244" width="14" height="129.8" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>E1: 64,686,350 bp</title></rect>
+<rect x="668.0" y="373.1" width="12" height="1.0" fill="#1d4ed8"><title>E1 64.33-64.34 Mb (14 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="668.0" y="336.5" width="12" height="1.0" fill="#8b95a5"><title>E1 46.13-46.15 Mb (22 kb), S024, monomer 5588 bp, HOR 21820 bp</title></rect>
+<rect x="668.0" y="335.8" width="12" height="1.0" fill="#8b95a5"><title>E1 45.74-45.77 Mb (27 kb), S024, monomer 5587 bp, HOR 27408 bp</title></rect>
+<rect x="668.0" y="244.0" width="12" height="1.0" fill="#8b95a5"><title>E1 0.00-0.04 Mb (35 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="668.0" y="328.3" width="12" height="1.0" fill="#8b95a5"><title>E1 42.00-42.03 Mb (39 kb), S011, monomer 4166 bp, HOR 4166 bp</title></rect>
+<rect x="668.0" y="328.1" width="12" height="1.0" fill="#8b95a5"><title>E1 41.91-41.96 Mb (56 kb), S018, monomer 23367 bp, HOR 55638 bp</title></rect>
+<rect x="668.0" y="373.4" width="12" height="1.0" fill="#1d4ed8"><title>E1 64.52-64.59 Mb (71 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="668.0" y="373.6" width="12" height="1.0" fill="#8b95a5"><title>E1 64.61-64.69 Mb (80 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="668.0" y="328.3" width="12" height="1.0" fill="#8b95a5"><title>E1 42.03-42.11 Mb (80 kb), S011, monomer 4164 bp, HOR 4158 bp</title></rect>
+<rect x="668.0" y="373.1" width="12" height="1.0" fill="#1d4ed8"><title>E1 64.35-64.50 Mb (153 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="668.0" y="294.9" width="12" height="3.0" fill="#1d4ed8"><title>E1 25.35-26.84 Mb (1.49 Mb), S001, monomer 107 bp, HOR 113 bp</title></rect>
+<rect x="664.0" y="293.9" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>E1 locus 25.35-26.84 Mb (1.49 Mb): 1.49 Mb of S001 in 1 arrays; largest array 25.35-26.84 Mb (1.49 Mb), monomer 107 bp</title></rect>
+<text x="674.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">E1</text>
+<rect x="711.0" y="244" width="14" height="142.3" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>E2: 70,945,231 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="712.0" y="264.9" width="12" height="1.0" fill="#f97316"><title>E2 10.43-10.44 Mb (10 kb), S002, monomer 33 bp, HOR 2104 bp</title></rect>
+<rect x="712.0" y="263.5" width="12" height="1.0" fill="#8b95a5"><title>E2 9.71-9.72 Mb (10 kb), S015, monomer 14 bp, HOR 58 bp</title></rect>
+<rect x="712.0" y="250.6" width="12" height="1.0" fill="#8b95a5"><title>E2 3.28-3.29 Mb (10 kb), S015, monomer 14 bp, HOR 58 bp</title></rect>
+<rect x="712.0" y="385.7" width="12" height="1.0" fill="#1d4ed8"><title>E2 70.61-70.62 Mb (11 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="266.5" width="12" height="1.0" fill="#1d4ed8"><title>E2 11.23-11.25 Mb (11 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="252.3" width="12" height="1.0" fill="#8b95a5"><title>E2 4.15-4.16 Mb (12 kb), S030, monomer 14 bp, HOR 29 bp</title></rect>
+<rect x="712.0" y="266.8" width="12" height="1.0" fill="#1d4ed8"><title>E2 11.36-11.38 Mb (14 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="265.2" width="12" height="1.0" fill="#f97316"><title>E2 10.55-10.56 Mb (14 kb), S002, monomer 33 bp, HOR 4079 bp</title></rect>
+<rect x="712.0" y="385.7" width="12" height="1.0" fill="#1d4ed8"><title>E2 70.62-70.64 Mb (17 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="264.2" width="12" height="1.0" fill="#1d4ed8"><title>E2 10.08-10.10 Mb (18 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="712.0" y="245.6" width="12" height="1.0" fill="#1d4ed8"><title>E2 0.80-0.83 Mb (27 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="266.7" width="12" height="1.0" fill="#1d4ed8"><title>E2 11.33-11.36 Mb (31 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="250.4" width="12" height="1.0" fill="#1d4ed8"><title>E2 3.20-3.23 Mb (34 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="712.0" y="267.6" width="12" height="1.0" fill="#1d4ed8"><title>E2 11.77-11.80 Mb (36 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="385.6" width="12" height="1.0" fill="#1d4ed8"><title>E2 70.57-70.61 Mb (40 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="244.0" width="12" height="1.0" fill="#8b95a5"><title>E2 0.00-0.04 Mb (40 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="712.0" y="265.0" width="12" height="1.0" fill="#f97316"><title>E2 10.46-10.50 Mb (43 kb), S002, monomer 33 bp, HOR 4079 bp</title></rect>
+<rect x="712.0" y="265.1" width="12" height="1.0" fill="#f97316"><title>E2 10.50-10.55 Mb (43 kb), S002, monomer 33 bp, HOR 4079 bp</title></rect>
+<rect x="712.0" y="246.1" width="12" height="1.0" fill="#1d4ed8"><title>E2 1.05-1.09 Mb (43 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="246.3" width="12" height="1.0" fill="#1d4ed8"><title>E2 1.12-1.17 Mb (46 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="386.2" width="12" height="1.0" fill="#8b95a5"><title>E2 70.90-70.95 Mb (47 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="712.0" y="265.4" width="12" height="1.0" fill="#f97316"><title>E2 10.65-10.70 Mb (51 kb), S002, monomer 33 bp, HOR 4079 bp</title></rect>
+<rect x="712.0" y="245.4" width="12" height="1.0" fill="#1d4ed8"><title>E2 0.72-0.77 Mb (51 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="246.4" width="12" height="1.0" fill="#1d4ed8"><title>E2 1.20-1.26 Mb (61 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="246.0" width="12" height="1.0" fill="#1d4ed8"><title>E2 0.97-1.04 Mb (70 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="384.9" width="12" height="1.0" fill="#1d4ed8"><title>E2 70.22-70.30 Mb (79 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="245.3" width="12" height="1.0" fill="#1d4ed8"><title>E2 0.63-0.72 Mb (85 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="265.2" width="12" height="1.0" fill="#f97316"><title>E2 10.56-10.65 Mb (86 kb), S002, monomer 33 bp, HOR 4079 bp</title></rect>
+<rect x="712.0" y="266.6" width="12" height="1.0" fill="#1d4ed8"><title>E2 11.25-11.33 Mb (88 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="385.7" width="12" height="1.0" fill="#1d4ed8"><title>E2 70.64-70.73 Mb (89 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="249.8" width="12" height="1.0" fill="#1d4ed8"><title>E2 2.91-3.02 Mb (113 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="266.2" width="12" height="1.0" fill="#1d4ed8"><title>E2 11.08-11.20 Mb (125 kb), S001, monomer 2856 bp, HOR 2856 bp</title></rect>
+<rect x="712.0" y="245.7" width="12" height="1.0" fill="#1d4ed8"><title>E2 0.83-0.97 Mb (135 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="307.3" width="12" height="1.0" fill="#1d4ed8"><title>E2 31.55-31.70 Mb (145 kb), S001, monomer 107 bp, HOR 113 bp</title></rect>
+<rect x="712.0" y="250.1" width="12" height="1.0" fill="#1d4ed8"><title>E2 3.03-3.19 Mb (156 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="248.5" width="12" height="1.0" fill="#1d4ed8"><title>E2 2.23-2.39 Mb (164 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="264.3" width="12" height="1.0" fill="#1d4ed8"><title>E2 10.14-10.31 Mb (167 kb), S001, monomer 482 bp, HOR 484 bp</title></rect>
+<rect x="712.0" y="248.1" width="12" height="1.0" fill="#1d4ed8"><title>E2 2.04-2.22 Mb (177 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="384.5" width="12" height="1.0" fill="#1d4ed8"><title>E2 70.03-70.21 Mb (185 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="244.4" width="12" height="1.0" fill="#1d4ed8"><title>E2 0.19-0.39 Mb (200 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="244.8" width="12" height="1.0" fill="#1d4ed8"><title>E2 0.40-0.62 Mb (219 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="385.1" width="12" height="1.0" fill="#1d4ed8"><title>E2 70.31-70.54 Mb (231 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="266.8" width="12" height="1.0" fill="#1d4ed8"><title>E2 11.38-11.75 Mb (368 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="248.8" width="12" height="1.0" fill="#1d4ed8"><title>E2 2.40-2.89 Mb (490 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="383.4" width="12" height="1.1" fill="#1d4ed8"><title>E2 69.48-70.02 Mb (539 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="712.0" y="246.5" width="12" height="1.5" fill="#1d4ed8"><title>E2 1.26-2.03 Mb (764 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="708.0" y="244.4" width="20" height="6.1" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>E2 locus 0.19-3.23 Mb (3.04 Mb): 2.84 Mb of S001 in 17 arrays; largest array 1.26-2.03 Mb (764 kb), monomer 483 bp</title></rect>
+<text x="718.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">E2</text>
+<rect x="755.0" y="244" width="14" height="90.4" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>E3: 45,076,340 bp
+exception: locus_includes_period_class_arrays
+exception: second_locus_comparable</title></rect>
+<rect x="756.0" y="331.8" width="12" height="1.0" fill="#8b95a5"><title>E3 43.78-43.79 Mb (10 kb), S015, monomer 14 bp, HOR 58 bp</title></rect>
+<rect x="756.0" y="334.3" width="12" height="1.0" fill="#8b95a5"><title>E3 45.02-45.04 Mb (11 kb), S015, monomer 14 bp, HOR 58 bp</title></rect>
+<rect x="756.0" y="332.1" width="12" height="1.0" fill="#8b95a5"><title>E3 43.92-43.93 Mb (11 kb), S021, monomer 14 bp, HOR 29 bp</title></rect>
+<rect x="756.0" y="332.1" width="12" height="1.0" fill="#8b95a5"><title>E3 43.89-43.90 Mb (11 kb), S021, monomer 14 bp, HOR 29 bp</title></rect>
+<rect x="756.0" y="332.1" width="12" height="1.0" fill="#8b95a5"><title>E3 43.90-43.92 Mb (13 kb), S030, monomer 14 bp, HOR 29 bp</title></rect>
+<rect x="756.0" y="261.9" width="12" height="1.0" fill="#8b95a5"><title>E3 8.94-8.96 Mb (13 kb), S041, monomer 57 bp, HOR 285 bp</title></rect>
+<rect x="756.0" y="334.2" width="12" height="1.0" fill="#1d4ed8"><title>E3 44.97-44.98 Mb (14 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="756.0" y="334.2" width="12" height="1.0" fill="#1d4ed8"><title>E3 44.94-44.95 Mb (15 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="756.0" y="334.1" width="12" height="1.0" fill="#1d4ed8"><title>E3 44.91-44.93 Mb (17 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="756.0" y="332.6" width="12" height="1.0" fill="#1d4ed8"><title>E3 44.15-44.31 Mb (160 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="756.0" y="333.1" width="12" height="1.0" fill="#1d4ed8"><title>E3 44.44-44.90 Mb (463 kb), S001, monomer 2894 bp, HOR 3826 bp</title></rect>
+<rect x="756.0" y="279.2" width="12" height="1.4" fill="#93c5fd"><title>E3 17.54-18.23 Mb (692 kb), S004, monomer 1409 bp, HOR 1409 bp</title></rect>
+<rect x="752.0" y="277.4" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>E3 locus 17.54-18.23 Mb (692 kb): 692 kb of S001 in 1 arrays; largest array 17.54-18.23 Mb (692 kb), monomer 1409 bp</title></rect>
+<text x="762.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">E3</text>
+<rect x="799.0" y="244" width="14" height="169.5" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>F1: 84,463,942 bp</title></rect>
+<rect x="800.0" y="286.6" width="12" height="1.0" fill="#f97316"><title>F1 21.25-21.26 Mb (10 kb), S002, monomer 33 bp, HOR 2137 bp</title></rect>
+<rect x="800.0" y="286.7" width="12" height="1.0" fill="#f97316"><title>F1 21.27-21.28 Mb (10 kb), S002, monomer 33 bp, HOR 2137 bp</title></rect>
+<rect x="800.0" y="296.8" width="12" height="1.0" fill="#1d4ed8"><title>F1 26.33-26.34 Mb (10 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="297.8" width="12" height="1.0" fill="#1d4ed8"><title>F1 26.80-26.81 Mb (10 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="286.2" width="12" height="1.0" fill="#f97316"><title>F1 21.03-21.04 Mb (10 kb), S002, monomer 33 bp, HOR 33 bp</title></rect>
+<rect x="800.0" y="289.4" width="12" height="1.0" fill="#8b95a5"><title>F1 22.61-22.62 Mb (10 kb), S015, monomer 14 bp, HOR 58 bp</title></rect>
+<rect x="800.0" y="284.0" width="12" height="1.0" fill="#f97316"><title>F1 19.95-19.96 Mb (11 kb), S002, monomer 33 bp, HOR 33 bp</title></rect>
+<rect x="800.0" y="305.6" width="12" height="1.0" fill="#1d4ed8"><title>F1 30.69-30.70 Mb (12 kb), S001, monomer 3340 bp, HOR 3340 bp</title></rect>
+<rect x="800.0" y="249.9" width="12" height="1.0" fill="#8b95a5"><title>F1 2.92-2.93 Mb (12 kb), S014, monomer 2391 bp, HOR 2391 bp</title></rect>
+<rect x="800.0" y="284.4" width="12" height="1.0" fill="#1d4ed8"><title>F1 20.12-20.14 Mb (12 kb), S001, monomer 482 bp, HOR 484 bp</title></rect>
+<rect x="800.0" y="250.1" width="12" height="1.0" fill="#8b95a5"><title>F1 3.06-3.07 Mb (12 kb), S014, monomer 2391 bp, HOR 2391 bp</title></rect>
+<rect x="800.0" y="286.6" width="12" height="1.0" fill="#f97316"><title>F1 21.23-21.24 Mb (12 kb), S002, monomer 33 bp, HOR 33 bp</title></rect>
+<rect x="800.0" y="249.7" width="12" height="1.0" fill="#84cc16"><title>F1 2.85-2.86 Mb (12 kb), S004, monomer 2770 bp, HOR 2759 bp</title></rect>
+<rect x="800.0" y="284.5" width="12" height="1.0" fill="#8b95a5"><title>F1 20.19-20.20 Mb (13 kb), S040, monomer 14 bp, HOR 2689 bp</title></rect>
+<rect x="800.0" y="294.4" width="12" height="1.0" fill="#1d4ed8"><title>F1 25.13-25.14 Mb (13 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="295.6" width="12" height="1.0" fill="#1d4ed8"><title>F1 25.71-25.72 Mb (14 kb), S001, monomer 483 bp, HOR 3316 bp</title></rect>
+<rect x="800.0" y="284.1" width="12" height="1.0" fill="#f97316"><title>F1 19.96-19.98 Mb (14 kb), S002, monomer 33 bp, HOR 2136 bp</title></rect>
+<rect x="800.0" y="244.0" width="12" height="1.0" fill="#8b95a5"><title>F1 0.00-0.02 Mb (17 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="800.0" y="302.9" width="12" height="1.0" fill="#1d4ed8"><title>F1 29.37-29.39 Mb (18 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="304.6" width="12" height="1.0" fill="#1d4ed8"><title>F1 30.18-30.20 Mb (18 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="294.4" width="12" height="1.0" fill="#1d4ed8"><title>F1 25.10-25.12 Mb (18 kb), S001, monomer 483 bp, HOR 965 bp</title></rect>
+<rect x="800.0" y="292.5" width="12" height="1.0" fill="#f97316"><title>F1 24.15-24.17 Mb (20 kb), S002, monomer 33 bp, HOR 3947 bp</title></rect>
+<rect x="800.0" y="291.0" width="12" height="1.0" fill="#1d4ed8"><title>F1 23.43-23.45 Mb (22 kb), S001, monomer 479 bp, HOR 484 bp</title></rect>
+<rect x="800.0" y="286.7" width="12" height="1.0" fill="#f97316"><title>F1 21.28-21.31 Mb (25 kb), S002, monomer 33 bp, HOR 4145 bp</title></rect>
+<rect x="800.0" y="286.1" width="12" height="1.0" fill="#f97316"><title>F1 20.98-21.01 Mb (27 kb), S002, monomer 33 bp, HOR 4146 bp</title></rect>
+<rect x="800.0" y="296.7" width="12" height="1.0" fill="#1d4ed8"><title>F1 26.29-26.32 Mb (28 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="281.9" width="12" height="1.0" fill="#1d4ed8"><title>F1 18.92-18.94 Mb (28 kb), S001, monomer 2857 bp, HOR 2376 bp</title></rect>
+<rect x="800.0" y="296.5" width="12" height="1.0" fill="#1d4ed8"><title>F1 26.19-26.21 Mb (28 kb), S001, monomer 4282 bp, HOR 4282 bp</title></rect>
+<rect x="800.0" y="285.7" width="12" height="1.0" fill="#f97316"><title>F1 20.78-20.81 Mb (30 kb), S002, monomer 33 bp, HOR 4144 bp</title></rect>
+<rect x="800.0" y="305.5" width="12" height="1.0" fill="#1d4ed8"><title>F1 30.66-30.69 Mb (30 kb), S001, monomer 5129 bp, HOR 4646 bp</title></rect>
+<rect x="800.0" y="286.8" width="12" height="1.0" fill="#f97316"><title>F1 21.31-21.34 Mb (32 kb), S002, monomer 33 bp, HOR 4145 bp</title></rect>
+<rect x="800.0" y="284.9" width="12" height="1.0" fill="#8b95a5"><title>F1 20.40-20.43 Mb (35 kb), S027, monomer 12 bp, HOR 12 bp</title></rect>
+<rect x="800.0" y="289.1" width="12" height="1.0" fill="#1d4ed8"><title>F1 22.48-22.52 Mb (36 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="293.5" width="12" height="1.0" fill="#8b95a5"><title>F1 24.67-24.71 Mb (36 kb), S009, monomer 12 bp, HOR 12 bp</title></rect>
+<rect x="800.0" y="297.9" width="12" height="1.0" fill="#1d4ed8"><title>F1 26.86-26.90 Mb (40 kb), S001, monomer 483 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="413.4" width="12" height="1.0" fill="#8b95a5"><title>F1 84.42-84.46 Mb (45 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="800.0" y="291.3" width="12" height="1.0" fill="#f97316"><title>F1 23.57-23.62 Mb (46 kb), S002, monomer 33 bp, HOR 33 bp</title></rect>
+<rect x="800.0" y="289.2" width="12" height="1.0" fill="#8b95a5"><title>F1 22.52-22.56 Mb (48 kb), S009, monomer 12 bp, HOR 12 bp</title></rect>
+<rect x="800.0" y="305.6" width="12" height="1.0" fill="#1d4ed8"><title>F1 30.70-30.76 Mb (53 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="249.7" width="12" height="1.0" fill="#84cc16"><title>F1 2.86-2.91 Mb (55 kb), S004, monomer 2753 bp, HOR 2763 bp</title></rect>
+<rect x="800.0" y="284.8" width="12" height="1.0" fill="#1d4ed8"><title>F1 20.34-20.40 Mb (55 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="290.4" width="12" height="1.0" fill="#8b95a5"><title>F1 23.15-23.21 Mb (55 kb), S023, monomer 14 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="300.7" width="12" height="1.0" fill="#1d4ed8"><title>F1 28.27-28.33 Mb (62 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="287.8" width="12" height="1.0" fill="#f97316"><title>F1 21.82-21.88 Mb (62 kb), S002, monomer 33 bp, HOR 4146 bp</title></rect>
+<rect x="800.0" y="287.9" width="12" height="1.0" fill="#f97316"><title>F1 21.88-21.94 Mb (62 kb), S002, monomer 33 bp, HOR 4146 bp</title></rect>
+<rect x="800.0" y="250.0" width="12" height="1.0" fill="#84cc16"><title>F1 2.99-3.05 Mb (63 kb), S004, monomer 2751 bp, HOR 2763 bp</title></rect>
+<rect x="800.0" y="291.4" width="12" height="1.0" fill="#f97316"><title>F1 23.62-23.69 Mb (66 kb), S002, monomer 33 bp, HOR 33 bp</title></rect>
+<rect x="800.0" y="289.0" width="12" height="1.0" fill="#8b95a5"><title>F1 22.41-22.48 Mb (70 kb), S020, monomer 15 bp, HOR 29 bp</title></rect>
+<rect x="800.0" y="290.6" width="12" height="1.0" fill="#8b95a5"><title>F1 23.24-23.31 Mb (70 kb), S019, monomer 14 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="304.3" width="12" height="1.0" fill="#1d4ed8"><title>F1 30.07-30.15 Mb (81 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="302.7" width="12" height="1.0" fill="#1d4ed8"><title>F1 29.25-29.34 Mb (83 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="292.1" width="12" height="1.0" fill="#f97316"><title>F1 23.95-24.04 Mb (88 kb), S002, monomer 33 bp, HOR 4145 bp</title></rect>
+<rect x="800.0" y="286.2" width="12" height="1.0" fill="#f97316"><title>F1 21.04-21.13 Mb (95 kb), S002, monomer 33 bp, HOR 4146 bp</title></rect>
+<rect x="800.0" y="303.0" width="12" height="1.0" fill="#1d4ed8"><title>F1 29.39-29.49 Mb (96 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="304.6" width="12" height="1.0" fill="#1d4ed8"><title>F1 30.20-30.30 Mb (96 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="250.3" width="12" height="1.0" fill="#84cc16"><title>F1 3.13-3.22 Mb (96 kb), S004, monomer 2756 bp, HOR 2740 bp</title></rect>
+<rect x="800.0" y="286.4" width="12" height="1.0" fill="#f97316"><title>F1 21.13-21.23 Mb (99 kb), S002, monomer 33 bp, HOR 4145 bp</title></rect>
+<rect x="800.0" y="285.2" width="12" height="1.0" fill="#1d4ed8"><title>F1 20.56-20.66 Mb (101 kb), S001, monomer 3367 bp, HOR 3367 bp</title></rect>
+<rect x="800.0" y="282.5" width="12" height="1.0" fill="#1d4ed8"><title>F1 19.20-19.31 Mb (106 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="285.0" width="12" height="1.0" fill="#1d4ed8"><title>F1 20.43-20.54 Mb (107 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="292.2" width="12" height="1.0" fill="#f97316"><title>F1 24.04-24.15 Mb (113 kb), S002, monomer 33 bp, HOR 4145 bp</title></rect>
+<rect x="800.0" y="282.1" width="12" height="1.0" fill="#8b95a5"><title>F1 19.02-19.16 Mb (146 kb), S009, monomer 12 bp, HOR 12 bp</title></rect>
+<rect x="800.0" y="285.8" width="12" height="1.0" fill="#f97316"><title>F1 20.82-20.98 Mb (166 kb), S002, monomer 33 bp, HOR 4146 bp</title></rect>
+<rect x="800.0" y="300.3" width="12" height="1.0" fill="#1d4ed8"><title>F1 28.05-28.23 Mb (177 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="287.3" width="12" height="1.0" fill="#f97316"><title>F1 21.60-21.82 Mb (221 kb), S002, monomer 33 bp, HOR 4145 bp</title></rect>
+<rect x="800.0" y="293.9" width="12" height="1.0" fill="#1d4ed8"><title>F1 24.86-25.10 Mb (240 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="300.9" width="12" height="1.0" fill="#1d4ed8"><title>F1 28.37-28.64 Mb (274 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="304.9" width="12" height="1.0" fill="#1d4ed8"><title>F1 30.36-30.66 Mb (305 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="292.7" width="12" height="1.0" fill="#1d4ed8"><title>F1 24.29-24.63 Mb (340 kb), S001, monomer 3366 bp, HOR 3366 bp</title></rect>
+<rect x="800.0" y="288.3" width="12" height="1.0" fill="#1d4ed8"><title>F1 22.06-22.41 Mb (347 kb), S001, monomer 3366 bp, HOR 3366 bp</title></rect>
+<rect x="800.0" y="295.7" width="12" height="1.0" fill="#1d4ed8"><title>F1 25.76-26.15 Mb (394 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="298.0" width="12" height="1.0" fill="#1d4ed8"><title>F1 26.90-27.31 Mb (413 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="282.8" width="12" height="1.0" fill="#1d4ed8"><title>F1 19.32-19.78 Mb (453 kb), S001, monomer 3366 bp, HOR 3366 bp</title></rect>
+<rect x="800.0" y="303.3" width="12" height="1.0" fill="#1d4ed8"><title>F1 29.55-30.07 Mb (514 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="294.5" width="12" height="1.1" fill="#1d4ed8"><title>F1 25.18-25.71 Mb (527 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="800.0" y="301.5" width="12" height="1.2" fill="#1d4ed8"><title>F1 28.68-29.25 Mb (575 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="298.9" width="12" height="1.3" fill="#1d4ed8"><title>F1 27.35-28.01 Mb (661 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="800.0" y="244.0" width="12" height="2.1" fill="#a855f7"><title>F1 0.02-1.09 Mb (1.07 Mb), S003, monomer 2647 bp, HOR 2648 bp</title></rect>
+<rect x="796.0" y="288.3" width="20" height="17.4" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>F1 locus 22.06-30.76 Mb (8.69 Mb): 5.53 Mb of S001 in 32 arrays; largest array 27.35-28.01 Mb (661 kb), monomer 483 bp</title></rect>
+<text x="806.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">F1</text>
+<rect x="843.0" y="244" width="14" height="167.7" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>F2: 83,596,556 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="844.0" y="244.0" width="12" height="1.0" fill="#1d4ed8"><title>F2 0.00-0.14 Mb (137 kb), S001, monomer 3122 bp, HOR 3122 bp</title></rect>
+<rect x="840.0" y="241.6" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>F2 locus 0.00-0.14 Mb (137 kb): 137 kb of S001 in 1 arrays; largest array 0.00-0.14 Mb (137 kb), monomer 3122 bp</title></rect>
+<text x="850.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">F2</text>
+<rect x="887.0" y="244" width="14" height="267.1" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>X: 133,145,376 bp
+exception: locus_at_chromosome_end
+exception: second_locus_comparable</title></rect>
+<rect x="888.0" y="511.1" width="12" height="1.0" fill="#8b95a5"><title>X 133.12-133.13 Mb (10 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="888.0" y="253.1" width="12" height="1.0" fill="#8b95a5"><title>X 4.52-4.53 Mb (10 kb), S047, monomer 11 bp, HOR 26 bp</title></rect>
+<rect x="888.0" y="511.1" width="12" height="1.0" fill="#8b95a5"><title>X 133.13-133.15 Mb (11 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="888.0" y="441.0" width="12" height="1.0" fill="#8b95a5"><title>X 98.19-98.20 Mb (11 kb), S006, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="888.0" y="474.0" width="12" height="1.0" fill="#8b95a5"><title>X 114.66-114.67 Mb (12 kb), S010, monomer 2003 bp, HOR 2003 bp</title></rect>
+<rect x="888.0" y="349.7" width="12" height="1.0" fill="#8b95a5"><title>X 52.70-52.71 Mb (12 kb), S045, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="888.0" y="510.7" width="12" height="1.0" fill="#1d4ed8"><title>X 132.96-132.97 Mb (13 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="888.0" y="496.4" width="12" height="1.0" fill="#8b95a5"><title>X 125.83-125.84 Mb (13 kb), S008, monomer 155 bp, HOR 155 bp</title></rect>
+<rect x="888.0" y="249.6" width="12" height="1.0" fill="#1d4ed8"><title>X 2.81-2.83 Mb (17 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="888.0" y="441.1" width="12" height="1.0" fill="#8b95a5"><title>X 98.24-98.26 Mb (19 kb), S014, monomer 4758 bp, HOR 4758 bp</title></rect>
+<rect x="888.0" y="474.2" width="12" height="1.0" fill="#8b95a5"><title>X 114.74-114.76 Mb (19 kb), S010, monomer 2547 bp, HOR 2551 bp</title></rect>
+<rect x="888.0" y="249.3" width="12" height="1.0" fill="#8b95a5"><title>X 2.66-2.69 Mb (28 kb), S009, monomer 12 bp, HOR 12 bp</title></rect>
+<rect x="888.0" y="441.0" width="12" height="1.0" fill="#8b95a5"><title>X 98.21-98.24 Mb (28 kb), S014, monomer 4748 bp, HOR 4743 bp</title></rect>
+<rect x="888.0" y="350.9" width="12" height="1.0" fill="#8b95a5"><title>X 53.29-53.32 Mb (35 kb), S026, monomer 16546 bp, HOR 35300 bp</title></rect>
+<rect x="888.0" y="245.0" width="12" height="1.0" fill="#1d4ed8"><title>X 0.50-0.55 Mb (51 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="888.0" y="244.9" width="12" height="1.0" fill="#1d4ed8"><title>X 0.44-0.50 Mb (56 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="888.0" y="318.0" width="12" height="1.0" fill="#8b95a5"><title>X 36.88-36.94 Mb (59 kb), S013, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="888.0" y="440.8" width="12" height="1.0" fill="#8b95a5"><title>X 98.09-98.15 Mb (63 kb), S016, monomer 4554 bp, HOR 4559 bp</title></rect>
+<rect x="888.0" y="496.7" width="12" height="1.0" fill="#8b95a5"><title>X 125.96-126.03 Mb (68 kb), S008, monomer 95 bp, HOR 155 bp</title></rect>
+<rect x="888.0" y="497.0" width="12" height="1.0" fill="#8b95a5"><title>X 126.12-126.23 Mb (114 kb), S008, monomer 149 bp, HOR 153 bp</title></rect>
+<rect x="888.0" y="496.5" width="12" height="1.0" fill="#8b95a5"><title>X 125.84-125.96 Mb (122 kb), S008, monomer 138 bp, HOR 156 bp</title></rect>
+<rect x="888.0" y="245.1" width="12" height="1.0" fill="#1d4ed8"><title>X 0.56-0.87 Mb (310 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="888.0" y="244.2" width="12" height="1.0" fill="#1d4ed8"><title>X 0.10-0.43 Mb (333 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="888.0" y="509.9" width="12" height="1.0" fill="#1d4ed8"><title>X 132.52-132.89 Mb (366 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="888.0" y="249.7" width="12" height="1.2" fill="#1d4ed8"><title>X 2.83-3.41 Mb (582 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="888.0" y="508.5" width="12" height="1.3" fill="#1d4ed8"><title>X 131.85-132.51 Mb (656 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="884.0" y="507.1" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>X locus 131.85-132.97 Mb (1.12 Mb): 1.03 Mb of S001 in 3 arrays; largest array 131.85-132.51 Mb (656 kb), monomer 483 bp</title></rect>
+<text x="894.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">X</text>
+<rect x="931.0" y="244" width="14" height="92.3" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>Y: 45,999,067 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="932.0" y="276.6" width="12" height="1.0" fill="#8b95a5"><title>Y 16.27-16.29 Mb (18 kb), S016, monomer 9145 bp, HOR 18293 bp</title></rect>
+<rect x="932.0" y="272.2" width="12" height="1.0" fill="#8b95a5"><title>Y 14.04-14.06 Mb (18 kb), S016, monomer 9151 bp, HOR 18317 bp</title></rect>
+<rect x="932.0" y="244.0" width="12" height="1.0" fill="#1d4ed8"><title>Y 0.00-0.02 Mb (20 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="932.0" y="248.5" width="12" height="1.0" fill="#8b95a5"><title>Y 2.22-2.24 Mb (20 kb), S033, monomer 14 bp, HOR 26 bp</title></rect>
+<rect x="932.0" y="282.2" width="12" height="1.0" fill="#8b95a5"><title>Y 19.02-19.04 Mb (21 kb), S012, monomer 10287 bp, HOR 20632 bp</title></rect>
+<rect x="932.0" y="273.5" width="12" height="1.0" fill="#8b95a5"><title>Y 14.68-14.70 Mb (21 kb), S012, monomer 10327 bp, HOR 20669 bp</title></rect>
+<rect x="932.0" y="281.8" width="12" height="1.0" fill="#8b95a5"><title>Y 18.82-18.84 Mb (21 kb), S012, monomer 10305 bp, HOR 21222 bp</title></rect>
+<rect x="932.0" y="270.3" width="12" height="1.0" fill="#8b95a5"><title>Y 13.13-13.16 Mb (31 kb), S012, monomer 10299 bp, HOR 30888 bp</title></rect>
+<rect x="932.0" y="244.1" width="12" height="1.0" fill="#1d4ed8"><title>Y 0.03-0.08 Mb (48 kb), S001, monomer 486 bp, HOR 483 bp</title></rect>
+<rect x="932.0" y="244.3" width="12" height="1.0" fill="#1d4ed8"><title>Y 0.13-0.18 Mb (48 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="932.0" y="244.2" width="12" height="1.0" fill="#8b95a5"><title>Y 0.08-0.13 Mb (54 kb), S013, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="932.0" y="281.6" width="12" height="1.0" fill="#8b95a5"><title>Y 18.75-18.82 Mb (71 kb), S006, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="932.0" y="246.1" width="12" height="1.0" fill="#1d4ed8"><title>Y 1.04-1.13 Mb (91 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="932.0" y="244.4" width="12" height="1.0" fill="#1d4ed8"><title>Y 0.18-0.42 Mb (243 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="932.0" y="244.9" width="12" height="1.2" fill="#1d4ed8"><title>Y 0.44-1.02 Mb (580 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="928.0" y="242.6" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>Y locus 0.00-1.13 Mb (1.13 Mb): 1.03 Mb of S001 in 6 arrays; largest array 0.44-1.02 Mb (580 kb), monomer 483 bp</title></rect>
+<text x="938.0" y="740" font-size="12" fill="#0f172a" text-anchor="middle">Y</text>
+<text x="40" y="774" font-size="14" fill="#0f172a"><tspan font-weight="bold">b</tspan><tspan dx="10">Centromeric region of each chromosome, each window to its own scale (width shown above it)</tspan></text>
+<rect x="94.0" y="820" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>A1: no call</title></rect>
+<text x="102.0" y="935.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 102.0 935.0)">no call</text>
+<text x="102.0" y="1080" font-size="12" fill="#dc2626" text-anchor="middle">A1</text>
+<rect x="138.0" y="820" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>A2: no call</title></rect>
+<text x="146.0" y="935.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 146.0 935.0)">no call</text>
+<text x="146.0" y="1080" font-size="12" fill="#dc2626" text-anchor="middle">A2</text>
+<text x="190.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">1.2 Mb</text>
+<rect x="182.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>A3 0.08-1.24 Mb</title></rect>
+<rect x="183.0" y="835.9" width="14" height="5.2" fill="#1d4ed8"><title>A3 0.16-0.19 Mb (26 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="183.0" y="843.3" width="14" height="190.8" fill="#1d4ed8"><title>A3 0.20-1.16 Mb (962 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<path d="M180.0,835.9 h-4 V1034.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>A3 locus 0.16-1.16 Mb (999 kb): 988 kb of S001 in 2 arrays; largest array 0.20-1.16 Mb (962 kb), monomer 483 bp</title></path>
+<text x="190.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">A3</text>
+<text x="234.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">51 kb</text>
+<rect x="226.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>B1 38.06-38.11 Mb</title></rect>
+<rect x="227.0" y="910.2" width="14" height="49.6" fill="#1d4ed8"><title>B1 38.08-38.09 Mb (11 kb), S001, monomer 1452 bp, HOR 1925 bp</title></rect>
+<path d="M224.0,910.2 h-4 V959.8 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>B1 locus 38.08-38.09 Mb (11 kb): 11 kb of S001 in 1 arrays; largest array 38.08-38.09 Mb (11 kb), monomer 1452 bp</title></path>
+<text x="234.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">B1</text>
+<text x="278.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">1.3 Mb</text>
+<rect x="270.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>B2 0.09-1.35 Mb</title></rect>
+<rect x="271.0" y="1032.3" width="14" height="1.9" fill="#1d4ed8"><title>B2 1.25-1.26 Mb (10 kb), S001, monomer 483 bp, HOR 484 bp</title></rect>
+<rect x="271.0" y="995.2" width="14" height="3.9" fill="#8b95a5"><title>B2 1.05-1.07 Mb (21 kb), S015, monomer 14 bp, HOR 29 bp</title></rect>
+<rect x="271.0" y="926.8" width="14" height="5.0" fill="#1d4ed8"><title>B2 0.67-0.70 Mb (28 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="271.0" y="932.3" width="14" height="62.6" fill="#1d4ed8"><title>B2 0.70-1.05 Mb (343 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="271.0" y="835.9" width="14" height="91.0" fill="#1d4ed8"><title>B2 0.17-0.67 Mb (498 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<path d="M268.0,835.9 h-4 V1034.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>B2 locus 0.17-1.26 Mb (1.09 Mb): 879 kb of S001 in 4 arrays; largest array 0.17-0.67 Mb (498 kb), monomer 483 bp</title></path>
+<text x="278.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">B2</text>
+<text x="322.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">36 kb</text>
+<rect x="314.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>B3 0.00-0.04 Mb</title></rect>
+<rect x="315.0" y="833.4" width="14" height="87.9" fill="#1d4ed8"><title>B3 0.00-0.02 Mb (14 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<path d="M312.0,833.4 h-4 V921.4 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>B3 locus 0.00-0.02 Mb (14 kb): 14 kb of S001 in 1 arrays; largest array 0.00-0.02 Mb (14 kb), monomer 483 bp</title></path>
+<text x="322.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">B3</text>
+<text x="366.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">53 kb</text>
+<rect x="358.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>B4 0.12-0.17 Mb</title></rect>
+<rect x="359.0" y="906.9" width="14" height="56.3" fill="#1d4ed8"><title>B4 0.14-0.15 Mb (13 kb), S001, monomer 481 bp, HOR 483 bp</title></rect>
+<path d="M356.0,906.9 h-4 V963.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>B4 locus 0.14-0.15 Mb (13 kb): 13 kb of S001 in 1 arrays; largest array 0.14-0.15 Mb (13 kb), monomer 481 bp</title></path>
+<text x="366.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">B4</text>
+<rect x="402.0" y="820" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>C1: no call</title></rect>
+<text x="410.0" y="935.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 410.0 935.0)">no call</text>
+<text x="410.0" y="1080" font-size="12" fill="#dc2626" text-anchor="middle">C1</text>
+<rect x="446.0" y="820" width="16" height="230" rx="3" fill="#ffffff" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"><title>C2: no call</title></rect>
+<text x="454.0" y="935.0" font-size="10" fill="#dc2626" text-anchor="middle" transform="rotate(-90 454.0 935.0)">no call</text>
+<text x="454.0" y="1080" font-size="12" fill="#dc2626" text-anchor="middle">C2</text>
+<text x="498.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">4.1 Mb</text>
+<rect x="490.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>D1 0.00-4.14 Mb</title></rect>
+<rect x="491.0" y="996.8" width="14" height="1.0" fill="#8b95a5"><title>D1 3.19-3.20 Mb (10 kb), S049, monomer 14 bp, HOR 87 bp</title></rect>
+<rect x="491.0" y="930.4" width="14" height="1.0" fill="#1d4ed8"><title>D1 1.99-2.00 Mb (10 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="977.5" width="14" height="1.0" fill="#1d4ed8"><title>D1 2.84-2.85 Mb (12 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="491.0" y="998.3" width="14" height="1.0" fill="#8b95a5"><title>D1 3.21-3.23 Mb (13 kb), S021, monomer 14 bp, HOR 29 bp</title></rect>
+<rect x="491.0" y="931.6" width="14" height="1.0" fill="#1d4ed8"><title>D1 2.01-2.03 Mb (15 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="880.7" width="14" height="1.3" fill="#1d4ed8"><title>D1 1.09-1.12 Mb (23 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="862.1" width="14" height="1.3" fill="#1d4ed8"><title>D1 0.76-0.78 Mb (24 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="902.6" width="14" height="1.3" fill="#1d4ed8"><title>D1 1.49-1.51 Mb (24 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="820.0" width="14" height="1.4" fill="#8b95a5"><title>D1 0.00-0.02 Mb (24 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="491.0" y="926.7" width="14" height="1.8" fill="#1d4ed8"><title>D1 1.92-1.96 Mb (33 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="1006.6" width="14" height="3.6" fill="#1d4ed8"><title>D1 3.36-3.43 Mb (64 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="933.1" width="14" height="5.4" fill="#1d4ed8"><title>D1 2.04-2.14 Mb (97 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="821.4" width="14" height="8.6" fill="#1d4ed8"><title>D1 0.02-0.18 Mb (155 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="851.5" width="14" height="10.0" fill="#1d4ed8"><title>D1 0.57-0.75 Mb (180 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="841.2" width="14" height="10.4" fill="#1d4ed8"><title>D1 0.38-0.57 Mb (187 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="830.3" width="14" height="10.6" fill="#1d4ed8"><title>D1 0.19-0.38 Mb (191 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="1040.2" width="14" height="9.8" fill="#f97316"><title>D1 3.97-4.20 Mb (233 kb), S002, monomer 33 bp, HOR 2104 bp</title></rect>
+<rect x="491.0" y="864.1" width="14" height="15.9" fill="#1d4ed8"><title>D1 0.79-1.08 Mb (287 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="882.6" width="14" height="19.4" fill="#1d4ed8"><title>D1 1.13-1.48 Mb (349 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="1010.9" width="14" height="22.2" fill="#1d4ed8"><title>D1 3.44-3.84 Mb (399 kb), S001, monomer 482 bp, HOR 484 bp</title></rect>
+<rect x="491.0" y="904.5" width="14" height="22.2" fill="#1d4ed8"><title>D1 1.52-1.92 Mb (399 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="491.0" y="939.1" width="14" height="37.6" fill="#1d4ed8"><title>D1 2.15-2.82 Mb (678 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<path d="M488.0,821.4 h-4 V1033.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>D1 locus 0.02-3.84 Mb (3.81 Mb): 3.13 Mb of S001 in 18 arrays; largest array 2.15-2.82 Mb (678 kb), monomer 483 bp</title></path>
+<text x="498.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">D1</text>
+<text x="542.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">6.7 Mb</text>
+<rect x="534.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>D2 0.00-6.75 Mb</title></rect>
+<rect x="535.0" y="1018.2" width="14" height="1.0" fill="#1d4ed8"><title>D2 5.82-5.83 Mb (11 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="535.0" y="827.5" width="14" height="1.0" fill="#1d4ed8"><title>D2 0.22-0.23 Mb (12 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="535.0" y="1018.9" width="14" height="1.0" fill="#1d4ed8"><title>D2 5.84-5.87 Mb (28 kb), S001, monomer 483 bp, HOR 3375 bp</title></rect>
+<rect x="535.0" y="869.0" width="14" height="1.8" fill="#1d4ed8"><title>D2 1.44-1.49 Mb (54 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="535.0" y="842.3" width="14" height="1.9" fill="#1d4ed8"><title>D2 0.66-0.71 Mb (57 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="535.0" y="820.0" width="14" height="2.3" fill="#8b95a5"><title>D2 0.00-0.07 Mb (68 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="535.0" y="853.0" width="14" height="7.1" fill="#1d4ed8"><title>D2 0.97-1.18 Mb (207 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="535.0" y="861.1" width="14" height="7.4" fill="#1d4ed8"><title>D2 1.21-1.43 Mb (219 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="535.0" y="844.7" width="14" height="7.9" fill="#1d4ed8"><title>D2 0.72-0.96 Mb (233 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="535.0" y="951.1" width="14" height="9.7" fill="#1d4ed8"><title>D2 3.85-4.13 Mb (283 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="535.0" y="1020.3" width="14" height="13.2" fill="#1d4ed8"><title>D2 5.88-6.27 Mb (387 kb), S001, monomer 482 bp, HOR 484 bp</title></rect>
+<rect x="535.0" y="828.3" width="14" height="13.7" fill="#1d4ed8"><title>D2 0.24-0.64 Mb (402 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="535.0" y="1037.8" width="14" height="12.2" fill="#f97316"><title>D2 6.39-7.02 Mb (624 kb), S002, monomer 33 bp, HOR 2106 bp</title></rect>
+<rect x="535.0" y="927.3" width="14" height="23.0" fill="#1d4ed8"><title>D2 3.15-3.83 Mb (676 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="535.0" y="871.2" width="14" height="26.1" fill="#1d4ed8"><title>D2 1.50-2.27 Mb (766 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="535.0" y="961.5" width="14" height="27.5" fill="#1d4ed8"><title>D2 4.15-4.96 Mb (806 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="535.0" y="897.7" width="14" height="29.2" fill="#1d4ed8"><title>D2 2.28-3.14 Mb (858 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<path d="M532.0,827.5 h-4 V1033.5 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>D2 locus 0.22-6.27 Mb (6.05 Mb): 5.00 Mb of S001 in 15 arrays; largest array 2.28-3.14 Mb (858 kb), monomer 483 bp</title></path>
+<text x="542.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">D2</text>
+<text x="586.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">1.6 Mb</text>
+<rect x="578.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>D3 0.04-1.66 Mb</title></rect>
+<rect x="579.0" y="954.9" width="14" height="2.0" fill="#1d4ed8"><title>D3 0.99-1.01 Mb (14 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="579.0" y="1031.5" width="14" height="2.7" fill="#1d4ed8"><title>D3 1.53-1.55 Mb (19 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="579.0" y="1026.2" width="14" height="3.6" fill="#1d4ed8"><title>D3 1.49-1.52 Mb (25 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="579.0" y="849.5" width="14" height="4.2" fill="#1d4ed8"><title>D3 0.25-0.28 Mb (30 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="579.0" y="835.9" width="14" height="13.7" fill="#1d4ed8"><title>D3 0.15-0.25 Mb (96 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="579.0" y="930.5" width="14" height="22.7" fill="#1d4ed8"><title>D3 0.82-0.98 Mb (160 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="579.0" y="962.3" width="14" height="62.3" fill="#1d4ed8"><title>D3 1.04-1.48 Mb (438 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="579.0" y="857.4" width="14" height="71.5" fill="#1d4ed8"><title>D3 0.30-0.81 Mb (503 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<path d="M576.0,835.9 h-4 V1034.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>D3 locus 0.15-1.55 Mb (1.39 Mb): 1.28 Mb of S001 in 8 arrays; largest array 0.30-0.81 Mb (503 kb), monomer 483 bp</title></path>
+<text x="586.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">D3</text>
+<text x="630.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">4.3 Mb</text>
+<rect x="622.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>D4 0.00-4.35 Mb</title></rect>
+<rect x="623.0" y="830.7" width="14" height="1.2" fill="#1d4ed8"><title>D4 0.20-0.22 Mb (23 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="623.0" y="992.6" width="14" height="1.8" fill="#1d4ed8"><title>D4 3.26-3.30 Mb (34 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="623.0" y="820.0" width="14" height="1.9" fill="#8b95a5"><title>D4 0.00-0.04 Mb (36 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="623.0" y="890.9" width="14" height="3.5" fill="#1d4ed8"><title>D4 1.34-1.41 Mb (67 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="623.0" y="856.7" width="14" height="3.8" fill="#1d4ed8"><title>D4 0.69-0.76 Mb (71 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="623.0" y="984.9" width="14" height="5.7" fill="#1d4ed8"><title>D4 3.12-3.23 Mb (108 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="623.0" y="976.8" width="14" height="7.6" fill="#1d4ed8"><title>D4 2.96-3.11 Mb (143 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="623.0" y="1025.8" width="14" height="7.9" fill="#1d4ed8"><title>D4 3.89-4.04 Mb (150 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="623.0" y="994.4" width="14" height="9.7" fill="#1d4ed8"><title>D4 3.30-3.48 Mb (184 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="623.0" y="1007.6" width="14" height="17.6" fill="#1d4ed8"><title>D4 3.55-3.88 Mb (333 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="623.0" y="831.9" width="14" height="24.2" fill="#1d4ed8"><title>D4 0.22-0.68 Mb (457 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="623.0" y="861.1" width="14" height="29.2" fill="#1d4ed8"><title>D4 0.78-1.33 Mb (552 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="623.0" y="941.4" width="14" height="34.8" fill="#1d4ed8"><title>D4 2.29-2.95 Mb (657 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="623.0" y="895.1" width="14" height="45.7" fill="#1d4ed8"><title>D4 1.42-2.28 Mb (864 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<path d="M620.0,830.7 h-4 V1033.8 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>D4 locus 0.20-4.04 Mb (3.84 Mb): 3.64 Mb of S001 in 13 arrays; largest array 1.42-2.28 Mb (864 kb), monomer 483 bp</title></path>
+<text x="630.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">D4</text>
+<text x="674.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">1.7 Mb</text>
+<rect x="666.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>E1 25.23-26.96 Mb</title></rect>
+<rect x="667.0" y="835.9" width="14" height="198.3" fill="#1d4ed8"><title>E1 25.35-26.84 Mb (1.49 Mb), S001, monomer 107 bp, HOR 113 bp</title></rect>
+<path d="M664.0,835.9 h-4 V1034.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>E1 locus 25.35-26.84 Mb (1.49 Mb): 1.49 Mb of S001 in 1 arrays; largest array 25.35-26.84 Mb (1.49 Mb), monomer 107 bp</title></path>
+<text x="674.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">E1</text>
+<text x="718.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">3.5 Mb</text>
+<rect x="710.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>E2 0.00-3.47 Mb</title></rect>
+<rect x="711.0" y="1036.8" width="14" height="1.0" fill="#8b95a5"><title>E2 3.28-3.29 Mb (10 kb), S015, monomer 14 bp, HOR 58 bp</title></rect>
+<rect x="711.0" y="873.0" width="14" height="1.8" fill="#1d4ed8"><title>E2 0.80-0.83 Mb (27 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="1031.7" width="14" height="2.3" fill="#1d4ed8"><title>E2 3.20-3.23 Mb (34 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="711.0" y="820.0" width="14" height="2.7" fill="#8b95a5"><title>E2 0.00-0.04 Mb (40 kb), S007, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="711.0" y="889.4" width="14" height="2.9" fill="#1d4ed8"><title>E2 1.05-1.09 Mb (43 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="894.3" width="14" height="3.0" fill="#1d4ed8"><title>E2 1.12-1.17 Mb (46 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="867.8" width="14" height="3.4" fill="#1d4ed8"><title>E2 0.72-0.77 Mb (51 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="899.6" width="14" height="4.1" fill="#1d4ed8"><title>E2 1.20-1.26 Mb (61 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="884.3" width="14" height="4.7" fill="#1d4ed8"><title>E2 0.97-1.04 Mb (70 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="861.8" width="14" height="5.7" fill="#1d4ed8"><title>E2 0.63-0.72 Mb (85 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="1012.3" width="14" height="7.5" fill="#1d4ed8"><title>E2 2.91-3.02 Mb (113 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="875.0" width="14" height="9.0" fill="#1d4ed8"><title>E2 0.83-0.97 Mb (135 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="1020.6" width="14" height="10.3" fill="#1d4ed8"><title>E2 3.03-3.19 Mb (156 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="967.5" width="14" height="10.9" fill="#1d4ed8"><title>E2 2.23-2.39 Mb (164 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="955.0" width="14" height="11.7" fill="#1d4ed8"><title>E2 2.04-2.22 Mb (177 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="832.9" width="14" height="13.2" fill="#1d4ed8"><title>E2 0.19-0.39 Mb (200 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="846.5" width="14" height="14.5" fill="#1d4ed8"><title>E2 0.40-0.62 Mb (219 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="979.2" width="14" height="32.4" fill="#1d4ed8"><title>E2 2.40-2.89 Mb (490 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="711.0" y="903.7" width="14" height="50.6" fill="#1d4ed8"><title>E2 1.26-2.03 Mb (764 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<path d="M708.0,832.9 h-4 V1033.9 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>E2 locus 0.19-3.23 Mb (3.04 Mb): 2.84 Mb of S001 in 17 arrays; largest array 1.26-2.03 Mb (764 kb), monomer 483 bp</title></path>
+<text x="718.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">E2</text>
+<text x="762.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">802 kb</text>
+<rect x="754.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>E3 17.48-18.28 Mb</title></rect>
+<rect x="755.0" y="835.9" width="14" height="198.3" fill="#93c5fd"><title>E3 17.54-18.23 Mb (692 kb), S004, monomer 1409 bp, HOR 1409 bp</title></rect>
+<path d="M752.0,835.9 h-4 V1034.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>E3 locus 17.54-18.23 Mb (692 kb): 692 kb of S001 in 1 arrays; largest array 17.54-18.23 Mb (692 kb), monomer 1409 bp</title></path>
+<text x="762.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">E3</text>
+<text x="806.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">10.1 Mb</text>
+<rect x="798.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>F1 21.37-31.45 Mb</title></rect>
+<rect x="799.0" y="933.1" width="14" height="1.0" fill="#1d4ed8"><title>F1 26.33-26.34 Mb (10 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="799.0" y="943.8" width="14" height="1.0" fill="#1d4ed8"><title>F1 26.80-26.81 Mb (10 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="799.0" y="848.3" width="14" height="1.0" fill="#8b95a5"><title>F1 22.61-22.62 Mb (10 kb), S015, monomer 14 bp, HOR 58 bp</title></rect>
+<rect x="799.0" y="1032.7" width="14" height="1.0" fill="#1d4ed8"><title>F1 30.69-30.70 Mb (12 kb), S001, monomer 3340 bp, HOR 3340 bp</title></rect>
+<rect x="799.0" y="905.8" width="14" height="1.0" fill="#1d4ed8"><title>F1 25.13-25.14 Mb (13 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="799.0" y="919.0" width="14" height="1.0" fill="#1d4ed8"><title>F1 25.71-25.72 Mb (14 kb), S001, monomer 483 bp, HOR 3316 bp</title></rect>
+<rect x="799.0" y="1002.6" width="14" height="1.0" fill="#1d4ed8"><title>F1 29.37-29.39 Mb (18 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="799.0" y="1021.1" width="14" height="1.0" fill="#1d4ed8"><title>F1 30.18-30.20 Mb (18 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="799.0" y="905.1" width="14" height="1.0" fill="#1d4ed8"><title>F1 25.10-25.12 Mb (18 kb), S001, monomer 483 bp, HOR 965 bp</title></rect>
+<rect x="799.0" y="883.5" width="14" height="1.0" fill="#f97316"><title>F1 24.15-24.17 Mb (20 kb), S002, monomer 33 bp, HOR 3947 bp</title></rect>
+<rect x="799.0" y="867.0" width="14" height="1.0" fill="#1d4ed8"><title>F1 23.43-23.45 Mb (22 kb), S001, monomer 479 bp, HOR 484 bp</title></rect>
+<rect x="799.0" y="932.2" width="14" height="1.0" fill="#1d4ed8"><title>F1 26.29-26.32 Mb (28 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="799.0" y="929.9" width="14" height="1.0" fill="#1d4ed8"><title>F1 26.19-26.21 Mb (28 kb), S001, monomer 4282 bp, HOR 4282 bp</title></rect>
+<rect x="799.0" y="1032.0" width="14" height="1.0" fill="#1d4ed8"><title>F1 30.66-30.69 Mb (30 kb), S001, monomer 5129 bp, HOR 4646 bp</title></rect>
+<rect x="799.0" y="845.4" width="14" height="1.0" fill="#1d4ed8"><title>F1 22.48-22.52 Mb (36 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="799.0" y="895.3" width="14" height="1.0" fill="#8b95a5"><title>F1 24.67-24.71 Mb (36 kb), S009, monomer 12 bp, HOR 12 bp</title></rect>
+<rect x="799.0" y="945.2" width="14" height="1.0" fill="#1d4ed8"><title>F1 26.86-26.90 Mb (40 kb), S001, monomer 483 bp, HOR 482 bp</title></rect>
+<rect x="799.0" y="870.3" width="14" height="1.1" fill="#f97316"><title>F1 23.57-23.62 Mb (46 kb), S002, monomer 33 bp, HOR 33 bp</title></rect>
+<rect x="799.0" y="846.2" width="14" height="1.1" fill="#8b95a5"><title>F1 22.52-22.56 Mb (48 kb), S009, monomer 12 bp, HOR 12 bp</title></rect>
+<rect x="799.0" y="1032.9" width="14" height="1.2" fill="#1d4ed8"><title>F1 30.70-30.76 Mb (53 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="799.0" y="860.7" width="14" height="1.3" fill="#8b95a5"><title>F1 23.15-23.21 Mb (55 kb), S023, monomer 14 bp, HOR 482 bp</title></rect>
+<rect x="799.0" y="977.3" width="14" height="1.4" fill="#1d4ed8"><title>F1 28.27-28.33 Mb (62 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="799.0" y="830.2" width="14" height="1.4" fill="#f97316"><title>F1 21.82-21.88 Mb (62 kb), S002, monomer 33 bp, HOR 4146 bp</title></rect>
+<rect x="799.0" y="831.6" width="14" height="1.4" fill="#f97316"><title>F1 21.88-21.94 Mb (62 kb), S002, monomer 33 bp, HOR 4146 bp</title></rect>
+<rect x="799.0" y="871.4" width="14" height="1.5" fill="#f97316"><title>F1 23.62-23.69 Mb (66 kb), S002, monomer 33 bp, HOR 33 bp</title></rect>
+<rect x="799.0" y="843.8" width="14" height="1.6" fill="#8b95a5"><title>F1 22.41-22.48 Mb (70 kb), S020, monomer 15 bp, HOR 29 bp</title></rect>
+<rect x="799.0" y="862.7" width="14" height="1.6" fill="#8b95a5"><title>F1 23.24-23.31 Mb (70 kb), S019, monomer 14 bp, HOR 482 bp</title></rect>
+<rect x="799.0" y="1018.4" width="14" height="1.8" fill="#1d4ed8"><title>F1 30.07-30.15 Mb (81 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="799.0" y="999.9" width="14" height="1.9" fill="#1d4ed8"><title>F1 29.25-29.34 Mb (83 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="799.0" y="878.9" width="14" height="2.0" fill="#f97316"><title>F1 23.95-24.04 Mb (88 kb), S002, monomer 33 bp, HOR 4145 bp</title></rect>
+<rect x="799.0" y="1003.0" width="14" height="2.2" fill="#1d4ed8"><title>F1 29.39-29.49 Mb (96 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="799.0" y="1021.5" width="14" height="2.2" fill="#1d4ed8"><title>F1 30.20-30.30 Mb (96 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="799.0" y="880.9" width="14" height="2.6" fill="#f97316"><title>F1 24.04-24.15 Mb (113 kb), S002, monomer 33 bp, HOR 4145 bp</title></rect>
+<rect x="799.0" y="972.4" width="14" height="4.0" fill="#1d4ed8"><title>F1 28.05-28.23 Mb (177 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="799.0" y="825.2" width="14" height="5.0" fill="#f97316"><title>F1 21.60-21.82 Mb (221 kb), S002, monomer 33 bp, HOR 4145 bp</title></rect>
+<rect x="799.0" y="899.6" width="14" height="5.5" fill="#1d4ed8"><title>F1 24.86-25.10 Mb (240 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="799.0" y="979.6" width="14" height="6.2" fill="#1d4ed8"><title>F1 28.37-28.64 Mb (274 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="799.0" y="1025.0" width="14" height="7.0" fill="#1d4ed8"><title>F1 30.36-30.66 Mb (305 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="799.0" y="886.7" width="14" height="7.8" fill="#1d4ed8"><title>F1 24.29-24.63 Mb (340 kb), S001, monomer 3366 bp, HOR 3366 bp</title></rect>
+<rect x="799.0" y="835.9" width="14" height="7.9" fill="#1d4ed8"><title>F1 22.06-22.41 Mb (347 kb), S001, monomer 3366 bp, HOR 3366 bp</title></rect>
+<rect x="799.0" y="920.1" width="14" height="9.0" fill="#1d4ed8"><title>F1 25.76-26.15 Mb (394 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="799.0" y="946.1" width="14" height="9.4" fill="#1d4ed8"><title>F1 26.90-27.31 Mb (413 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="799.0" y="1006.7" width="14" height="11.7" fill="#1d4ed8"><title>F1 29.55-30.07 Mb (514 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="799.0" y="907.0" width="14" height="12.0" fill="#1d4ed8"><title>F1 25.18-25.71 Mb (527 kb), S001, monomer 482 bp, HOR 482 bp</title></rect>
+<rect x="799.0" y="986.8" width="14" height="13.1" fill="#1d4ed8"><title>F1 28.68-29.25 Mb (575 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="799.0" y="956.4" width="14" height="15.1" fill="#1d4ed8"><title>F1 27.35-28.01 Mb (661 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<path d="M796.0,835.9 h-4 V1034.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>F1 locus 22.06-30.76 Mb (8.69 Mb): 5.53 Mb of S001 in 32 arrays; largest array 27.35-28.01 Mb (661 kb), monomer 483 bp</title></path>
+<text x="806.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">F1</text>
+<text x="850.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">158 kb</text>
+<rect x="842.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>F2 0.00-0.16 Mb</title></rect>
+<rect x="843.0" y="822.2" width="14" height="198.7" fill="#1d4ed8"><title>F2 0.00-0.14 Mb (137 kb), S001, monomer 3122 bp, HOR 3122 bp</title></rect>
+<path d="M840.0,822.2 h-4 V1021.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>F2 locus 0.00-0.14 Mb (137 kb): 137 kb of S001 in 1 arrays; largest array 0.00-0.14 Mb (137 kb), monomer 3122 bp</title></path>
+<text x="850.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">F2</text>
+<text x="894.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">1.3 Mb</text>
+<rect x="886.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>X 131.76-133.06 Mb</title></rect>
+<rect x="887.0" y="1031.9" width="14" height="2.2" fill="#1d4ed8"><title>X 132.96-132.97 Mb (13 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="887.0" y="954.0" width="14" height="64.6" fill="#1d4ed8"><title>X 132.52-132.89 Mb (366 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="887.0" y="835.9" width="14" height="116.1" fill="#1d4ed8"><title>X 131.85-132.51 Mb (656 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<path d="M884.0,835.9 h-4 V1034.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>X locus 131.85-132.97 Mb (1.12 Mb): 1.03 Mb of S001 in 3 arrays; largest array 131.85-132.51 Mb (656 kb), monomer 483 bp</title></path>
+<text x="894.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">X</text>
+<text x="938.0" y="798" font-size="9.5" fill="#64748b" text-anchor="middle">1.2 Mb</text>
+<rect x="930.0" y="820" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>Y 0.00-1.22 Mb</title></rect>
+<rect x="931.0" y="820.2" width="14" height="3.8" fill="#1d4ed8"><title>Y 0.00-0.02 Mb (20 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="931.0" y="825.8" width="14" height="9.0" fill="#1d4ed8"><title>Y 0.03-0.08 Mb (48 kb), S001, monomer 486 bp, HOR 483 bp</title></rect>
+<rect x="931.0" y="845.1" width="14" height="9.1" fill="#1d4ed8"><title>Y 0.13-0.18 Mb (48 kb), S001, monomer 482 bp, HOR 483 bp</title></rect>
+<rect x="931.0" y="834.8" width="14" height="10.3" fill="#8b95a5"><title>Y 0.08-0.13 Mb (54 kb), S013, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="931.0" y="1015.7" width="14" height="17.2" fill="#1d4ed8"><title>Y 1.04-1.13 Mb (91 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="931.0" y="854.2" width="14" height="46.0" fill="#1d4ed8"><title>Y 0.18-0.42 Mb (243 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<rect x="931.0" y="902.4" width="14" height="109.6" fill="#1d4ed8"><title>Y 0.44-1.02 Mb (580 kb), S001, monomer 483 bp, HOR 483 bp</title></rect>
+<path d="M928.0,820.2 h-4 V1033.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>Y locus 0.00-1.13 Mb (1.13 Mb): 1.03 Mb of S001 in 6 arrays; largest array 0.44-1.02 Mb (580 kb), monomer 483 bp</title></path>
+<text x="938.0" y="1080" font-size="12" fill="#0f172a" text-anchor="middle">Y</text>
+<text x="40" y="1118" font-size="10" fill="#94a3b8">Satellite arrays ≥ 10 kb from the satellome (FasTAN) catalogue, coloured by sequence superfamily. Published intervals are compared, never used as input.</text>
+<text x="40" y="1132" font-size="10" fill="#94a3b8">Arrows in b: a published interval more than 3 Mb from our locus, distance in Mb. Hover for coordinates. github.com/aglabx/t2t_centromeres</text>
+</svg>

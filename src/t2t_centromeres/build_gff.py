@@ -77,7 +77,7 @@ with open(args.report) as fh:
         if ln.startswith("#"):
             continue
         f = ln.rstrip("\n").split("\t")
-        if f[1] == "assembled-molecule" and f[3] == "Chromosome":
+        if f[1] == "assembled-molecule" and f[3] in ("Chromosome", "Linkage Group"):
             chroms.append({"name": f[0], "molecule": f[2], "genbank": f[4], "refseq": f[6],
                            "length": int(f[8]), "ucsc": f[9]})
 by_name = {c["name"]: c for c in chroms}

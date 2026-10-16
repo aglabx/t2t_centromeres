@@ -1,0 +1,12 @@
+kind	chromosome	family	magnitude	default_applied
+short_consensus_family_as_broad	*	S006	23 chromosomes, 584204 bp, mono 11 vs 12 chromosomes, 2186752 bp, mono 37	not eligible: no consensus >= --short-len
+locus_at_chromosome_end	10	S001	131567-222482 of 21091727	informative: telocentric
+locus_at_chromosome_end	14	S001	41649-229247 of 17214483	informative: telocentric
+locus_at_chromosome_end	17	S001	40758-195284 of 11733768	informative: telocentric
+locus_at_chromosome_end	19	S001	12594665-12684838 of 12712807	informative: telocentric
+other_family_larger_on_chromosome	19	S005	69937 bp vs 49798 bp	centromeric family kept
+locus_at_chromosome_end	21	S001	7963268-8248974 of 8283370	informative: telocentric
+locus_at_chromosome_end	24	S001	7962611-9221921 of 9277976	informative: telocentric
+locus_at_chromosome_end	27	S001	789-225384 of 6350061	informative: telocentric
+locus_at_chromosome_end	28	S001	7100917-7761002 of 7770349	informative: telocentric
+other_family_larger_on_chromosome	31	S003	242011 bp vs 169732 bp	centromeric family kept

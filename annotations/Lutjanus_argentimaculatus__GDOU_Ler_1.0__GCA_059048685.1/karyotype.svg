@@ -1,0 +1,494 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1176" height="1126" viewBox="0 0 1176 1126" font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+<title>Lutjanus argentimaculatus GDOU_Ler_1.0 GCA_059048685.1: centromeric satellite arrays</title>
+<rect width="1176" height="1126" fill="#ffffff"/>
+<text x="40" y="38" font-size="22" fill="#0f172a"><tspan font-style="italic" font-weight="bold">Lutjanus argentimaculatus</tspan><tspan dx="10" font-weight="bold">GDOU_Ler_1.0</tspan></text>
+<text x="40" y="62" font-size="13" fill="#334155">GCA_059048685.1 · centromeric locus called on 24 of 24 chromosomes</text>
+<text x="40" y="80" font-size="13" fill="#334155">no published centromere intervals for this assembly</text>
+<text x="40" y="114" font-size="11" font-weight="bold" fill="#64748b" letter-spacing="0.6">SATELLITES</text>
+<rect x="172.0" y="105" width="16" height="10" rx="2" fill="#1d4ed8"/>
+<text x="194.0" y="114" font-size="12" fill="#334155">S001 centromeric superfamily, 88 bp, 2.85 Mb</text>
+<rect x="510.8" y="105" width="16" height="10" rx="2" fill="#f97316"/>
+<text x="532.8" y="114" font-size="12" fill="#334155">S002 1,862 bp, 408 kb</text>
+<rect x="695.5" y="105" width="16" height="10" rx="2" fill="#a855f7"/>
+<text x="717.5" y="114" font-size="12" fill="#334155">S003 850 bp, 294 kb</text>
+<rect x="866.8" y="105" width="16" height="10" rx="2" fill="#84cc16"/>
+<text x="888.8" y="114" font-size="12" fill="#334155">S004 1,537 bp, 268 kb</text>
+<rect x="172.0" y="125" width="16" height="10" rx="2" fill="#b45309"/>
+<text x="194.0" y="134" font-size="12" fill="#334155">S005 1,250 bp, 221 kb</text>
+<rect x="356.7" y="125" width="16" height="10" rx="2" fill="#8b95a5"/>
+<text x="378.7" y="134" font-size="12" fill="#334155">other satellite arrays</text>
+<text x="40" y="160" font-size="11" font-weight="bold" fill="#64748b" letter-spacing="0.6">CALLS</text>
+<rect x="174.0" y="149" width="12" height="14" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"/>
+<text x="194.0" y="160" font-size="12" fill="#334155">our centromeric locus (satellite zone)</text>
+<rect x="474.6" y="149" width="8" height="14" rx="4" fill="#f1f5f9" stroke="#dc2626" stroke-width="1" stroke-dasharray="2.5 1.5"/>
+<text x="492.6" y="160" font-size="12" fill="#334155">no array of the centromeric family</text>
+<text x="40" y="202" font-size="14" fill="#0f172a"><tspan font-weight="bold">a</tspan><tspan dx="10">Whole chromosomes, one scale</tspan></text>
+<line x1="72" y1="224.0" x2="1140" y2="224.0" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="228.0" font-size="10" fill="#64748b" text-anchor="end">0</text>
+<line x1="72" y1="309.1" x2="1140" y2="309.1" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="313.1" font-size="10" fill="#64748b" text-anchor="end">10</text>
+<line x1="72" y1="394.1" x2="1140" y2="394.1" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="398.1" font-size="10" fill="#64748b" text-anchor="end">20</text>
+<line x1="72" y1="479.2" x2="1140" y2="479.2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="483.2" font-size="10" fill="#64748b" text-anchor="end">30</text>
+<line x1="72" y1="564.2" x2="1140" y2="564.2" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="568.2" font-size="10" fill="#64748b" text-anchor="end">40</text>
+<line x1="72" y1="649.3" x2="1140" y2="649.3" stroke="#e2e8f0" stroke-width="1"/>
+<text x="66" y="653.3" font-size="10" fill="#64748b" text-anchor="end">50</text>
+<text x="66" y="214" font-size="10" fill="#64748b" text-anchor="end">Mb</text>
+<rect x="95.0" y="224" width="14" height="456.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr1: 53,619,211 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="96.0" y="439.8" width="12" height="1.0" fill="#8b95a5"><title>chr1 25.38-25.39 Mb (10 kb), S013, monomer 681 bp, HOR 1363 bp</title></rect>
+<rect x="96.0" y="674.7" width="12" height="1.0" fill="#8b95a5"><title>chr1 52.99-53.00 Mb (11 kb), S066, monomer 19 bp, HOR 19 bp</title></rect>
+<rect x="96.0" y="274.6" width="12" height="1.0" fill="#8b95a5"><title>chr1 5.95-5.96 Mb (12 kb), S057, monomer 234 bp, HOR 234 bp</title></rect>
+<rect x="96.0" y="226.8" width="12" height="1.0" fill="#84cc16"><title>chr1 0.33-0.35 Mb (12 kb), S004, monomer 3003 bp, HOR 3003 bp</title></rect>
+<rect x="96.0" y="224.0" width="12" height="1.0" fill="#1d4ed8"><title>chr1 0.00-0.04 Mb (31 kb), S001, monomer 167 bp, HOR 172 bp</title></rect>
+<rect x="96.0" y="224.3" width="12" height="1.0" fill="#1d4ed8"><title>chr1 0.04-0.15 Mb (119 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="92.0" y="222.2" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr1 locus 0.00-0.15 Mb (151 kb): 150 kb of S001 in 2 arrays; largest array 0.04-0.15 Mb (119 kb), monomer 88 bp</title></rect>
+<text x="102.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr1</text>
+<rect x="139.0" y="224" width="14" height="457.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr2: 53,735,898 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="140.0" y="253.1" width="12" height="1.0" fill="#8b95a5"><title>chr2 3.43-3.44 Mb (13 kb), S051, monomer 8 bp, HOR 8 bp</title></rect>
+<rect x="140.0" y="606.1" width="12" height="1.0" fill="#8b95a5"><title>chr2 44.93-44.94 Mb (14 kb), S030, monomer 3900 bp, HOR 3900 bp</title></rect>
+<rect x="140.0" y="226.9" width="12" height="1.0" fill="#8b95a5"><title>chr2 0.34-0.36 Mb (14 kb), S050, monomer 54 bp, HOR 54 bp</title></rect>
+<rect x="140.0" y="233.8" width="12" height="1.0" fill="#8b95a5"><title>chr2 1.15-1.17 Mb (15 kb), S047, monomer 9 bp, HOR 1620 bp</title></rect>
+<rect x="140.0" y="393.5" width="12" height="1.0" fill="#8b95a5"><title>chr2 19.93-19.95 Mb (16 kb), S045, monomer 28 bp, HOR 57 bp</title></rect>
+<rect x="140.0" y="418.8" width="12" height="1.0" fill="#8b95a5"><title>chr2 22.90-22.92 Mb (21 kb), S041, monomer 249 bp, HOR 501 bp</title></rect>
+<rect x="140.0" y="224.1" width="12" height="1.0" fill="#8b95a5"><title>chr2 0.01-0.03 Mb (21 kb), S033, monomer 6010 bp, HOR 21332 bp</title></rect>
+<rect x="140.0" y="680.8" width="12" height="1.0" fill="#1d4ed8"><title>chr2 53.70-53.74 Mb (32 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="136.0" y="678.4" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr2 locus 53.70-53.74 Mb (32 kb): 32 kb of S001 in 1 arrays; largest array 53.70-53.74 Mb (32 kb), monomer 88 bp</title></rect>
+<text x="146.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr2</text>
+<rect x="183.0" y="224" width="14" height="480.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr3: 56,436,489 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="184.0" y="232.7" width="12" height="1.0" fill="#8b95a5"><title>chr3 1.02-1.03 Mb (11 kb), S018, monomer 31 bp, HOR 31 bp</title></rect>
+<rect x="184.0" y="494.5" width="12" height="1.0" fill="#8b95a5"><title>chr3 31.81-31.82 Mb (11 kb), S031, monomer 5324 bp, HOR 11496 bp</title></rect>
+<rect x="184.0" y="703.0" width="12" height="1.0" fill="#a855f7"><title>chr3 56.32-56.36 Mb (41 kb), S003, monomer 1724 bp, HOR 1724 bp</title></rect>
+<rect x="184.0" y="462.4" width="12" height="1.0" fill="#8b95a5"><title>chr3 28.03-28.07 Mb (41 kb), S022, monomer 1110 bp, HOR 1110 bp</title></rect>
+<rect x="184.0" y="224.5" width="12" height="1.0" fill="#1d4ed8"><title>chr3 0.06-0.11 Mb (53 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="180.0" y="222.2" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr3 locus 0.06-0.11 Mb (53 kb): 53 kb of S001 in 1 arrays; largest array 0.06-0.11 Mb (53 kb), monomer 88 bp</title></rect>
+<text x="190.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr3</text>
+<rect x="227.0" y="224" width="14" height="451.4" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr4: 53,075,835 bp
+exception: locus_at_chromosome_end
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="228.0" y="472.7" width="12" height="1.0" fill="#8b95a5"><title>chr4 29.24-29.25 Mb (11 kb), S016, monomer 2296 bp, HOR 2296 bp</title></rect>
+<rect x="228.0" y="672.7" width="12" height="1.0" fill="#8b95a5"><title>chr4 52.75-52.77 Mb (12 kb), S018, monomer 31 bp, HOR 31 bp</title></rect>
+<rect x="228.0" y="228.1" width="12" height="1.0" fill="#8b95a5"><title>chr4 0.49-0.50 Mb (14 kb), S021, monomer 1770 bp, HOR 1770 bp</title></rect>
+<rect x="228.0" y="284.0" width="12" height="1.0" fill="#8b95a5"><title>chr4 7.06-7.07 Mb (14 kb), S011, monomer 18 bp, HOR 39 bp</title></rect>
+<rect x="228.0" y="507.8" width="12" height="1.0" fill="#8b95a5"><title>chr4 33.37-33.39 Mb (19 kb), S024, monomer 8186 bp, HOR 19254 bp</title></rect>
+<rect x="228.0" y="284.7" width="12" height="1.0" fill="#8b95a5"><title>chr4 7.13-7.15 Mb (22 kb), S011, monomer 6 bp, HOR 39 bp</title></rect>
+<rect x="228.0" y="673.3" width="12" height="1.0" fill="#8b95a5"><title>chr4 52.83-52.85 Mb (22 kb), S040, monomer 10 bp, HOR 152 bp</title></rect>
+<rect x="228.0" y="224.5" width="12" height="1.0" fill="#1d4ed8"><title>chr4 0.06-0.10 Mb (34 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="228.0" y="224.2" width="12" height="1.0" fill="#1d4ed8"><title>chr4 0.02-0.06 Mb (37 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="228.0" y="284.1" width="12" height="1.0" fill="#8b95a5"><title>chr4 7.07-7.12 Mb (47 kb), S011, monomer 18 bp, HOR 39 bp</title></rect>
+<rect x="228.0" y="674.3" width="12" height="1.0" fill="#8b95a5"><title>chr4 52.94-52.99 Mb (50 kb), S029, monomer 9 bp, HOR 10 bp</title></rect>
+<rect x="228.0" y="673.6" width="12" height="1.0" fill="#8b95a5"><title>chr4 52.86-52.94 Mb (80 kb), S012, monomer 160 bp, HOR 160 bp</title></rect>
+<rect x="224.0" y="222.0" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr4 locus 0.02-0.10 Mb (75 kb): 71 kb of S001 in 2 arrays; largest array 0.02-0.06 Mb (37 kb), monomer 88 bp</title></rect>
+<text x="234.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr4</text>
+<rect x="271.0" y="224" width="14" height="401.6" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr5: 47,214,804 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="272.0" y="292.0" width="12" height="1.0" fill="#8b95a5"><title>chr5 8.00-8.01 Mb (11 kb), S069, monomer 978 bp, HOR 1956 bp</title></rect>
+<rect x="272.0" y="245.0" width="12" height="1.0" fill="#a855f7"><title>chr5 2.47-2.48 Mb (12 kb), S003, monomer 852 bp, HOR 852 bp</title></rect>
+<rect x="272.0" y="323.9" width="12" height="1.0" fill="#f97316"><title>chr5 11.74-11.75 Mb (12 kb), S002, monomer 3756 bp, HOR 3756 bp</title></rect>
+<rect x="272.0" y="625.4" width="12" height="1.0" fill="#8b95a5"><title>chr5 47.19-47.20 Mb (14 kb), S026, monomer 1477 bp, HOR 1477 bp</title></rect>
+<rect x="272.0" y="623.2" width="12" height="1.0" fill="#8b95a5"><title>chr5 46.94-46.96 Mb (26 kb), S035, monomer 11 bp, HOR 22 bp</title></rect>
+<rect x="272.0" y="224.0" width="12" height="1.5" fill="#1d4ed8"><title>chr5 0.00-0.17 Mb (172 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="268.0" y="222.2" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr5 locus 0.00-0.17 Mb (172 kb): 172 kb of S001 in 1 arrays; largest array 0.00-0.17 Mb (172 kb), monomer 88 bp</title></rect>
+<text x="278.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr5</text>
+<rect x="315.0" y="224" width="14" height="409.8" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr6: 48,186,210 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="316.0" y="435.4" width="12" height="1.0" fill="#8b95a5"><title>chr6 24.85-24.86 Mb (10 kb), S016, monomer 4841 bp, HOR 10008 bp</title></rect>
+<rect x="316.0" y="227.5" width="12" height="1.0" fill="#8b95a5"><title>chr6 0.41-0.42 Mb (11 kb), S068, monomer 7 bp, HOR 15 bp</title></rect>
+<rect x="316.0" y="462.2" width="12" height="1.0" fill="#8b95a5"><title>chr6 28.01-28.02 Mb (11 kb), S064, monomer 18 bp, HOR 45 bp</title></rect>
+<rect x="316.0" y="227.2" width="12" height="1.0" fill="#8b95a5"><title>chr6 0.37-0.39 Mb (11 kb), S062, monomer 8 bp, HOR 16 bp</title></rect>
+<rect x="316.0" y="228.9" width="12" height="1.0" fill="#8b95a5"><title>chr6 0.57-0.59 Mb (12 kb), S060, monomer 20 bp, HOR 40 bp</title></rect>
+<rect x="316.0" y="626.8" width="12" height="1.0" fill="#8b95a5"><title>chr6 47.36-47.37 Mb (13 kb), S030, monomer 3897 bp, HOR 3897 bp</title></rect>
+<rect x="316.0" y="290.9" width="12" height="1.0" fill="#8b95a5"><title>chr6 7.86-7.88 Mb (13 kb), S027, monomer 5691 bp, HOR 13192 bp</title></rect>
+<rect x="316.0" y="225.3" width="12" height="1.0" fill="#8b95a5"><title>chr6 0.15-0.16 Mb (15 kb), S048, monomer 21 bp, HOR 21 bp</title></rect>
+<rect x="316.0" y="229.5" width="12" height="1.0" fill="#8b95a5"><title>chr6 0.65-0.67 Mb (19 kb), S042, monomer 6 bp, HOR 17 bp</title></rect>
+<rect x="316.0" y="631.3" width="12" height="1.0" fill="#84cc16"><title>chr6 47.89-47.92 Mb (30 kb), S004, monomer 762 bp, HOR 1847 bp</title></rect>
+<rect x="316.0" y="510.8" width="12" height="1.0" fill="#8b95a5"><title>chr6 33.72-33.76 Mb (41 kb), S010, monomer 13289 bp, HOR 41146 bp</title></rect>
+<rect x="316.0" y="538.5" width="12" height="1.0" fill="#a855f7"><title>chr6 36.98-37.04 Mb (64 kb), S003, monomer 850 bp, HOR 1708 bp</title></rect>
+<rect x="316.0" y="632.8" width="12" height="1.0" fill="#1d4ed8"><title>chr6 48.07-48.19 Mb (120 kb), S001, monomer 164 bp, HOR 168 bp</title></rect>
+<rect x="312.0" y="630.8" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr6 locus 48.07-48.19 Mb (120 kb): 120 kb of S001 in 1 arrays; largest array 48.07-48.19 Mb (120 kb), monomer 164 bp</title></rect>
+<text x="322.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr6</text>
+<rect x="359.0" y="224" width="14" height="404.9" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr7: 47,608,252 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="360.0" y="315.1" width="12" height="1.0" fill="#8b95a5"><title>chr7 10.71-10.72 Mb (11 kb), S070, monomer 6 bp, HOR 21 bp</title></rect>
+<rect x="360.0" y="628.5" width="12" height="1.0" fill="#1d4ed8"><title>chr7 47.57-47.58 Mb (11 kb), S001, monomer 167 bp, HOR 173 bp</title></rect>
+<rect x="360.0" y="233.7" width="12" height="1.0" fill="#8b95a5"><title>chr7 1.14-1.15 Mb (12 kb), S059, monomer 5 bp, HOR 15 bp</title></rect>
+<rect x="360.0" y="628.7" width="12" height="1.0" fill="#1d4ed8"><title>chr7 47.58-47.59 Mb (16 kb), S001, monomer 170 bp, HOR 174 bp</title></rect>
+<rect x="360.0" y="260.4" width="12" height="1.0" fill="#8b95a5"><title>chr7 4.27-4.30 Mb (22 kb), S039, monomer 15 bp, HOR 18 bp</title></rect>
+<rect x="360.0" y="257.2" width="12" height="1.0" fill="#8b95a5"><title>chr7 3.90-3.93 Mb (25 kb), S036, monomer 6 bp, HOR 42 bp</title></rect>
+<rect x="360.0" y="627.1" width="12" height="1.0" fill="#1d4ed8"><title>chr7 47.39-47.46 Mb (67 kb), S001, monomer 165 bp, HOR 176 bp</title></rect>
+<rect x="360.0" y="627.7" width="12" height="1.0" fill="#1d4ed8"><title>chr7 47.47-47.54 Mb (68 kb), S001, monomer 173 bp, HOR 175 bp</title></rect>
+<rect x="356.0" y="625.4" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr7 locus 47.39-47.59 Mb (199 kb): 161 kb of S001 in 4 arrays; largest array 47.47-47.54 Mb (68 kb), monomer 173 bp</title></rect>
+<text x="366.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr7</text>
+<rect x="403.0" y="224" width="14" height="400.9" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr8: 47,141,593 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="404.0" y="236.1" width="12" height="1.0" fill="#8b95a5"><title>chr8 1.42-1.44 Mb (12 kb), S018, monomer 31 bp, HOR 31 bp</title></rect>
+<rect x="404.0" y="419.4" width="12" height="1.0" fill="#8b95a5"><title>chr8 22.97-22.98 Mb (12 kb), S016, monomer 4614 bp, HOR 12306 bp</title></rect>
+<rect x="404.0" y="420.0" width="12" height="1.0" fill="#8b95a5"><title>chr8 23.05-23.06 Mb (15 kb), S027, monomer 5640 bp, HOR 14871 bp</title></rect>
+<rect x="404.0" y="224.0" width="12" height="1.0" fill="#1d4ed8"><title>chr8 0.00-0.09 Mb (87 kb), S001, monomer 115 bp, HOR 176 bp</title></rect>
+<rect x="400.0" y="221.9" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr8 locus 0.00-0.09 Mb (87 kb): 87 kb of S001 in 1 arrays; largest array 0.00-0.09 Mb (87 kb), monomer 115 bp</title></rect>
+<text x="410.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr8</text>
+<rect x="447.0" y="224" width="14" height="393.1" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr9: 46,217,626 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="448.0" y="616.1" width="12" height="1.0" fill="#8b95a5"><title>chr9 46.10-46.11 Mb (10 kb), S018, monomer 31 bp, HOR 2703 bp</title></rect>
+<rect x="448.0" y="564.8" width="12" height="1.0" fill="#8b95a5"><title>chr9 40.07-40.08 Mb (11 kb), S016, monomer 2347 bp, HOR 2347 bp</title></rect>
+<rect x="448.0" y="237.9" width="12" height="1.0" fill="#8b95a5"><title>chr9 1.63-1.64 Mb (11 kb), S067, monomer 20 bp, HOR 20 bp</title></rect>
+<rect x="448.0" y="224.4" width="12" height="1.0" fill="#8b95a5"><title>chr9 0.05-0.06 Mb (13 kb), S052, monomer 12 bp, HOR 12 bp</title></rect>
+<rect x="448.0" y="354.9" width="12" height="1.0" fill="#8b95a5"><title>chr9 15.40-15.41 Mb (13 kb), S033, monomer 6042 bp, HOR 13392 bp</title></rect>
+<rect x="448.0" y="561.1" width="12" height="1.0" fill="#8b95a5"><title>chr9 39.64-39.65 Mb (15 kb), S017, monomer 7315 bp, HOR 14633 bp</title></rect>
+<rect x="448.0" y="502.3" width="12" height="1.0" fill="#a855f7"><title>chr9 32.72-32.74 Mb (15 kb), S003, monomer 849 bp, HOR 849 bp</title></rect>
+<rect x="448.0" y="224.5" width="12" height="1.0" fill="#8b95a5"><title>chr9 0.06-0.08 Mb (18 kb), S006, monomer 217 bp, HOR 18403 bp</title></rect>
+<rect x="448.0" y="336.1" width="12" height="1.0" fill="#8b95a5"><title>chr9 13.18-13.20 Mb (25 kb), S031, monomer 10560 bp, HOR 25079 bp</title></rect>
+<rect x="448.0" y="612.9" width="12" height="1.2" fill="#1d4ed8"><title>chr9 45.73-45.86 Mb (137 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="444.0" y="611.0" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr9 locus 45.73-45.86 Mb (137 kb): 137 kb of S001 in 1 arrays; largest array 45.73-45.86 Mb (137 kb), monomer 88 bp</title></rect>
+<text x="454.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr9</text>
+<rect x="491.0" y="224" width="14" height="416.7" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr10: 48,989,746 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="492.0" y="619.0" width="12" height="1.0" fill="#8b95a5"><title>chr10 46.44-46.45 Mb (10 kb), S007, monomer 1020 bp, HOR 1020 bp</title></rect>
+<rect x="492.0" y="230.0" width="12" height="1.0" fill="#8b95a5"><title>chr10 0.71-0.72 Mb (11 kb), S027, monomer 5621 bp, HOR 11266 bp</title></rect>
+<rect x="492.0" y="228.0" width="12" height="1.0" fill="#8b95a5"><title>chr10 0.46-0.48 Mb (12 kb), S055, monomer 13 bp, HOR 52 bp</title></rect>
+<rect x="492.0" y="618.0" width="12" height="1.0" fill="#8b95a5"><title>chr10 46.33-46.34 Mb (12 kb), S007, monomer 1020 bp, HOR 1020 bp</title></rect>
+<rect x="492.0" y="619.1" width="12" height="1.0" fill="#8b95a5"><title>chr10 46.45-46.46 Mb (12 kb), S007, monomer 1020 bp, HOR 2045 bp</title></rect>
+<rect x="492.0" y="618.1" width="12" height="1.0" fill="#8b95a5"><title>chr10 46.34-46.35 Mb (13 kb), S010, monomer 6674 bp, HOR 13359 bp</title></rect>
+<rect x="492.0" y="620.4" width="12" height="1.0" fill="#8b95a5"><title>chr10 46.60-46.62 Mb (13 kb), S010, monomer 6693 bp, HOR 13433 bp</title></rect>
+<rect x="492.0" y="250.9" width="12" height="1.0" fill="#8b95a5"><title>chr10 3.16-3.18 Mb (15 kb), S046, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="492.0" y="618.7" width="12" height="1.0" fill="#8b95a5"><title>chr10 46.41-46.42 Mb (15 kb), S007, monomer 1020 bp, HOR 1020 bp</title></rect>
+<rect x="492.0" y="618.5" width="12" height="1.0" fill="#8b95a5"><title>chr10 46.39-46.40 Mb (16 kb), S007, monomer 1020 bp, HOR 1025 bp</title></rect>
+<rect x="492.0" y="638.9" width="12" height="1.0" fill="#1d4ed8"><title>chr10 48.78-48.80 Mb (17 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="492.0" y="619.2" width="12" height="1.0" fill="#8b95a5"><title>chr10 46.46-46.48 Mb (19 kb), S010, monomer 6681 bp, HOR 19052 bp</title></rect>
+<rect x="492.0" y="618.3" width="12" height="1.0" fill="#8b95a5"><title>chr10 46.36-46.38 Mb (21 kb), S007, monomer 6677 bp, HOR 21054 bp</title></rect>
+<rect x="492.0" y="619.5" width="12" height="1.0" fill="#8b95a5"><title>chr10 46.50-46.52 Mb (22 kb), S007, monomer 1025 bp, HOR 1025 bp</title></rect>
+<rect x="492.0" y="617.6" width="12" height="1.0" fill="#8b95a5"><title>chr10 46.28-46.30 Mb (27 kb), S007, monomer 1020 bp, HOR 1020 bp</title></rect>
+<rect x="492.0" y="519.6" width="12" height="1.0" fill="#8b95a5"><title>chr10 34.76-34.79 Mb (31 kb), S017, monomer 7481 bp, HOR 31296 bp</title></rect>
+<rect x="492.0" y="639.2" width="12" height="1.4" fill="#1d4ed8"><title>chr10 48.82-48.99 Mb (170 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="488.0" y="637.3" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr10 locus 48.78-48.99 Mb (210 kb): 186 kb of S001 in 2 arrays; largest array 48.82-48.99 Mb (170 kb), monomer 88 bp</title></rect>
+<text x="498.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr10</text>
+<rect x="535.0" y="224" width="14" height="391.5" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr11: 46,029,471 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="536.0" y="245.2" width="12" height="1.0" fill="#8b95a5"><title>chr11 2.50-2.51 Mb (11 kb), S065, monomer 5 bp, HOR 10 bp</title></rect>
+<rect x="536.0" y="224.3" width="12" height="1.0" fill="#8b95a5"><title>chr11 0.03-0.05 Mb (13 kb), S026, monomer 1447 bp, HOR 2896 bp</title></rect>
+<rect x="536.0" y="521.8" width="12" height="1.0" fill="#f97316"><title>chr11 35.01-35.03 Mb (14 kb), S002, monomer 918 bp, HOR 918 bp</title></rect>
+<rect x="536.0" y="613.8" width="12" height="1.0" fill="#1d4ed8"><title>chr11 45.83-45.85 Mb (17 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="536.0" y="613.5" width="12" height="1.0" fill="#1d4ed8"><title>chr11 45.79-45.81 Mb (18 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="536.0" y="613.1" width="12" height="1.0" fill="#1d4ed8"><title>chr11 45.75-45.77 Mb (21 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="536.0" y="233.7" width="12" height="1.0" fill="#8b95a5"><title>chr11 1.13-1.17 Mb (37 kb), S007, monomer 522 bp, HOR 522 bp</title></rect>
+<rect x="536.0" y="614.1" width="12" height="1.0" fill="#1d4ed8"><title>chr11 45.86-45.98 Mb (116 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="532.0" y="611.6" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr11 locus 45.75-45.98 Mb (231 kb): 171 kb of S001 in 4 arrays; largest array 45.86-45.98 Mb (116 kb), monomer 88 bp</title></rect>
+<text x="542.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr11</text>
+<rect x="579.0" y="224" width="14" height="385.6" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr12: 45,340,654 bp
+exception: locus_at_chromosome_end
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="580.0" y="226.9" width="12" height="1.0" fill="#8b95a5"><title>chr12 0.34-0.35 Mb (11 kb), S021, monomer 1767 bp, HOR 3529 bp</title></rect>
+<rect x="580.0" y="608.6" width="12" height="1.0" fill="#f97316"><title>chr12 45.22-45.23 Mb (12 kb), S002, monomer 3688 bp, HOR 3688 bp</title></rect>
+<rect x="580.0" y="609.1" width="12" height="1.0" fill="#f97316"><title>chr12 45.28-45.30 Mb (19 kb), S002, monomer 3688 bp, HOR 3688 bp</title></rect>
+<rect x="580.0" y="224.0" width="12" height="1.0" fill="#1d4ed8"><title>chr12 0.00-0.04 Mb (44 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="580.0" y="608.1" width="12" height="1.0" fill="#b45309"><title>chr12 45.16-45.20 Mb (46 kb), S005, monomer 1250 bp, HOR 1250 bp</title></rect>
+<rect x="576.0" y="221.7" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr12 locus 0.00-0.04 Mb (44 kb): 44 kb of S001 in 1 arrays; largest array 0.00-0.04 Mb (44 kb), monomer 88 bp</title></rect>
+<text x="586.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr12</text>
+<rect x="623.0" y="224" width="14" height="383.5" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr13: 45,093,145 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="624.0" y="581.8" width="12" height="1.0" fill="#8b95a5"><title>chr13 42.07-42.08 Mb (10 kb), S026, monomer 1456 bp, HOR 2907 bp</title></rect>
+<rect x="624.0" y="594.5" width="12" height="1.0" fill="#8b95a5"><title>chr13 43.57-43.58 Mb (11 kb), S063, monomer 30 bp, HOR 122 bp</title></rect>
+<rect x="624.0" y="224.4" width="12" height="1.0" fill="#84cc16"><title>chr13 0.04-0.06 Mb (13 kb), S004, monomer 1576 bp, HOR 1576 bp</title></rect>
+<rect x="624.0" y="276.7" width="12" height="1.0" fill="#8b95a5"><title>chr13 6.19-6.21 Mb (17 kb), S017, monomer 7661 bp, HOR 17300 bp</title></rect>
+<rect x="624.0" y="233.9" width="12" height="1.0" fill="#8b95a5"><title>chr13 1.16-1.18 Mb (18 kb), S044, monomer 13 bp, HOR 190 bp</title></rect>
+<rect x="624.0" y="607.3" width="12" height="1.0" fill="#1d4ed8"><title>chr13 45.07-45.08 Mb (18 kb), S001, monomer 173 bp, HOR 176 bp</title></rect>
+<rect x="624.0" y="224.5" width="12" height="1.0" fill="#84cc16"><title>chr13 0.06-0.08 Mb (26 kb), S004, monomer 2967 bp, HOR 2967 bp</title></rect>
+<rect x="624.0" y="564.2" width="12" height="1.0" fill="#84cc16"><title>chr13 40.00-40.03 Mb (28 kb), S004, monomer 1484 bp, HOR 1484 bp</title></rect>
+<rect x="624.0" y="225.2" width="12" height="1.0" fill="#8b95a5"><title>chr13 0.14-0.17 Mb (30 kb), S018, monomer 31 bp, HOR 217 bp</title></rect>
+<rect x="624.0" y="391.8" width="12" height="1.0" fill="#8b95a5"><title>chr13 19.73-19.82 Mb (85 kb), S014, monomer 452 bp, HOR 452 bp</title></rect>
+<rect x="624.0" y="606.4" width="12" height="1.0" fill="#1d4ed8"><title>chr13 44.97-45.07 Mb (102 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="624.0" y="605.4" width="12" height="1.1" fill="#1d4ed8"><title>chr13 44.84-44.97 Mb (124 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="620.0" y="603.9" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr13 locus 44.84-45.08 Mb (244 kb): 244 kb of S001 in 3 arrays; largest array 44.84-44.97 Mb (124 kb), monomer 88 bp</title></rect>
+<text x="630.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr13</text>
+<rect x="667.0" y="224" width="14" height="393.4" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr14: 46,249,732 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="668.0" y="264.4" width="12" height="1.0" fill="#8b95a5"><title>chr14 4.75-4.76 Mb (10 kb), S031, monomer 5218 bp, HOR 10467 bp</title></rect>
+<rect x="668.0" y="600.9" width="12" height="1.0" fill="#f97316"><title>chr14 44.31-44.32 Mb (11 kb), S002, monomer 3627 bp, HOR 3627 bp</title></rect>
+<rect x="668.0" y="522.4" width="12" height="1.0" fill="#8b95a5"><title>chr14 35.08-35.10 Mb (14 kb), S007, monomer 2070 bp, HOR 2070 bp</title></rect>
+<rect x="668.0" y="600.7" width="12" height="1.0" fill="#8b95a5"><title>chr14 44.29-44.31 Mb (18 kb), S016, monomer 4798 bp, HOR 4798 bp</title></rect>
+<rect x="668.0" y="281.1" width="12" height="1.0" fill="#8b95a5"><title>chr14 6.71-6.73 Mb (23 kb), S016, monomer 2359 bp, HOR 2645 bp</title></rect>
+<rect x="668.0" y="535.9" width="12" height="1.0" fill="#8b95a5"><title>chr14 36.67-36.70 Mb (28 kb), S010, monomer 6692 bp, HOR 28301 bp</title></rect>
+<rect x="668.0" y="574.4" width="12" height="1.0" fill="#8b95a5"><title>chr14 41.20-41.23 Mb (28 kb), S012, monomer 78 bp, HOR 81 bp</title></rect>
+<rect x="668.0" y="614.9" width="12" height="2.5" fill="#1d4ed8"><title>chr14 45.96-46.25 Mb (294 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="664.0" y="613.6" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr14 locus 45.96-46.25 Mb (294 kb): 294 kb of S001 in 1 arrays; largest array 45.96-46.25 Mb (294 kb), monomer 88 bp</title></rect>
+<text x="674.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr14</text>
+<rect x="711.0" y="224" width="14" height="370.2" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr15: 43,523,598 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="712.0" y="574.9" width="12" height="1.0" fill="#8b95a5"><title>chr15 41.26-41.27 Mb (10 kb), S022, monomer 1084 bp, HOR 1084 bp</title></rect>
+<rect x="712.0" y="225.6" width="12" height="1.0" fill="#8b95a5"><title>chr15 0.19-0.20 Mb (10 kb), S071, monomer 11 bp, HOR 22 bp</title></rect>
+<rect x="712.0" y="225.5" width="12" height="1.0" fill="#8b95a5"><title>chr15 0.18-0.19 Mb (12 kb), S056, monomer 11 bp, HOR 22 bp</title></rect>
+<rect x="712.0" y="348.9" width="12" height="1.0" fill="#8b95a5"><title>chr15 14.69-14.70 Mb (12 kb), S032, monomer 5604 bp, HOR 4050 bp</title></rect>
+<rect x="712.0" y="224.1" width="12" height="1.0" fill="#8b95a5"><title>chr15 0.02-0.03 Mb (16 kb), S026, monomer 1474 bp, HOR 1474 bp</title></rect>
+<rect x="712.0" y="227.1" width="12" height="1.0" fill="#8b95a5"><title>chr15 0.36-0.38 Mb (18 kb), S043, monomer 10 bp, HOR 21 bp</title></rect>
+<rect x="712.0" y="489.5" width="12" height="1.0" fill="#f97316"><title>chr15 31.22-31.24 Mb (25 kb), S002, monomer 3719 bp, HOR 3719 bp</title></rect>
+<rect x="712.0" y="489.7" width="12" height="1.0" fill="#f97316"><title>chr15 31.24-31.28 Mb (34 kb), S002, monomer 3785 bp, HOR 3785 bp</title></rect>
+<rect x="712.0" y="592.9" width="12" height="1.2" fill="#1d4ed8"><title>chr15 43.38-43.52 Mb (146 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="708.0" y="591.1" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr15 locus 43.38-43.52 Mb (146 kb): 146 kb of S001 in 1 arrays; largest array 43.38-43.52 Mb (146 kb), monomer 88 bp</title></rect>
+<text x="718.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr15</text>
+<rect x="755.0" y="224" width="14" height="368.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr16: 43,270,189 bp
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="756.0" y="590.3" width="12" height="1.0" fill="#8b95a5"><title>chr16 43.06-43.07 Mb (11 kb), S021, monomer 1770 bp, HOR 1768 bp</title></rect>
+<rect x="756.0" y="517.6" width="12" height="1.0" fill="#8b95a5"><title>chr16 34.52-34.53 Mb (11 kb), S030, monomer 1955 bp, HOR 1955 bp</title></rect>
+<rect x="756.0" y="224.4" width="12" height="1.0" fill="#8b95a5"><title>chr16 0.05-0.06 Mb (11 kb), S020, monomer 5 bp, HOR 5 bp</title></rect>
+<rect x="756.0" y="591.9" width="12" height="1.0" fill="#8b95a5"><title>chr16 43.25-43.27 Mb (12 kb), S020, monomer 5 bp, HOR 5 bp</title></rect>
+<rect x="756.0" y="590.7" width="12" height="1.0" fill="#a855f7"><title>chr16 43.11-43.13 Mb (15 kb), S003, monomer 1664 bp, HOR 1661 bp</title></rect>
+<rect x="756.0" y="224.1" width="12" height="1.0" fill="#8b95a5"><title>chr16 0.02-0.04 Mb (22 kb), S020, monomer 5 bp, HOR 5 bp</title></rect>
+<rect x="756.0" y="591.2" width="12" height="1.0" fill="#8b95a5"><title>chr16 43.17-43.20 Mb (22 kb), S025, monomer 141 bp, HOR 141 bp</title></rect>
+<rect x="756.0" y="541.0" width="12" height="1.0" fill="#8b95a5"><title>chr16 37.28-37.31 Mb (30 kb), S013, monomer 1382 bp, HOR 4146 bp</title></rect>
+<rect x="756.0" y="591.5" width="12" height="1.0" fill="#8b95a5"><title>chr16 43.20-43.24 Mb (32 kb), S025, monomer 139 bp, HOR 139 bp</title></rect>
+<rect x="756.0" y="535.8" width="12" height="1.0" fill="#8b95a5"><title>chr16 36.66-36.70 Mb (41 kb), S024, monomer 16064 bp, HOR 40537 bp</title></rect>
+<rect x="756.0" y="585.0" width="12" height="1.0" fill="#1d4ed8"><title>chr16 42.44-42.50 Mb (55 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="756.0" y="589.6" width="12" height="1.0" fill="#84cc16"><title>chr16 42.98-43.05 Mb (64 kb), S004, monomer 1537 bp, HOR 1537 bp</title></rect>
+<rect x="756.0" y="224.8" width="12" height="1.0" fill="#84cc16"><title>chr16 0.09-0.16 Mb (73 kb), S004, monomer 1526 bp, HOR 1530 bp</title></rect>
+<rect x="756.0" y="540.2" width="12" height="1.0" fill="#b45309"><title>chr16 37.18-37.28 Mb (98 kb), S005, monomer 1282 bp, HOR 1282 bp</title></rect>
+<rect x="752.0" y="582.7" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr16 locus 42.44-42.50 Mb (55 kb): 55 kb of S001 in 1 arrays; largest array 42.44-42.50 Mb (55 kb), monomer 88 bp</title></rect>
+<text x="762.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr16</text>
+<rect x="799.0" y="224" width="14" height="367.6" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr17: 43,217,755 bp
+exception: locus_at_chromosome_end
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="800.0" y="245.5" width="12" height="1.0" fill="#8b95a5"><title>chr17 2.53-2.54 Mb (10 kb), S022, monomer 2168 bp, HOR 2164 bp</title></rect>
+<rect x="800.0" y="476.3" width="12" height="1.0" fill="#8b95a5"><title>chr17 29.66-29.67 Mb (10 kb), S072, monomer 1074 bp, HOR 1074 bp</title></rect>
+<rect x="800.0" y="244.3" width="12" height="1.0" fill="#f97316"><title>chr17 2.38-2.40 Mb (14 kb), S002, monomer 1862 bp, HOR 3727 bp</title></rect>
+<rect x="800.0" y="224.3" width="12" height="1.0" fill="#1d4ed8"><title>chr17 0.03-0.05 Mb (18 kb), S001, monomer 171 bp, HOR 171 bp</title></rect>
+<rect x="800.0" y="567.7" width="12" height="1.0" fill="#8b95a5"><title>chr17 40.41-40.44 Mb (23 kb), S038, monomer 12 bp, HOR 21 bp</title></rect>
+<rect x="800.0" y="245.7" width="12" height="1.0" fill="#f97316"><title>chr17 2.55-2.58 Mb (31 kb), S002, monomer 1860 bp, HOR 1860 bp</title></rect>
+<rect x="800.0" y="567.5" width="12" height="1.0" fill="#8b95a5"><title>chr17 40.38-40.41 Mb (31 kb), S034, monomer 9 bp, HOR 21 bp</title></rect>
+<rect x="800.0" y="224.0" width="12" height="1.0" fill="#1d4ed8"><title>chr17 0.00-0.03 Mb (34 kb), S001, monomer 170 bp, HOR 172 bp</title></rect>
+<rect x="800.0" y="247.4" width="12" height="1.0" fill="#f97316"><title>chr17 2.75-2.79 Mb (45 kb), S002, monomer 1858 bp, HOR 1854 bp</title></rect>
+<rect x="800.0" y="224.4" width="12" height="1.0" fill="#1d4ed8"><title>chr17 0.05-0.11 Mb (57 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="800.0" y="247.8" width="12" height="1.0" fill="#f97316"><title>chr17 2.80-2.85 Mb (57 kb), S002, monomer 1860 bp, HOR 1858 bp</title></rect>
+<rect x="800.0" y="246.5" width="12" height="1.0" fill="#f97316"><title>chr17 2.65-2.74 Mb (93 kb), S002, monomer 1862 bp, HOR 1850 bp</title></rect>
+<rect x="796.0" y="222.0" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr17 locus 0.00-0.11 Mb (109 kb): 109 kb of S001 in 3 arrays; largest array 0.05-0.11 Mb (57 kb), monomer 88 bp</title></rect>
+<text x="806.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr17</text>
+<rect x="843.0" y="224" width="14" height="333.5" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr18: 39,214,184 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="844.0" y="225.4" width="12" height="1.0" fill="#8b95a5"><title>chr18 0.16-0.17 Mb (11 kb), S061, monomer 6 bp, HOR 6 bp</title></rect>
+<rect x="844.0" y="500.1" width="12" height="1.0" fill="#8b95a5"><title>chr18 32.46-32.47 Mb (17 kb), S014, monomer 462 bp, HOR 467 bp</title></rect>
+<rect x="844.0" y="555.9" width="12" height="1.6" fill="#1d4ed8"><title>chr18 39.03-39.21 Mb (186 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="840.0" y="554.2" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr18 locus 39.03-39.21 Mb (186 kb): 186 kb of S001 in 1 arrays; largest array 39.03-39.21 Mb (186 kb), monomer 88 bp</title></rect>
+<text x="850.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr18</text>
+<rect x="887.0" y="224" width="14" height="343.9" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr19: 40,430,435 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="888.0" y="506.1" width="12" height="1.0" fill="#b45309"><title>chr19 33.17-33.18 Mb (12 kb), S005, monomer 2429 bp, HOR 2429 bp</title></rect>
+<rect x="888.0" y="224.1" width="12" height="1.0" fill="#8b95a5"><title>chr19 0.01-0.02 Mb (12 kb), S054, monomer 11 bp, HOR 20 bp</title></rect>
+<rect x="888.0" y="567.7" width="12" height="1.0" fill="#1d4ed8"><title>chr19 40.41-40.43 Mb (22 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="884.0" y="565.3" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr19 locus 40.41-40.43 Mb (22 kb): 22 kb of S001 in 1 arrays; largest array 40.41-40.43 Mb (22 kb), monomer 88 bp</title></rect>
+<text x="894.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr19</text>
+<rect x="931.0" y="224" width="14" height="308.4" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr20: 36,260,259 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="932.0" y="503.2" width="12" height="1.0" fill="#f97316"><title>chr20 32.83-32.84 Mb (13 kb), S002, monomer 917 bp, HOR 917 bp</title></rect>
+<rect x="932.0" y="532.0" width="12" height="1.0" fill="#1d4ed8"><title>chr20 36.21-36.23 Mb (23 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="932.0" y="532.2" width="12" height="1.0" fill="#1d4ed8"><title>chr20 36.23-36.26 Mb (27 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="928.0" y="529.7" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr20 locus 36.21-36.26 Mb (50 kb): 50 kb of S001 in 2 arrays; largest array 36.23-36.26 Mb (27 kb), monomer 88 bp</title></rect>
+<text x="938.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr20</text>
+<rect x="975.0" y="224" width="14" height="311.6" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr21: 36,641,815 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="976.0" y="442.1" width="12" height="1.0" fill="#8b95a5"><title>chr21 25.64-25.65 Mb (12 kb), S053, monomer 4111 bp, HOR 12126 bp</title></rect>
+<rect x="976.0" y="241.0" width="12" height="1.0" fill="#8b95a5"><title>chr21 1.99-2.02 Mb (24 kb), S032, monomer 10880 bp, HOR 24245 bp</title></rect>
+<rect x="976.0" y="535.3" width="12" height="1.0" fill="#f97316"><title>chr21 36.60-36.62 Mb (27 kb), S002, monomer 1812 bp, HOR 1812 bp</title></rect>
+<rect x="976.0" y="224.0" width="12" height="1.0" fill="#1d4ed8"><title>chr21 0.00-0.08 Mb (81 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="972.0" y="221.8" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr21 locus 0.00-0.08 Mb (81 kb): 81 kb of S001 in 1 arrays; largest array 0.00-0.08 Mb (81 kb), monomer 88 bp</title></rect>
+<text x="982.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr21</text>
+<rect x="1019.0" y="224" width="14" height="274.7" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr22: 32,302,789 bp
+exception: locus_at_chromosome_end
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="1020.0" y="229.2" width="12" height="1.0" fill="#8b95a5"><title>chr22 0.62-0.63 Mb (11 kb), S027, monomer 5587 bp, HOR 11176 bp</title></rect>
+<rect x="1020.0" y="326.2" width="12" height="1.0" fill="#8b95a5"><title>chr22 12.02-12.03 Mb (12 kb), S058, monomer 4327 bp, HOR 11772 bp</title></rect>
+<rect x="1020.0" y="465.1" width="12" height="1.0" fill="#8b95a5"><title>chr22 28.35-28.36 Mb (13 kb), S030, monomer 1975 bp, HOR 1975 bp</title></rect>
+<rect x="1020.0" y="224.2" width="12" height="1.0" fill="#8b95a5"><title>chr22 0.02-0.04 Mb (22 kb), S020, monomer 5 bp, HOR 5 bp</title></rect>
+<rect x="1020.0" y="498.4" width="12" height="1.0" fill="#1d4ed8"><title>chr22 32.27-32.30 Mb (37 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="1020.0" y="224.4" width="12" height="1.0" fill="#b45309"><title>chr22 0.05-0.11 Mb (65 kb), S005, monomer 1248 bp, HOR 1248 bp</title></rect>
+<rect x="1020.0" y="473.9" width="12" height="1.0" fill="#8b95a5"><title>chr22 29.38-29.45 Mb (73 kb), S019, monomer 1297 bp, HOR 1297 bp</title></rect>
+<rect x="1016.0" y="496.1" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr22 locus 32.27-32.30 Mb (37 kb): 37 kb of S001 in 1 arrays; largest array 32.27-32.30 Mb (37 kb), monomer 88 bp</title></rect>
+<text x="1026.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr22</text>
+<rect x="1063.0" y="224" width="14" height="384.0" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr23: 45,148,510 bp
+exception: locus_at_chromosome_end
+exception: other_family_larger_on_chromosome</title></rect>
+<rect x="1064.0" y="596.8" width="12" height="1.0" fill="#8b95a5"><title>chr23 43.83-43.84 Mb (10 kb), S073, monomer 8 bp, HOR 1733 bp</title></rect>
+<rect x="1064.0" y="565.5" width="12" height="1.0" fill="#8b95a5"><title>chr23 40.15-40.16 Mb (10 kb), S006, monomer 218 bp, HOR 2396 bp</title></rect>
+<rect x="1064.0" y="563.6" width="12" height="1.0" fill="#8b95a5"><title>chr23 39.93-39.94 Mb (11 kb), S006, monomer 217 bp, HOR 435 bp</title></rect>
+<rect x="1064.0" y="588.9" width="12" height="1.0" fill="#8b95a5"><title>chr23 42.91-42.92 Mb (11 kb), S006, monomer 217 bp, HOR 217 bp</title></rect>
+<rect x="1064.0" y="569.8" width="12" height="1.0" fill="#8b95a5"><title>chr23 40.66-40.67 Mb (12 kb), S006, monomer 218 bp, HOR 218 bp</title></rect>
+<rect x="1064.0" y="560.8" width="12" height="1.0" fill="#8b95a5"><title>chr23 39.60-39.61 Mb (13 kb), S028, monomer 32 bp, HOR 32 bp</title></rect>
+<rect x="1064.0" y="564.0" width="12" height="1.0" fill="#8b95a5"><title>chr23 39.97-39.99 Mb (13 kb), S028, monomer 32 bp, HOR 32 bp</title></rect>
+<rect x="1064.0" y="607.1" width="12" height="1.0" fill="#1d4ed8"><title>chr23 45.04-45.05 Mb (13 kb), S001, monomer 168 bp, HOR 171 bp</title></rect>
+<rect x="1064.0" y="606.7" width="12" height="1.0" fill="#1d4ed8"><title>chr23 45.00-45.01 Mb (13 kb), S001, monomer 87 bp, HOR 88 bp</title></rect>
+<rect x="1064.0" y="585.7" width="12" height="1.0" fill="#8b95a5"><title>chr23 42.52-42.54 Mb (14 kb), S049, monomer 9 bp, HOR 42 bp</title></rect>
+<rect x="1064.0" y="603.8" width="12" height="1.0" fill="#8b95a5"><title>chr23 44.65-44.67 Mb (15 kb), S017, monomer 7496 bp, HOR 15000 bp</title></rect>
+<rect x="1064.0" y="594.0" width="12" height="1.0" fill="#8b95a5"><title>chr23 43.50-43.52 Mb (15 kb), S013, monomer 1392 bp, HOR 1392 bp</title></rect>
+<rect x="1064.0" y="559.9" width="12" height="1.0" fill="#8b95a5"><title>chr23 39.49-39.51 Mb (15 kb), S006, monomer 218 bp, HOR 218 bp</title></rect>
+<rect x="1064.0" y="597.8" width="12" height="1.0" fill="#8b95a5"><title>chr23 43.95-43.97 Mb (21 kb), S009, monomer 6 bp, HOR 251 bp</title></rect>
+<rect x="1064.0" y="598.1" width="12" height="1.0" fill="#8b95a5"><title>chr23 43.98-44.00 Mb (21 kb), S009, monomer 6 bp, HOR 251 bp</title></rect>
+<rect x="1064.0" y="224.7" width="12" height="1.0" fill="#84cc16"><title>chr23 0.08-0.10 Mb (23 kb), S004, monomer 1547 bp, HOR 1547 bp</title></rect>
+<rect x="1064.0" y="562.0" width="12" height="1.0" fill="#8b95a5"><title>chr23 39.74-39.76 Mb (24 kb), S028, monomer 32 bp, HOR 32 bp</title></rect>
+<rect x="1064.0" y="280.6" width="12" height="1.0" fill="#8b95a5"><title>chr23 6.66-6.68 Mb (25 kb), S037, monomer 12 bp, HOR 12 bp</title></rect>
+<rect x="1064.0" y="575.2" width="12" height="1.0" fill="#8b95a5"><title>chr23 41.29-41.32 Mb (27 kb), S006, monomer 218 bp, HOR 218 bp</title></rect>
+<rect x="1064.0" y="363.6" width="12" height="1.0" fill="#8b95a5"><title>chr23 16.41-16.44 Mb (29 kb), S011, monomer 6 bp, HOR 192 bp</title></rect>
+<rect x="1064.0" y="555.6" width="12" height="1.0" fill="#8b95a5"><title>chr23 38.99-39.02 Mb (30 kb), S006, monomer 218 bp, HOR 218 bp</title></rect>
+<rect x="1064.0" y="598.7" width="12" height="1.0" fill="#8b95a5"><title>chr23 44.05-44.08 Mb (31 kb), S009, monomer 6 bp, HOR 251 bp</title></rect>
+<rect x="1064.0" y="241.2" width="12" height="1.0" fill="#8b95a5"><title>chr23 2.02-2.05 Mb (31 kb), S021, monomer 1785 bp, HOR 1785 bp</title></rect>
+<rect x="1064.0" y="362.9" width="12" height="1.0" fill="#a855f7"><title>chr23 16.33-16.36 Mb (35 kb), S003, monomer 837 bp, HOR 837 bp</title></rect>
+<rect x="1064.0" y="598.3" width="12" height="1.0" fill="#8b95a5"><title>chr23 44.01-44.05 Mb (39 kb), S008, monomer 251 bp, HOR 39295 bp</title></rect>
+<rect x="1064.0" y="599.0" width="12" height="1.0" fill="#8b95a5"><title>chr23 44.09-44.13 Mb (40 kb), S008, monomer 10004 bp, HOR 39731 bp</title></rect>
+<rect x="1064.0" y="224.4" width="12" height="1.0" fill="#a855f7"><title>chr23 0.04-0.08 Mb (40 kb), S003, monomer 1744 bp, HOR 1744 bp</title></rect>
+<rect x="1064.0" y="560.0" width="12" height="1.0" fill="#8b95a5"><title>chr23 39.51-39.55 Mb (41 kb), S006, monomer 217 bp, HOR 218 bp</title></rect>
+<rect x="1064.0" y="599.3" width="12" height="1.0" fill="#8b95a5"><title>chr23 44.13-44.17 Mb (41 kb), S009, monomer 6 bp, HOR 251 bp</title></rect>
+<rect x="1064.0" y="599.8" width="12" height="1.0" fill="#8b95a5"><title>chr23 44.18-44.22 Mb (41 kb), S009, monomer 6 bp, HOR 251 bp</title></rect>
+<rect x="1064.0" y="558.3" width="12" height="1.0" fill="#8b95a5"><title>chr23 39.30-39.35 Mb (44 kb), S006, monomer 218 bp, HOR 218 bp</title></rect>
+<rect x="1064.0" y="470.9" width="12" height="1.0" fill="#8b95a5"><title>chr23 29.03-29.08 Mb (49 kb), S013, monomer 700 bp, HOR 700 bp</title></rect>
+<rect x="1064.0" y="583.8" width="12" height="1.0" fill="#8b95a5"><title>chr23 42.30-42.36 Mb (62 kb), S023, monomer 21 bp, HOR 21 bp</title></rect>
+<rect x="1064.0" y="362.0" width="12" height="1.0" fill="#a855f7"><title>chr23 16.23-16.30 Mb (72 kb), S003, monomer 838 bp, HOR 2514 bp</title></rect>
+<rect x="1064.0" y="600.1" width="12" height="1.0" fill="#8b95a5"><title>chr23 44.22-44.31 Mb (90 kb), S008, monomer 10003 bp, HOR 89989 bp</title></rect>
+<rect x="1060.0" y="604.4" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr23 locus 45.00-45.05 Mb (52 kb): 26 kb of S001 in 2 arrays; largest array 45.00-45.01 Mb (13 kb), monomer 87 bp</title></rect>
+<text x="1070.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr23</text>
+<rect x="1107.0" y="224" width="14" height="182.3" rx="7" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr24: 21,438,718 bp
+exception: locus_at_chromosome_end</title></rect>
+<rect x="1108.0" y="224.0" width="12" height="1.0" fill="#1d4ed8"><title>chr24 0.00-0.06 Mb (64 kb), S001, monomer 173 bp, HOR 174 bp</title></rect>
+<rect x="1108.0" y="405.0" width="12" height="1.0" fill="#8b95a5"><title>chr24 21.28-21.38 Mb (101 kb), S015, monomer 9 bp, HOR 303 bp</title></rect>
+<rect x="1108.0" y="224.5" width="12" height="1.3" fill="#1d4ed8"><title>chr24 0.06-0.21 Mb (148 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="1104.0" y="222.4" width="20" height="5.0" rx="2" fill="none" stroke="#0f172a" stroke-width="1.5"><title>chr24 locus 0.00-0.21 Mb (212 kb): 212 kb of S001 in 2 arrays; largest array 0.06-0.21 Mb (148 kb), monomer 88 bp</title></rect>
+<text x="1114.0" y="720" font-size="12" fill="#0f172a" text-anchor="middle">chr24</text>
+<text x="40" y="754" font-size="14" fill="#0f172a"><tspan font-weight="bold">b</tspan><tspan dx="10">Centromeric region of each chromosome, each window to its own scale (width shown above it)</tspan></text>
+<text x="102.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">175 kb</text>
+<rect x="94.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr1 0.00-0.17 Mb</title></rect>
+<rect x="95.0" y="805.2" width="14" height="41.3" fill="#1d4ed8"><title>chr1 0.00-0.04 Mb (31 kb), S001, monomer 167 bp, HOR 172 bp</title></rect>
+<rect x="95.0" y="847.2" width="14" height="156.5" fill="#1d4ed8"><title>chr1 0.04-0.15 Mb (119 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M92.0,805.2 h-4 V1003.7 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr1 locus 0.00-0.15 Mb (151 kb): 150 kb of S001 in 2 arrays; largest array 0.04-0.15 Mb (119 kb), monomer 88 bp</title></path>
+<text x="102.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr1</text>
+<text x="146.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">52 kb</text>
+<rect x="138.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr2 53.68-53.74 Mb</title></rect>
+<rect x="139.0" y="888.6" width="14" height="141.4" fill="#1d4ed8"><title>chr2 53.70-53.74 Mb (32 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M136.0,888.6 h-4 V1030.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr2 locus 53.70-53.74 Mb (32 kb): 32 kb of S001 in 1 arrays; largest array 53.70-53.74 Mb (32 kb), monomer 88 bp</title></path>
+<text x="146.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr2</text>
+<text x="190.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">93 kb</text>
+<rect x="182.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr3 0.04-0.13 Mb</title></rect>
+<rect x="183.0" y="849.3" width="14" height="131.4" fill="#1d4ed8"><title>chr3 0.06-0.11 Mb (53 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M180.0,849.3 h-4 V980.7 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr3 locus 0.06-0.11 Mb (53 kb): 53 kb of S001 in 1 arrays; largest array 0.06-0.11 Mb (53 kb), monomer 88 bp</title></path>
+<text x="190.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr3</text>
+<text x="234.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">115 kb</text>
+<rect x="226.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr4 0.00-0.12 Mb</title></rect>
+<rect x="227.0" y="921.3" width="14" height="68.5" fill="#1d4ed8"><title>chr4 0.06-0.10 Mb (34 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="227.0" y="840.1" width="14" height="74.5" fill="#1d4ed8"><title>chr4 0.02-0.06 Mb (37 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M224.0,840.1 h-4 V989.9 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr4 locus 0.02-0.10 Mb (75 kb): 71 kb of S001 in 2 arrays; largest array 0.02-0.06 Mb (37 kb), monomer 88 bp</title></path>
+<text x="234.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr4</text>
+<text x="278.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">192 kb</text>
+<rect x="270.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr5 0.00-0.19 Mb</title></rect>
+<rect x="271.0" y="800.0" width="14" height="206.1" fill="#1d4ed8"><title>chr5 0.00-0.17 Mb (172 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M268.0,800.0 h-4 V1006.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr5 locus 0.00-0.17 Mb (172 kb): 172 kb of S001 in 1 arrays; largest array 0.00-0.17 Mb (172 kb), monomer 88 bp</title></path>
+<text x="278.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr5</text>
+<text x="322.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">140 kb</text>
+<rect x="314.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr6 48.05-48.19 Mb</title></rect>
+<rect x="315.0" y="833.0" width="14" height="197.0" fill="#1d4ed8"><title>chr6 48.07-48.19 Mb (120 kb), S001, monomer 164 bp, HOR 168 bp</title></rect>
+<path d="M312.0,833.0 h-4 V1030.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr6 locus 48.07-48.19 Mb (120 kb): 120 kb of S001 in 1 arrays; largest array 48.07-48.19 Mb (120 kb), monomer 164 bp</title></path>
+<text x="322.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr6</text>
+<text x="366.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">234 kb</text>
+<rect x="358.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr7 47.37-47.61 Mb</title></rect>
+<rect x="359.0" y="987.6" width="14" height="11.0" fill="#1d4ed8"><title>chr7 47.57-47.58 Mb (11 kb), S001, monomer 167 bp, HOR 173 bp</title></rect>
+<rect x="359.0" y="999.9" width="14" height="15.3" fill="#1d4ed8"><title>chr7 47.58-47.59 Mb (16 kb), S001, monomer 170 bp, HOR 174 bp</title></rect>
+<rect x="359.0" y="819.7" width="14" height="65.5" fill="#1d4ed8"><title>chr7 47.39-47.46 Mb (67 kb), S001, monomer 165 bp, HOR 176 bp</title></rect>
+<rect x="359.0" y="893.3" width="14" height="66.9" fill="#1d4ed8"><title>chr7 47.47-47.54 Mb (68 kb), S001, monomer 173 bp, HOR 175 bp</title></rect>
+<path d="M356.0,819.7 h-4 V1015.2 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr7 locus 47.39-47.59 Mb (199 kb): 161 kb of S001 in 4 arrays; largest array 47.47-47.54 Mb (68 kb), monomer 173 bp</title></path>
+<text x="366.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr7</text>
+<text x="410.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">107 kb</text>
+<rect x="402.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr8 0.00-0.11 Mb</title></rect>
+<rect x="403.0" y="800.1" width="14" height="187.0" fill="#1d4ed8"><title>chr8 0.00-0.09 Mb (87 kb), S001, monomer 115 bp, HOR 176 bp</title></rect>
+<path d="M400.0,800.1 h-4 V987.1 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr8 locus 0.00-0.09 Mb (87 kb): 87 kb of S001 in 1 arrays; largest array 0.00-0.09 Mb (87 kb), monomer 115 bp</title></path>
+<text x="410.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr8</text>
+<text x="454.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">177 kb</text>
+<rect x="446.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr9 45.71-45.88 Mb</title></rect>
+<rect x="447.0" y="826.0" width="14" height="178.1" fill="#1d4ed8"><title>chr9 45.73-45.86 Mb (137 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M444.0,826.0 h-4 V1004.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr9 locus 45.73-45.86 Mb (137 kb): 137 kb of S001 in 1 arrays; largest array 45.73-45.86 Mb (137 kb), monomer 88 bp</title></path>
+<text x="454.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr9</text>
+<text x="498.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">230 kb</text>
+<rect x="490.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr10 48.76-48.99 Mb</title></rect>
+<rect x="491.0" y="820.0" width="14" height="16.7" fill="#1d4ed8"><title>chr10 48.78-48.80 Mb (17 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="491.0" y="860.3" width="14" height="169.7" fill="#1d4ed8"><title>chr10 48.82-48.99 Mb (170 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M488.0,820.0 h-4 V1030.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr10 locus 48.78-48.99 Mb (210 kb): 186 kb of S001 in 2 arrays; largest array 48.82-48.99 Mb (170 kb), monomer 88 bp</title></path>
+<text x="498.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr10</text>
+<text x="542.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">271 kb</text>
+<rect x="534.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr11 45.73-46.00 Mb</title></rect>
+<rect x="535.0" y="890.0" width="14" height="14.1" fill="#1d4ed8"><title>chr11 45.83-45.85 Mb (17 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="535.0" y="855.7" width="14" height="15.3" fill="#1d4ed8"><title>chr11 45.79-45.81 Mb (18 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="535.0" y="817.0" width="14" height="17.5" fill="#1d4ed8"><title>chr11 45.75-45.77 Mb (21 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="535.0" y="914.7" width="14" height="98.3" fill="#1d4ed8"><title>chr11 45.86-45.98 Mb (116 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M532.0,817.0 h-4 V1013.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr11 locus 45.75-45.98 Mb (231 kb): 171 kb of S001 in 4 arrays; largest array 45.86-45.98 Mb (116 kb), monomer 88 bp</title></path>
+<text x="542.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr11</text>
+<text x="586.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">64 kb</text>
+<rect x="578.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr12 0.00-0.06 Mb</title></rect>
+<rect x="579.0" y="800.0" width="14" height="158.7" fill="#1d4ed8"><title>chr12 0.00-0.04 Mb (44 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M576.0,800.0 h-4 V958.7 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr12 locus 0.00-0.04 Mb (44 kb): 44 kb of S001 in 1 arrays; largest array 0.00-0.04 Mb (44 kb), monomer 88 bp</title></path>
+<text x="586.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr12</text>
+<text x="630.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">272 kb</text>
+<rect x="622.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr13 44.82-45.09 Mb</title></rect>
+<rect x="623.0" y="1008.0" width="14" height="14.9" fill="#1d4ed8"><title>chr13 45.07-45.08 Mb (18 kb), S001, monomer 173 bp, HOR 176 bp</title></rect>
+<rect x="623.0" y="921.8" width="14" height="86.2" fill="#1d4ed8"><title>chr13 44.97-45.07 Mb (102 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="623.0" y="816.9" width="14" height="104.9" fill="#1d4ed8"><title>chr13 44.84-44.97 Mb (124 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M620.0,816.9 h-4 V1022.9 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr13 locus 44.84-45.08 Mb (244 kb): 244 kb of S001 in 3 arrays; largest array 44.84-44.97 Mb (124 kb), monomer 88 bp</title></path>
+<text x="630.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr13</text>
+<text x="674.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">318 kb</text>
+<rect x="666.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr14 45.93-46.25 Mb</title></rect>
+<rect x="667.0" y="817.0" width="14" height="213.0" fill="#1d4ed8"><title>chr14 45.96-46.25 Mb (294 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M664.0,817.0 h-4 V1030.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr14 locus 45.96-46.25 Mb (294 kb): 294 kb of S001 in 1 arrays; largest array 45.96-46.25 Mb (294 kb), monomer 88 bp</title></path>
+<text x="674.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr14</text>
+<text x="718.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">166 kb</text>
+<rect x="710.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr15 43.36-43.52 Mb</title></rect>
+<rect x="711.0" y="827.8" width="14" height="202.1" fill="#1d4ed8"><title>chr15 43.38-43.52 Mb (146 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M708.0,827.8 h-4 V1029.9 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr15 locus 43.38-43.52 Mb (146 kb): 146 kb of S001 in 1 arrays; largest array 43.38-43.52 Mb (146 kb), monomer 88 bp</title></path>
+<text x="718.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr15</text>
+<text x="762.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">95 kb</text>
+<rect x="754.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr16 42.42-42.52 Mb</title></rect>
+<rect x="755.0" y="848.6" width="14" height="132.8" fill="#1d4ed8"><title>chr16 42.44-42.50 Mb (55 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M752.0,848.6 h-4 V981.4 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr16 locus 42.44-42.50 Mb (55 kb): 55 kb of S001 in 1 arrays; largest array 42.44-42.50 Mb (55 kb), monomer 88 bp</title></path>
+<text x="762.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr16</text>
+<text x="806.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">129 kb</text>
+<rect x="798.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr17 0.00-0.13 Mb</title></rect>
+<rect x="799.0" y="860.5" width="14" height="31.9" fill="#1d4ed8"><title>chr17 0.03-0.05 Mb (18 kb), S001, monomer 171 bp, HOR 171 bp</title></rect>
+<rect x="799.0" y="800.1" width="14" height="60.2" fill="#1d4ed8"><title>chr17 0.00-0.03 Mb (34 kb), S001, monomer 170 bp, HOR 172 bp</title></rect>
+<rect x="799.0" y="892.8" width="14" height="101.5" fill="#1d4ed8"><title>chr17 0.05-0.11 Mb (57 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M796.0,800.1 h-4 V994.4 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr17 locus 0.00-0.11 Mb (109 kb): 109 kb of S001 in 3 arrays; largest array 0.05-0.11 Mb (57 kb), monomer 88 bp</title></path>
+<text x="806.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr17</text>
+<text x="850.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">206 kb</text>
+<rect x="842.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr18 39.01-39.21 Mb</title></rect>
+<rect x="843.0" y="822.3" width="14" height="207.7" fill="#1d4ed8"><title>chr18 39.03-39.21 Mb (186 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M840.0,822.3 h-4 V1030.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr18 locus 39.03-39.21 Mb (186 kb): 186 kb of S001 in 1 arrays; largest array 39.03-39.21 Mb (186 kb), monomer 88 bp</title></path>
+<text x="850.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr18</text>
+<text x="894.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">42 kb</text>
+<rect x="886.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr19 40.39-40.43 Mb</title></rect>
+<rect x="887.0" y="909.4" width="14" height="120.6" fill="#1d4ed8"><title>chr19 40.41-40.43 Mb (22 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M884.0,909.4 h-4 V1030.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr19 locus 40.41-40.43 Mb (22 kb): 22 kb of S001 in 1 arrays; largest array 40.41-40.43 Mb (22 kb), monomer 88 bp</title></path>
+<text x="894.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr19</text>
+<text x="938.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">70 kb</text>
+<rect x="930.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr20 36.19-36.26 Mb</title></rect>
+<rect x="931.0" y="865.4" width="14" height="75.6" fill="#1d4ed8"><title>chr20 36.21-36.23 Mb (23 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<rect x="931.0" y="941.0" width="14" height="89.0" fill="#1d4ed8"><title>chr20 36.23-36.26 Mb (27 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M928.0,865.4 h-4 V1030.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr20 locus 36.21-36.26 Mb (50 kb): 50 kb of S001 in 2 arrays; largest array 36.23-36.26 Mb (27 kb), monomer 88 bp</title></path>
+<text x="938.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr20</text>
+<text x="982.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">101 kb</text>
+<rect x="974.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr21 0.00-0.10 Mb</title></rect>
+<rect x="975.0" y="800.0" width="14" height="184.2" fill="#1d4ed8"><title>chr21 0.00-0.08 Mb (81 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M972.0,800.0 h-4 V984.2 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr21 locus 0.00-0.08 Mb (81 kb): 81 kb of S001 in 1 arrays; largest array 0.00-0.08 Mb (81 kb), monomer 88 bp</title></path>
+<text x="982.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr21</text>
+<text x="1026.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">57 kb</text>
+<rect x="1018.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr22 32.25-32.30 Mb</title></rect>
+<rect x="1019.0" y="880.0" width="14" height="149.9" fill="#1d4ed8"><title>chr22 32.27-32.30 Mb (37 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M1016.0,880.0 h-4 V1030.0 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr22 locus 32.27-32.30 Mb (37 kb): 37 kb of S001 in 1 arrays; largest array 32.27-32.30 Mb (37 kb), monomer 88 bp</title></path>
+<text x="1026.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr22</text>
+<text x="1070.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">92 kb</text>
+<rect x="1062.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr23 44.98-45.07 Mb</title></rect>
+<rect x="1063.0" y="946.9" width="14" height="32.9" fill="#1d4ed8"><title>chr23 45.04-45.05 Mb (13 kb), S001, monomer 168 bp, HOR 171 bp</title></rect>
+<rect x="1063.0" y="850.2" width="14" height="33.6" fill="#1d4ed8"><title>chr23 45.00-45.01 Mb (13 kb), S001, monomer 87 bp, HOR 88 bp</title></rect>
+<path d="M1060.0,850.2 h-4 V979.8 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr23 locus 45.00-45.05 Mb (52 kb): 26 kb of S001 in 2 arrays; largest array 45.00-45.01 Mb (13 kb), monomer 87 bp</title></path>
+<text x="1070.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr23</text>
+<text x="1114.0" y="778" font-size="9.5" fill="#64748b" text-anchor="middle">232 kb</text>
+<rect x="1106.0" y="800" width="16" height="230" rx="2" fill="#f1f5f9" stroke="#94a3b8" stroke-width="1"><title>chr24 0.00-0.23 Mb</title></rect>
+<rect x="1107.0" y="800.0" width="14" height="63.1" fill="#1d4ed8"><title>chr24 0.00-0.06 Mb (64 kb), S001, monomer 173 bp, HOR 174 bp</title></rect>
+<rect x="1107.0" y="863.1" width="14" height="147.0" fill="#1d4ed8"><title>chr24 0.06-0.21 Mb (148 kb), S001, monomer 88 bp, HOR 176 bp</title></rect>
+<path d="M1104.0,800.0 h-4 V1010.2 h4" fill="none" stroke="#0f172a" stroke-width="1.8"><title>chr24 locus 0.00-0.21 Mb (212 kb): 212 kb of S001 in 2 arrays; largest array 0.06-0.21 Mb (148 kb), monomer 88 bp</title></path>
+<text x="1114.0" y="1060" font-size="12" fill="#0f172a" text-anchor="middle">chr24</text>
+<text x="40" y="1098" font-size="10" fill="#94a3b8">Satellite arrays ≥ 10 kb from the satellome (FasTAN) catalogue, coloured by sequence superfamily. Published intervals are compared, never used as input.</text>
+<text x="40" y="1112" font-size="10" fill="#94a3b8">Arrows in b: a published interval more than 3 Mb from our locus, distance in Mb. Hover for coordinates. github.com/aglabx/t2t_centromeres</text>
+</svg>

@@ -1,0 +1,26 @@
+kind	chromosome	family	magnitude	default_applied
+cofamily_joined_locus	*	S001	co-located on 1/1 shared chromosomes	arrays of this superfamily are part of the centromeric locus
+short_consensus_family_as_broad	*	S007	16 chromosomes, 356332 bp, mono 6 vs 14 chromosomes, 2120314 bp, mono 56	not eligible: no consensus >= --short-len
+other_family_larger_on_chromosome	chr1	S037	40502 bp vs 11410 bp	centromeric family kept
+locus_includes_period_class_arrays	chr3	S002	1115201 of 1115201 bp	joined by monomer period, not by sequence
+locus_at_chromosome_end	chr4	S002	38769891-39250592 of 39285000	informative: telocentric
+other_family_larger_on_chromosome	chr4	S016	164564 bp vs 131292 bp	centromeric family kept
+locus_includes_period_class_arrays	chr5	S002	220350 of 944060 bp	joined by monomer period, not by sequence
+locus_at_chromosome_end	chr5	S002	35887545-37193135 of 37202000	informative: telocentric
+other_family_larger_on_chromosome	chr9	S006	110834 bp vs 15003 bp	centromeric family kept
+locus_includes_period_class_arrays	chr10	S002	18297 of 691356 bp	joined by monomer period, not by sequence
+locus_at_chromosome_end	chr10	S002	31750983-32945763 of 33149000	informative: telocentric
+locus_includes_period_class_arrays	chr11	S002	256462 of 1304403 bp	joined by monomer period, not by sequence
+locus_at_chromosome_end	chr11	S002	118873-1779862 of 33143000	informative: telocentric
+locus_includes_period_class_arrays	chr13	S002	142351 of 1294680 bp	joined by monomer period, not by sequence
+locus_at_chromosome_end	chr13	S002	29093968-31952924 of 31952924	informative: telocentric
+locus_includes_period_class_arrays	chr15	S002	23345 of 468834 bp	joined by monomer period, not by sequence
+locus_at_chromosome_end	chr15	S002	179213-1450938 of 31694756	informative: telocentric
+other_family_larger_on_chromosome	chr15	S004	903416 bp vs 468834 bp	centromeric family kept
+locus_includes_period_class_arrays	chr16	S002	33957 of 1404203 bp	joined by monomer period, not by sequence
+locus_at_chromosome_end	chr16	S002	27507624-29616710 of 29653000	informative: telocentric
+locus_at_chromosome_end	chr17	S002	23983538-25590316 of 25590726	informative: telocentric
+locus_includes_period_class_arrays	chr19	S002	76097 of 528119 bp	joined by monomer period, not by sequence
+locus_at_chromosome_end	chr19	S002	23048950-24609355 of 24643933	informative: telocentric
+locus_at_chromosome_end	chr22	S002	21530682-22633517 of 22759000	informative: telocentric
+locus_at_chromosome_end	chr23	S002	21810-1070226 of 22666926	informative: telocentric

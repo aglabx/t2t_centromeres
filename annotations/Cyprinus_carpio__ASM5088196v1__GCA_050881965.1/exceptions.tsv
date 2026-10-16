@@ -1,0 +1,13 @@
+kind	chromosome	family	magnitude	default_applied
+second_locus_comparable	A2	S001	second 399137 bp vs first 677957 bp	kept the larger
+locus_includes_period_class_arrays	A3	S001	10859 of 594235 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	A3	S002	638863 bp vs 594235 bp	centromeric family kept
+locus_includes_period_class_arrays	A4	S001	420080 of 594018 bp	joined by monomer period, not by sequence
+other_family_larger_on_chromosome	A9	S012	326922 bp vs 12146 bp	centromeric family kept
+other_family_larger_on_chromosome	A11	S005	989324 bp vs 893773 bp	centromeric family kept
+other_family_larger_on_chromosome	A13	S007	133612 bp vs 54815 bp	centromeric family kept
+other_family_larger_on_chromosome	B4	S006	392989 bp vs 214363 bp	centromeric family kept
+locus_includes_period_class_arrays	B12	S001	10433 of 1181797 bp	joined by monomer period, not by sequence
+locus_includes_period_class_arrays	B18	S001	190257 of 190257 bp	joined by monomer period, not by sequence
+locus_includes_period_class_arrays	B20	S001	656134 of 656134 bp	joined by monomer period, not by sequence
+second_locus_comparable	B20	S001	second 344451 bp vs first 656134 bp	kept the larger
