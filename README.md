@@ -335,6 +335,7 @@ conda env create -f environment.yml && conda activate t2t_centromeres   # mamba 
 python -m satellome --install-fastan --install-tanbed --install-rust-tools
 bash workflow/check_env.sh               # versions vs config/toolchain.tsv
 bash tests/smoke_test.sh work_smoke/      # ~3 min: the 17-Mb MFA8 chrY accession end to end, md5 vs tests/expected/
+bash tests/tier_test.sh work_tier/        # seconds: tier.py on synthetic catalogues named by GenBank and by RefSeq accession
 bash workflow/reproduce.sh work/ 5 10    # all 121: 5 assemblies at a time, 10 threads each
 ```
 

@@ -9,7 +9,9 @@ role is not `assembled-molecule`, organelles excluded (a mitochondrion deposited
 piece of a nuclear chromosome). Chromosomes: `assembled-molecule` rows of type Chromosome or Linkage Group (some fish
 reports use the latter for whole chromosomes), as in the caller.
 Telomeres: satellome `reports/telomeres.tsv` (telomere-check: TTAGGG / CCCTAA in the terminal 10 kb, density
->= 0.15), status PRESENT at both ends. Refuses (exit 1) when a file or a chromosome row is missing.
+>= 0.15), status PRESENT at both ends. A chromosome is looked up by its GenBank accession or, for a catalogue made
+from the RefSeq copy of the assembly, its RefSeq accession. Refuses (exit 1) when a file or a chromosome row is
+missing, or a chromosome has rows under both names.
 
 Usage: python -I tier.py WORKDIR STATUS.tsv > TIERS.tsv
   WORKDIR/inputs/<acc>/<acc>.assembly_report.txt and WORKDIR/satellome/<acc>/ as written by satellome_all.sh;
@@ -59,14 +61,19 @@ for acc in accs:
                 and r["Assigned-Molecule-Location/Type"] not in ORGANELLE]
     with open(gaps_beds[0]) as fh:
         gaps = [ln.split("\t")[0] for ln in fh if ln.strip() and not ln.startswith("#")]
-    chrom_ids = {r["GenBank-Accn"] for r in chroms}
+    # the catalogue names a chromosome by its GenBank or, when the sequence came from the RefSeq copy, its RefSeq
+    # accession (as the caller accepts)
+    names = {c["GenBank-Accn"]: [n for n in (c["GenBank-Accn"], c["RefSeq-Accn"]) if n and n != "na"] for c in chroms}
+    chrom_ids = {n for ns in names.values() for n in ns}
     tel = {r["chr"]: r for r in table(tel_path)}
     both = one = none = 0
     for c in chroms:
-        t = tel.get(c["GenBank-Accn"])
-        if t is None:
-            errors.append(f"{acc}: chromosome {c['GenBank-Accn']} has no telomere row")
+        rows = [tel[n] for n in names[c["GenBank-Accn"]] if n in tel]
+        if len(rows) != 1:
+            errors.append(f"{acc}: chromosome {c['GenBank-Accn']} has "
+                          + ("no telomere row" if not rows else "a telomere row under both its GenBank and RefSeq names"))
             continue
+        t = rows[0]
         n = (t["left_status"] == "PRESENT") + (t["right_status"] == "PRESENT")
         both, one, none = both + (n == 2), one + (n == 1), none + (n == 0)
     if not chroms:
