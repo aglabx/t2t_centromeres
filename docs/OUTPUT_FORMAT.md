@@ -102,7 +102,8 @@ k × base period, not by sequence), `fastan_period`, `mono_period`, `hor_period`
 
 ## Panel tables
 
-- `STATUS.tsv` — one row per assembly: directory, catalogue path relative to the work directory, `called` /
+- `STATUS.tsv` — one row per assembly: directory (`<tier>/<Organism>__<assembly>__<accession>`, relative to
+  `annotations/`), catalogue path relative to the work directory, `called` /
   `refused` / `pending`, the caller's one-line summary.
 - `TIERS.tsv` — completeness of every assembly from its sequence and NCBI assembly report, never from its name
   or NCBI assembly level (`src/t2t_centromeres/tier.py`): `chromosomes` (assembled-molecule rows of type
@@ -117,7 +118,11 @@ k × base period, not by sequence), `fastan_period`, `mono_period`, `hor_period`
   | `gap_free` | no gap, no unplaced sequence, telomeric repeat missing at one or more chromosome ends |
   | `gapped` | at least one gap or one unplaced / unlocalized sequence |
 
-- `SUMMARY.tsv` — one row per assembly × published set: the call (chromosomes, called, family period, near
-  ties), the relation counts and verdicts against the set, and the completeness columns of `TIERS.tsv`
+  Each assembly directory sits in the folder of its tier, `annotations/<completeness_tier>/`
+  (`src/t2t_centromeres/tier_folders.py`, run by `workflow/call_all.sh` after `tier.py`).
+
+- `SUMMARY.tsv` — one row per assembly × published set: `directory` as in `STATUS.tsv`, the call (chromosomes,
+  called, family period, near ties), the relation counts and verdicts against the set, and the completeness
+  columns of `TIERS.tsv`
   (`completeness_tier`, `gaps`, `unplaced_sequences`, `chromosomes_both_telomeres`).
 - `ALL_centromeres.tsv`, `ALL_official_overlap.tsv` — the per-assembly tables concatenated.

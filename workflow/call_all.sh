@@ -6,7 +6,8 @@
 #   call_all.sh WORKDIR OFFICIAL_DIR OUTDIR [THREADS] [ACC,ACC,...]
 #     WORKDIR       from satellome_all.sh (inputs/<acc>/ + satellome/<acc>/)
 #     OFFICIAL_DIR  from fetch_official.sh (raw/ + norm/)
-#     OUTDIR        OUTDIR/<Organism>__<assembly>__<acc>/ annotations (workflow/asm_dir.sh)
+#     OUTDIR        OUTDIR/<tier>/<Organism>__<assembly>__<acc>/ annotations (workflow/asm_dir.sh; tier =
+#                   real_t2t | gap_free | gapped from tier.py, the folder is moved there after the calls)
 #                   + OUTDIR/{SUMMARY,TIERS,ALL_*,STATUS}.tsv + MANIFEST.md5
 #   CALLER_FLAGS="--merge-gap 250000" call_all.sh ...   extra call_centromeric_arrays.py flags (sensitivity
 #                 runs); recorded in OUTDIR/CALLER_FLAGS.txt, so such a run never passes for the release
@@ -56,6 +57,8 @@ done
 { head -1 "$(ls "$OUT"/*__GCA_*/official_overlap.tsv | head -1)"; for f in "$OUT"/*__GCA_*/official_overlap.tsv; do tail -n +2 "$f"; done; } > "$OUT/ALL_official_overlap.tsv"
 # completeness tier from sequence (gaps, unplaced sequences, telomeres): src/t2t_centromeres/tier.py
 python -I "$SRC/tier.py" "$W" "$ST" > "$OUT/TIERS.tsv" || { echo "EXIT $(date -Is) tier.py refused (TIERS.tsv)"; exit 1; }
+# one folder per tier: OUTDIR/<tier>/<dir>/; STATUS.tsv (and so SUMMARY.tsv) name the tiered path
+python -I "$SRC/tier_folders.py" "$OUT" || { echo "EXIT $(date -Is) tier_folders.py refused"; exit 1; }
 python -I "$SRC/summarize.py" "$OUT" "$AS" > "$OUT/SUMMARY.tsv"
 (cd "$OUT" && md5sum ALL_centromeres.tsv ALL_official_overlap.tsv SUMMARY.tsv TIERS.tsv > MANIFEST.md5)
 called=$(awk -F'\t' 'NR>1 && $5=="called"' "$ST" | wc -l)

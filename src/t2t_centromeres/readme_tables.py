@@ -25,16 +25,24 @@ print("|---|---:|")
 for t, n in counts.items():
     print(f"| {TIER[t]} | {n} |")
 print()
-print("| organism | assembly | accession | completeness | gaps | both telomeres | chromosomes with a call | "
-      "centromeric family (monomer bp) | karyotype |")
-print("|---|---|---|---|---:|---:|---:|---|---|")
-for acc, r in sorted(per.items(), key=lambda x: (x[1]["organism"], x[1]["asm_name"])):
-    cof = " + co-family" if "+" in fam.get(acc, "") else ""
-    d = f"annotations/{r['directory']}"
-    print(f"| *{r['organism']}* | [{r['asm_name']}]({d}) | {acc} | {TIER[r['completeness_tier']]} | {r['gaps']} | "
-          f"{r['chromosomes_both_telomeres']} / {r['chromosomes']} | {r['called']} / {r['chromosomes']} | "
-          f"{r['family_base_period']}{cof} | [svg]({d}/karyotype.svg) |")
-print()
+# one table per tier, in the order of the annotations/<tier>/ folders
+for t in TIER:
+    print(f"**{TIER[t]}** ({counts[t]} assemblies, `annotations/{t}/`)")
+    print()
+    print("| organism | assembly | accession | gaps | both telomeres | chromosomes with a call | "
+          "centromeric family (monomer bp) | karyotype |")
+    print("|---|---|---|---:|---:|---:|---|---|")
+    for acc, r in sorted(per.items(), key=lambda x: (x[1]["organism"], x[1]["asm_name"])):
+        if r["completeness_tier"] != t:
+            continue
+        if not r["directory"].startswith(f"{t}/"):
+            sys.exit(f"readme_tables: {acc} is tier {t} but its directory is {r['directory']!r}")
+        cof = " + co-family" if "+" in fam.get(acc, "") else ""
+        d = f"annotations/{r['directory']}"
+        print(f"| *{r['organism']}* | [{r['asm_name']}]({d}) | {acc} | {r['gaps']} | "
+              f"{r['chromosomes_both_telomeres']} / {r['chromosomes']} | {r['called']} / {r['chromosomes']} | "
+              f"{r['family_base_period']}{cof} | [svg]({d}/karyotype.svg) |")
+    print()
 print("| assembly | published set | chromosomes compared | agrees | contested: no overlap | contested: no call |")
 print("|---|---|---:|---:|---:|---:|")
 for r in rows:
